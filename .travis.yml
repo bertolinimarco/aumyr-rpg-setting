@@ -23,7 +23,7 @@ deploy:
   skip-cleanup: true
   local_dir: docs/.vuepress/dist
   github-token: $a3e5c3fe331496f77aeb81dec85ee6737e14c44e # Set in the settings page of your repository, as a secure variable
-  repo: <username || or org name>/<publication repo name>
+  repo: bertolinimarco.github.io/aumyr-rpg-setting
   keep-history: true
   target-branch: master
   on:
