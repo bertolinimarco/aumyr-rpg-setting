@@ -21,7 +21,7 @@ module.exports = {
       "/": {
         selectText: "Lingua",
         label: "Italiano",
-        lastUpdated: "Ultimo aggiornamento",
+        lastUpdated: "Ultimo aggiornamento d",
         editLinkText: "Modifica pagina su GitHub",
         // serviceWorker: {
         //   updatePopup: {
