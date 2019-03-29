@@ -1,5 +1,4 @@
 module.exports = {
-  base: "/aumyr-rpg-setting/",
   head: [["link", {rel: "icon", href: "/favicon.svg"}]],
   locales: {
     "/": {
@@ -21,7 +20,7 @@ module.exports = {
       "/": {
         selectText: "Lingua",
         label: "Italiano",
-        lastUpdated: "Ultimo aggiornamento d",
+        lastUpdated: "Ultimo aggiornamento",
         editLinkText: "Modifica pagina su GitHub",
         // serviceWorker: {
         //   updatePopup: {
