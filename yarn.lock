@@ -849,6 +849,13 @@
   dependencies:
     lodash.throttle "^4.1.1"
 
+"@vuepress/plugin-back-to-top@^1.0.0-alpha.46":
+  version "1.0.0-alpha.46"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.0.0-alpha.46.tgz#1c68d9f9216e9cb5f9ab5c9499ef82fec6fad5ba"
+  integrity sha512-xCCC6EuVhKc7uejEGPHzzTRsEnVm/BvhHHevE1EfwVnCmKqkOY+xGpcb3rOX+4HovT03EOAvZEcqVtntqNgL2g==
+  dependencies:
+    lodash.debounce "^4.0.8"
+
 "@vuepress/plugin-container@^1.0.0-alpha.44":
   version "1.0.0-alpha.44"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-container/-/plugin-container-1.0.0-alpha.44.tgz#57d067633804079d6d624d58a5def75859676c4a"
@@ -862,6 +869,13 @@
   integrity sha512-1bz5u0DdhOv2UCNONhW+KBW60qUf43cD8PEBLzc1GHJpucKNIahW/dqyaQMYRp9wVjqFEeTISOl6t+QMgtvyqQ==
   dependencies:
     cross-spawn "^6.0.5"
+
+"@vuepress/plugin-medium-zoom@^1.0.0-alpha.46":
+  version "1.0.0-alpha.46"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.0.0-alpha.46.tgz#ada9df980b9f32ea0e50c13ca9d0d0a39add72d2"
+  integrity sha512-/PWBzWAnZqPCLj6QLR0dERbJForuqXcDVfv9MVDiLUlXwgtLARCX+3RaYpQYMVMb9xyoXiCpNV2YEzWsUW8Iiw==
+  dependencies:
+    medium-zoom "^0.4.0"
 
 "@vuepress/plugin-nprogress@^1.0.0-alpha.44":
   version "1.0.0-alpha.44"
@@ -4114,6 +4128,11 @@ lodash.clonedeep@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
   integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
 
+lodash.debounce@^4.0.8:
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
+  integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
+
 lodash.kebabcase@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/lodash.kebabcase/-/lodash.kebabcase-4.1.1.tgz#8489b1cb0d29ff88195cceca448ff6d6cc295c36"
@@ -4290,6 +4309,11 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
+
+medium-zoom@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/medium-zoom/-/medium-zoom-0.4.0.tgz#8e13c9b754903c0c903220611af0d3cd373a4222"
+  integrity sha512-0z7yMfd6I1BTCAa8QaR4cp5AqDkQD571GzhHIbbfefKEssGLSvs+4Xai/itOAncm4FBlF5gUoMQ22yW9/f8Sig==
 
 mem@^4.0.0:
   version "4.2.0"

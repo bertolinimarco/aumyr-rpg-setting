@@ -9,15 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bertolinimarco/aumyr.git"
+    "url": "git+https://github.com/bertolinimarco/aumyr-rpg-setting.git"
   },
   "author": "Marco Bertolini",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bertolinimarco/aumyr/issues"
+    "url": "https://github.com/bertolinimarco/aumyr-rpg-setting/issues"
   },
-  "homepage": "https://github.com/bertolinimarco/aumyr#readme",
+  "homepage": "https://github.com/bertolinimarco/aumyr-rpg-setting#readme",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.46",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.46",
     "vuepress": "^1.0.0-alpha.44"
   }
 }

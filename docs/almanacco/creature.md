@@ -1,5 +1,0 @@
-# Creature
-
-## Kartaros
-
-lorem

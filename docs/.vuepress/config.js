@@ -1,4 +1,5 @@
 module.exports = {
+  cache: false,
   head: [["link", {rel: "icon", href: "/favicon.svg"}]],
   locales: {
     "/": {
@@ -30,20 +31,20 @@ module.exports = {
         // },
         nav: [
           {text: "Home", link: "/"},
-          {text: "Benvenuti", link: "/benvenuti/"},
-          {text: "Geografia", link: "/geografia/"},
-          {text: "Cronologia", link: "/cronologia/"},
-          {text: "Multiverso", link: "/multiverso/"},
-          {text: "Divinità", link: "/divinita/"},
-          {text: "Società", link: "/societa/"},
+          {text: "Benvenuti", link: "/welcome/"},
+          {text: "Geografia", link: "/geography/"},
+          {text: "Cronologia", link: "/chronology/"},
+          {text: "Multiverso", link: "/multiverse/"},
+          {text: "Divinità", link: "/dieties/"},
+          {text: "Società", link: "/society/"},
           {
             text: "Almanacco",
             items: [
-              {text: "Avventure", link: "/almanacco/avventure/"},
-              {text: "Creature", link: "/almanacco/creature/"},
-              {text: "Oggetti", link: "/almanacco/oggetti/"},
-              {text: "Personaggi", link: "/almanacco/personaggi/"},
-              {text: "Mappe", link: "/almanacco/mappe/"}
+              {text: "Avventure", link: "/almanac/adventures/"},
+              {text: "Creature", link: "/almanac/creatures/"},
+              {text: "Oggetti", link: "/almanac/items/"},
+              {text: "Personaggi", link: "/almanac/characters/"},
+              {text: "Mappe", link: "/almanac/maps/"}
             ]
           }
         ]
@@ -80,5 +81,8 @@ module.exports = {
         ]
       }
     }
-  }
+  },
+
+  // Plugins
+  plugins: [["@vuepress/medium-zoom"], ["@vuepress/back-to-top"]]
 };

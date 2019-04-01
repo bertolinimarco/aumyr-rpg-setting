@@ -1,3 +1,7 @@
+---
+lang: it-IT
+---
+
 # Benvenuti su Aumyr
 
 Aumyr è un’ambientazione fantasy per giochi di ruolo, nata con l’obiettivo di essere libera, adattabile e pronta per essere giocata. Può ospitare numerosi tipi di sistemi (d20™, Dungeons & Dragons®, Pathfinder®, Labyrinth Lord, ecc…), ammesso che essi contengano magia e maghi, elfi, draghi, nani, guerrieri e così via. Per una campagna ambientata su Aumyr, si presuppone l’utilizzo dei manuali di base del vostro gioco di ruolo preferito. Non viene fornito nessun valore tipico di alcuni sistemi come Classe Armatura, Abilità, Tiri Salvezza, CD o altre caratteristiche, in modo che sia interamente affidata al Master la possibilità di condurre la sessione in modo autonomo.
@@ -88,7 +92,9 @@ E’ passato diverso tempo dal quel pomeriggio di settembre 1999, quando alcuni 
 
 ### Testi
 
-Tutti i testi e le mappe presenti in questo manuale vengono rilasciati secondo Licenza Licenza Creative Commons Attribuzione – Condividi allo stesso modo 3.0 Unported. Per informazioni sulla licenza, consultare il sito www.creativecommons.org. I caratteri dell'alfabeto Askarian sono basati su Dscript (www.dscript.ca).
+- Tutti i testi e le mappe presenti in questo manuale vengono rilasciati secondo Licenza Licenza Creative Commons Attribuzione – Condividi allo stesso modo 3.0 Unported. Per informazioni sulla licenza, consultare il sito [www.creativecommons.org](https://www.creativecommons.org).
+
+- I caratteri dell'alfabeto Askarian sono basati su [DScript](http://www.dscript.ca).
 
 ### Grafica
 
