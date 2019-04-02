@@ -18,7 +18,7 @@ Aumyr is a free fantasy setting for roleplaying games.
 
 ### DEV Mode
 
-1. `Clone the repo
+1. `Clone` the repo
 
 2. Install dependecies
 
