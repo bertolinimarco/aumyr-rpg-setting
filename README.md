@@ -1,4 +1,4 @@
-# 🔮Aumyr - Fantasy RPG Setting
+# 🔮 Aumyr - Fantasy RPG Setting
 
 Aumyr is a free fantasy setting for roleplaying games.
 
