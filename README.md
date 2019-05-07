@@ -1,4 +1,4 @@
-# 🔮 Aumyr - Fantasy RPG Setting
+# 📜 Aumyr - Fantasy RPG Setting
 
 Aumyr is a free fantasy setting for roleplaying games.
 
@@ -16,7 +16,11 @@ Aumyr is a free fantasy setting for roleplaying games.
 
 [Open a Issue](https://github.com/bertolinimarco/aumyr-rpg-setting/issues/new)
 
-### DEV Mode
+### GitHub PR
+
+`Edit on GitHub` link in every page
+
+### DEV
 
 1. `Clone` the repo
 
@@ -29,6 +33,8 @@ Aumyr is a free fantasy setting for roleplaying games.
    ```
 
 3. Create a PR
+
+---
 
 ## Copyrights
 
