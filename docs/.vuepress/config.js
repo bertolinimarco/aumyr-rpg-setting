@@ -1,6 +1,6 @@
 module.exports = {
   cache: false,
-  head: [["link", {rel: "icon", href: "/favicon.svg"}]],
+  head: [["link", {rel: "icon", href: "./assets/favicon.svg"}]],
   locales: {
     "/": {
       lang: "it-IT",
@@ -16,9 +16,13 @@ module.exports = {
 
   // Theme Config
   themeConfig: {
+    editLinks: true,
+    repo: "bertolinimarco/aumyr-rpg-setting",
+    docsDir: "docs",
     sidebar: "auto",
     locales: {
       "/": {
+        repoLabel: "Contribuisci",
         selectText: "Lingua",
         label: "Italiano",
         lastUpdated: "Ultimo aggiornamento",
@@ -50,6 +54,7 @@ module.exports = {
         ]
       },
       "/en/": {
+        repoLabel: "Contribute",
         selectText: "Language",
         label: "English",
         lastUpdated: "Last Updated",
@@ -84,5 +89,16 @@ module.exports = {
   },
 
   // Plugins
-  plugins: [["@vuepress/medium-zoom"], ["@vuepress/back-to-top"]]
+  plugins: [
+    ["@vuepress/medium-zoom"],
+    ["@vuepress/back-to-top"],
+    [
+      "container",
+      {
+        type: "image",
+        before: info => `<div class="image"><p class="title">${info}</p>`,
+        after: "</div>"
+      }
+    ]
+  ]
 };
