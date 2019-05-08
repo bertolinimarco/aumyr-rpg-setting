@@ -1,8 +1,6 @@
 # Aumar
 
-:::image
 ![Image](./banner-aumar.png)
-:::
 
 Aumar è un territorio punteggiato da flora e fauna lussureggiante, campi coltivati e verdi colline. E’ una grande regione che comprende vaste pianure verdeggianti, pascoli, fiumi e grandi laghi. Un luogo magico di pace e tranquillità. E’ possibile percorrere strade e sentieri fino al cuore delle sue foreste e la gente è molto tollerante nei confronti degli stranieri che visitano i suoi paesaggi. Anche se il luogo rappresenta in un certo senso “il Grande Giardino Verde di Aumyr”, sono molti i pericoli che si annidano tra i suoi campi sterminati.
 

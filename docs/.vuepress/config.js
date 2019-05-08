@@ -61,11 +61,10 @@ module.exports = {
           {
             text: "Almanacco",
             items: [
-              {text: "Avventure", link: "/almanac/adventures/"},
+              {text: "Idee e Trame", link: "/almanac/adventures/"},
               {text: "Creature", link: "/almanac/creatures/"},
               {text: "Oggetti", link: "/almanac/items/"},
               {text: "Personaggi", link: "/almanac/characters/"},
-              {text: "Backgrounds", link: "/almanac/backgrounds/"},
               {text: "Mappe", link: "/almanac/maps/"}
             ]
           }
@@ -93,11 +92,10 @@ module.exports = {
           {
             text: "Almanac",
             items: [
-              {text: "Adventures", link: "/almanac/adventures/"},
+              {text: "Ideas and Plots", link: "/almanac/adventures/"},
               {text: "Creatures", link: "/almanac/creatures/"},
               {text: "Items", link: "/almanac/items/"},
               {text: "NPCs", link: "/almanac/npcs/"},
-              {text: "Backgrounds", link: "/almanac/backgrounds/"},
               {text: "Maps", link: "/almanac/maps/"}
             ]
           }
