@@ -5,7 +5,7 @@ heroImage: /logo-aw.svg
 heroText: Avventura, Magia, Mistero
 tagline: Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure.
 actionText: Scopri →
-actionLink: /welcome/
+actionLink: /welcome.md
 features:
   - title: Semplice
     details: Niente descrizioni troppo dettagliate. Aumyr fornisce principalmente spunti per luoghi, personaggi e possibili avventure, adatti a stimolare la creatività del Master e dei giocatori.
