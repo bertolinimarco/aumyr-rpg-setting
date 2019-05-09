@@ -6,7 +6,17 @@ Aumyr is a free fantasy setting for roleplaying games.
 
 ---
 
+[![Latest Commit](https://img.shields.io/github/last-commit/bertolinimarco/aumyr-rpg-setting/master.svg)](https://img.shields.io/github/last-commit/bertolinimarco/aumyr-rpg-setting/master.svg)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d7e3b541-4418-4427-8a72-4bbad04c9f32/deploy-status)](https://app.netlify.com/sites/aumyr-rpg-setting/deploys)
+
+---
+
+## Discord Server
+
+Want to chat? Join our Discord Server
+
+[![Discord Server](https://img.shields.io/discord/575987423893258250.svg)](https://img.shields.io/discord/575987423893258250.svg)
 
 ---
 

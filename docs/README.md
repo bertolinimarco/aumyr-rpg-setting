@@ -16,6 +16,6 @@ features:
 footer: CC 4.0 • Marco Bertolini - info@aumyr.world
 ---
 
-<p align="center">
+<p align="center" style="margin:0">
 Unisciti al nostro <a href="https://discord.gg/HP9bA4Z" target="_blank" rel="noopener"> Discord Server</a>
 </p>
