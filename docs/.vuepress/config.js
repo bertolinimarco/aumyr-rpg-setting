@@ -1,3 +1,12 @@
+// Autometa Init
+const autometa_options = {
+  site: {
+    name: "Aumyr",
+    twitter: "aumyrworld"
+  },
+  canonical_base: "https://aumyr-rpg-setting.netlify.com"
+};
+
 module.exports = {
   cache: false,
   head: [
@@ -45,12 +54,6 @@ module.exports = {
         label: "Italiano",
         lastUpdated: "Ultimo aggiornamento",
         editLinkText: "Modifica pagina su GitHub",
-        // serviceWorker: {
-        //   updatePopup: {
-        //     message: "Nuovo contenuto disponibile",
-        //     buttonText: "Aggiorna"
-        //   }
-        // },
         nav: [
           {text: "Home", link: "/"},
           {text: "Geografia", link: "/geography/"},
@@ -76,12 +79,6 @@ module.exports = {
         label: "English",
         lastUpdated: "Last Updated",
         editLinkText: "Edit this page on GitHub",
-        // serviceWorker: {
-        //   updatePopup: {
-        //     message: "New content is available.",
-        //     buttonText: "Refresh"
-        //   }
-        // },
         nav: [
           {text: "Home", link: "/en/"},
           {text: "Geography", link: "/en/geography/"},
@@ -106,24 +103,10 @@ module.exports = {
 
   // Plugins
   plugins: [
+    ["autometa", autometa_options],
     ["@vuepress/medium-zoom"],
     ["@vuepress/back-to-top"],
     [
-      "@vuepress/pwa",
-      {
-        serviceWorker: true,
-        updatePopup: {
-          "/": {
-            message: "Nuovi contenuti disponibili",
-            buttonText: "Aggiorna"
-          },
-          "/en/": {
-            message: "New content is available",
-            buttonText: "Refresh"
-          }
-        }
-      }
-    ][
       ("container",
       {
         type: "image",

@@ -1,5 +1,7 @@
 # Backgrounds
 
+Ogni personaggio ha una storia, un passato che lo ha reso in qualche modo ciò che è oggi. Ognuno ha la possibilità di fare la differenza per sé, per gli altri o per il mondo. Che tu scelga di essere una Luce di Melian, un Mietitore o un semplice esploratore, sono molte le vie che puoi intraprendere e i backgrounds che puoi utilizzare per entrare appieno nella vita e nelle vicende di Aumyr. Ecco alcuni esempi di backgrounds legati alle Organizzazioni più conosciute.
+
 ## Adepto della Confraternita
 
 Un incantatore ha solitamente molte opzioni per avanzare nel campo delle arti arcane. Può svolgere una vita indipendente o unirsi a qualche avventuriero. Altri decidono di unirsi alla Confraternita, per usufruire di alcuni vantaggi. Un Adepto della Confraternita é un personaggio spesso calcolatore e intraprendente. Scalare i ranghi della più antica organizzazione mondiale é un’impresa che pochi riescono a portare a compimento definitivo. Molti di essi decidono di ritagliarsi ruoli minori o di comodità, approfittando della copertura finanziaria e sociale offerta dalla Confraternita.

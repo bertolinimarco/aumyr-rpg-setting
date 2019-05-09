@@ -4,15 +4,18 @@
 
 ### Aumyr
 
-- scarica in HD
-- scarica q1
-- scarica q2
-...
+::: warning
+Questa voce non è ancora completa
+:::
 
 ## Capitali
 
-- lorem
+::: warning
+Questa voce non è ancora completa
+:::
 
 ## Luoghi
 
-- lorem
+::: warning
+Questa voce non è ancora completa
+:::

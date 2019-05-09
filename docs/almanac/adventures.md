@@ -1,5 +1,7 @@
 # Idee e Trame
 
+Quasi tutti i paragrafi di questo libro contengono, uniti alle descrizioni, spunti per diverse avventure. Sia che si voglia esplorare un dungeon per qualche ora, sia che si intenda creare un’intera campagna, ecco alcuni spunti per iniziare ad addentrarsi nelle storie tipiche di Aumyr.
+
 ## Campagne
 
 Una campagna è un’insieme di avventure, che porta spesso gli eroi a fare la differenza nella storia del mondo. Il gruppo di eroi ha raggiunto livelli di potere mai visti per esseri mortali. Le loro azioni hanno plasmato e influenzato gli eventi del presente. E se fosse solo l’inizio di una serie di eventi ancora più memorabili? In questa sezione trovi alcuni spunti per creare le tue Campagne epiche su Aumyr. Scopri fino a che punto i personaggi riusciranno a realizzare il proprio destino.

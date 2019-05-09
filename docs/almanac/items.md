@@ -2,6 +2,8 @@
 
 ## Artefatti
 
+Sono oggetti unici, perduti o conservati come immensi tesori in qualche luogo remoto. Possono essere utilizzati dal Master come oggetti chiave di campagne o avventure epiche. Dato il loro grande potere, potrebbero svolgere un ruolo fondamentale nella storia e negli eventi del mondo. La loro ubicazione è sconosciuta e molti avventurieri dedicano tutta la vita alla ricerca di un grande artefatto perduto.
+
 ### Asta Askari
 
 Verga/Bastone, Indistruttibile. Si tratta di una piccola asta in lega metallica intarsiata da motivi sconosciuti. Il bastone possiede due forme, una chiusa e l’altra aperta. In base alla sua grandezza assume funzioni diverse. Quando viene chiusa è lunga quaranta centimetri e può essere utilizzata in modo simile ad una torcia (si illumina ad una estremità). Aperta, diventa un’asta che può essere allungata fino a due metri, risultando utile in particolar modo quando si tratta di scalare una parete di roccia o superare altri ostacoli.

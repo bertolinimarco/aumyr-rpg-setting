@@ -69,11 +69,15 @@ Il Mare del Tramonto, è una vasta distesa infinita di acqua cristallina, che se
 
 #### Mare della Notte
 
-lorem
+::: warning
+Questa voce non è ancora completa
+:::
 
 #### Mare delle Anime
 
-lorem
+::: warning
+Questa voce non è ancora completa
+:::
 
 #### Mare Ghiacciato
 
@@ -81,11 +85,15 @@ Il confine nord di Aumyr viene segnato dal Mare Ghiacciato e più in là si este
 
 ### Sottosuolo
 
-lorem
+::: warning
+Questa voce non è ancora completa
+:::
 
 ### Exus
 
-lorem
+::: warning
+Questa voce non è ancora completa
+:::
 
 ## Rovine Antiche
 
