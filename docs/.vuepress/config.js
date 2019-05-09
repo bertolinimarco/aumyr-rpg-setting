@@ -38,6 +38,7 @@ module.exports = {
 
   // Theme Config
   themeConfig: {
+    logo: "/logo-aumyr-world.svg",
     editLinks: true,
     repo: "bertolinimarco/aumyr-rpg-setting",
     docsDir: "docs",

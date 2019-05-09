@@ -42,12 +42,27 @@ aside.sidebar .sidebar-heading span {
 
 // Buttons
 .theme-container .home .hero .action-button {
-	padding: 8px 30px;
+	padding: 8px 40px;
+	box-shadow: 0 3px 4px rgba(0, 0, 0, 0.4);
+	transition: 0.3s all ease-in-out;
+}
+
+.theme-container .home .hero .action-button:active {
+	box-shadow: none;
+	transition: 0.3s all ease-in-out;
 }
 
 // Homepage
 .is--homepage main.home .feature {
 	padding: 0;
+}
+
+.is--homepage main.home .footer {
+	border: 0;
+}
+
+.is--homepage main.home .hero img {
+	max-height: 130px;
 }
 
 .is--homepage {
@@ -85,7 +100,7 @@ main.page {
 
 .content:not(.custom) {
 	margin: 2rem auto;
-	background: #fff;
+	background-color: #fff;
 	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
 
 	h2 {
@@ -148,6 +163,14 @@ main.page {
 
 // Responsive
 @media (max-width: 720px) {
+	header.navbar .site-name.can-hide {
+		display: inline-block;
+	}
+
+	header.navbar .sidebar-button svg.icon path {
+		fill: #775200;
+	}
+
 	aside.sidebar {
 		background: #fff;
 		border-right: 1px solid #eaecef;
