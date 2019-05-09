@@ -1,4 +1,5 @@
 // @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
+// @import url('https://fonts.googleapis.com/css?family=Asul');
 body {
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
@@ -45,6 +46,10 @@ aside.sidebar .sidebar-heading span {
 }
 
 // Homepage
+.is--homepage main.home .feature {
+	padding: 0;
+}
+
 .is--homepage {
 	background-image: url('/bg-home-white.jpg');
 	background-size: cover;
@@ -89,6 +94,11 @@ main.page {
 	}
 }
 
+// Typography
+.content:not(.custom) p {
+	line-height: 1.5em;
+}
+
 .content:not(.custom) h1 {
 	color: #775200;
 }
@@ -97,7 +107,7 @@ main.page {
 .content:not(.custom) h1 + p:first-letter {
 	text-transform: uppercase;
 	// font-family: 'Cinzel Decorative', cursive;
-	font-size: 60px;
+	font-size: 56px;
 	font-weight: bold;
 	vertical-align: bottom;
 	float: left;
@@ -147,5 +157,9 @@ main.page {
 		border: 0;
 		background: #fff;
 		box-shadow: none;
+	}
+
+	.content:not(.custom) p a {
+		white-space: nowrap;
 	}
 }
