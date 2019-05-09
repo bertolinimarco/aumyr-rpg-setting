@@ -15,3 +15,7 @@ features:
     details: Puoi usare Aumyr con il tuo sistema di gioco preferito, come d20™, Dungeons & Dragons®, Pathfinder®, Labyrinth Lord, FATE... i contenuti possono essere riportati in ogni sistema e in ogni mondo già esistente.
 footer: CC 4.0 • Marco Bertolini - info@aumyr.world
 ---
+
+<p align="center">
+Unisciti al nostro <a href="https://discord.gg/HP9bA4Z" target="_blank" rel="noopener"> Discord Server</a>
+</p>

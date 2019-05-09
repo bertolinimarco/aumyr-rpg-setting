@@ -22,15 +22,9 @@ Aumyr is a free fantasy setting for roleplaying games.
 
 ### DEV
 
-1. `Clone` the repo
+1. Clone the repo with `git clone https://github.com/bertolinimarco/aumyr-rpg-setting`
 
-2. Install dependecies
-
-   `git clone https://github.com/bertolinimarco/aumyr-rpg-setting`
-
-   ```sh
-   yarn install && yarn docs:dev
-   ```
+2. Install dependecies `sh yarn install && yarn docs:dev`
 
 3. Create a PR
 
