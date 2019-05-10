@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: is--homepage
-heroImage: ../logo-aumyr-world.svg
+heroImage: /assets/img/logo-aumyr-world.svg
 heroText: Adventure, Mystery, Magic
 tagline: Aumyr is a fantasy setting for role-playing games, ready for your adventures.
 actionText: Start here →

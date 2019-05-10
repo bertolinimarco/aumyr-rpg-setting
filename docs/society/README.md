@@ -2,43 +2,43 @@
 
 Aumyr è un continente popolato da centinaia di creature ed è sede di numerose razze e culture. Ogni civiltà ne succede ad un’altra, in un ciclo eterno che non sembra avere fine. Accade quasi sempre che la civiltà successiva scopra i resti di una razza passata e ne tragga potere e conoscenza. Lo stato attuale del mondo è il risultato di migliaia di anni di storie ed eventi.
 
-## Popolazioni
-
-### Nativi
+## Nativi
 
 I Nativi sono una razza vagamente simili a umani dai tratti olivastri e selvaggi, con la sola differenza di un cranio leggermente allungato. La loro cultura e la loro storia è ciò che ha maggiormente influenzato il pianeta dopo la scomparsa degli Askari e fino all’Arrivo dei Cinque. Si pensa che possedessero insediamenti in tutto il continente, prima del loro ritiro sull’isola-regione di Inkari, a seguito della Guerra dei Popoli. Da allora l’intera isola è diventata una sorta di terreno sacro dove poter tramandare la loro antica cultura definita “Tradizione”, un complesso amalgama di pergamene, scritti, tavole, profezie e istituzioni.
 
-#### Personalità
+### Personalità
 
 La metà di essi teme le leggende degli antichi Askari per via delle leggende sul Marchio, mentre l’altra metà la considera soltanto un’epoca passata e attribuiscono alla maledizione origini diverse. Sin dall’Arrivo dei Cinque su Aumyr, i Nativi sono considerati dalla maggior parte della popolazione una tribù dispersa: nelle terre continentali sono spesso riuniti in riserve o altri luoghi protetti, più o meno isolati dal resto della popolazione. A partire dall’anno 2372 EC la loro unione con altre razze non è considerata un tabù, almeno sul continente. I Nativi sono ottimi compagni, orgogliosi e fedeli. Ammirano l’intraprendenza, e in generale tutti coloro che riescono a vivere la propria vita secondo un codice morale personale.
 
-#### Avventurieri
+### Avventurieri
 
 I Nativi che decidono di lasciare Inkari e scelgono di diventare avventurieri hanno spesso come desiderio quello di conoscere il proprio destino, espiare qualche colpa o semplicemente scoprire nuove culture. La loro natura curiosa e brillante contribuisce a renderli adatti a ricoprire qualsiasi ruolo all’interno di un gruppo di avventurieri, anche se non è raro trovare Nativi solitari e introversi che preferiscono una vita lontano dai fasti e dalle comodità della civilizzazione.
 
-#### Un passato tormentato
+### Un passato tormentato
 
 Tutti i Nativi soffrono di una maledizione detta Marchio. Si tratta di una sorta di virus genetico che rende molto difficile la sopravvivenza dei nuovi nati. Per questi motivi la morte di uno di loro è vista come un momento di lutto condiviso e la prole è tenuta in grandissima considerazione. Qualche vecchio saggio la considera una punizione degli antichi Askari per aver profanato le loro tombe e questo ha dato origine a tutta una serie di storie e credenze che hanno profondamente segnato l’aspetto culturale e sociale della loro evoluzione dai tempi della Guerra dei Popoli fino ad oggi.
 
-#### Orgoglio e curiosità
+### Orgoglio e curiosità
 
 Il centro della loro struttura societaria è una struttura familiare di stampo dinastico detta Tribù. Ogni Tribù possiede una figura chiave detta Xoraki, una sorta di capofamiglia anziano, che sia maschio o femmina. I Nativi amano guadagnarsi da vivere, molti sono mercenari ma tra loro vi sono anche avventurieri. Di natura curiosa, quasi infantile. Coloro che praticano la magia ne fanno spesso un uno smodato, a volte superfluo (es.: incantesimi per spazzare i pavimenti, creare piccoli oggetti, versare dell’acqua, sollevare carichi pesanti, ecc…). Per via di questa passione, alcuni tra i più geniali (o fanatici) della magia arcana o divina, sono Nativi. Per quanto riguarda le abilità fisiche, coloro che si concentrano sulle arti della sopravvivenza e della battaglia solitamente diventano ottimi guerrieri, barbari o ranger.
 
-#### Passione e lealtà
+### Passione e lealtà
 
 L’indole di un Nativo è centrata sul rispetto dell’Indipendenza, della Libertà e della Tradizione. Questi tre cardini morali hanno portato i Nativi ad essere un popolo tendenzialmente tollerante, seppure molto geloso del proprio retaggio storico che essi chiamano Tradizione.
 
-#### Cultura
+### Cultura
 
 Per un Nativo il comportamento esteriore di un individuo è il risultato un’alternarsi di stati interiori opposti, complementari e inseparabili. Sono spiriti liberi, che odiano ogni forma di costrizione. Tendono ad osservare il mondo che li circonda come un infinita rete di cause e conseguenze. Il pesante fardello del Marchio e della loro misteriosa origine li ha influenzati profondamente, ed è molto raro che il loro carattere raggiunga estremi di benevolenza o malvagità.
 
-#### Religione
+### Religione
 
 La quasi totalità dei Nativi adora il Grande Padre e la Grande Madre. La teologia dei Nativi non riconosce i Cinque come divinità indipendenti, ma come “emanazioni” del Grande Padre e della Grande Madre, a loro volta “figli” di un’entità superiore.
 
-#### Il Marchio
+### Il Marchio
 
 Tutti i Nativi soffrono di una maledizione detta il Marchio. Si tratta di una sorta di virus genetico che rende molto difficile la sopravvivenza dei nuovi nati. Per questi motivi la morte di uno di loro è vista come un momento di lutto condiviso e la prole è tenuta in grandissima considerazione. Qualche vecchio saggio la considera una punizione degli antichi Askari per aver profanato le loro tombe e questo ha dato origine a tutta una serie di storie e credenze che hanno profondamente segnato l’aspetto culturale e sociale della loro evoluzione dai tempi delle Guerre dei Popoli fino ad oggi.
+
+### Nomi
 
 #### Nomi Maschili
 
@@ -48,17 +48,17 @@ Akka, Bairos, Ceter, Durath, Erreoth, Farthan, Gomeleon, Hamon, Iotar, Jenkar, K
 
 Ajani, Baika, Cheri, Dilem, Eorinte, Farga, Galeint, Hetera, Illuni, Jana, Keldari, Linie, Marda, Naranti, Opala, Qanthia, Reigal, Sartani, Tanui, Vella, Wyma, Yanis , Zara.
 
-#### Tribù
+### Tribù
 
 I nomi delle tribù sono formati da due volcaboli, solitamente le iniziali dei progenitori o dei più antichi antenati della tribù stessa, come Aum-Ner, Bal-Desha, Crex-Urdo, Dom-Makar, Etro-Zol, FarEor, Gal-Har, Kel-Marak, Mol-Ghar, Nel-Torak, Phar-Mar, Sana-Kel, Vos-Nazel, Yore-Vor, Zao-Zul.
 
-### Askari
+## Askari
 
 Secondo le leggende, gli Askari (_Antichi Askari_ o semplicemente _Antichi_) erano un potentissimo popolo di Ascesi, ovvero creature dalla sconfinata intelligenza e potere, con la capacità di manipolare la materia del creato. Quale è stato il destino degli Askari? Erano divinità, demoni, potenti stregoni, esseri provenienti da altre dimensioni, o erano semplicemente una grande razza tecnologicamente avanzata? Ad oggi queste domande rimangono senza risposta.
 
 Le prove tangibili della loro esistenza sono spesso sotto gli occhi di tutti: grandi costruzioni nascoste o sepolte in luoghi remoti, dungeon infestati di creature abominevoli e punteggiati da frammenti di una tecnologia metallurgica avanzata. Le leggende circa loro sparizione da Aumyr sono innumerevoli. L’antica civlizzazione degli Askari costituisce parte integrante del mito degli Ascesi, detto anche Teoria degli Antichi.
 
-#### La Conoscenza
+### La Conoscenza
 
 Il mondo é permeato di magia. Ma da cosa viene alimentata e qual é la sua origine? Questa e altre nozioni sono classificate come Conoscenza. Spesso le scoperte riguardano sopratutto l’antica razza degli Askari per cui per la maggior parte delle persone gli studiosi della Conoscenza sono esperti nelle culture pre-colonizzazione. In realtà il campo di sapere definito come Conoscenza riguarda anche altri aspetti, come la creazione di oggetti magici e di nuovi incantesimi, l’alchimia e in generale la percezione del Multiverso.
 

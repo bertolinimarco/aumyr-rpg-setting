@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: is--homepage
-heroImage: /logo-aumyr-world.svg
+heroImage: /assets/img/logo-aumyr-world.svg
 heroText: Avventura, Magia, Mistero
 tagline: Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tue avventure.
 actionText: Scopri →
