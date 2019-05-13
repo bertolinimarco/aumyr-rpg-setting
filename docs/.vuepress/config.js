@@ -6,6 +6,10 @@ const autometa_options = {
   },
   canonical_base: "https://aumyr-rpg-setting.netlify.com"
 };
+// RSS Init
+const feed_options = {
+  canonical_base: "https://aumyr-rpg-setting.netlify.com"
+};
 
 module.exports = {
   cache: false,
@@ -100,6 +104,7 @@ module.exports = {
   // Plugins
   plugins: [
     ["autometa", autometa_options],
+    ["feed", feed_options],
     ["@vuepress/medium-zoom"],
     ["@vuepress/back-to-top"],
     [

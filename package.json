@@ -22,6 +22,7 @@
     "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.0",
     "vuepress": "^1.0.0-alpha.44",
     "vuepress-plugin-autometa": "^0.1.10",
-    "vuepress-plugin-container": "^2.0.1"
+    "vuepress-plugin-container": "^2.0.1",
+    "vuepress-plugin-feed": "^0.1.6"
   }
 }
