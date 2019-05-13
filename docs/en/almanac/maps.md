@@ -1,11 +1,11 @@
-# Mappe
+# Maps
 
-## Mondo
+## World
 
-- [Scarica Mappa (Completa)](/images/aumyr-world-map.jpg)
-- [Scarica Mappa (Unlabeled)](/images/aumyr-world-map-unlabeled.jpg)
+- [Download Map (Complete)](/images/aumyr-world-map-eng.jpg)
+- [Download Map (Unlabeled)](/images/aumyr-world-map-unlabeled.jpg)
 
-## Capitali
+## Capitals
 
 - [Atanis](/images/map-atanis.jpg)
 - [Elerin](/images/map-elerin.jpg)
@@ -17,14 +17,14 @@
 - [Silversone](/images/map-silverstone.jpg)
 
 ::: warning
-Questa voce non è ancora completa
+This entry is not complete
 :::
 
-## Luoghi
+## Places
 
 - [Daxxos](/images/map-daxxos.jpg)
 - [Raven's Cove](/images/map-ravens-cove.jpg)
 
 ::: warning
-Questa voce non è ancora completa
+This entry is not complete
 :::

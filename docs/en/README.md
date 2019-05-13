@@ -8,11 +8,11 @@ actionText: Start here →
 actionLink: /en/welcome.md
 features:
   - title: Simple
-    details: No too detailed descriptions. Aumyr mainly provides cues for places, characters and possible adventures, suitable to stimulate the creativity of the Master and players.
+    details: Aumyr provides ideas for places, characters and possible adventures, suitable to stimulate the creativity of storytellers or players.
   - title: Free
-    details: All content is freely usable for your adventures. There are no references to specific systems, but it can be useful to some Masters who are looking for original material or ideas for their sessions.
+    details: There are no references to specific systems, so you can import or take anything directly from what you like, without limits.
   - title: Adaptable
-    details: You can use Aumyr with your favourite game system, such as d20™, Dungeons & Dragons®, Pathfinder®, Labyrinth Lord, FATE... the contents can be brought back into any existing system and world.
+    details: You can use Aumyr with d20™, D&D®, Pathfinder®, Labyrinth Lord, Dungeon World... or import ideas into your gaming world.
 footer: CC 4.0 • Marco Bertolini - info@aumyr.world
 ---
 

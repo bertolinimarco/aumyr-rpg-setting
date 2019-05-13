@@ -82,7 +82,7 @@ module.exports = {
         nav: [
           {text: "Home", link: "/en/"},
           {text: "Geography", link: "/en/geography/"},
-          {text: "Society", link: "/society/"},
+          {text: "Society", link: "/en/society/"},
           {text: "Chronology", link: "/en/chronology/"},
           {text: "Multiverse", link: "/en/multiverse/"},
           {text: "Dieties", link: "/en/dieties/"},
