@@ -39,7 +39,7 @@ aside.sidebar .sidebar-sub-header a.sidebar-link {
 }
 
 aside.sidebar a.sidebar-link.active {
-	background: #eee;
+	background: linear-gradient(to right, rgba(150, 104, 0, 0.2196078431372549) 0%, rgba(255, 255, 255, 0) 100%);
 }
 
 aside.sidebar .sidebar-group a.sidebar-link {
@@ -174,6 +174,10 @@ main.page {
 	background: #f1f1f1;
 }
 
+svg.go-to-top {
+	color: #775200 !important;
+}
+
 // Responsive
 
 // Tablet
@@ -193,9 +197,15 @@ main.page {
 		fill: #775200;
 	}
 
+	.theme-container.sidebar-open main {
+		filter: blur(2px);
+		transition: 0.2s all ease-in-out;
+	}
+
 	aside.sidebar {
 		background: #fff;
 		border-right: 1px solid #eaecef;
+		box-shadow: 0 0 3rem rgba(0, 0, 0, 0.2);
 	}
 
 	.is--homepage header.navbar {

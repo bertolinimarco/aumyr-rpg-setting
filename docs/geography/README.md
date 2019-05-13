@@ -41,6 +41,48 @@ Il saggio esploratore sa apprezzare la storia delle rovine che si stendono sotto
 
 - [Zeitan](./zeitan/)
 
+## Confini
+
+### Mari
+
+#### Mare del Tramonto
+
+Il Mare del Tramonto, è una vasta distesa infinita di acqua cristallina, che segna il confine est di Aumyr. O così riferiscono coloro che sono tornati su Aumyr dopo anni di viaggi per mare, senza mai incontrare un approdo. I pochi che sono sopravvissuti sono tornati con strane manie dovute probabilmente alla loro lunga permanenza solitaria nel mare. L’ultima spedizione verso i confini meridionali del mondo è avvenuta nel 2088 EC. Uno stormo di cento navi partì da Silverstone con la benedizione degli dei e con provviste per molti anni di navigazione. Ad oggi nessuno ha fatto ritorno.
+
+#### Mare della Notte
+
+::: warning
+Questa voce non è ancora completa
+:::
+
+#### Mare delle Anime
+
+::: warning
+Questa voce non è ancora completa
+:::
+
+#### Mare Ghiacciato
+
+Il confine nord di Aumyr viene segnato dal Mare Ghiacciato e più in là si estende un territorio inesplorato noto come Ghiacci Perenni. Nessun tipo di civilizzazione è stata segnalata da queste parti, a parte qualche sporadico villaggio di pescatori, spedizioni di esploratori o membri della Società di Dorne. Essi raccontano di come il territorio ghiacciato sia in realtà un altro piccolo continente, con una storia ancora da scoprire.
+
+### Ghiacci Perenni
+
+Quasi nessuno si avventura sulle sponde gelate oltre il Mare Ghiacciato. Terre sconfinate e percorse costantemente da tempeste di ghiaccio rendono impossibile creare civilizzazione avanzata. Di recente fondazione, un villaggio fondato dalla Società di Dorne come sede di esplorazioni future chiamato Norn funge da scalo tra queste terre inesplorate e il continente. In questo avamposto è possibile trovare un pasto caldo alla taverna o rifornirsi di provviste per raggiungere Angor, una fortezza in rovina intrappolata nella neve e nel ghiaccio e unico punto segnato sulle mappe. Alla Confraternita si pensa che le terre gelate racchiudano molti segreti e che il piccolo pezzo di terra esplorata a nord di Aumyr sia in realtà un intero continente staccatosi dall’entroterra dopo il Cataclisma.
+
+### Sottosuolo
+
+::: warning
+Questa voce non è ancora completa
+:::
+
+### Exus
+
+In una posizione imprecisata, molto al di là dei confini Ovest di Faeland e oltre il Mare delle Anime, si trova il complesso chiamato Isole di Exus. L’intera area è avvolta da un campo di forza magico costituito da una moltitudine di incantesimi mantenuti da un’amalgama di magia e tecnologia degli Askari. Exus funge da carcere e da struttura di contenimento per gli esseri senzienti più pericolosi del pianeta (e qualcuno sostiene anche di altri pianeti).
+
+Quasi tutti utilizzatori di arti arcane, gli “abitanti” di Exus sono tenuti in stasi in “celle” costituite da accessi a semipiani dispersi nell’infinito Vuoto Astrale. In pratica l’intero complesso funziona come un enorme archivio. La struttura carceraria, l’unico punto visibile in lontananza, è formata da una torre di basalto e ossidiana nera che svetta sull’isola più piccola, avvolta da quella che sembra nebbia perenne. In realtà si tratta di una serie di zone di magia morta semoventi che rendono gli incantesimi di divinazione, di teletrasporto e di altre forme di spostamento del tutto impossibili sia all’interno del complesso e sia sull’isola stessa. L’altra isola, leggermente più grande e situata a pochi chilometri, è priva di qualsiasi elemento identificativo. Non vi è flora né fauna e probabilmente costituisce la parte superiore di un qualche complesso sotterraneo. Nessuno conosce l’esatto aspetto o la natura di queste strutture. Fuggire da Exus è considerato impossibile.
+
+La gestione dell’intero complesso è sotto la responsabilità di un’organizzazione chiamata semplicemente “I Guardiani”. Nessuno sceglie di diventare un Guardiano. Forti di un accordo millenario con la Confraternita e con il benestare di tutte le regioni civilizzate, alcuni dei neonati abbandonati in templi o nelle città vengono scelti per essere iniziati come Guardiano e iniziare la propria vita sull’isola.
+
 ## Osservatori
 
 Antiche meraviglie archeologiche, gli Osservatori costituiscono uno dei misteri più grandi per gli studiosi degli Askari. Si compongono di grandi camere dal soffitto semicircolare, coperte di simboli arcani, incluse in saloni immensi pieni di macchinari per l’osservazione astronomica. Qualcuno sostiene che gli Askari arrivarono dalle stelle e che durante tutta la loro permanenza su Aumyr abbiano cercato disperatamente un modo per tornarvi.
@@ -84,54 +126,6 @@ Andare al “Nord” è un’espressione piuttosto comune per i viaggiatori che 
 ### Portale di Westorn
 
 Se la meta del proprio viaggio con il Portale è a Westorn, si va a “Sud” o nelle “Terre calde”. Il Portale non è nei pressi di nessuna città principale ma risulta uno snodo importante per le rotte commerciali, consentendo ai viaggiatori di raggiungere velocemente tanti ambienti diversi come l’adiacente Baia del Portale, la regione desertica di Thanaros a Sud le pianure del Faeland a Nord o la Foresta di Nayalis ad Est.
-
-## Confini
-
-Quasi nessuno si avventura sulle sponde gelate oltre il Mare Ghiacciato. Terre sconfinate e percorse costantemente da tempeste di ghiaccio rendono impossibile creare civilizzazione avanzata. Di recente fondazione, un villaggio fondato dalla Società di Dorne come sede di esplorazioni future chiamato Norn funge da scalo tra queste terre inesplorate e il continente. In questo avamposto è possibile trovare un pasto caldo alla taverna o rifornirsi di provviste per raggiungere Angor, una fortezza in rovina intrappolata nella neve e nel ghiaccio e unico punto segnato sulle mappe. Alla Confraternita si pensa che le terre gelate racchiudano molti segreti e che il piccolo pezzo di terra esplorata a nord di Aumyr sia in realtà un intero continente staccatosi dall’entroterra dopo il Cataclisma.
-
-### Mari
-
-#### Mare del Tramonto
-
-Il Mare del Tramonto, è una vasta distesa infinita di acqua cristallina, che segna il confine est di Aumyr. O così riferiscono coloro che sono tornati su Aumyr dopo anni di viaggi per mare, senza mai incontrare un approdo. I pochi che sono sopravvissuti sono tornati con strane manie dovute probabilmente alla loro lunga permanenza solitaria nel mare. L’ultima spedizione verso i confini meridionali del mondo è avvenuta nel 2088 EC. Uno stormo di cento navi partì da Silverstone con la benedizione degli dei e con provviste per molti anni di navigazione. Ad oggi nessuno ha fatto ritorno.
-
-#### Mare della Notte
-
-::: warning
-Questa voce non è ancora completa
-:::
-
-#### Mare delle Anime
-
-::: warning
-Questa voce non è ancora completa
-:::
-
-#### Mare Ghiacciato
-
-Il confine nord di Aumyr viene segnato dal Mare Ghiacciato e più in là si estende un territorio inesplorato noto come Ghiacci Perenni. Nessun tipo di civilizzazione è stata segnalata da queste parti, a parte qualche sporadico villaggio di pescatori, spedizioni di esploratori o membri della Società di Dorne. Essi raccontano di come il territorio ghiacciato sia in realtà un altro piccolo continente, con una storia ancora da scoprire.
-
-### Ghiacci Perenni
-
-Quasi nessuno si avventura sulle sponde gelate oltre il Mare Ghiacciato. Terre sconfinate e percorse costantemente da tempeste di ghiaccio rendono impossibile creare civilizzazione avanzata. Di recente fondazione, un villaggio fondato dalla Società di Dorne come sede di esplorazioni future chiamato Norn funge da scalo tra queste terre inesplorate e il continente. In questo avamposto è possibile trovare un pasto caldo alla taverna o rifornirsi di provviste per raggiungere Angor, una fortezza in rovina intrappolata nella neve e nel ghiaccio e unico punto segnato sulle mappe. Alla Confraternita si pensa che le terre gelate racchiudano molti segreti e che il piccolo pezzo di terra esplorata a nord di Aumyr sia in realtà un intero continente staccatosi dall’entroterra dopo il Cataclisma.
-
-### Sottosuolo
-
-::: warning
-Questa voce non è ancora completa
-:::
-
-### Exus
-
-In una posizione imprecisata, molto al di là dei confini Ovest di Faeland e oltre il Mare delle Anime, si trova il complesso chiamato Isole di Exus. L’intera area è avvolta da un campo di forza magico costituito da una moltitudine di incantesimi mantenuti da un’amalgama di magia e tecnologia degli Askari. Exus funge da carcere e da struttura di contenimento per gli esseri senzienti più pericolosi del pianeta (e qualcuno sostiene anche di altri pianeti).
-
-#### Struttura
-
-Quasi tutti utilizzatori di arti arcane, gli “abitanti” di Exus sono tenuti in stasi in “celle” costituite da accessi a semipiani dispersi nell’infinito Vuoto Astrale. In pratica l’intero complesso funziona come un enorme archivio. La struttura carceraria, l’unico punto visibile in lontananza, è formata da una torre di basalto e ossidiana nera che svetta sull’isola più piccola, avvolta da quella che sembra nebbia perenne. In realtà si tratta di una serie di zone di magia morta semoventi che rendono gli incantesimi di divinazione, di teletrasporto e di altre forme di spostamento del tutto impossibili sia all’interno del complesso e sia sull’isola stessa. L’altra isola, leggermente più grande e situata a pochi chilometri, è priva di qualsiasi elemento identificativo. Non vi è flora né fauna e probabilmente costituisce la parte superiore di un qualche complesso sotterraneo. Nessuno conosce l’esatto aspetto o la natura di queste strutture. Fuggire da Exus è considerato impossibile.
-
-#### I Guardiani
-
-La gestione dell’intero complesso è sotto la responsabilità di un’organizzazione chiamata semplicemente “I Guardiani”. Nessuno sceglie di diventare un Guardiano. Forti di un accordo millenario con la Confraternita e con il benestare di tutte le regioni civilizzate, alcuni dei neonati abbandonati in templi o nelle città vengono scelti per essere iniziati come Guardiano e iniziare la propria vita sull’isola.
 
 ## Rovine Antiche
 
