@@ -197,8 +197,16 @@ svg.go-to-top {
 		fill: #775200;
 	}
 
-	.theme-container.sidebar-open main {
-		filter: blur(2px);
+	.theme-container.sidebar-open main.page:before {
+		content: '';
+		background: rgba(0, 0, 0, 0.7);
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
 		transition: 0.2s all ease-in-out;
 	}
 
