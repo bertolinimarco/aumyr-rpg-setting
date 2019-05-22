@@ -71,183 +71,183 @@ Finding in Veloras the Chronicles of the Wizard, a series of notes of a sorcerer
 
 #### 26 CE
 
-##### Fondazione di Kaphnur
+##### Foundation of Kaphnur
 
-Costruzione del primo avamposto della città di Kaphnur da parte di una spedizione esplorativa della Confraternita. La sabbia qui prodotta risulta molto rara permettendo di creare un vetro magico molto resistente e semi invisibile.
+Construction of the first outpost of the city of Kaphnur by an exploratory expedition of the Brotherhood. The sand produced here is very rare, making it possible to create a very resistant and semi-invisible magic glass.
 
 #### 32 EC
 
 ##### Fivestar
 
-Normod fonda l’Accademia Grigia.
+Normod founds the Gray Academy.
 
 #### 41 EC
 
-##### La Valle Maledetta
+##### The Cursed Valley
 
-In questi anni, tutta la Valle dei Tre Fiumi, territorio vicino a Feldris, è di fatto una gigantesca palude, piena di streghe, negromanti, criminali, pazzi, reietti e solitari eremiti. I pochi che desiderano avventurarsi tra i suoi acquitrini devono fare i conti con misteriose creature, geyser mortali ed innumerevoli pericoli.
+In recent years, the entire Valley of the Three Rivers, near Feldris, is in fact a giant swamp, full of witches, necromancers, criminals, fools, outcasts and solitary hermits. The few who wish to venture into its marshes have to deal with mysterious creatures, deadly geysers and countless dangers.
 
 #### 62 EC
 
-##### Fondazione di Atanis
+##### Foundation of Atanis
 
-Atanis viene fondata da un’alleanza di proprietari terrieri, discendenti dei primi a stabilirsi nella zona di confluenza tra i tre fiumi.
+Atanis was founded by an alliance of landowners, descendants of the first to settle in the area of confluence of the Three Rivers.
 
 #### 64 EC
 
-##### La palude di Nordur
+##### The Nordur Marshes
 
-A questa data risalgono le prime testimonianze di un avamposto della Confraternita, che scopre in questa zona minerali e vegetali interessanti per la cura di alcune malattie.
+The first evidence of an outpost of the Brotherhood dates back to this date, when it discovered minerals and plants in this area that were of interest for the treatment of certain diseases.
 
 #### 75 EC
 
-##### La scoperta dei Nativi
+##### The discovery of the Natives
 
-Una spedizione di elfi, umani, nani e halfling approda nel villaggio di Jundarai. E’ solo questione di tempo prima che essi giungano a Khoralis e scoprano i nativi e la loro civiltà millenaria. Da allora la struttura della capitale è rimasta pressoché invariata, anche se oggi ospita molte razze diverse.
+An expedition of elves, humans, dwarves and halflings arrives in the village of Jundarai. It is only a matter of time before they arrive in Khoralis and discover the natives and their ancient civilization. Since then, the structure of the capital has remained almost unchanged, although today it is home to many different races.
 
 #### 91 EC
 
-##### Fondazione di Damodar
+##### Foundation of Damodar
 
-I primi abitanti fondano la città nei pressi di un luogo allora conosciuto come “La Prima Pietra”.
+The first inhabitants founded the city near a place then known as "The First Stone".
 
 #### 110 EC
 
-##### Disastro delle Isole dei Morti
+##### The Dead Islands Disaster
 
-Evento di portata mondiale che ha visto un'orda di non morti invadere il mondo di superficie. Durante questo anno nefasto, una grande massa di profughi, disperati e afflitti, si stabilisce in una zona che sarebbe poi diventata il centro della città di Silverstone. L'invasione ha avuto origine dal sottosuolo, più precisamente dalla rovina Askari di Gherzul. Nessuno conosce la causa scatenante di questa invasione e nel corso dei secoli sono state effettuate molte supposizioni relativamente a qualche potente sconvolgimento divino o all'uso di un potente Artefatto nelle profondità della rovina.
+A worldwide event that saw a horde of undead invade the surface world. During this bad year, a large mass of refugees, desperate and afflicted, settled in an area that would later become the center of the city of Silverstone. The invasion originated from the subsoil, more precisely from the ruin of Askari Gherzul. No one knows the cause of this invasion and over the centuries many assumptions have been made about some powerful divine upheaval or the use of a powerful Artifact in the depths of the ruin.
 
 #### 188 EC
 
 ##### Mardok
 
-La città di Nimirdaz è stata teatro di uno degli eventi più significativi della storia moderna. Mardok, una spaventosa semi-divinità proveniente da un altro Piano, distrusse quasi completamente la città e seminò devastazioni in tutta la parte sud dell’isola. Un esercito formato da abitanti del continente, avventurieri, Nativi e altre creature, fronteggiò unito la minaccia ancestrale, e l’anima della creatura venne intrappolata in un Cubo delle Ere, un potente artefatto posseduto da alcuni membri della Ruota Eterna.
+The city of Nimirdaz was the scene of one of the most significant events in modern history. Mardok, a frightening semi-divinity from another Plan, almost completely destroyed the city and sowed devastation throughout the southern part of the island. An army of continent dwellers, adventurers, natives and other creatures united to face the ancestral threat, and the soul of the creature was trapped in a Cube of the Hours, a powerful artifact owned by members of the Eternal Wheel.
 
 #### 191 EC
 
-##### Fondazione di Nayalis
+##### Foundation of Nayalis
 
-Fondazione la città di Nayalis. Nello stesso anno, viene ritrovato un potente e antico artefatto conosciuto come Il Seme del Mondo. Sarà conservato per quasi mille anni in un luogo segreto e inaccessibile.
+I found the city of Nayalis. In the same year, a powerful and ancient artifact known as The Seed of the World is found. It will be kept for almost a thousand years in a secret and inaccessible place.
 
 #### 201 EC
 
-##### La via per il Portale
+##### The way to the Portal
 
-La zona corrispondente alla futura città di Highpine è sede di un grande avamposto commerciale, strategicamente posizionato vicino ad uno dei cinque Portali di Aumyr. Un gruppo di mercenari ne controlla i traffici delle merci verso altre regioni.
+The area corresponding to the future city of Highpine is home to a large commercial outpost, strategically located near one of the five Portals of Aumyr. A group of mercenaries controls the goods traffic to other regions.
 
 #### 204 EC
 
-##### Le Isole degli Spiriti
+##### The Spirit Islands
 
-Le Cronache del Mago riportano di come in questa data il territorio di Veloras venga distrutto da un potente incantesimo che erode gran parte della costa verso l’interno. Questo incidente causerà la formazione delle Isole degli Spiriti.
+The Chronicles of the Wizard report how on this date the territory of Veloras was destroyed by a powerful spell that erodes much of the coast inland. This incident will cause the formation of the Spirit Islands.
 
 #### 206 EC
 
-##### Fondazione di Veloras
+##### Foundation of Veloras
 
-Un gruppo di esploratori si insedia in una zona tra le montagne adatta al controllo delle merci via carovana, fondando la città di Veloras. Si pensa che fossero studiosi, per via della mole di informazioni storiche sulla regione che hanno tramandato attraverso delle pergamene che sono rimaste intatte fino ad oggi.
+A group of explorers settled in an area in the mountains suitable for the control of goods by caravan, founding the city of Veloras. It is thought that they were scholars, because of the amount of historical information about the region that they have handed down through scrolls that have remained intact until today.
 
 #### 231 EC
 
-##### Il Regno di Orog-Mar
+##### The Kingdom of Orog-Mar
 
-Alcuni esploratori della Guardia del Lupo scoprono che la zona attorno alla futura odierna città di Dunmere è il dominio di Orog-Mar, un potente capo orchesco delle montagne.
+Explorers of the Wolfguard discover that the area around the future city of Dunmere is the domain of Orog-Mar, a powerful orc leader of the mountains.
 
 #### 240 EC
 
-##### Prima Grande Distruzione di Kaphnur
+##### First Great Destruction of Kaphnur
 
-La città di Kaphnur viene travolta da un fiume di magma proveniente dalle vicine sorgenti, il disastro è rapido e inevitabile.
+The city of Kaphnur is overwhelmed by a river of magma from the nearby springs, the disaster is rapid and inevitable.
 
-##### Fondazione di Brean
+##### Foundation of Brean
 
-Brean viene fondata da un gruppo di avventurieri, utilizzando le molteplici ricchezze estratte dalle vicine Montagne di Smeraldo.
+Brean is founded by a group of adventurers, using the many riches extracted from the nearby Emerald Mountains.
 
 #### 245 EC
 
-##### La Costa della Sete
+##### The Thirsty Coast
 
-In questi anni la costa di Viriana è solo un accampamento di nomadi, ex-schiavi di Pendor, liberti e criminali. La popolazione è divisa in una miriade di piccoli villaggi e un gruppo di monaci guerrieri conosciuto come “Viandanti della Sete” si insedia nel deserto.
+In these years the coast of Viriana is only a camp of nomads, ex-slaves of Pendor, liberated and criminals. The population is divided into a myriad of small villages and a group of warrior monks known as "Thirst Wanderers" settle in the desert.
 
 #### 265 EC
 
-##### La Confraternita
+##### The Brotherhood
 
-Nelle Cripte della città di Fivestar, un gruppo di potenti maghi dà vita ad una organizzazione denominata La Confraternita.
+In the crypts of the city of Fivestar, a group of powerful magicians set up an organization called The Brotherhood.
 
 #### 341 EC
 
-##### Fondazione di Pendor
+##### Foundation of Pendor
 
-La città di Pendor sorge in un luogo strategico, vicino ai deserti di Thanaros. Un tempo fu avamposto mercantile di nomadi diretti verso la Via della Sete, rifugio di carovane e sede di molte compagnie mercantili. Per secoli costituirà un centro di diversi poteri, politici e religiosi.
+The city of Pendor is located in a strategic location, near the deserts of Thanaros. It was once a merchant outpost of nomads heading towards the Silk Road, a refuge for caravans and home to many merchant companies. For centuries it was a centre of various political and religious powers.
 
-##### Punti di luce
+##### Points of light
 
-Per proteggere al meglio il nuovo insediamento di Silverstone, unico punto di luce nel raggio di vari chilometri di desolazioni infestate dai non-morti, viene costituito un governo temporaneo formato da paladini ed ex-avventurieri.
+To better protect the new settlement of Silverstone, the only point of light within several kilometers of desolation infested by the undead, a temporary government is formed formed by paladins and former adventurers.
 
 #### 347 EC
 
-##### Il villaggio sulle rovine
+##### The village on the ruins
 
-Nella zona dove sarebbe sorta la città di Elerin è possibile trovare un avamposto di pescatori costruito su un altro insediamento antico di probabile origine Askari, considerando i numerosi reperti ritrovati e catalogati dalla Società di Dorne.
+In the area where the city of Elerin would have been built, it is possible to find a fishing outpost built on another ancient settlement probably of Askari origin, considering the numerous finds found and catalogued by the Dorne Society.
 
 #### 513 EC
 
-##### Trattato dell’Unione
+##### The Union Treaty
 
-A Fivestar è possibile professare qualsiasi religione, ammesso che non operi in segreto.
+In Fivestar it is possible to profess any religion, provided that it does not operate in secret.
 
 #### 540 EC
 
-##### L'attacco dei giganti
+##### Attack of the giants
 
-Alcuni giganti delle vicine Montagne Nebbiose vengono provocati dalle empie attività magiche svolte nelle paludi e distruggono gli insediamenti delle valli vicini a Feldris. Grandi massi volano nel cielo finendo su accampamenti, villaggi, rovine e cittadine, distruggendo ogni cosa. Le valli diventano progressivamente terreno fertile e il territorio paludoso si ritira verso i confini est della regione.
+Some giants of the nearby Misty Mountains are caused by the impious magic activities carried out in the swamps and destroy the settlements of the valleys near Feldris. Large boulders fly into the sky and end up in camps, villages, ruins and towns, destroying everything. The valleys gradually became fertile ground and the marshy territory retreated towards the eastern borders of the region.
 
-##### La prigione di Kartaren
+##### The Prison of Kartaren
 
-La zona di Kartar ospita una prigione per criminali pericolosi, data la natura desolata delle terre da cui è circondata. La prigione è una costruzione magica autosufficiente e viene governata da un gruppo di ex-mercenari.
+The Kartar area is home to a prison for dangerous criminals, given the desolate nature of the lands from which it is surrounded. The prison is a magical self-sufficient construction and is ruled by a group of ex-merchants.
 
 #### 656 EC
 
-##### La Grande Epidemia
+##### The Great Plague
 
-Scoppia una grande epidemia nella zona di Laangor che uccide gran parte della popolazione della regione. Le origini dell’epidemia rimangono ad oggi sconosciute, ma alcuni storici sospettano che il contagio possa aver avuto origini extraplanari.
+A major epidemic breaks out in the Laangor area, killing a large part of the population of the region. The origins of the epidemic remain unknown to this day, but some historians suspect that the infection may have had extraplanar origins.
 
 #### 676 EC
 
-##### La Grande Ruota
+##### The Great Wheel
 
-Durante uno scavo a Elerin, viene ritrovata e portata alla luce la Grande Ruota, oltre a numerosi frammenti di metallo sconosciuto. I ritrovamenti interessano in modo particolare la Confraternita, che si affretta a presidiare l’area.
+During an excavation in Elerin, the Great Wheel is found and brought to light, as well as numerous fragments of unknown metal. The findings are of particular interest to the Brotherhood, which hastened to guard the area.
 
 #### 790 EC
 
-##### Le Streghe Grigie
+##### The Grey Witches
 
-Gli annali riportano indizi che portano a pensare un controllo occulto della città di Nordur da parte di una congrega di Streghe Grigie, insediate nelle grandi paludi a nord della regione. Si scrive che durante questi anni gli abitanti erano in preda alla paranoia e alla pazzia, mentre il potere delle Streghe spingeva la gente ad uccidersi a vicenda.
+The annals contain clues that lead us to think of a hidden control of the city of Nordur by a congregation of Grey Witches, who settled in the great swamps to the north of the region. It is written that during these years the inhabitants were in the grip of paranoia and madness, while the power of the witches pushed people to kill each other.
 
 #### 813 EC
 
-##### L'Epurazione
+##### The Epuration
 
-La congrega delle Streghe Grigie di Nordur scompare dopo che un gruppo di eroi sconfigge le Streghe nei loro rifugi. Il governo della città viene successivamente consegnato nelle mani della popolazione rimasta.
+The coven of the Grey Witches of Nordur disappears after a group of heroes defeat the Witches in their shelters. The city government is then handed over to the remaining population.
 
 #### 821 EC
 
-##### L'Era delle Casate
+##### The Age of Houses
 
-La Grande Epidemia di Laangor viene curata da un potente mago, il cui nome non viene registrato nelle cronache storiche. Successivamente e per quasi mille anni la città vive un’epoca di splendore e crescita commerciale. Altre casate si succedono al potere, come il Casato Arakis (potenti maghi e guerrieri), il Casato Orthen (strateghi e mercanti) e il Casato Marthen (druidi e guaritori).
+The Great Epidemic of Laangor is cured by a powerful magician, whose name is not recorded in the historical chronicles. Subsequently, for almost a thousand years, the city experienced an era of splendor and commercial growth. Other families followed one another in power, such as Casato Arakis (powerful magicians and warriors), Casato Orthen (strategists and merchants) and Casato Marthen (druids and healers).
 
 #### 830 EC
 
-##### L'esercito di Beonur
+##### Beonur's Army
 
-Un gruppo di barbari e mercenari capitanati dall’eroe Beonur distrugge gli orchi delle montagne di Nordavind nel loro avamposto. L’evento verrà ricordato come l’ultima grande impresa dell’eroe prima del suo ritiro a Torregrigia.
+A group of barbarians and mercenaries led by hero Beonur destroy the orcs of the Nordavind mountains in their outpost. The event will be remembered as the hero's last great feat before his retirement at Torregrigia.
 
 #### 900 EC
 
-##### L'assedio di Brean
+##### The Siege of Brean
 
-Inizia un’invasione nanica che terrà in assedio la città di Brean per cinque anni. I nani delle Montagne di Smeraldo, capitanati da Wortus Malagar, prendono possesso della città scavando gallerie ed entrando dal sottosuolo. Il loro obiettivo è riportare nelle montagne le ricchezze rubate in decenni di saccheggi da parte di avventurieri e criminali.
+A dwarf invasion begins that will besiege the city of Brean for five years. The dwarves of the Emerald Mountains, led by Wortus Malagar, take possession of the city by digging tunnels and entering from the ground. Their goal is to bring back to the mountains the wealth stolen in decades of looting by adventurers and criminals.
 
 #### 902 EC
 

@@ -1,13 +1,16 @@
 // @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
-// @import url('https://fonts.googleapis.com/css?family=Asul');
+@import url('https://fonts.googleapis.com/css?family=Asul&display:swap');
+
 body {
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	font-family: 'Asul', sans-serif;
+	line-height: 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
 	font-weight: bold;
+	font-family: 'Asul', sans-serif;
 }
 
 // Header
@@ -106,6 +109,18 @@ main.page {
 	&:hover {
 		text-decoration: none;
 	}
+}
+
+.content:not(.custom) h2 {
+	font-size: 26px;
+}
+
+.content:not(.custom) h3 {
+	font-size: 22px;
+}
+
+.content:not(.custom) h4 {
+	font-size: 18px;
 }
 
 .content:not(.custom) {

@@ -8,23 +8,25 @@
 ## Capitals
 
 - [Atanis](/images/map-atanis.jpg)
+- [Brean](/images/map-brean.jpg)
+- [Damodar](/images/map-damodar.jpg)
+- [Dunmere](/images/map-dunmere.jpg)
 - [Elerin](/images/map-elerin.jpg)
+- [Feldris](/images/map-feldris.jpg)
 - [Fivestar](/images/map-fivestar.jpg)
+- [Highpine](/images/map-highpine.jpg)
 - [Kaphnur](/images/map-kaphnur.jpg)
+- [Kartar](/images/map-kartar.jpg)
 - [Khoralis](/images/map-khoralis.jpg)
 - [Meentum](/images/map-meentum.jpg)
-- [Kartar](/images/map-kartar.jpg)
-- [Silversone](/images/map-silverstone.jpg)
-
-::: warning
-This entry is not complete
-:::
+- [Nayalis](/images/map-nayalis.jpg)
+- [Nordur](/images/map-nordur.jpg)
+- [Pendor](/images/map-pendor.jpg)
+- [Silverstone](/images/map-silverstone.jpg)
+- [Veloras](/images/map-veloras.jpg)
+- [Viriana](/images/map-viriana.jpg)
 
 ## Places
 
 - [Daxxos](/images/map-daxxos.jpg)
 - [Raven's Cove](/images/map-ravens-cove.jpg)
-
-::: warning
-This entry is not complete
-:::
