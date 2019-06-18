@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/bertolinimarco/aumyr-rpg-setting#readme",
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
-    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.0",
-    "vuepress": "^1.0.0-beta.2",
+    "@vuepress/plugin-back-to-top": "^1.0.1",
+    "@vuepress/plugin-medium-zoom": "^1.0.1",
+    "vuepress": "^1.0.1",
     "vuepress-plugin-autometa": "^0.1.10",
     "vuepress-plugin-container": "^2.0.1",
     "vuepress-plugin-feed": "^0.1.6"
