@@ -96,7 +96,8 @@ Il luogo consiste in una piccola vallata attraversata da uno degli affluenti del
 
 ## Colline
 
-### Colline del Corno
+### Colline del corno
+
 Sul confine ovest della regione, le Montagne Nebbiose si trasformano progressivamente in un territorio collinare sede di numerosi clan di bestie selvagge e troll. Si dice che questi troll dalla pelle scura abbiano fondato un proprio regno sotterraneo nelle caverne delle colline, la verità è che vi sono molti clan in lotta tra di loro per la dominazione territoriale. Anche se si tratta di una scorciatoia notevole per raggiungere Aumar e viceversa senza passare da Faeland o aggirare le Montagne Nebbiose, sono in molti coloro che preferiscono non rischiare uno scontro diretto con queste creature delle colline.
 
 ## Dungeon
@@ -111,7 +112,7 @@ Un tempo scavo archeologico protetto dalla Confraternita, oggi è costituito da 
 
 I viaggiatori che percorrono la Via Dorata uscendo da Feldris dalla Porta Ovest, raramente intravedono questa struttura nascosta. Si tratta di una roccaforte quasi completamente sommersa: le creature che infestano questa zona non lasciano mai l’area circostante e raramente si intravedono in superficie, tanto da far pensare che un qualche potere possa essere ancora vivo nelle sue profondità invase dall’acqua.
 
-### Torre di Pietra
+### Torre di pietra
 
 Molti credono che questo ammasso di pietre gigantesche sia una grande tomba all’aperto per alcuni antichi sovrani nanici. Tuttavia, non vi sono prove che sostengano questa ipotesi, a parte il fatto che le pietre simili più vicine si trovano a quasi duecento chilometri di distanza. Il luogo è ancora oggetto di indagini archeologiche e sul posto è spesso presente un insediamento di aspiranti Sapienti o studenti.
 

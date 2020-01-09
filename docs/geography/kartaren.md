@@ -12,7 +12,8 @@ Il governo è di tipo militare ed ha sede a Kartar. Attualmente il potere è con
 
 Come governo militare, il Kartaren possiede moltissime risorse belliche da utilizzare in caso di guerra, molte di esse nascoste segretamente in depositi (sorvegliati o meno) per tutta la regione. L’ubicazione di questi luoghi è segreta e alcuni depositi si dice siano poco sorvegliati. Non è raro trovare qualche avventuriero che, una volta trovato un rifugio pieno di armi e attrezzature, tenti di vendere il bottino ad un negozio di paese per arricchirsi. La popolazione tiene in grande considerazione il combattimento, a tutti i livelli sociali, al punto che molti considerano la popolazione di Kartaren come un unico grande esercito pronto a scatenarsi in caso di conflitto.
 
-## Popolazione
+## Popolazione
+
 Il popolo sembra sia formato in larga parte da exavventurieri o mercanti, pochissimi si possono definire anziani, data la vita nomade e poco stanziale, e sono generalmente poco tolleranti con coloro che non rispettano la disciplina e l’ordine. Essendo una terra di grandi pascoli e larghissime distanze, la giustizia è tenuta in grande considerazione, quasi agisse da “collante” per il popolo. Mercanti, tavernieri, artigiani: quasi chiunque in questa regione ha ben compreso che il mondo è pericoloso ed è meglio affidarsi alle tradizioni consolidate, alla disciplina e alla moneta come mezzi per vivere a lungo.
 
 ## Religione

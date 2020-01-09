@@ -38,7 +38,7 @@ Dunmere è un grosso insediamento di case dal tetto spiovente e appuntito, un’
 
 - **1762 EC** Alcuni clan di barbari delle montagne e vecchi guerrieri si insediano in una valle montana e contribuiscono a fondare Dunmere. Viene iniziata la costruzione della Sala degli Eroi in ricordo di tutti coloro che diedero la vita per la libertà dei clan e della popolazione.
 
-#### Distretti
+#### Distretti
 
 ##### Il Manto Gelido
 

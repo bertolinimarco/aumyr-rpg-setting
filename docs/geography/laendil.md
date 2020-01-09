@@ -38,7 +38,7 @@ Anche se molti elfi sostengono che la capitale di Laendil sarebbe dovuta sorgere
 
 - **1512 EC** In un giorno noto come “Il Risveglio” la città viene epurata dal male per opera di un gruppo di potenti maghi e druidi elfi. Il Seme del Mondo, una volta riportato al suo stato originale, viene consegnato alla Confraternita. La città verrà poi ricostruita da un gruppo di druidi e ranger, che costruirà gran parte degli edifici visibili ancora oggi.
 
-#### Distretti
+#### Distretti
 
 ##### Giardini della Luna
 

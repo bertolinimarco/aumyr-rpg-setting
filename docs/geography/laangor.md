@@ -38,7 +38,7 @@ Il nome della capitale deriva dal nome dell’ultima grande Casata oggi decaduta
 
 - **1901 EC** Arrus Highpine, ultimo nobile delle casate, viene ucciso misteriosamente durante una battuta di caccia nei boschi. Negli anni successivi si instaura il governo dell’Assemblea, che prende possesso del Castello.
 
-### Distretti
+### Distretti
 
 ##### Sentieri delle Casate
 

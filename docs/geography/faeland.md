@@ -46,13 +46,13 @@ Si tratta di un vecchio insediamento minerario formato da un’insieme di case d
 
 La città si trova su un alto crinale ed è possibile raggiungerla solo attraverso un ascensore posto alla base, che innalza merci e persone per più di trenta metri. Questa antica opera meccanica esiste grazie alle invenzioni di un certo Germag Rox, ma di costui si è praticamente perso ogni ricordo. L’ascensore comunque funziona ancora e non ha praticamente bisogno di manutenzione, grazie alle corde formate da una lega di oro e argento pressoché indistruttibile. Salendo in città si può sostare ai “Due Bauli”, la locanda cittadina famosa per un liquore unico e dalle proprietà speciali chiamato Naqatl.
 
-## Dungeon
+## Dungeon
 
 ### Miniere Fontescura
 
 Antica miniera elfica d’oro e di argento, Fontescura è ora una rete di gallerie allagate e abbandonate. Anche se non si estraggono più le favolose quantità d’oro delle epoche passate, alcune vene contengono ancora abbastanza minerale da essere oggetto di scavi continui da parte delle popolazioni dei villaggi circostanti, convinte di trovare enormi segreti lasciati dagli elfi.
 
-## Fortezze
+## Fortezze
 
 ### Castello Firemag
 

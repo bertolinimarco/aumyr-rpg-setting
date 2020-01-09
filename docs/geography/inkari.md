@@ -152,7 +152,7 @@ Nel 188 EC la città è stata teatro di uno degli eventi più significativi dell
 
 Costruita utilizzando principalmente corde e legno provenienti dal vicino Bosco della Prova, la città è formata da una serie di camminamenti tra gli alberi, ascensori di corda, complessi sistemi idrici che distribuiscono l’acqua tra le abitazioni sfidando la forza di gravità, e in generale principi di architettura vegetale tipici di villaggi forestali. E’ una delle mete preferite dai ranger che vogliono migliorare le proprie capacità sfruttando le conoscenze millenarie dei Nativi sulla caccia, sulla flora e sulla fauna.
 
-## Foreste
+## Foreste
 
 ### Bosco della Prova
 

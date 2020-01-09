@@ -12,7 +12,8 @@ Il territorio di Jhert è suddiviso in monarchie feudali a carattere ereditario.
 
 L’esercito della regione è formato dalla totalità delle singole guarnigioni dei feudi. Anche se prestano servizio nella città di origine e sotto il loro governante, i soldati sanno benissimo che in caso di conflitto saranno chiamati alle armi per difendere la regione, fianco a fianco con le altre armate dislocate nel territorio, o almeno una parte consistente di esse. Per questi motivi tutte le guarnigioni sono in qualche modo in diretto contatto, per consentire un rapido assestamento delle forze in caso di adunata.
 
-## Popolazione
+## Popolazione
+
 Buona parte della popolazione vive sulla costa, preferendo la fresca brezza che si alza dal mare agli effluvi salmastri del bosco di Selvafiamma o alla solitudine delle Pianure. Il viaggio attraverso le montagne è difficoltoso, per cui molti optano per stabilirsi nelle città piuttosto che in piccoli paesi. Considerando che alcuni villaggi delle pianure a Nord sono oggetto di incursioni di vari gruppi di goblinoidi e altre creature, l’effetto sommario che ne risulta è quello di una società schiva e distante, che si preoccupa poco di conservare una propria identità regionale, preferendo vivere giorno per giorno la propria vita al riparo da occhi indiscreti.
 
 ## Religione

@@ -38,7 +38,7 @@ Conosciuta anche come la “Città sui Pali” o “La Città Sospesa”, Nordur
 
 - **1979 EC** L’area della palude si allarga e il territorio centrale inizia a solidificarsi, complice il composto di fango e ceneri dei morti. Si forma l’area rituale, dotata di potenti energie divine.
 
-#### Distretti
+#### Distretti
 
 ##### Il Distretto
 

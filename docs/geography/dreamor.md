@@ -126,7 +126,7 @@ Sebbene costituiscano una parte molto estesa della regione, poco si sa sulla sto
 
 Spesso i pescatori che transitano davanti all’entrata della grotta sostengono di intravedere qualcosa di gigantesco muoversi sopra le acque al suo interno. Recentemente una spedizione esplorativa ha individuato il relitto di un antico galeone da contrabbando e resti di un grosso carico di preziosi. Da allora la grotta è conosciuta anche come “Grotta dei Pirati”.
 
-### Torre Solitaria
+### Torre Solitaria
 
 Un tempo dimora di un qualche potente stregone, è una grossa struttura dalle forme inusuali che non sembra restare nel proprio posto per molto tempo. E’ talmente vecchia da essere considerata un’attrazione permanente della regione. La torre si sposta casualmente e in continuazione tra le Colline del Silenzio, senza però mai uscirne. La Confraternita ha spesso tentato di dissolvere i potenti incantesimi che la circondano, senza successo. Oggi il luogo è frequentato da molti avventurieri amanti del rischio che tentano di trovare la Torre, convinti che la qualsiasi cosa si trovi nelle stanze più alte possegga un valore inestimabile.
 

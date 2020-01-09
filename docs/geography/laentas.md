@@ -40,7 +40,7 @@ Damodar, il porto principale sulla Costa Splendente, è un caleidoscopio di colo
 
 - **2081 EC** Nasce la prima Organizzazione per il Controllo Portuale e Mercantile sul Commercio nel Mare della Notte, che in seguito prenderà il nome di Consorzio.
 
-#### Distretti
+#### Distretti
 
 ##### Bazaar
 

@@ -38,7 +38,7 @@ Entrando a Veloras passando dall’ampia strada pedemontana, si ha l’impressio
 
 - **1983 EC** Data della probabile Tragedia degli Amanti, una leggenda di Merosh che narra di tradimento e vendetta. Da queste storie si formeranno le credenze locali che porteranno la città a diventare conosciuta anche come Città degli Amanti.
 
-#### Distretti
+#### Distretti
 
 ##### Isole degli Spiriti
 

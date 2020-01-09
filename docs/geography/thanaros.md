@@ -38,7 +38,7 @@ Pendor, la Vecchia capitale di Thanaros, rappresenta un trionfo di architettura 
 
 - **1897 EC** Un gruppo di avventurieri trova e distrugge il covo della Setta dei Sussurri, un dedalo di camere piene di serpenti ed altre creature innominabili. Si scopre che la sua influenza fu così grande da arrivare a corrompere gli stessi rappresentanti del governo. L’anno successivo viene eletto un nuovo gruppo di Anziani, in base alla volontà popolare.
 
-#### Distretti
+#### Distretti
 
 ##### Quartiere delle Danze
 

@@ -38,7 +38,7 @@ La città di Brean risulta ben visibile anche da grosse distanze, data la sua al
 
 - **1300 EC** Dopo varie dittature di potenti mercanti, vengono stipulati accordi con nani e altre razze delle montagne vicine. Vengono fondate varie società commerciali di scavatori e intagliatori di gemme, Il Mercatus acquista il potere e il controllo occulto della città.
 
-#### Distretti
+#### Distretti
 
 ##### Distretto degli Intagliatori
 
