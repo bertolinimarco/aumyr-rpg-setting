@@ -66,19 +66,19 @@ Many people think that magic is the fabric that connects the world, a network th
 
 ## Organizations
 
-Life is short on Aumyr and every social relationship is crucial. For this reason, over the centuries, organizations have been created that can control and manage almost every aspect of daily life, from war to healing. Organizations are always looking for new members and some have the support of the Brotherhood, have offices in taverns and offer a variety of services, according to their skills. As payment they use some of the riches shared by the guild, after deduction of expenses. Other benefits can be obtained by rank and title.
+Life is short on Aumyr and every social relationship is crucial. For this reason, over the centuries, organizations have been created that can control and manage almost every aspect of daily life, from war to healing. Organizations are always looking for new members and some have the support of the Council, have offices in taverns and offer a variety of services, according to their skills. As payment they use some of the riches shared by the guild, after deduction of expenses. Other benefits can be obtained by rank and title.
 
 ### The Council
 
 The Council controls most of the world, is home to some of the most powerful users of magic and manages everything from adventurers to bounty, from justice to religion. It is the organization that holds the political power (supervision of territories, trade and more). Although it encourages the discovery of Askari knowledge by various adventurers or explorers, the Council often keeps the activity of treasure seekers under control in the larger or older ruins, mainly to prevent destruction or collapse, preserving some dungeons as if they were important archaeological sites.
 
-**Structure**
+#### Structure
 
 The centre of power is the Inner Council, a small group of senior members of the Council. They are famous both for their extraordinary longevity and for holding office until their death. Whenever it is necessary to elect one or more senior members of the Council, a Inner Council is convened which sees all the members of the Council propose themselves for the title. Voting is a secret process that takes place in the Inner Rooms of the Palace of Five, in Fivestar. The Council often recruits adventurers to carry out some particular mission, such as recovering ancient relics, exploring dungeons or snorting out monsters and creatures in villages and towns. Their power makes them an excellent employer for adventurers in need of money.
 
 #### Reputation
 
-Their dual management of political and religious power has made them very powerful, almost as if they represented the very world of Aumyr. Like any power group, it is both loved and hated. Generally the Council of the Brotherhood appears publicly for sermons on the spread of magic in its various forms, to promote peace and knowledge. Some conspiracy fanatics argue that it is only a puppet government and that quite different realities have real political and territorial control of the world.
+Their dual management of political and religious power has made them very powerful, almost as if they represented the very world of Aumyr. Like any power group, it is both loved and hated. Generally the Council appears publicly for sermons on the spread of magic in its various forms, to promote peace and knowledge. Some conspiracy fanatics argue that it is only a puppet government and that quite different realities have real political and territorial control of the world.
 
 ### Guardians of Knowledge
 
@@ -98,7 +98,7 @@ In the islands of Inkari, before colonization, a small circle of Natives, inhabi
 
 #### Structure
 
-On Aumyr there is no fixed seat of the Faith, as over time have been formed around the world various circles in the various biomes, mainly autonomous and diversified between them as regards the aspects of Nature revered. The Circles are not very numerous, formed by an old man who covers the role of Wise and Head of the circle, the role lasts from when you are elected until his death. The role of a Wise Man is full of responsibility, knowledge and power. Although the activities of the Faith remain secret to most people, in reality the various circles often meet at events related to nature, such as the beginning of a new season, to celebrate sacred festivities for the brotherhood.
+On Aumyr there is no fixed seat of the Faith, as over time have been formed around the world various circles in the various biomes, mainly autonomous and diversified between them as regards the aspects of Nature revered. The Circles are not very numerous, formed by an old man who covers the role of Wise and Head of the circle, the role lasts from when you are elected until his death. The role of a Wise Man is full of responsibility, knowledge and power. Although the activities of the Faith remain secret to most people, in reality the various circles often meet at events related to nature, such as the beginning of a new season, to celebrate sacred festivities for the Council.
 
 #### Reputation
 
@@ -122,7 +122,7 @@ The adventurers of the Red Brotherhood are dedicated to the destruction of the u
 
 #### Structure
 
-The Red Brotherhood is financed not only by the Brotherhood but also by the Worship of Melian. Its members are called "Brothers" and have a paramilitary hierarchical structure based on seniority of service. To enlist, one can apply directly to the Order, although many are enlisted after being noticed for some particularly heroic mission. They have various locations, usually close to "inauspicious" places such as dungeons, ruins or abandoned fortresses.
+The Red Brotherhood is financed not only by the Council but also by the Worship of Melian. Its members are called "Brothers" and have a paramilitary hierarchical structure based on seniority of service. To enlist, one can apply directly to the Order, although many are enlisted after being noticed for some particularly heroic mission. They have various locations, usually close to "inauspicious" places such as dungeons, ruins or abandoned fortresses.
 
 #### Reputation
 
@@ -130,7 +130,7 @@ The Brothers, much respected, are seen as priests and warriors. They often accom
 
 ### The Wolfguard
 
-Established in the same years as the Dorne Society, the Wolf Guard is made up of rangers, explorers and all those who can boast survival skills in the wild. It is an independent organization, free from the control of the Brotherhood. Their history is ancient and heroic. They usually patrol forests and woodlands, but also less green places such as mountains, glaciers or fiery deserts. They defend villages from attacks by mountain creatures, maintain diplomatic agreements with wild Native tribes, and more. They differ from the Dorne Society in that they do not play an exploratory role, but of control and territorial order, a sort of alternative to the Brotherhood.
+Established in the same years as the Dorne Society, the Wolf Guard is made up of rangers, explorers and all those who can boast survival skills in the wild. It is an independent organization, free from the control of the Council. Their history is ancient and heroic. They usually patrol forests and woodlands, but also less green places such as mountains, glaciers or fiery deserts. They defend villages from attacks by mountain creatures, maintain diplomatic agreements with wild Native tribes, and more. They differ from the Dorne Society in that they do not play an exploratory role, but of control and territorial order, a sort of alternative to the Council.
 
 #### Structure
 
@@ -142,11 +142,11 @@ I am among the first to carry out dangerous tasks of exploration and reclamation
 
 ### The Circle
 
-The members of the Circle criticize the work of the Brotherhood, often with violent public demonstrations and other actions of protest. Although the Brotherhood is the leader of the world and holds the highest authority in religious matters, many claim that it is only a controlling body and that it has in some way taken advantage of the coming of the Five to acquire political and religious power to govern the world.
+The members of the Circle criticize the work of the Council, often with violent public demonstrations and other actions of protest. Although the Council is the leader of the world and holds the highest authority in religious matters, many claim that it is only a controlling body and that it has in some way taken advantage of the coming of the Five to acquire political and religious power to govern the world.
 
 #### Structure
 
-The group is made up of each class and each race, convinced that the Brotherhood should loosen its political and religious grip on the world. They hope for the creation of an autonomous government, not driven by the will of a group of old and elitist sorcerers. They have many offices, even if no officers, often preferring anonymity in which members gather in small groups to organize themselves territorially. They also seem to have a dense network of spies who oversee the work of the Brotherhood and the affiliates who gravitate around it, such as adventurers or popular heroes.
+The group is made up of each class and each race, convinced that the Council should loosen its political and religious grip on the world. They hope for the creation of an autonomous government, not driven by the will of a group of old and elitist sorcerers. They have many offices, even if no officers, often preferring anonymity in which members gather in small groups to organize themselves territorially. They also seem to have a dense network of spies who oversee the work of the Council and the affiliates who gravitate around it, such as adventurers or popular heroes.
 
 #### Reputation
 
@@ -170,15 +170,15 @@ It represents an ancient order of former adventurers and heroes, wise men and he
 
 #### Structure
 
-They do not have a permanent seat and few know the affiliates as they are almost always summoned by senior members of the Brotherhood and only on special occasions. It is thought that their relationship with the Brotherhood is very close and that their secret meeting place is the Crypts of Fivestar, the place of the Arrival of the Five.
+They do not have a permanent seat and few know the affiliates as they are almost always summoned by senior members of the Council and only on special occasions. It is thought that their relationship with the Council is very close and that their secret meeting place is the Crypts of Fivestar, the place of the Arrival of the Five.
 
 #### Reputation
 
-Often being consulted on the occasion of major dilemmas, wars between Regions and other major problems, each member is considered to be like an old member of the Brotherhood: a very powerful individual. Many know that their nature often makes them beyond any form of containment or law. In some of them a sense of superiority and arrogance develops which, in the worst case, can contribute to destabilizing the political or social balance of entire regions. If they are recognized, they tend to prefer solitude or a very modest life: feeling the weight of Knowledge on them, they tend to prefer roles as advisors or teachers behind the scenes of the events of the world. The detractors of this organization think that they participate in secret meetings aimed at manipulating the consciences of entire governments just for the sake of seeing them "dance" according to their desire or their personal ambitions.
+Often being consulted on the occasion of major dilemmas, wars between Regions and other major problems, each member is considered to be like an old member of the Council: a very powerful individual. Many know that their nature often makes them beyond any form of containment or law. In some of them a sense of superiority and arrogance develops which, in the worst case, can contribute to destabilizing the political or social balance of entire regions. If they are recognized, they tend to prefer solitude or a very modest life: feeling the weight of Knowledge on them, they tend to prefer roles as advisors or teachers behind the scenes of the events of the world. The detractors of this organization think that they participate in secret meetings aimed at manipulating the consciences of entire governments just for the sake of seeing them "dance" according to their desire or their personal ambitions.
 
 ### Society of Dorne
 
-The adventurers of the Dorne Society are known to have explored the most remote dungeons and killed monsters that are very hard to find. It is formed by many explorers, adventurers and heroes who have helped map most of the world on behalf of the Brotherhood. Their work is very dangerous, but it can also be very lucrative, new members to the first missions often earn enough treasures to retire permanently after a few months.
+The adventurers of the Dorne Society are known to have explored the most remote dungeons and killed monsters that are very hard to find. It is formed by many explorers, adventurers and heroes who have helped map most of the world on behalf of the Council. Their work is very dangerous, but it can also be very lucrative, new members to the first missions often earn enough treasures to retire permanently after a few months.
 
 #### Structure
 
@@ -186,7 +186,7 @@ The Society has many outposts located throughout the continent (and beyond). Mos
 
 #### Reputation
 
-The Dorne Society, like the Wolf Guard, is also very well seen by the border population and in all places where the protection offered by the Brotherhood is less present. Some of their most experienced and courageous members are called "Great Explorers", a sort of elite recognition of the company, and often also real commanders of the Society itself. Some theories believe that this organization has objectives other than a simple love of exploration: they could be custodians of secret knowledge, hidden from the eyes of the world.
+The Dorne Society, like the Wolf Guard, is also very well seen by the border population and in all places where the protection offered by the Council is less present. Some of their most experienced and courageous members are called "Great Explorers", a sort of elite recognition of the company, and often also real commanders of the Society itself. Some theories believe that this organization has objectives other than a simple love of exploration: they could be custodians of secret knowledge, hidden from the eyes of the world.
 
 ### Crusader swords
 
@@ -214,11 +214,11 @@ Although most believe it to be a bewildering group of madmen, hermits or singula
 
 ## Backgrounds
 
-### Adept of the Brotherhood
+### Adept of the Council
 
-An enchanter usually has many options to advance in the field of arcane arts. He can lead an independent life or join an adventurer. Others decide to join the Brotherhood, to take advantage of some of the advantages. An Adept of the Brotherhood is often a calculating and enterprising character. Climbing the ranks of the oldest organization in the world is an undertaking that few can accomplish definitively. Many of them decide to carve out minor roles or comfort, taking advantage of the financial and social coverage offered by the Brotherhood.
+An enchanter usually has many options to advance in the field of arcane arts. He can lead an independent life or join an adventurer. Others decide to join the Council, to take advantage of some of the advantages. An Adept of the Council is often a calculating and enterprising character. Climbing the ranks of the oldest organization in the world is an undertaking that few can accomplish definitively. Many of them decide to carve out minor roles or comfort, taking advantage of the financial and social coverage offered by the Council.
 
-Once chosen by the Brotherhood, they are assigned to a region and divided according to the skills acquired during a training period at the Fivestar Palace. All Adepts, whether voluntary or selected in advance, enjoy certain privileges given by their rank within the Brotherhood. Through their influence within the organization, they can access libraries or private collections, know the location of secret dungeons or protected treasures, can find information about people, places or entire villages and more. Although they are called Adepts of the Brotherhood, their destiny is not always to spend their lives working on behalf of the Brotherhood itself. Many of them choose the path of the adventurer, for various reasons: whether they want to wander the world in search of lost treasures and relics, or simply want to take advantage of some of their contacts within the organization, the path of each Adept is mysterious and full of opportunities.
+Once chosen by the Council, they are assigned to a region and divided according to the skills acquired during a training period at the Fivestar Palace. All Adepts, whether voluntary or selected in advance, enjoy certain privileges given by their rank within the Council. Through their influence within the organization, they can access libraries or private collections, know the location of secret dungeons or protected treasures, can find information about people, places or entire villages and more. Although they are called Adepts of the Council, their destiny is not always to spend their lives working on behalf of the Council itself. Many of them choose the path of the adventurer, for various reasons: whether they want to wander the world in search of lost treasures and relics, or simply want to take advantage of some of their contacts within the organization, the path of each Adept is mysterious and full of opportunities.
 
 ### Adept of the Primordial Faith
 
@@ -242,13 +242,13 @@ Anyone is able to make a journey to an unknown destination, but not everyone bec
 
 Anyone can become a Son of Hardon. These proud and brave warriors are among Aumyr's most feared fighters. Many of them become Strategists in the service of courts and governments. Others embark on an adventurous career to find new and exciting challenges around the corner.
 
-Becoming a member of the Sons of Hardon is considered an honor for many warriors. Their discipline allows them to be always ready for action and tenacious in many situations where others would be ready to flee. Throughout history, many members of this organization have exploited its tactical and strategic knowledge, gathering armies to try to gain a role within the military hierarchy of the Brotherhood. Today, the Sons of Hardon have shifted much of their collective activities to the benefit of the community or themselves. Many heroes belonging to the Sons are remembered, as are many generals who died in battle over the centuries.
+Becoming a member of the Sons of Hardon is considered an honor for many warriors. Their discipline allows them to be always ready for action and tenacious in many situations where others would be ready to flee. Throughout history, many members of this organization have exploited its tactical and strategic knowledge, gathering armies to try to gain a role within the military hierarchy of the Council. Today, the Sons of Hardon have shifted much of their collective activities to the benefit of the community or themselves. Many heroes belonging to the Sons are remembered, as are many generals who died in battle over the centuries.
 
 ### Guardian of the Frontier
 
 At every frontier point, heroes protect the outposts of civilization from the raids of the creatures of the wild lands. They are often part of an organization known as the Wolf Guard. The Frontier Guardians are experienced guides and tenacious adventurers.
 
-Many Guardians are adventurers or protectors of a small village. Their skills are in great demand in border areas and in all those where the Brotherhood's gaze cannot reach. Some of them are members of the Wolf Guard. A career within the organization is an uphill road but full of opportunities: great treasures, fighting in villages at the extreme of the world, killing of large beasts and monstrous creatures.
+Many Guardians are adventurers or protectors of a small village. Their skills are in great demand in border areas and in all those where the Council's gaze cannot reach. Some of them are members of the Wolf Guard. A career within the organization is an uphill road but full of opportunities: great treasures, fighting in villages at the extreme of the world, killing of large beasts and monstrous creatures.
 
 ### Melian's Light
 
@@ -258,7 +258,7 @@ Born with innate divine abilities, they are almost always on their way to cleric
 
 ### Master Builder
 
-Experienced architects, they are able to design and build buildings, castles or entire city districts. Their work is often at the service of the Brotherhood for the construction and maintenance of governmental or religious buildings. Some of them become adventurers, tired of a life among parchments, wood and stone.
+Experienced architects, they are able to design and build buildings, castles or entire city districts. Their work is often at the service of the Council for the construction and maintenance of governmental or religious buildings. Some of them become adventurers, tired of a life among parchments, wood and stone.
 
 Although most people think of the Master Builders as a dwarf organization, all races are represented in a balanced way within the summits of power. This also brings several advantages when it comes to sharing architectural or construction knowledge. Those who wish to become adventurers are often great creatives, or scholars in search of new ideas or materials for their creations.
 
@@ -272,6 +272,6 @@ Given the nature of their beliefs, they often undertake different careers, but a
 
 ### Wise of Gnosis
 
-They are seen by the population as heroes, for better or for worse. Given their profound vision of Knowledge, they are called to play the role of counselors to the Brotherhood. The exact number of members of this exclusive order is unknown, but their number is constantly increasing, a sign that every day powerful forces move in secret.
+They are seen by the population as heroes, for better or for worse. Given their profound vision of Knowledge, they are called to play the role of counselors to the Council. The exact number of members of this exclusive order is unknown, but their number is constantly increasing, a sign that every day powerful forces move in secret.
 
 They are enigmatic individuals. In some regions they are worshipped as true divine heralds, or Prechosen. Sometimes their nature makes them hermits, shy and unwilling to come into contact with other people. Knowledge offers them many powers, comparable to those of powerful charmers or great fighters. Their destiny follows that of the heroes and events of the world. Some people think that they are actually a secret caste of Askari returned and willing to change the time and events of Aumyr. Often, however, they are just individuals blessed or cursed by powers that even they sometimes find it hard to fully understand.
