@@ -68,7 +68,7 @@ module.exports = {
               {text: "Creature", link: "/almanac/creatures/"},
               {text: "Oggetti", link: "/almanac/items/"},
               {text: "Personaggi", link: "/almanac/characters/"},
-              {text: "Mappe", link: "/almanac/maps/"}
+              {text: "World", link: "https://atlas.aumyr.world"}
             ]
           }
         ]
@@ -89,11 +89,11 @@ module.exports = {
           {
             text: "Almanac",
             items: [
-              {text: "Ideas and Plots", link: "/almanac/adventures/"},
-              {text: "Creatures", link: "/almanac/creatures/"},
-              {text: "Items", link: "/almanac/items/"},
-              {text: "NPCs", link: "/almanac/npcs/"},
-              {text: "Maps", link: "/almanac/maps/"}
+              {text: "Ideas and Plots", link: "/en/almanac/adventures/"},
+              {text: "Creatures", link: "/en/almanac/creatures/"},
+              {text: "Items", link: "/en/almanac/items/"},
+              {text: "NPCs", link: "/en/almanac/characters/"},
+              {text: "World", link: "https://atlas.aumyr.world"}
             ]
           }
         ]

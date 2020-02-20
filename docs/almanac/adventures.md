@@ -86,10 +86,6 @@ La gnoma Yramani è la proprietaria di un circo ambulante formato da mostri tenu
 
 Si dice che una tribù locale di giganti sia in possesso del Corno della Distruzione, un artefatto magico che, se utilizzato, consente di ridurre in polvere spesse mura di pietra (per esempio quelle di un castello). Alcuni Re preoccupati incaricano i personaggi di scoprirne di più e di recuperare il Corno dalle mani dei giganti.
 
-### Il Druido Nero
-
-Un druido reclama la proprietà di un bosco e poi inizia ad effettuare strani esperimenti sugli animali, creando grosse preoccupazioni nei paesi vicini.
-
 ### Il Popolo della Notte
 
 Uno dei villaggi visitati dai personaggi durante le loro avventure si rivela essere popolato da vampiri. Essi si nascondono fra la gente normale per poi diventare, di notte, sanguinari assassini.

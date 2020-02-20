@@ -68,13 +68,13 @@ Many people think that magic is the fabric that connects the world, a network th
 
 Life is short on Aumyr and every social relationship is crucial. For this reason, over the centuries, organizations have been created that can control and manage almost every aspect of daily life, from war to healing. Organizations are always looking for new members and some have the support of the Brotherhood, have offices in taverns and offer a variety of services, according to their skills. As payment they use some of the riches shared by the guild, after deduction of expenses. Other benefits can be obtained by rank and title.
 
-### The Brotherhood
+### The Council
 
-The Brotherhood controls most of the world, is home to some of the most powerful users of magic and manages everything from adventurers to bounty, from justice to religion. It is the organization that holds the political power (supervision of territories, trade and more). Although it encourages the discovery of Askari knowledge by various adventurers or explorers, the Brotherhood often keeps the activity of treasure seekers under control in the larger or older ruins, mainly to prevent destruction or collapse, preserving some dungeons as if they were important archaeological sites.
+The Council controls most of the world, is home to some of the most powerful users of magic and manages everything from adventurers to bounty, from justice to religion. It is the organization that holds the political power (supervision of territories, trade and more). Although it encourages the discovery of Askari knowledge by various adventurers or explorers, the Council often keeps the activity of treasure seekers under control in the larger or older ruins, mainly to prevent destruction or collapse, preserving some dungeons as if they were important archaeological sites.
 
-#### Structure
+**Structure**
 
-The centre of power is the Council, a small group of senior members of the Brotherhood. They are famous both for their extraordinary longevity and for holding office until their death. Whenever it is necessary to elect one or more senior members of the Council, a Council is convened which sees all the members of the Brotherhood propose themselves for the title. Voting is a secret process that takes place in the Inner Rooms of the Palace of Five, in Fivestar. The Brotherhood often recruits adventurers to carry out some particular mission, such as recovering ancient relics, exploring dungeons or snorting out monsters and creatures in villages and towns. Their power makes them an excellent employer for adventurers in need of money.
+The centre of power is the Inner Council, a small group of senior members of the Council. They are famous both for their extraordinary longevity and for holding office until their death. Whenever it is necessary to elect one or more senior members of the Council, a Inner Council is convened which sees all the members of the Council propose themselves for the title. Voting is a secret process that takes place in the Inner Rooms of the Palace of Five, in Fivestar. The Council often recruits adventurers to carry out some particular mission, such as recovering ancient relics, exploring dungeons or snorting out monsters and creatures in villages and towns. Their power makes them an excellent employer for adventurers in need of money.
 
 #### Reputation
 
@@ -86,7 +86,7 @@ The Guardians of Knowledge are a group formed mainly by Masters who are often to
 
 #### Structure
 
-Each Custos is usually the owner of a piece of land or his own manor, donated to him by the population, received as a gift for his rank or earned through adventures and itinerant missions. The majority of them spend their patrimony to build a library or to found a school of magic, all places suitable for the conservation and diffusion of the divine and arcane knowledge. Others prefer to be tutors in small villages or large cities. The title of Master is appreciated and well paid in every civilized outpost of Aumyr.
+Each member is usually the owner of a piece of land or his own manor, donated to him by the population, received as a gift for his rank or earned through adventures and itinerant missions. The majority of them spend their patrimony to build a library or to found a school of magic, all places suitable for the conservation and diffusion of the divine and arcane knowledge. Others prefer to be tutors in small villages or large cities. The title of Master is appreciated and well paid in every civilized outpost of Aumyr.
 
 #### Reputation
 

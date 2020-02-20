@@ -466,13 +466,13 @@ Ajani Raktar viene nominata Matriarca di Meentum.
 ## Festività
 
 ::: warning
-Questa voce non è ancora completa
+This entry is not yet completed.
 :::
 
 ### Festa del Tramonto
 
 ::: warning
-Questa voce non è ancora completa
+This entry is not yet completed.
 :::
 
 ### Giorno dell'Unione (15/04)

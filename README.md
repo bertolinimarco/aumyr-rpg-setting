@@ -2,7 +2,7 @@
 
 Aumyr is a free fantasy setting for roleplaying games.
 
-[https://aumyr-rpg-setting.netlify.com/](https://aumyr-rpg-setting.netlify.com/)
+[https://www.aumyr.world/](https://www.aumyr.world/)
 
 ---
 
@@ -14,29 +14,11 @@ Aumyr is a free fantasy setting for roleplaying games.
 
 ## Discord Server
 
-Want to chat? [Join our Discord Server](https://discord.gg/HP9bA4Z)
+Want to chat or contribute?
+
+[Join our Discord Server](https://discord.gg/HP9bA4Z)
 
 [![Discord Server](https://img.shields.io/discord/575987423893258250.svg)](https://img.shields.io/discord/575987423893258250.svg)
-
----
-
-## Contributing
-
-### Quickest
-
-[Open a Issue](https://github.com/bertolinimarco/aumyr-rpg-setting/issues/new)
-
-### GitHub PR
-
-`Edit on GitHub` link in every page
-
-### Development mode
-
-1. Clone the repo with `git clone https://github.com/bertolinimarco/aumyr-rpg-setting`
-
-2. Install dependecies `yarn install && yarn docs:dev` (you can also use `npm`)
-
-3. Create a PR
 
 ---
 
