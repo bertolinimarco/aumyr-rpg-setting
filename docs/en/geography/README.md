@@ -8,8 +8,9 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Aumar](./aumar/)
 
-<!-- - [Dreamor](./dreamor/)
+- [Dreamor](./dreamor/)
 
+<!--
 - [Faeland](./faeland/)
 
 - [Gwaldur](./gwaldur/)
