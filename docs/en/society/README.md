@@ -1,38 +1,40 @@
 # Society
 
-Aumyr is a continent populated by hundreds of creatures and is home to many races and cultures. Each civilization succeeds another, in an eternal cycle that does not seem to end. It almost always happens that the next civilization discovers the remains of a past race and draws power and knowledge from it. The current state of the world is the result of thousands of years of stories and events.
+Aumyr is a continent populated by hundreds of creatures and is home to numerous races and cultures.
+Each civilization succeeds another, in an eternal cycle that does not seem to have an end. It almost always happens that the following civilization discovers the remains of a past race and draws its power and knowledge. The current state of the world is the result of thousands of years of stories and events.
 
 ## Natives
 
-Natives are a race vaguely similar to humans with olive and wild traits, with the only difference of a slightly elongated skull. Their culture and history is what most influenced the planet after the disappearance of the Askarians and until the arrival of the Five. They are thought to have owned settlements all over the continent, before they retired to the island-region of Inkari, following the People's War. Since then the whole island has become a kind of sacred ground where you can pass on their ancient culture called "Tradition", a complex amalgamation of parchments, writings, tables, prophecies and institutions.
+The Natives are a breed vaguely similar to humans with wild traits, the only difference being a slightly elongated skull.
+Their culture and history is what has most influenced the planet since the disappearance of the Askari and until the arrival of the Fives. They are believed to have settlements throughout the continent, prior to their retreat on the island-region of Inkari, following the War of Peoples. Since then, the entire island has become a sort of sacred land where they can pass on their ancient culture called "Tradition", a complex amalgamation of parchments, writings, tables, prophecies and institutions.
 
 ### Personality
 
-Half of them fear the legends of the ancient Askari because of the legends about the Mark, while the other half consider it only a past epoch and attribute to the curse different origins. Since the arrival of the Five on Aumyr, the natives have been considered by most of the population as a dispersed tribe: in the continental lands they are often gathered in reserves or other protected places, more or less isolated from the rest of the population. Since the year 2372 EC their union with other races is not considered a taboo, at least on the continent. The natives are excellent companions, proud and faithful. They admire initiative, and in general all those who manage to live their lives according to a personal moral code.
+Half of them fear the stories of the Ancient Askari because of the legends about the Mark, while the other half consider it only a past era lore, and attribute to the curse different origins. Since the arrival of the Five on Aumyr, the Natives are considered by most of the population as a scattered tribe: in continental lands they are often united in reserves or other protected places, more or less isolated from the rest of the population. In year 2372 CE their union with other breeds is not considered a taboo anymore, at least on the continent. The Natives are excellent companions, proud and faithful. They admire free spirit, and in general all those who manage to live their lives according to a personal moral code.
 
 ### Adventurers
 
-Natives who decide to leave Inkari and choose to become adventurers often have as their desire to know their destiny, atone for some guilt or simply discover new cultures. Their curious and brilliant nature helps to make them suitable to play any role within a group of adventurers, although it is not uncommon to find lonely and introverted natives who prefer a life away from the glories and comforts of civilization.
+Native people who decide to leave Inkari and choose to become adventurers often want to know their destiny, amend sins, or simply discover new cultures. Their curious and brilliant nature contributes to making them suitable for any role within a group of adventurers, although it is not uncommon to find solitary and introverted natives who prefer a life away from the glory and comfort of civilization.
 
-### A tormented past
+### A Tormented Past
 
-All natives suffer from a curse called the Mark. It is a kind of genetic virus that makes it very difficult for newborns to survive. For these reasons, the death of one of them is seen as a moment of shared mourning and the offspring is held in the highest regard. Some old wise men consider it a punishment of the ancient Askarians for profaning their graves and this has given rise to a whole series of stories and beliefs that have deeply marked the cultural and social aspect of their evolution from the time of the People's War until today.
+All Natives suffer from a curse called "the Mark". It is a kind of genetic virus that makes it very difficult for newborns to survive. For these reasons, the death of one of them is seen as a shared mourning moment and the offspring is held in great consideration. A few wise old sages consider the Mark a punishment of the ancient Askari for having profaned their tombs during the millennia, and this has given rise to a whole series of stories and beliefs that have profoundly marked the cultural and social aspect of their evolution from the times of the Wars of Peoples to today.
 
-### Pride and curiosity
+### Pride and Curiosity
 
-The centre of their corporate structure is a dynastic family structure called the Tribe. Each tribe has a key figure called Xoraki, a sort of elderly householder, whether male or female. The natives love to earn a living, many are mercenaries but among them there are also adventurers. Of curious nature, almost childish. Those who practice magic often make it an inordinate, sometimes superfluous (eg: spells to sweep the floors, create small objects, pour water, lift heavy loads, etc. ...). Because of this passion, some of the most brilliant (or fanatical) of arcane or divine magic are Native. As for physical abilities, those who focus on the arts of survival and battle usually become excellent warriors, barbarians or rangers.
+The centre of their corporate structure is a family structure of dynastic style called Tribe. Each Tribe has a key figure called Xoraki, a sort of old-fashioned head of household, male or female. Native people love to earn a living, many are mercenaries but among them there are also adventurers. Of curious nature, almost childish, those who practice magic often make it an excessive use, sometimes superfluous (e. g.: spells for sweeping floors, creating small objects, pouring water, lifting heavy loads, etc.). Because of this passion, some of the most ingenious (or fanatical) of arcane or divine magic, are Natives. As for physical skills, those who focus on their physical traits become excellent warriors, barbarians or rangers.
 
 ### Passion and loyalty
 
-The nature of a Native is centered on respect for Independence, Freedom and Tradition. These three moral cornerstones have led the Natives to be a people that tends to be tolerant, though very jealous of their own historical heritage that they call Tradition.
+The character of a native is centered on respect for independence, freedom and tradition. These three moral values have led the Native people to be a tangentially tolerant, albeit very jealous of their historical heritage they call "The Tradition".
 
 ### Culture
 
-For a Native, the external behaviour of an individual is the result of an alternation of opposite, complementary and inseparable internal states. They are free spirits who hate all forms of coercion. They tend to observe the world around them as an infinite network of causes and consequences. The heavy burden of the Mark and its mysterious origin has deeply influenced them, and it is very rare for their character to reach extremes of benevolence or evil.
+For a Native, an individual's external behavior is the result of an alternation of opposing, complementary and inseparable inner states. They are free spirits, who hate every form of constriction. They tend to observe the world around them as an infinite network of causes and consequences. The heavy burden of the Mark and its mysterious origin has profoundly influenced them, and it is very rare that their character reaches extremes of benevolence or wickedness.
 
 ### Religion
 
-Almost all the natives adore the Great Father and the Great Mother. Native theology does not recognize the Five as independent divinities, but as "emanations" of the Great Father and the Great Mother, in turn "children" of a higher entity.
+Almost all the Natives adore the Great Father and the Great Mother. The theology of the natives does not recognize the Fives as independent deities, but as "emanations" of the Great Father and Great Mother, or "childrens" of a higher entity.
 
 ### The Mark
 
@@ -54,19 +56,16 @@ The names of the tribes are formed by two volcables, usually the initials of the
 
 ## Askari
 
-According to legends, the Askari (_Ancient Askari_ or simply _Ancients_) were a very powerful people of Ascended, or creatures with boundless intelligence and power, with the ability to manipulate the matter of creation. What was the fate of the Askarians? Were they divinities, demons, powerful sorcerers, beings from other dimensions, or were they simply a great technologically advanced race? To date, these questions remain unanswered.
-
-Tangible evidence of their existence is often before everyone's eyes: large buildings hidden or buried in remote places, dungeons infested with abominable creatures and dotted with fragments of advanced metallurgical technology. The legends about their disappearance from Aumyr are countless. The ancient cotilisation of the Askari is an integral part of the myth of the Ascetics, also known as the Theory of the Ancients.
+According to legends, the Askarians were a very powerful race of Ascended beings, creatures with boundless intelligence and power, with the ability to manipulate the matter of creation.
+What was the fate of the Askari? Were they gods, demons, powerful sorcerers, beings from other dimensions, or were they simply a large technologically advanced breed? These questions remain unanswered. The tangible evidence of their existence is often before everyone's eyes: large buildings hidden or buried in remote places, dungeons infested with abominable creatures and scattered with fragments of advanced metallurgical and magical technology. The legends about their disappearance from Aumyr are countless. The ancient civilization of the Askari is an integral part of the myth of the Ascended, also called Theory of the Ancients.
 
 ### The Knowledge
 
 The world is permeated with magic. But what is it fed by and what is its origin? This and other notions are classified as Knowledge. Often the discoveries concern mainly the ancient Askari race so for most people the Knowledge scholars are experts in pre-colonization cultures. In fact, the field of knowledge defined as Knowledge also covers other aspects, such as the creation of magical objects and new spells, alchemy and in general the perception of the Multiverse.
 
-Many people think that magic is the fabric that connects the world, a network that unites visible and invisible reality. The Askari have left the planet, but their trace survives among spells, rituals, magical constructs, Observers and Portals, structures of incredible ingenuity and not reproducible with current instruments. Much of the ancient culture is now lost in time and has assumed the name of Knowledge. The wise are convinced that playing with Knowledge is neither wise nor safe. Yet, there are always adventurers ready to dig the sands of the fiery deserts, or to explore the subsoil in search of lost powers and immense wealth.
-
 ## Organizations
 
-Life is short on Aumyr and every social relationship is crucial. For this reason, over the centuries, organizations have been created that can control and manage almost every aspect of daily life, from war to healing. Organizations are always looking for new members and some have the support of the Council, have offices in taverns and offer a variety of services, according to their skills. As payment they use some of the riches shared by the guild, after deduction of expenses. Other benefits can be obtained by rank and title.
+On Aumyr, life is short and every social relationship is crucial. For this reason, over the centuries, may organizations were created with the puropose to control and manage almost every aspect of everyday life, from war to healing. Organizations are always looking for new members and some are supported by the Council, have offices in the taverns and offer a variety of services, according to their expertise. As a payment for their members, they use some of the wealth shared by the guild, after deduction of expenses. Other benefits can be obtained depending on the rank and the benefits acquired.
 
 ### The Council
 
