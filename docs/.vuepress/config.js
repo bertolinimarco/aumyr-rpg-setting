@@ -2,13 +2,13 @@
 const autometa_options = {
   site: {
     name: "Aumyr",
-    twitter: "aumyrworld"
+    twitter: ""
   },
-  canonical_base: "https://aumyr-rpg-setting.netlify.com"
+  canonical_base: "https://www.aumyr.world"
 };
 // RSS Init
 const feed_options = {
-  canonical_base: "https://aumyr-rpg-setting.netlify.com"
+  canonical_base: "https://www.aumyr.world"
 };
 
 module.exports = {
@@ -22,62 +22,8 @@ module.exports = {
       {
         rel: "icon",
         type: "image-png",
-        sizes: "72x72",
-        href: "/favicon/icon-72x72.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "96x96",
-        href: "/favicon/icon-96x96.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "128x128",
-        href: "/favicon/icon-128x128.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "152x152",
-        href: "/favicon/icon-152x152.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "192x192",
-        href: "/favicon/icon-192x192.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "384x384",
-        href: "/favicon/icon-384x384.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
         sizes: "512x512",
-        href: "/favicon/icon-512x512.png"
+        href: "/icon-512x512.png"
       }
     ],
     ["meta", { name: "msapplication-TileColor", content: "#ffffff" }],
@@ -85,7 +31,7 @@ module.exports = {
       "meta",
       {
         name: "msapplication-TileImage",
-        content: "/favicon/ms-icon-144x144.png"
+        content: "/icon-512x512.png"
       }
     ],
     ["meta", { name: "theme-color", content: "#ffffff" }],
@@ -169,15 +115,21 @@ module.exports = {
   plugins: [
     ["autometa", autometa_options],
     ["feed", feed_options],
-    ["@vuepress/medium-zoom"],
-    ["@vuepress/back-to-top"],
     [
-      ("container",
+      "@vuepress/pwa",
       {
-        type: "image",
-        before: info => `<div class="image"><p class="title">${info}</p>`,
-        after: "</div>"
-      })
+        serviceWorker: true,
+        updatePopup: {
+          "/": {
+            message: "Nuovi contenuti disponibili",
+            buttonText: "Aggiorna"
+          },
+          "/en/": {
+            message: "New content is available",
+            buttonText: "Refresh"
+          }
+        }
+      }
     ],
     [
       "@vuepress/pwa",
@@ -194,6 +146,15 @@ module.exports = {
           }
         }
       }
+    ]["@vuepress/medium-zoom"],
+    ["@vuepress/back-to-top"],
+    [
+      ("container",
+      {
+        type: "image",
+        before: info => `<div class="image"><p class="title">${info}</p>`,
+        after: "</div>"
+      })
     ]
   ]
 };

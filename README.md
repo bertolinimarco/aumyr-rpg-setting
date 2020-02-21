@@ -22,6 +22,12 @@ Want to chat or contribute?
 
 ---
 
+Dev:
+
+`yarn install && yarn docs:dev`
+
+---
+
 ## Copyrights
 
 ### Text
