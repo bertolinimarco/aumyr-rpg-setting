@@ -22,10 +22,11 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Kessen](./kessen/)
 
-<!--
 - [Laangor](./laangor/)
 
 - [Laendil](./laendil/)
+
+<!--
 
 - [Laentas](./laentas/)
 
