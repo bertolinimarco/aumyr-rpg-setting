@@ -13,6 +13,9 @@ const feed_options = {
 
 module.exports = {
   cache: false,
+  markdown: {
+    extractHeaders: ["h2", "h3", "h4"]
+  },
   head: [
     [
       "link",
@@ -39,15 +42,6 @@ module.exports = {
         type: "image-png",
         sizes: "128x128",
         href: "/favicon/icon-128x128.png"
-      }
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "144x144",
-        href: "/favicon/icon-144x144.png"
       }
     ],
     [
