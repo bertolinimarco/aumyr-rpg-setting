@@ -30,9 +30,9 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Merosh](./merosh/)
 
-<!--
-
 - [Nordavind](./nordavind/)
+
+<!--
 
 - [Thanaros](./thanaros/)
 
