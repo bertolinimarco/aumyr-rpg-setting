@@ -86,8 +86,6 @@ E’ una città formatasi in seguito agli scambi e ai commerci tra Highpine, rag
 
 ### Raven's Cove
 
-![Raven's Cove](/images/map-ravens-cove.jpg)
-
 Se è vero che a Laangor non si trova criminalità rilevante, dipende dal fatto che è tutta concentrata in questa città. In antichità Raven’s Cove era un punto centrale di snodo per i messaggi provenienti da corvi o piccioni viaggiatori. Oggi è un punto di scambio dove è possibile trovare costantemente avventurieri pronti a morire per qualche cassa d’oro, ma anche tagliaborse e gente adatta per lavori poco puliti.
 
 ### Thoras

@@ -41,37 +41,37 @@ The capital is situated on a small hilly area in the middle of a river crossroad
 
 #### Districts
 
-#### People's Land
+##### People's Land
 
 The lands in the northern part of the city are assigned to the poor, the poor and all those who need subsistence through peasant activity. Usually, the problems are about drunken drunkenness and other minor crimes, as there is not much to steal in this area.
 
-#### Harvest District
+##### Harvest District
 
 This area is the center of agricultural and industrial activities in the region: each farmer is required to prepare the tithes to be paid to the city and in every place where you can see wagons full of goods towed through the streets covered with straw.
 
-#### The Two Springs
+##### The Two Springs
 
 It is the district of the new nobles and the rich of the area. It is called this because of the particular beauty of its streets and houses: those who live there feel that spring lasts longer than usual, while enjoying the surrounding landscape or cultivating their own field in the shade of large villas with flowering gardens. In this part of the city there are also most temples dedicated to Gods.
 
 #### Point of Interest
 
-#### Crossroads Island
+##### Crossroads Island
 
 The name of this small piece of land derives from the point of confluence of the River Mor and the River Ator. The island is little more than one point of passage, except in the case of a federal council, where it is closed to the public for the duration of the meeting. In this case, the two access points are closed and guarded.
 
-#### Great Granary
+##### Great Granary
 
 It is a solid, reinforced magical wood construction that acts as a warehouse for taxes and tithes imposed by the federal government. The structure extends for several meters above the surrounding land, dominating the entire southern part of the city.
 
-#### Sun Square
+##### Sun Square
 
 A large piece of yellowish and very fine land, very similar to coastal sand, is the largest square in town. It is thought that in the past this area was subject to a "reclamation" by some powerful spells, even if no one remembers precisely the reasons. It is now home to the city market, events, rallies and much more.
 
-#### Sunset Hill
+##### Sunset Hill
 
 The people of Aumar believe that through cremation the spirit reaches the peace of the gods in a more complete way, free from the burden of a mortal body. The hill is the place where the bodies of the inhabitants of the capital are created. For these reasons, a garrison of the Red Brotherhood is permanently stationed in Greymanor.
 
-#### Greymanor
+##### Greymanor
 
 Before the uprisings that saw the people rebellion against the old landowners, Greymanor was the center of organizational activity and economic power of the region. Now the structure is a huge mansion of stone converted into barracks, forges, lodgings, kitchens and other spaces dedicated to the representatives of the Council and the Red Brotherhood.
 

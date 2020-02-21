@@ -87,8 +87,6 @@ It is a city formed as a result of exchanges and trades between Highpine, which 
 
 ### Raven's Cove
 
-![Raven's Cove](/images/map-ravens-cove.jpg)
-
 If it is true that in Laangor criminality rate is low, it depends on the fact that it is all concentrated in this town. In ancient times, Raven's Cove was a central point of communication for messages from travelling ravens. Today it is an exchange point where you can constantly find adventurers ready to die for some gold coins, but also thieves and people suitable for illegal jobs.
 
 ### Thoras

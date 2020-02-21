@@ -34,11 +34,9 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Thanaros](./thanaros/)
 
-<!--
-
 - [Valdarn](./valdarn/)
 
-- [Zeitan](./zeitan/) -->
+- [Zeitan](./zeitan/)
 
 ## World Borders
 
