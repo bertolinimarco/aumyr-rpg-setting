@@ -191,6 +191,12 @@ Per proteggere al meglio il nuovo insediamento di Silverstone, unico punto di lu
 
 Nella zona dove sarebbe sorta la città di Elerin è possibile trovare un avamposto di pescatori costruito su un altro insediamento antico di probabile origine Askari, considerando i numerosi reperti ritrovati e catalogati dalla Società di Dorne.
 
+#### 397 EC
+
+##### L'avamposto Askari
+
+Nella zona di Elerin è possibile trovare un avamposto di pescatori costruito su un altro insediamento antico di probabile origine Askari, considerando i numerosi reperti ritrovati e catalogati dalla Società di Dorne.
+
 #### 513 EC
 
 ##### Trattato dell’Unione

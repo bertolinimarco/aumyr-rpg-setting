@@ -188,6 +188,12 @@ To better protect the new settlement of Silverstone, the only point of light wit
 
 In the area where the city of Elerin would have been built, it is possible to find a fishing outpost built on another ancient settlement probably of Askari origin, considering the numerous finds found and catalogued by the Dorne Society.
 
+#### 397 CE
+
+##### The Askari Outpost
+
+In the area of the city of Elerin, it is possible to find an outpost of fishermen built on another ancient settlement of probable Askari origin, considering the numerous finds found and catalogued by the Dorne Society.
+
 #### 513 CE
 
 ##### The Union Treaty
@@ -440,9 +446,15 @@ Day of the probable Lovers' Tragedy, a legend of Merosh that tells of betrayal a
 
 The first Organisation for Port and Merchant Control on Trade in the Sea of Night was born in Damodar, which later took the name of Consortium.
 
+#### 2088 CE
+
+##### The Expedition
+
+The last expedition to the southern borders of the world took place in this year. A fleet of a hundred ships departed from Silverstone with the blessing of the Gods and with supplies for many years of sailing. No one has returned yet.
+
 #### 2099 CE
 
-##### The fall of Pendor
+##### The Fall of Pendor
 
 The growing influx of new inhabitants of Viriana, attracted by new possibilities of life and trade, led the Thanaros government to abandon the Pendor Palaces and move permanently to Viriana. Most of the palaces of the old capital became unused: it is said that some were set on fire or destroyed by the owners themselves, for unknown reasons.
 

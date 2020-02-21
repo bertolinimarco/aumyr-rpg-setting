@@ -10,13 +10,13 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Dreamor](./dreamor/)
 
-<!--
 - [Faeland](./faeland/)
 
 - [Gwaldur](./gwaldur/)
 
 - [Inkari](./inkari/)
 
+<!--
 - [Jhert](./jhert/)
 
 - [Kartaren](./kartaren/)
@@ -43,7 +43,7 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 ### North
 
-To the north there is the Icy Sea and further on extends an unexplored territory known as Eternal Glaciers. No civilization has been reported in these lands, apart from a few sporadic fishing villages, expeditions by explorers or members of the Dorne Society. They tell of how the icy territory is actually another small continent, with its own story, yet to be discovered.
+To the north there is the Frozen Sea and further on extends an unexplored territory known as Eternal Glaciers. No civilization has been reported in these lands, apart from a few sporadic fishing villages, expeditions by explorers or members of the Dorne Society. They tell of how the icy territory is actually another small continent, with its own story, yet to be discovered.
 
 ### South
 
@@ -62,9 +62,11 @@ Several testimonies confirm how a night in 1989 CE, a strange ship with folded a
 Aumyr has 4 main seas, all of which are part of a single mass of water known as the Infinite Ocean.
 However, only a few individuals use this name, as almost no one venture beyond the horizon of the continent. Frontier territories are treated with immense respect and fear, at least by the most wise.
 
-#### Mare del Tramonto
+#### Sunset Sea
 
-Il Mare del Tramonto, è una vasta distesa infinita di acqua cristallina, che segna il confine est di Aumyr. O così riferiscono coloro che sono tornati su Aumyr dopo anni di viaggi per mare, senza mai incontrare un approdo. I pochi che sono sopravvissuti sono tornati con strane manie dovute probabilmente alla loro lunga permanenza solitaria nel mare. L’ultima spedizione verso i confini meridionali del mondo è avvenuta nel 2088 CE. Uno stormo di cento navi partì da Silverstone con la benedizione degli dei e con provviste per molti anni di navigazione. Ad oggi nessuno ha fatto ritorno.
+::: warning
+This entry is not yet completed.
+:::
 
 #### Night Sea
 
