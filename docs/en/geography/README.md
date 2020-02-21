@@ -18,11 +18,11 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Jhert](./jhert/)
 
-<!--
 - [Kartaren](./kartaren/)
 
 - [Kessen](./kessen/)
 
+<!--
 - [Laangor](./laangor/)
 
 - [Laendil](./laendil/)
