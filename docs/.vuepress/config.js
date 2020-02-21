@@ -114,8 +114,8 @@ module.exports = {
     locales: {
       "/": {
         repoLabel: "Contribuisci",
-        selectText: "Lingua",
-        label: "Italiano",
+        selectText: "🇮🇹",
+        label: "🇮🇹 (Italiano)",
         lastUpdated: "Ultimo aggiornamento",
         editLinkText: "Modifica pagina su GitHub",
         nav: [
@@ -139,8 +139,8 @@ module.exports = {
       },
       "/en/": {
         repoLabel: "Contribute",
-        selectText: "Language",
-        label: "English",
+        selectText: "🇬🇧",
+        label: "🇬🇧 (English)",
         lastUpdated: "Last Updated",
         editLinkText: "Edit this page on GitHub",
         nav: [

@@ -104,7 +104,7 @@ Su Aumyr non vi è una sede fissa della Fede, in quanto nel tempo si sono format
 
 Su Aumyr è raro incontrare un sacerdote della Fede Primordiale in luoghi civilizzati, piuttosto può capitare di imbattersi in uno di loro se si viaggia attraverso luoghi antichi e intrisi di magia naturale. Spesso si tratta di solitari ma cordiali eremiti disposti ad aiutare chi ne ha bisogno. Per questo è generalmente riconosciuto dalla popolazione che un druido o uno sciamano siano di buon cuore, dato il loro legame con la Magia Primeva, associata all’equilibrio della Natura e al bene. Tuttavia, alcune dicerie suggeriscono che all'interno della Palude Nera si celi la dimora di un Circolo di Drudi con intenti misteriosi, praticanti rituali blasfemi e crudeli e oscuri sacrifici.
 
-### Figli di Hardon
+### Figli di Hardon
 
 I Figli di Hardon costituiscono una compagnia di guerrieri formata da ex soldati, potenti condottieri, barbari e in generale gente che ha dedicato la propria vita alle arti di combattimento. Svolgono varie funzioni come guardie, scorte (alcuni di loro sono membri anche delle Spade Crociate e di altre compagnie) e dietro compenso possono insegnare le basi della guerra anche a chi non ha mai tenuto in mano una spada. I Figli di Hardon sono un’organizzazione uniti da uno spirito di appartenenza comune, forgiata dal fuoco di mille battaglie. Sono generalmente di allineamento legale.
 
