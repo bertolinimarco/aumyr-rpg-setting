@@ -14,18 +14,88 @@ const feed_options = {
 module.exports = {
   cache: false,
   head: [
-    ["link", {rel: "icon", type: "image-png", sizes: "72x72", href: "/favicon/icon-72x72.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "96x96", href: "/favicon/icon-96x96.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "128x128", href: "/favicon/icon-128x128.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "144x144", href: "/favicon/icon-144x144.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "152x152", href: "/favicon/icon-152x152.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "192x192", href: "/favicon/icon-192x192.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "384x384", href: "/favicon/icon-384x384.png"}],
-    ["link", {rel: "icon", type: "image-png", sizes: "512x512", href: "/favicon/icon-512x512.png"}],
-    ["meta", {name: "msapplication-TileColor", content: "#ffffff"}],
-    ["meta", {name: "msapplication-TileImage", content: "/favicon/ms-icon-144x144.png"}],
-    ["meta", {name: "theme-color", content: "#ffffff"}],
-    ["link", {rel: "manifest", href: "/manifest.json"}]
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "72x72",
+        href: "/favicon/icon-72x72.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "96x96",
+        href: "/favicon/icon-96x96.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "128x128",
+        href: "/favicon/icon-128x128.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "144x144",
+        href: "/favicon/icon-144x144.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "152x152",
+        href: "/favicon/icon-152x152.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "192x192",
+        href: "/favicon/icon-192x192.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "384x384",
+        href: "/favicon/icon-384x384.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image-png",
+        sizes: "512x512",
+        href: "/favicon/icon-512x512.png"
+      }
+    ],
+    ["meta", { name: "msapplication-TileColor", content: "#ffffff" }],
+    [
+      "meta",
+      {
+        name: "msapplication-TileImage",
+        content: "/favicon/ms-icon-144x144.png"
+      }
+    ],
+    ["meta", { name: "theme-color", content: "#ffffff" }],
+    ["link", { rel: "manifest", href: "/manifest.json" }]
   ],
   locales: {
     "/": {
@@ -55,20 +125,20 @@ module.exports = {
         lastUpdated: "Ultimo aggiornamento",
         editLinkText: "Modifica pagina su GitHub",
         nav: [
-          {text: "Home", link: "/"},
-          {text: "Geografia", link: "/geography/"},
-          {text: "Società", link: "/society/"},
-          {text: "Cronologia", link: "/chronology/"},
-          {text: "Multiverso", link: "/multiverse/"},
-          {text: "Divinità", link: "/dieties/"},
+          { text: "Home", link: "/" },
+          { text: "Geografia", link: "/geography/" },
+          { text: "Società", link: "/society/" },
+          { text: "Cronologia", link: "/chronology/" },
+          { text: "Multiverso", link: "/multiverse/" },
+          { text: "Divinità", link: "/dieties/" },
           {
             text: "Almanacco",
             items: [
-              {text: "Idee e Trame", link: "/almanac/adventures/"},
-              {text: "Creature", link: "/almanac/creatures/"},
-              {text: "Oggetti", link: "/almanac/items/"},
-              {text: "Personaggi", link: "/almanac/characters/"},
-              {text: "World", link: "https://atlas.aumyr.world"}
+              { text: "Idee e Trame", link: "/almanac/adventures/" },
+              { text: "Creature", link: "/almanac/creatures/" },
+              { text: "Oggetti", link: "/almanac/items/" },
+              { text: "Personaggi", link: "/almanac/characters/" },
+              { text: "World", link: "https://atlas.aumyr.world" }
             ]
           }
         ]
@@ -80,20 +150,20 @@ module.exports = {
         lastUpdated: "Last Updated",
         editLinkText: "Edit this page on GitHub",
         nav: [
-          {text: "Home", link: "/en/"},
-          {text: "Geography", link: "/en/geography/"},
-          {text: "Society", link: "/en/society/"},
-          {text: "Chronology", link: "/en/chronology/"},
-          {text: "Multiverse", link: "/en/multiverse/"},
-          {text: "Dieties", link: "/en/dieties/"},
+          { text: "Home", link: "/en/" },
+          { text: "Geography", link: "/en/geography/" },
+          { text: "Society", link: "/en/society/" },
+          { text: "Chronology", link: "/en/chronology/" },
+          { text: "Multiverse", link: "/en/multiverse/" },
+          { text: "Dieties", link: "/en/dieties/" },
           {
             text: "Almanac",
             items: [
-              {text: "Ideas and Plots", link: "/en/almanac/adventures/"},
-              {text: "Creatures", link: "/en/almanac/creatures/"},
-              {text: "Items", link: "/en/almanac/items/"},
-              {text: "NPCs", link: "/en/almanac/characters/"},
-              {text: "World", link: "https://atlas.aumyr.world"}
+              { text: "Ideas and Plots", link: "/en/almanac/adventures/" },
+              { text: "Creatures", link: "/en/almanac/creatures/" },
+              { text: "Items", link: "/en/almanac/items/" },
+              { text: "NPCs", link: "/en/almanac/characters/" },
+              { text: "World", link: "https://atlas.aumyr.world" }
             ]
           }
         ]
@@ -114,6 +184,22 @@ module.exports = {
         before: info => `<div class="image"><p class="title">${info}</p>`,
         after: "</div>"
       })
+    ],
+    [
+      "@vuepress/pwa",
+      {
+        serviceWorker: true,
+        updatePopup: {
+          "/": {
+            message: "Nuovi contenuti disponibili",
+            buttonText: "Aggiorna"
+          },
+          "/en/": {
+            message: "New content is available",
+            buttonText: "Refresh"
+          }
+        }
+      }
     ]
   ]
 };
