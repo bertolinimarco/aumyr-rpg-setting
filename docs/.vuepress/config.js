@@ -17,25 +17,8 @@ module.exports = {
     extractHeaders: ["h2", "h3", "h4"]
   },
   head: [
-    [
-      "link",
-      {
-        rel: "icon",
-        type: "image-png",
-        sizes: "512x512",
-        href: "/icon-512x512.png"
-      }
-    ],
-    ["meta", { name: "msapplication-TileColor", content: "#ffffff" }],
-    [
-      "meta",
-      {
-        name: "msapplication-TileImage",
-        content: "/icon-512x512.png"
-      }
-    ],
-    ["meta", { name: "theme-color", content: "#ffffff" }],
-    ["link", { rel: "manifest", href: "/manifest.json" }]
+    ["link", { rel: "manifest", href: "/manifest.json" }],
+    ["link", { rel: "icon", href: "/icon-512x512.png" }]
   ],
   locales: {
     "/": {
