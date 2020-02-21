@@ -26,11 +26,11 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Laendil](./laendil/)
 
-<!--
-
 - [Laentas](./laentas/)
 
 - [Merosh](./merosh/)
+
+<!--
 
 - [Nordavind](./nordavind/)
 
