@@ -1,6 +1,10 @@
 {
   "name": "Aumyr World",
   "short_name": "Aumyr",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2196f3",
   "icons": [
     {
       "src": "/assets/favicon/icon-72x72.png",
@@ -42,9 +46,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#2196f3"
+  ]
 }

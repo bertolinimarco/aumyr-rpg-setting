@@ -22,7 +22,8 @@ module.exports = {
       "link",
       { rel: "apple-touch-icon", href: "/assets/favicon/icon-180x180.png" }
     ],
-    ["link", { rel: "icon", href: "/assets/favicon/icon-512x512.png" }]
+    ["link", { rel: "icon", href: "/assets/favicon/icon-512x512.png" }],
+    ["meta", { name: "theme-color", content: "#2196f3" }]
   ],
   locales: {
     "/": {
