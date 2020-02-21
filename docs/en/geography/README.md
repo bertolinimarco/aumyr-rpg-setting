@@ -16,9 +16,9 @@ Aumyr has a long story before the Common Era, although most people don't want to
 
 - [Inkari](./inkari/)
 
-<!--
 - [Jhert](./jhert/)
 
+<!--
 - [Kartaren](./kartaren/)
 
 - [Kessen](./kessen/)
