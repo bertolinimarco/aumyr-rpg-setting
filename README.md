@@ -18,7 +18,7 @@ Want to chat or contribute?
 
 [Join our Discord Server](https://discord.gg/HP9bA4Z)
 
-[![Discord Server](https://img.shields.io/discord/575987423893258250.svg)](https://img.shields.io/discord/575987423893258250.svg)
+[![Discord Server](https://img.shields.io/discord/575987423893258250.svg?logo=discord&logoColor=white)](https://img.shields.io/discord/575987423893258250.svg)
 
 ---
 
