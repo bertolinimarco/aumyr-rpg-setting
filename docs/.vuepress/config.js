@@ -2,40 +2,40 @@
 const autometa_options = {
   site: {
     name: "Aumyr",
-    twitter: ""
+    twitter: "",
   },
-  canonical_base: "https://www.aumyr.world"
+  canonical_base: "https://www.aumyr.world",
 };
 // RSS Init
 const feed_options = {
-  canonical_base: "https://www.aumyr.world"
+  canonical_base: "https://www.aumyr.world",
 };
 
 module.exports = {
   cache: false,
   markdown: {
-    extractHeaders: ["h2", "h3", "h4"]
+    extractHeaders: ["h2", "h3", "h4"],
   },
   head: [
     ["link", { rel: "manifest", href: "/manifest.json" }],
     [
       "link",
-      { rel: "apple-touch-icon", href: "/assets/favicon/icon-180x180.png" }
+      { rel: "apple-touch-icon", href: "/assets/favicon/icon-180x180.png" },
     ],
     ["link", { rel: "icon", href: "/assets/favicon/icon-512x512.png" }],
-    ["meta", { name: "theme-color", content: "#2196f3" }]
+    ["meta", { name: "theme-color", content: "#2196f3" }],
   ],
   locales: {
     "/": {
       lang: "it-IT",
       title: "Aumyr",
-      description: "Ambientazione Fantasy per Giochi di Ruolo"
+      description: "Ambientazione Fantasy per Giochi di Ruolo",
     },
     "/en/": {
       lang: "en-US",
       title: "Aumyr",
-      description: "Fantasy Setting for Roleplaying Games"
-    }
+      description: "Fantasy Setting for Roleplaying Games",
+    },
   },
 
   // Theme Config
@@ -66,10 +66,9 @@ module.exports = {
               { text: "Creature", link: "/almanac/creatures/" },
               { text: "Oggetti", link: "/almanac/items/" },
               { text: "Personaggi", link: "/almanac/characters/" },
-              { text: "World", link: "https://atlas.aumyr.world" }
-            ]
-          }
-        ]
+            ],
+          },
+        ],
       },
       "/en/": {
         repoLabel: "Contribute",
@@ -91,12 +90,11 @@ module.exports = {
               { text: "Creatures", link: "/en/almanac/creatures/" },
               { text: "Items", link: "/en/almanac/items/" },
               { text: "NPCs", link: "/en/almanac/characters/" },
-              { text: "World", link: "https://atlas.aumyr.world" }
-            ]
-          }
-        ]
-      }
-    }
+            ],
+          },
+        ],
+      },
+    },
   },
 
   // Plugins
@@ -110,14 +108,14 @@ module.exports = {
         updatePopup: {
           "/": {
             message: "Nuovi contenuti disponibili",
-            buttonText: "Aggiorna"
+            buttonText: "Aggiorna",
           },
           "/en/": {
             message: "New content is available",
-            buttonText: "Refresh"
-          }
-        }
-      }
+            buttonText: "Refresh",
+          },
+        },
+      },
     ],
     [
       "@vuepress/pwa",
@@ -126,23 +124,23 @@ module.exports = {
         updatePopup: {
           "/": {
             message: "Nuovi contenuti disponibili",
-            buttonText: "Aggiorna"
+            buttonText: "Aggiorna",
           },
           "/en/": {
             message: "New content is available",
-            buttonText: "Refresh"
-          }
-        }
-      }
+            buttonText: "Refresh",
+          },
+        },
+      },
     ]["@vuepress/medium-zoom"],
     ["@vuepress/back-to-top"],
     [
       ("container",
       {
         type: "image",
-        before: info => `<div class="image"><p class="title">${info}</p>`,
-        after: "</div>"
-      })
-    ]
-  ]
+        before: (info) => `<div class="image"><p class="title">${info}</p>`,
+        after: "</div>",
+      }),
+    ],
+  ],
 };
