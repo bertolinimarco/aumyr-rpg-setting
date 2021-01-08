@@ -445,7 +445,13 @@ Data della probabile Tragedia degli Amanti, una leggenda di Merosh che narra di 
 
 Nasce a Damodar la prima Organizzazione per il Controllo Portuale e Mercantile sul Commercio nel Mare della Notte, che in seguito prenderà il nome di Consorzio.
 
-#### 2099 EC
+#### 2088 CE
+
+##### La Spedizione
+
+L'ultima spedizione verso i confini sud del mondo conosciuto ha avuto luogo in questo anno. Una flotta di centinaia di navi parte da Silverstone, con la benedizione degli dèi, piena di provviste per molti anni di navigazione. Ad oggi nessuno risulta mai tornato.
+
+#### 2099 CE
 
 ##### La caduta di Pendor
 

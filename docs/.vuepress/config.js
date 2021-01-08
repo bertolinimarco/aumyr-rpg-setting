@@ -29,12 +29,14 @@ module.exports = {
     "/": {
       lang: "it-IT",
       title: "Aumyr",
-      description: "Ambientazione Fantasy per Giochi di Ruolo",
+      description:
+        "Ambientazione Fantasy per Giochi di Ruolo. Centinaia di idee per le tue avventure e campagne.",
     },
     "/en/": {
       lang: "en-US",
       title: "Aumyr",
-      description: "Fantasy Setting for Roleplaying Games",
+      description:
+        "Fantasy Setting for Roleplaying Games. Hundreds of ideas for your adventures and campaigns.",
     },
   },
 
