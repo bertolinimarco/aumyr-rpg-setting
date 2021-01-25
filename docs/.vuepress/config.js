@@ -119,30 +119,7 @@ module.exports = {
         },
       },
     ],
-    [
-      "@vuepress/pwa",
-      {
-        serviceWorker: true,
-        updatePopup: {
-          "/": {
-            message: "Nuovi contenuti disponibili",
-            buttonText: "Aggiorna",
-          },
-          "/en/": {
-            message: "New content is available",
-            buttonText: "Refresh",
-          },
-        },
-      },
-    ]["@vuepress/medium-zoom"],
+    ["@vuepress/medium-zoom", { selector: ".content__default img" }],
     ["@vuepress/back-to-top"],
-    [
-      ("container",
-      {
-        type: "image",
-        before: (info) => `<div class="image"><p class="title">${info}</p>`,
-        after: "</div>",
-      }),
-    ],
   ],
 };
