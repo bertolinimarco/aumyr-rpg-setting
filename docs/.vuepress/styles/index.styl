@@ -13,6 +13,23 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Asul', sans-serif;
 }
 
+::-webkit-scrollbar
+{
+  width: 7px;  /* for vertical scrollbars */
+  height: 7px; /* for horizontal scrollbars */
+}
+
+::-webkit-scrollbar-track
+{
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb
+{
+  background: rgba(0, 0, 0, 0.1);
+  border-radius:4px;
+}
+
 // Header
 header.navbar {
 	border: 0;
@@ -215,6 +232,9 @@ main.page {
 
 svg.go-to-top {
 	color: #775200 !important;
+	padding:14px 10px;
+	background: rgba(0,0,0,.1);
+	width:14px !important;
 }
 
 // Responsive

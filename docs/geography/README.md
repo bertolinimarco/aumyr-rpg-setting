@@ -335,5 +335,5 @@ Si tratta di un avamposto che costituisce l’ingresso principale alle miniere d
 
 Si tratta di un complesso di tunnel e stanze circolari scavate con un metodo sconosciuto. Le pareti sono perfettamente lisce e sembrano essere costituite di pietra dura. All’interno vi dimorano strani costrutti e creature senzienti del sottosuolo. La magia delle camere viene alimentata tramite cristalli posti sui soffitti, o sui pavimenti della stanza.
 
-#### Rovine della Città Splendente
+#### Rovine della Città Splendente
 Il cuore di Zimara, una città Askari costruita nel centro di una grande grotta sotterranea. É possibile trovare minerali rari e leggendari, a patto di riuscire a sopravvivere in un dungeon immenso popolato da orridi abomini, spore, costrutti fatti di cristalli e gemme e altri pericoli. Si dice infatti che una creatura dai poteri psichici abbia preso il controllo di molte creature.
