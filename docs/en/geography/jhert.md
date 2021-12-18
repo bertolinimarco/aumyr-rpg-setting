@@ -24,7 +24,7 @@ Traditionally, the region is devoted to Melian. Many of its temples are located 
 
 ### Silversone
 
-![Silversone ](/images/map-silverstone.jpg)
+![Silversone ](/images/map-silverstone-en.jpg)
 
 This coastal city is home to the majority of the population escaped from the Dead Islands after the 110 CE disaster. It is surrounded by a network of monoliths called the Veiled Runes that protect the city from the attacks of the undead. The inhabitants fear that the city may still be the object of impious incursions. In this regard, a garrison of the Red Brotherhood has long since settled in the capital.
 

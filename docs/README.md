@@ -32,7 +32,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt
     <div class="card-body">
     <h3>Community</h3>
     <p>
-    <strong>Server Discord</strong><br>Entra nella Community e discuti di Aumyr e tanto altro!
+    <strong>Server Discord</strong><br>Entra nella Community e discuti di Aumyr e tanto altro! C'è anche <a href="/avonder" class="avonder">Avonder!</a>
     </p>
     <a href="https://discord.gg/HP9bA4Z" target="_blank" rel="noopener"><img src="/assets/icons/icon-discord.svg" style="height:20px;display:inline-block;vertical-align:middle;margin-right:8px;">Entra</a>
     </div>

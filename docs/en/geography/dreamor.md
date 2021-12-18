@@ -24,7 +24,7 @@ Five Worship (Hardon, Melian, Normod, Vel-Shar, Savas), including the Great Fath
 
 ### Fivestar
 
-![Fivestar](/images/map-fivestar.jpg)
+![Fivestar](/images/map-fivestar-en.jpg)
 
 Legend has it that the town of Fivestar now rises at the exact point where the Five arrived on Aumyr. Fivestar is the world's largest known city, with its large temples, ancient towers and ancient palaces, nestled in a lava rock promontory in the middle of the Night Sea.
 
