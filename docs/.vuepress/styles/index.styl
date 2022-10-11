@@ -120,15 +120,16 @@ aside.sidebar .sidebar-heading span {
 .is--homepage .navbar .links {
 	background: none;
 }
-
+.home {max-width:1280px !important;}
 .home-links {text-align:center;padding:20px 0;margin-top:40px;}
 .home-links a + a {margin:20px;}
 .home-links a {box-shadow:0 3px 4px rgba(0,0,0,0.1);padding: 12px 40px;display:inline-block;font-size: 16px;color: #333;background-color: #fff;padding: 0.8rem 1.6rem;border-radius: 4px;transition:.3s ease-in-out all;}
 .home-links a:hover {box-shadow:none;transition:.3s ease-in-out all;}
 .home-features {margin-top:70px;display: flex;flex-wrap: wrap;align-items: flex-start;align-content: stretch;justify-content: space-between;}
-.home-features .card {border-radius:4px;background:#fff;flex-grow: 1;flex-basis: 33%;max-width: 33%;}
-.home-features .card h3 {color:#966800;border-bottom:1px solid #eee;padding-bottom:10px;font-size:24px;}
+.home-features .card {border-radius:4px;background:#fff;flex-grow: 1;flex-basis: 33%;max-width: 24%;min-height:230px;box-shadow:0 2px 6px rgba(119, 82, 0, .1);}
+.home-features .card h3 {color:#966800;padding-bottom:5px;font-size:24px;}
 .home-features .card .card-body {padding:20px;}
+.home-features .card.is-comingsoon {opacity:.5;}
 .home-features .card a:not(.avonder) {color:#000;background:#f1f1f1;border-radius:4px;padding:8px 16px;display:inline-block;}
 .home-features .card p {font-size:15px;}
 .home-features .card p strong {font-size:18px;}

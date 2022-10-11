@@ -25,7 +25,7 @@ Melian (Air domain) and Savas (Water domain) make up the bulk of the population'
 
 ### Damodar
 
-![Damodar](/images/map-damodar.jpg)
+![Damodar](/images/map-damodar-en.jpg)
 
 The Port on the Splendent Coast is a kaleidoscope of colors and structures typical of a large merchant outpost. From the Sea Court to the West Gate, Damodar has always been the background of many adventures and stories. Many people think that it is the second most populated city on the continent, just after Fivestar. The city is also the symbol of the naval power of the Consortium, an association that has helped to shape its current appearance.
 

@@ -25,7 +25,7 @@ Laangor worships the Fives and Native Gods and only rarely the temples are dedic
 
 ### Highpine
 
-![Highpine](/images/map-highpine.jpg)
+![Highpine](/images/map-highpine-en.jpg)
 
 The name of the capital derives from the name of the last great family, now decayed. The Highpine House were a powerful dynastic family that ruled the Laangor for many years, before being overwhelmed by the decline of the noble regime and the subsequent political transformation of the region's culture. Today the Castle is the residence of the nobles and seat of the Assembly, a fabulous fortress still largely unexplored and towering on the surrounding landscape, formed by the city itself, with its rich neighborhoods and the numerous cultivated fields of the surrounding farms.
 

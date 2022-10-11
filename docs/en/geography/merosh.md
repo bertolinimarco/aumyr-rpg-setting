@@ -24,7 +24,7 @@ All Gods are worshiped in Merosh, but only recently the Parliament has begun inv
 
 ### Veloras
 
-![Veloras](/images/map-veloras.jpg)
+![Veloras](/images/map-veloras-en.jpg)
 
 Entering Veloras via the wide foothill road, you get the impression that you are in one of the most beautiful places in the region. The view of the Falls, omnipresent for those who travel along the road climbing towards the city centre, is astonishing and the entire landscape seems to be a painting just designed by a talented artist. The city is often punctuated by small kiosks and many visitors: commercial activities compete on how to get extra coins from the next customer. Crime is rampant, especially in the west of the coast, despite the fact that the city guard is constantly monitoring.
 

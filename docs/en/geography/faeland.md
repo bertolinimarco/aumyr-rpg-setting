@@ -25,7 +25,7 @@ The region worships the Fives and all religions (except for the chaotic ones, su
 
 ### Elerin
 
-![Elerin](/images/map-elerin.jpg)
+![Elerin](/images/map-elerin-en.jpg)
 
 Elerin is known as the "Mirror City". The octagon structure contains the large "Nucleus", a fortified circular structure in the middle. This area is also the city centre where commercial activities are located. The "mirror" is an illusion that one feels when one looks at the city from the top of the nearby mountains: if one were ideally to divide in half and overlap the two sides of the city, one part would be perfectly coincident with the other half, almost as if they were two duplicate parts. In the taverns of some bards, they are often asked to sing "The Two Faces", a sort of philosophical poem about the importance of equity.
 

@@ -24,7 +24,7 @@ In Thanaros, all the Gods are adored. Due to the presence of numerous tribes far
 
 ### Pendor (The Old City)
 
-![Name](/images/map-pendor.jpg)
+![Name](/images/map-pendor-en.jpg)
 
 The old capital of Thanaros represents a triumph of architecture from the past: palaces with soft curved lines, decorated spires, fountains with a refined style and decorations made by expert hands are very common visions throughout this old capital. Worthy of note is the popular district, recently the target of restoration and characterized by a flourishing trade. Today almost all government buildings are empty or converted into sumptuous palaces for nobles or merchants.
 
@@ -76,7 +76,7 @@ At every hour of the day and night you can see a row of people trying to buy som
 
 ### Viriana (Capital)
 
-![Name](/images/map-viriana.jpg)
+![Name](/images/map-viriana-en.jpg)
 
 Viriana, the new capital of Thanaros, is located on the shores of the crystal clear waters of the gulf from which it takes its name. Rebuilt in this area to better guard the region, encouraging trade with the easier caravan route to the north, Viriana is the result of a joint architectural project between various races and along one of its streets you can come across buildings similar to those of the cities of the north, or low, flat-roofed houses typical of the south. Most of the most important buildings, however, take their shape from the large round roof used in Pendor.
 

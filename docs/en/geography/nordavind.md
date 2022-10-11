@@ -25,7 +25,7 @@ The Nordavind knows the Fives, but most believers prefer to pay tribute to Hardo
 
 ### Dunmere
 
-![Dunmere](/images/map-dunmere.jpg)
+![Dunmere](/images/map-dunmere-en.jpg)
 
 The city is a large settlement of steep and pointed rooftop houses, an oasis of civilization in the wild mountains. Situated in a natural gorge that protects it from the raids of most nearby mountain creatures, in Dunmere people focus on farming and hunting, but also fighting in public arenas to prove their worth, trade or simply drink mead.
 

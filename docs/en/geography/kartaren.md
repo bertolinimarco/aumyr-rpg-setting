@@ -24,7 +24,7 @@ The region believes in the Fives, but the majority of the population relies on H
 
 ### Kartar
 
-![Kartar ](/images/map-kartar.jpg)
+![Kartar ](/images/map-kartar-en.jpg)
 
 The capital of Kartaren is situated at a crossroads and plays an important role in trade with the surrounding regions. In the center of the city you can find the Fortress, the palace of government. Very well defended, the Keep is one of the most guarded places in the region: escaping from its underground prisons is a feat even for the best thieves across the continent.
 

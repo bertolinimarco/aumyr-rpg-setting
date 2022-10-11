@@ -24,7 +24,7 @@ The population worships all the Gods, but in this region there are higher percen
 
 ### Nordur
 
-![Nordur](/images/map-nordur.jpg)
+![Nordur](/images/map-nordur-en.jpg)
 
 Also known as the "City on the Stakes" or "The Suspended City", Nordur is a large settlement populated mainly by half-elves, halflings and mixed races. It is formed by large barges connected to each other and suspended on the swamp with stilts and large old trunks. Given the impervious nature of the terrain that prevents any attack by land, there are no outer walls and in the annals there is no trace of any relevant event of attack on the city. The rich population is concentrated in the city centre, leaving the poor on the outskirts of the city to form a dilapidated barracks area called "The District", which is also the true heart of the city.
 
