@@ -38,39 +38,39 @@ Pendor, la Vecchia capitale di Thanaros, rappresenta un trionfo di architettura 
 
 - **1897 EC** Un gruppo di avventurieri trova e distrugge il covo della Setta dei Sussurri, un dedalo di camere piene di serpenti ed altre creature innominabili. Si scopre che la sua influenza fu così grande da arrivare a corrompere gli stessi rappresentanti del governo. L’anno successivo viene eletto un nuovo gruppo di Anziani, in base alla volontà popolare.
 
-#### Distretti
+### Distretti
 
-##### Quartiere delle Danze
+#### Quartiere delle Danze
 
 Il distretto è stato oggetto di un recente restauro sia territoriale che commerciale. Gran parte del popolo abita ancora tra le sue strette vie piene da case basse di pietra. Un tempo ospitava le case popolari e le baracche degli schiavi e dei gladiatori dell’arena, taverne e famose case di piacere.
 
-##### Vicoli delle Ombre
+#### Vicoli delle Ombre
 
 A dispetto del loro nome, i vicoli ospitano la classe media della società. Vengono chiamati così per via di una potente gilda di assassini che una volta trovava riparo tra le sue strade tortuose. Oggi la gilda è scomparsa da tempo e il suo quartier generale sotterraneo è stato convertito in un santuario dedicato a Hardon.
 
-##### La Piazza Dimenticata
+#### La Piazza Dimenticata
 
 Un tempo la zona ospitava il centro cittadino. L’area fu poi teatro di una misteriosa esplosione magica che fece comparire alcune vene d’oro puro nel terreno circostante. Subito la zona venne assaltata e scavata in poco tempo: la gente iniziò a costruire casa qui nella speranza di poter scavare indisturbata nel proprio terreno. Qualche anno dopo le abitazioni costituiscono un quartiere vero e proprio e il centro cittadino viene trasferito al Palazzo di Vetro.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Pozzo del Sangue
+#### Pozzo del Sangue
 
 C’è stato un tempo in cui eroi, gladiatori, bestie e schiavi combattevano sia per il proprio piacere che per il popolo di Pendor. Ora il Pozzo è una gigantesca cumulo di macerie nerastre a cielo aperto. Le sue stanze sotterranee sono infestate da spiriti e oscure presenze, rese potenti e tormentate da centinaia di anni di violenza, uccisioni e massacri.
 
-##### Rifugio della Mente
+#### Rifugio della Mente
 
 Uno strano complesso sotterraneo funge da base per un culto di natura neutrale dedito a pratiche divinatorie e psichiche chiamato Setta delle Sussurri. L’accesso è costituito da un’anonima architrave che ospita un portale attivabile dagli appartenenti al culto. Costoro possiedono la capacità di sondare le menti e i ricordi di una creatura vivente. Si pensa che gran parte dei vecchi schiavisti abbia fatto parte del culto e i più paranoici credono che nel profondo delle caverne del sotterraneo vengano praticati rituali segreti.
 
-##### Il Palazzo di Vetro
+#### Il Palazzo di Vetro
 
 Si tratta di una grande piramide a base triangolare costitutita da lastre di vetro traslucido e divisa al suo interno in diversi piani. Si possono trovare templi, abitazioni nobiliari, attività commerciali e uno splendido giardino interno. L’ambiente è diverso rispetto all’esterno: aria fresca, temperatura ideale e una generale sensazione di benessere portano molti visitatori a trascorrere intere giornate al suo interno. I piani superiori della piramide sono accessibili solo alle personalità più importanti della città.
 
-##### Minareto Stellato
+#### Minareto Stellato
 
 Questo palazzo si trova in un angolo della capitale, spesso ignorato da tutti i visitatori per via della sua funzione: punto di ritrovo per vecchi maghi e avventurieri. La zona, malgrado il suo aspetto ordinario, è protetta da potenti magie. Gli incantesimi di trasporto, divinazione e individuazione non funzionano. Nella struttura si entra solo su invito e nessuno sa come sia organizzata all’interno.
 
-##### La Fiala Eterea
+#### La Fiala Eterea
 
 Ad ogni ora del giorno e della notte è possibile vedere una fila di persone che tentano di acquistare qualche pozione in questa bottega alchemica. Si dice che il proprietario conosca dei metodi per rendere permanenti alcuni effetti derivati dalle pozioni. In realtà egli possiede una conoscenza profonda datagli da un antico e misterioso tomo che trovò quando era un avventuriero.
 
@@ -92,37 +92,37 @@ Viriana, la Nuova capitale di Thanaros sorge sulle sponde del Golfo dalle acque 
 
 #### Distretti
 
-##### Riserva degli Antichi
+#### Riserva degli Antichi
 
 Si tratta di una territorio protetto dei nativi. Si trova sulla cima di un monte di sabbia rossastra e l’ingresso è vietato a tutti tranne che a nativi. L’intera area è protetta da mura perimetrali e campi di forza simili ad una grande cupola. Il controllo del perimetro è affidato ai nativi stessi che ne difendono gli accessi. Nessuno entra nella riserva a meno che non venga espressamente invitato o scortato all’interno da un membro di essa, e gli stranieri non vengono visti di buon occhio.
 
-##### Grotte Grigie
+#### Grotte Grigie
 
 Il porto è costituito da una serie di passaggi e di grotte nella parte ovest della città. Qui attraccano sia pescherecci e navi da battaglia: numerose case possiedono un piccolo ascensore interno per trasferire le merci dai tunnel delle grotte alle botteghe soprastanti. Il mercato nero si trova principalmente in questa zona e gli scambi avvengono nottetempo negli anfratti delle grotte.
 
-##### Distretto della Polvere
+#### Distretto della Polvere
 
 Il vento ha trascinato fino qui la sabbia delle Distese del Vuoto, formando nel tempo una terra dura, riarsa e compatta. Le case di fango, argilla e pietra sono disposte una sull’altra, formando strane strutture a volte piramidali. Qui si concentra la maggior parte degli abitanti di Viriana. Tra le sue strade è possibile visitare templi, botteghe, artigiani, locande, case di piacere e perfino la sede del governo, il Teatro dei Dieci.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Teatro dei Dieci
+#### Teatro dei Dieci
 
 Così chiamato per via del suo grande cortile ovale posto al centro della città, il palazzo è la sede dei Dieci Anziani. Ogni torre contiene uno spazio progettato per rispecchiare ognuno dei dieci principi cardine del governo e delle leggi della regione. Grande importanza riveste la Sala del Teatro, una sorta di tempio interno dove i Dieci tengono udienza alla popolazione che accorre per presentare varie richieste al governo. La struttura è completamente visitabile e solo poche sale sono chiuse al pubblico.
 
-##### La Fossa
+#### La Fossa
 
 Grande zona devastata in seguito alla battaglia marina del 1538 EC. In caso di eventi particolari, viene recintata e utilizzata come arena per scontri tra avventurieri, combattenti, gladiatori, bestie o schiavi. Questa attività rappresenta un residuo tangibile delle vecchie tradizioni e usanze di Pendor.
 
-##### Le Cinque Lune
+#### Le Cinque Lune
 
 Locanda di proprietà di un’antica famiglia di elfi, si sospetta che svolga commerci clandestini con i nativi della Riserva degli Antichi, tramite tunnel nascosti che passano sotto le spesse mura magiche della riserva. Se così fosse, sarebbe l’unico luogo conosciuto attraverso la quale sarebbe possibile accedere al luogo protetto dei Nativi. Nel grande salone sono sempre presenti bardi, canti, battaglie di bevute, risse e avventurieri.
 
-##### Tempio del Serpente
+#### Tempio del Serpente
 
 Si tratta di una struttura a forma di serpente attorcigliato. L’interno è visibile solo agli appartenenti al Culto del Serpente, affiliato a Vel-Shar. Gli appartententi al Culto paiono strani monaci dediti alla meditazione e alla ricerca di sé. Si pensa sia un grande terrario per serpenti di ogni specie, anche se sono in molti a sospettare che il Tempio sia solo la parte superiore di un grosso dungeon sepolto. Molti divinatori sostengono che in questo luogo siano presenti forti energie negative, oscure, necromantiche o di natura ancora sconosciuta.
 
-##### Monterosso
+#### Monterosso
 
 Una collina dal terreno rossastro si erge a ovest della città, dominando il paesaggio circostante. Sulla cima si trova un piccolo avamposto grande quasi come un piccolo paese, formato da stalle, fattorie e mulini. Una sede delle Spade Crociate offre dietro compenso un servizio di scorta e trasporto carovaniero per tutto il continente e usa questa zona come porto franco per molte merci provenienti da tutte le regioni, in attesa di essere smistate ai destinatari. Per molti viaggiatori Monterosso rappresenta un’oasi di tranquillità e pace dove potersi riposare al sicuro. Affacciata sulla piazza di Monterosso, La Taverna del Sole è famosa per produrre del buon vino e dell’ottima birra, per questo motivo è sempre visitata da gruppi di avventurieri erranti.
 

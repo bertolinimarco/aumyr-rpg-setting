@@ -40,51 +40,51 @@ Legend has it that the town of Fivestar now rises at the exact point where the F
 
 - [2219 EC](../chronology/#_2219-ec) Strong expansion of the city, division into districts, construction of the White Hand.
 
-#### Districts
+### Districts
 
-##### District of the Gods
+#### District of the Gods
 
 It is the first large district that is crossed by anyone who crosses the main road leading into the city. As a consequence of the EU Treaty, it is possible to use the services of numerous temples dedicated to many divinities, even of different realms and floors in this neighborhood.
 
-##### Westwall
+#### Westwall
 
 Simply called "the Wall" because of its position close to the south-west rocky wall, it is a purely residential neighborhood that houses the majority of the city's population. In its streets it is possible to find individuals from various professions and social backgrounds. For many people, the sight of the golden dome of the Ars Amandi and the Fivestar Palace alone is more than enough reason to decide to settle in this area.
 
-##### Upper Hill
+#### Upper Hill
 
 An elegant block comprising villas, gardens and private lakes. In these exclusive neighborhoods there are the homes of nobles, famous personalities and even rich adventurers who can afford to buy some luxurious property.
 
-##### Trade District
+#### Trade District
 
 The "sleepless neighborhood" is a large, ever-active market. For many people living in Fivestar, trade is the main source of employment. Given the vastness of the district, it is very easy to be picked up by skilled thieves always ready to cut off some bags too much in sight, especially at sunset.
 
-#### Points of Interest
+### Points of interest
 
-##### Grey Academy
+#### Grey Academy
 
 It is the most important magic school in the world. Built on the ashes of the building that Normod himself opened a couple of centuries earlier, the facility is able to accommodate several hundred students each year. The courtyard in front of it is famous for being the scene of magic duels, but it is also used as an auditorium for public sentences or theatrical performances.
 
-##### Ars Amandi
+#### Ars Amandi
 
 Once a famous college for courtesans and young ladies, the Ars Amandi is the oldest tavern of Fivestar. It is a large building with a circular plan, surmounted by a golden dome that reflects the moonlight. In this place you can find a lot of information and is one of the most popular places for adventurers. Some say that somewhere in the city, probably still close to the tavern, the old activities of Ars Amandi have never been interrupted.
 
-##### Fivestar Palace
+#### Fivestar Palace
 
 Headquarter of the Council, it is a grandiose building formed by many tall towers in the central part of the city. From it you can enjoy a general view of the metropolis and surrounding lands. Rooms are generally closed to the public and only a small part is accessible by the population. The entire complex is protected by numerous defensive spells, as well as an impenetrable wall. Inside the palace you can find much larger spaces than outside: many novices of the Council are forbidden from walking around without a guide. Among the areas forbidden to the public are the Council (where the mortal remains of the Fives are thought to have been preserved), the Internal Rooms (seat of the Council) and the Portal Stone (the legendary place near the crypts, where the Fives arrived on Aumyr.
 
-##### Sunset Hill
+#### Sunset Hill
 
 The people of Aumar believe that through cremation the spirit reaches the peace of the gods in a more complete way, free from the burden of a mortal body. The Hill is the place where the bodies of the inhabitants of the capital are cremated. For these reasons, a garrison of the Red Brotherhood is permanently stationed in Casagrigia.
 
-##### The White Hand
+#### The White Hand
 
 A complex consisting of five towers with a pentagonal base and hanging ten meters from the ground, is currently home to the town library, the largest known collection of tomes and parchments of the civilized continent. The structure is directly controlled by the Council through an order dedicated to the preservation and copying of arcane texts, called the Order of Archivists.
 
-##### Night Tower
+#### Night Tower
 
 Seat of the town guard, this ancient tower serves as a base for the military in patrol service. Contrary to the name, the tower is also famous for having an unquenchable fire at the top of the tower that directs the merchant ships of the Night Sea.
 
-##### The Necropolis
+#### The Necropolis
 
 A large depression located in the southern part of the city, beyond the perimeter walls, is called The Necropolis, the city cemetery. The presence of numerous family tombs suggests an older underground structure, but due to the shape of the meteoric rock, the accesses to the underground are buried, sealed or impracticable. During the day it is not uncommon to meet inhabitants and tourists in this part of the city, but at night the whole area is closed to the public and monitored by a group of selected Red Brotherhood guards.
 

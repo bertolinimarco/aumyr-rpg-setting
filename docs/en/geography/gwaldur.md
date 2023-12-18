@@ -38,39 +38,39 @@ The capital of Gwaldur has always attracted visitors fascinated by the changing 
 
 - [2101 CE](../chronology/#_2101-ce) Second Great Destruction: A deep abyss swallows the city centre, and everything is destroyed in the surrounding area. The buildings are reconstructed again this time using magic glass created using the nearby sand. All the grounds of Old Town become an open-air dungeon before being patrolled and safely placed by the Red Brotherhood.
 
-#### Districts
+### Districts
 
-##### The Mouth
+#### The Mouth
 
 It is the area formed by the final part of the lava river. In this area, the soil is sterile and unstable: it forms a large cascade of fine black sand that descends down to the ocean. It constitutes an "active" zone of the town caldera and is under close observation by some councilors of the Emperor.
 
-##### Blacktower District
+#### Blacktower District
 
 So called because of the black chimneys and geyser mouths on the west side, in Blacktower you can find commercial activities and temples of the gods, as well as alchemy emporiums, blacksmiths, forges and stone workers. The district is located on top of a large solidified heap of volcanic rock and many people think that it may be the safest area of the city.
 
-##### Gleaming Caves
+#### Gleaming Caves
 
 The sand in this area makes it possible to forge crystal clear glass, very resistant, easy to handle and almost invisible. A large part of the sea trade is concentrated in this district and each house has a shop on the ground floor. The name comes from the light show created by the refraction of the sand on the walls of the coastal caves.
 
-#### Points of Interest
+### Points of interest
 
-##### Transcendent Palance
+#### Transcendent Palance
 
 It is the seat of the Emperor, a floating palace, with many floors and rooms. Protected from fields of energy and areas of dead magic, the place reflects the paranoid personality of the owner, who from here controls all the affairs of the region. The people are never admitted to the palace except on special occasions or under constraint. Few old wizard claims that the palace is actually trapped between the Material Plane and the Shadow Plane.
 
-##### The Old City
+#### The Old City
 
 The ancient northern part of the city is now an arid and hot expanse of blackish houses and melted stones. For years many adventurers have made their way through its ruins to find some valuable objects, and now the plain is devastated by excavations, boxes and rough pile dwellings on lava lakes. The destruction was caused by a powerful spell that opened a portal on the Elemental Vortex during the first reconstruction of the city in 2101 CE.
 
-##### Mirror Halls
+#### Mirror Halls
 
 An ancient labyrinth of mirrors with unknown purposes, probably belonging to a secret organization or to a cult that has now disappeared. The mirrors were created by merging the strange fine sand formed by the encounter between magma and the ocean of this area. Although today it is considered an attraction for tourists, many people think that the dungeon hides, somewhere, a great mystery.
 
-##### The Black Hand Monastery
+#### The Black Hand Monastery
 
 Its inner caves are home to the town guard, barracks and lodgings of an ancient warrior monks. Given the unique nature of the arts taught, it is highly likely that murderers and thieves will also be trained in some reserved areas of the place.
 
-##### Steam Sources
+#### Steam Sources
 
 After the first reconstruction of the city, it was thought that it was easier to extract energy directly from the subsoil of the heaters, through geysers and vapours. The entire area is an industrial district, as well as a huge deposit of scrap and ruins brought here from the Old Town. In its market you can trade any mineral for basic necessities or magic items.
 

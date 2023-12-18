@@ -376,12 +376,6 @@ During the stormy night that will be remembered forever as "Night of Terrors", t
 
 A powerful group of outlaws and corsairs from the Sea of Night join together under one flag and help bring Damodar back under the control of the population.
 
-#### 1744 CE
-
-::: warning
-This entry is not yet completed.
-:::
-
 #### 1762 CE
 
 ##### The Foundation of Dunmere

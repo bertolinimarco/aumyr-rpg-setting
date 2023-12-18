@@ -38,39 +38,39 @@ Posta nel mezzo di una grande pianura ma non troppo distante dalle coste del Mar
 
 - **1289 EC** Un gruppo di mercanti fonda la città di Feldris. In pochi ricordano i tumulti del passato e molti avventurieri contribuiscono a rendere sicuri i confini della regione, all’ombra delle Montagne Nebbiose.
 
-#### Distretti
+### Distretti
 
-##### Quartiere dei Laghi
+#### Quartiere dei Laghi
 
 Gran parte degli abitanti risiede in questo distretto, un intrico di stradine tra laghetti, piazze interne, volte, architravi di pietra grezza e case basse dal tetto in legno. Negli ultimi anni acquistare una proprietà in città è diventato molto semplice anche grazie ad una politica di prezzi molto ragionevoli dettata dal Sindacato, con lo scopo di accrescere la popolazione cittadina.
 
-##### La Vecchia Palude
+#### La Vecchia Palude
 
 Il territorio a nord della città è formato da diversi strati di terreno bonificato che un tempo costituiva una grande palude. La zona ospita i templi della città, nonché gli edifici governativi accessori al Palazzo del Sindacato, le caserme della milizia cittadina e una grande quantità di taverne per tutte le tasche. Qui si possono anche trovare le migliori abitazioni della città: ville e ricchi manieri nobiliari dalla lunga storia.
 
-##### Acque Argentate
+#### Acque Argentate
 
 Così chiamato per via della sua posizione a ridosso di un grosso lago artificiale dalle acque argentate, il distretto ospita le botteghe delle attività commerciali della capitale. Si possono trovare sia alchimisti che negozi di oggetti magici, fabbri, falegnami, laboratori di mastri costruttori, sedi di gilde e altro ancora.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Palazzo del Sindacato
+#### Palazzo del Sindacato
 
 Il grande edificio del Sindacato è un palazzo storico di pietra composto da un mastio e svariate torri. Esso ospita la sede del governo oltre a diverse stanze adatte ad ospitare eventi, incontri, fiere e banchetti. In una delle torri è possibile consultare la Biblioteca cittadina, un’importante raccolta di manoscritti nei quali trovare ogni genere di informazione storica, politica o arcana che sia stata riportata nelle cronache storiche della regione. La gestione del palazzo è affidata ad un’organizzazione alle dipendenze del Sindacato e i suoi membri fungono sia da vigilanti che da giudici per questioni legali cittadine.
 
-##### Vecchia Fonte
+#### Vecchia Fonte
 
 Si tratta di un’antica distilleria nota per la bontà del suo idromele e attualmente gestita da una famiglia di nani. Il salone centrale di forma circolare ospita duecento posti a sedere ed è possibile riservare alcune stanze private nelle torri adiacenti la struttura. Si pensa che una sorgente magica esista davvero da qualche parte sotto la locanda e possa essere la vera fonte della bontà delle bevande che qui vengono prodotte.
 
-##### Masso del Furore
+#### Masso del Furore
 
 Una grande roccia ignea caduta in questo luogo nel 540 EC, residuo degli attacchi scatenati dai giganti delle montagne. La roccia pare sia indistruttibile e ogni magia di fuoco lanciata nelle vicinanze del masso viene potenziata. Ai bambini viene raccontato che il Masso del Furore copre l’apertura di un piccolo tunnel attraverso il quale è possibile raggiungere una misteriosa caverna, sede di un potente spirito del fuoco.
 
-##### Ounemuïl
+#### Ounemuïl
 
 Un antico cimitero elfico. Durante la notte è chiuso al pubblico e viene presidiato da un gruppo scelto di elfi della Fratellanza Rossa. Qualche vecchio stregone vorrebbe ancora essere sepolto in questo camposanto, anche se si pensa che tutta l’area sia oggetto di alcuni influssi negativi provenienti dal sottosuolo. Durante il giorno è possibile visitare l’Occhio della Signora, uno splendido mausoleo in marmo bianco che contiene il sepolcro di una giovane elfa senza nome.
 
-##### Santuario della Visione
+#### Santuario della Visione
 
 Questo tempio funge sia da ospedale che da luogo di ristoro per molti avventurieri, ma anche semplici cittadini. Gran parte delle cure di lieve entità sono gratuite e la struttura si mantiene attraverso la donazione libera e il supporto di vari culti divini. All’interno delle sale è possibile trovare una cura a molte malattie, sia magiche che naturali, maledizioni, condizionamenti mentali e molte altre afflizioni.
 

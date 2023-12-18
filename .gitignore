@@ -1,8 +1,8 @@
-.DS_Store
 node_modules
-*.log
 .temp
-TODOs.md
+.cache
+.DS_Store
+*.log
 packages/@vuepress/shared-utils/lib/
 types
 yarn.lock

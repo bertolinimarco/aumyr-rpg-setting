@@ -37,39 +37,39 @@ Questa città costiera ospita la maggior parte della popolazione fuggita dalle I
 
 - **1234 EC** La regione vede nuovamente una grande invasione di non-morti dal sottosuolo. Si scopre l’esistenza di Gherzul. La città aumenta di grandezza, acquistando popolarità come rifugio e luogo sicuro.
 
-#### Distretti
+### Distretti
 
-##### Quartiere Stretto
+#### Quartiere Stretto
 
 Cumuli di case popolari a basso costo e piccole attività commerciali che si affacciano sulla via. Negli anni è diventato un ghetto per la criminalità organizzata, ed è spesso oggetto di incursioni su larga scala per stanare organizzazioni di ladri e altre sette segrete.
 
-##### Rune del Velo
+#### Rune del Velo
 
 Intorno alla città è possibile ammirare una serie di pietre verticali, alte diversi metri, ricoperte di rune incise e simboli sbiaditi. Se attivate, producono una serie di potenti campo di forza che avvolgono la città come una cupola. Furono create per proteggere la città dagli assalti dei non-morti. Oggi risultano essere poco più che delle rovine avvolte da un tenue bagliore azzurro, ma si pensa che esse siano solo spente, in attesa di essere nuovamente attivate.
 
-##### Porto dei Tramonti
+#### Porto dei Tramonti
 
 Il porto di Silverstone viene citato spesso da bardi e menestrelli data la bellezza del suo paesaggio. In questa zona è possibile trovare taverne, negozi, banchetti, mercati a cielo aperto, sedi di organizzazioni e servizi vari. Alcuni marinai vagano per le strade raccontando storie incredibili di viaggi verso coste sconosciute oltre il Mare del Tramonto, ma la popolazione tende a non far caso a coloro che frequentano troppo le locande.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Casa degli Scambi
+#### Casa degli Scambi
 
 Si tratta di un emporio dove è possibile trovare oggetti di ogni tipo lasciati in pegno o venduti da qualche avventuriero. La stranezza di alcuni oggetti presenti in questo luogo lo rende un posto adatto a chi vuole acquistare qualcosa di insolito, conoscere la storia di un’arma magica, sbarazzarsi di un oggetto maledetto o cancellare una maledizione. Data la natura pericolosa dell’attività di questo luogo, è possibile trovare un costante afflusso di visitatori e avventurieri provenienti da ogni parte di Aumyr.
 
-##### Rifugio di Melian
+#### Rifugio di Melian
 
 Silverstone deve molto agli sforzi congiunti di avventurieri e membri di organizzazioni che negli anni hanno sacrificato la propria vita per proteggere la città dalle invasioni dei non-morti. In questa zona sacra, dove si crede che Melian abbia vissuto per un certo periodo nella sua forma un tempo mortale, sorge un tempio a lei dedicato. Durante la Festa del Tramonto tutti i governanti provenienti dai vicini villaggi o gli ospiti importanti, vengono ospitati in alcune sale sotterranee del tempio fino al termine dei festeggiamenti, che durano tre giorni.
 
-##### Il Canto della Notte
+#### Il Canto della Notte
 
 Costruita con un tipo di legno scuro appartenente ad un bosco ora distrutto, questa grande taverna si vanta di aver ospitato numerosi eroi e avventurieri famosi. Le sue stanze, a basso costo, sono ampie e confortevoli come poche taverne del continente. Alcune stanze sul retro ospitano un distaccamento della Fratellanza Rossa, insediato in pianta stabile nella città.
 
-##### Le Vie del Mare
+#### Le Vie del Mare
 
 E’ il nome di un grosso complesso di magazzini, cantieri e piccole abitazioni situati nel Porto dei Tramonti. Per il giusto prezzo è possibile noleggiare dei trasporti per raggiungere altre regioni via mare, o addirittura ordinare la costruzione di una nave personale. In questo quartiere lavorano un centinaio di artigiani, mastri fabbri, falegnami e costruttori. Le vie del porto sono pattugliate da una milizia cittadina formata anche da ex-avventurieri, dai quali è difficile sfuggire o nascondersi.
 
-##### Eiburn
+#### Eiburn
 
 Questo grosso maniero, in origine un importante monastero elfico, ha visto un susseguirsi di destinazioni diverse. E’ stato prigione, tempio, caserma, dungeon, negozio di oggetti magici e altro ancora. Oggi l’edificio ospita di una scuola di magia. Al suo interno è possibile trovare diversi piani divisi di aule più o meno grandi, una grande cantina sotterranea con vari laboratori e una torre-osservatorio.
 

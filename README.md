@@ -20,11 +20,13 @@ Want to chat or contribute?
 
 [![Discord Server](https://img.shields.io/discord/575987423893258250.svg?logo=discord&logoColor=white)](https://img.shields.io/discord/575987423893258250.svg)
 
+Or open a new issue on GitHub.
+
 ---
 
 Dev:
 
-`yarn install && yarn docs:dev`
+`npm install && npm docs:dev`
 
 ---
 
@@ -32,7 +34,7 @@ Dev:
 
 ### Text
 
-All text and maps in this manual are released under the Creative Commons License Attribution - Share Same Way 3.0 Unported License. For license information, see www.creativecommons.org. The characters of the Askarian alphabet are based on Dscript (www.dscript.ca).
+All text and maps in this manual are released under the Creative Commons License Attribution - Share Same Way 3.0 Unported License. For license information, see www.creativecommons.org. The characters of the Askarian alphabet are based on Dscript (www.dscript.ca). All the translations are provided by DeepL (www.deepl.com).
 
 ### Images
 

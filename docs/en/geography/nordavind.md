@@ -39,39 +39,39 @@ The city is a large settlement of steep and pointed rooftop houses, an oasis of 
 
 - [1762 CE](../chronology/#_1762-ce) Some clans of mountain barbarians and old warriors settle in a mountain valley and help found Dunmere. Construction of the Hall of Heroes began in memory of all those who gave their lives for the freedom of the clans and the population.
 
-#### Districts
+### Districts
 
-##### The Frozen Mantle
+#### The Frozen Mantle
 
 The western part of the city is dedicated to agriculture and the harvesting of many crops that find ideal terrain in cold and frozen climates. Many people choose to settle close to this area in order to cultivate their own land and also sustain themselves commercially, considering that food in the mountains is a rare and precious resource.
 
-##### Trial Trails
+#### Trial Trails
 
 A large fenced area on the edge of the city is used as a venue for the Trial, a sort of initiatory walk for the young warriors of Dunmere. Those who want to join the city's society by right must face this initiation path. It is said that the test can change depending on the personality of the person facing it: many lose their hindsight and return afflicted by early dementia, or worse. Others change personality or character. Legend has it that during the Trial, the great hero Beonur guides all the Young Wolves to a deep understanding of themselves.
 
-##### Maul Quarters
+#### Maul Quarters
 
 The south-east part of the city is home to blacksmiths, carpenters, hammers and metalworkers from the nearby mountains. At any time of day you can feel the heavy thunder of sweaters on the metal, fed by small springs of water from the mountain glacier.
 
-#### Points of Interest
+### Points of interest
 
-##### Hall of Heroes
+#### Hall of Heroes
 
 Those who enter this place for the first time feel as though they are being watched by the dozens and dozens of busts set in the walls of rough stone, depicting great heroes of the past. The rooms host the government of the region, comfortable accommodation for diplomats and important personalities, circular rooms where meetings can be held and even a large library of parchments about the history of Nordavind.
 
-##### The Ember
+#### The Ember
 
 It is a large grey stone manor, containing several rooms and a huge circular fireplace in the centre of the main hall. The fire is known to be always on, serving legendary meat and meals. On a wall you can see a portrait of Kor Modan, former adventurer and founder of the tavern: a large human with hardened traits and gray beard, wrapped in numerous bear skins.
 
-##### Crystal Caves
+#### Crystal Caves
 
 A vast complex of caves that open on the sides of the mountain near the city. In its tunnels you can see large multicolored crystals, groups of glossy gemstones and various calcareous formations. If properly treated, some of the crystals may give unique magical abilities or enhance innate abilities. Many city dwellers are convinced that crystals bring fortune, so it is not uncommon to witness marriages and celebrations of various kinds held inside the caves.
 
-##### Temple of the Three Truths
+#### Temple of the Three Truths
 
 An order of wizards finds its home in this strange building on the edge of the city. The whole structure seems to have nothing to do with the houses of wood and stone covered in snow: it is a tower with spirals in blackish shades, carved directly into the mountain. The acolytes of the Temple are hermits who rarely leave the walls of their seat, except for making provisions or to dispense enigmatic advice to adventurers who try to be welcomed in the tower.
 
-##### Giant's Rock
+#### Giant's Rock
 
 The easiest way to reach this structure is to use an old elevator consisting of a metal cabin hooked to a large self-propelled cable. During the steep ascension route it is possible to understand the origin of the name of this place: it is a cave carved into a rock face, resembling the mouth of a giant mountain giant. Inside, you can find a hall of the Dorne Society, formed by a group of expert mountaineers and guides ready to help adventurers in danger, or to explore some of the many dungeons that hide among the Frost Peaks.
 

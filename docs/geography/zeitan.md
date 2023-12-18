@@ -38,39 +38,39 @@ Conosciuta anche come la “Città sui Pali” o “La Città Sospesa”, Nordur
 
 - **1979 EC** L’area della palude si allarga e il territorio centrale inizia a solidificarsi, complice il composto di fango e ceneri dei morti. Si forma l’area rituale, dotata di potenti energie divine.
 
-#### Distretti
+### Distretti
 
-##### Il Distretto
+#### Il Distretto
 
 Si tratta del quartiere esterno della città, dove si possono trovare sia botteghe che capanne di chierici e druidi. In questa zona si concentra anche la densità della popolazione, che si unisce a molti avventurieri di passaggio e mendicanti.
 
-##### Area Rituale
+#### Area Rituale
 
 Situata a sud-est della città, questa zona è caratterizzata dalla presenza di innumerevoli strati di terreno formato da ceneri dei morti, che rendono l’area densa di poteri arcani e divini. Si dice che durante la notte molte presenze vaghino per questo grande tumulo, sensibili al richiamo dei viventi e al ricordo di loro stessi ancora in vita.
 
-##### Quartiere dei Rampicanti
+#### Quartiere dei Rampicanti
 
 Tutta la zona è infestata da radici, bulbi e rampicanti verdastri. E’ formata da baracche e capanne ancorate su un terreno roccioso, quasi come artigli che cercano di sfuggire alle limacciose profondità della palude su cui sono ancorati. Oltre a strutture commerciali, qui è possibile trovare negozi e perfino antiche case nobiliari, risparmiate dal tempo e dalla corruzione delle esalazioni mefitiche del luogo.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Sala Grande
+#### Sala Grande
 
 Una costruzione di legno d’ebano a cupola, sede del governo della regione. Al suo interno si svolgono assemblee e consulte politiche: la sala è costruita utilizzando pietra levigata, mattoni, legno ed è decorata con splendidi arazzi.
 
-##### Le Tre Sorelle
+#### Le Tre Sorelle
 
 Questa grande bottega è posta sulla cima di una grossa radice avvolta dai rampicanti. Al suo interno si possono trovare pozioni, filtri, composti alchemici e ingredienti per incantesimi. E’ gestita da tre sorelle umane e si dice conoscano molti modi per gestire maledizioni, afflizioni, debilitazioni e malattie.
 
-##### Arcadia
+#### Arcadia
 
 Nel quartiere nord-ovest della città è possibile intravedere l’Arcadia, il relitto semi-sommerso di una nave. Neanche i più saggi conoscono a fondo la storia di questo luogo e la nave è talmente deteriorata da non essere più in grado di prendere il largo. L’interno del relitto è stato convertito tempo fa in taverna ed è possibile alloggiare in una delle camere-cabine che un tempo costituivano la sezione passeggeri.
 
-##### Grotta delle Luci
+#### Grotta delle Luci
 
 Si tratta di un complesso di grotte dalle pareti coperte da licheni luminosi, possibili conduttori di bioluminescenza della flora del sottosuolo. Un tempo costituiva un manicomio per via dell’effetto calmante di alcune stanze), ora è un ghetto per emarginati e pazzi. Coloro che vi alloggiano vengono chiamati Assorti, si esprimono tramite gesti e non sembrano avere un leader.
 
-##### Roccia del Sognatore
+#### Roccia del Sognatore
 
 Uno strano monolite di pietra emerge all’angolo di una strada del distretto. Alto circa due metri, è ricoperto di una sostanza evanescente e gelatinosa che non sembra reagire a nessuna manipolazione esterna. Qualcuno pensa che sia un antico monumento blasfemo eretto da alcuni adoratori di divinità lucertoloidi, altri pensano che sia un focus magico che permetta di entrare in contatto con le Strade dei Sogni.
 

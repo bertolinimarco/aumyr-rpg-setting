@@ -40,37 +40,37 @@ Il nome della capitale deriva dal nome dell’ultima grande Casata oggi decaduta
 
 ### Distretti
 
-##### Sentieri delle Casate
+#### Sentieri delle Casate
 
 Un vecchio quartiere punteggiato da ricche abitazioni di nobili, sede di templi e gilde commerciali nonché di molte attività mercantili. Tra le sue vie è possibile trovare molti avventurieri, storici e studiosi, maghi, artigiani e botteghe di mastri costruttori. Ogni anno le terrazze del distretto si tingono di stendardi e arazzi, in ricordo degli anni di governo delle Casate.
 
-##### Quartiere Nord
+#### Quartiere Nord
 
 In questo distretto si concentra la maggior parte delle abitazioni popolari, ma anche dei criminali. Ai lati della strada che conduce alla Cittadella è possibile intravedere alcune grate facenti parte del complesso fognario che si estende sotto la città. Questi tunnel sono utilizzati dalla criminalità per spostarsi in segreto tra i vari quartieri cittadini.
 
-##### Città Interna
+#### Città Interna
 
 E’ il quartiere formato dal Castello e da diverse strutture accessorie come le scuderie, il parco e altre attività commerciali un tempo al servizio delle Casate. Anche se non ospita un’elite di nobili ma solo strutture governative, la zona è altamente sorvegliata e protetta dalla guardia cittadina, che contribuisce anche alla manutenzione di tutti gli edifici principali.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Castello delle Casate
+#### Castello delle Casate
 
 Il magnifico castello, un tempo dimora delle Casate reali, è oggi sede del governo dell’Assemblea. Le sue stanze affrescate e riccamente decorate contengono cimeli del passato, arazzi, tappeti, splendidi arredi e quadri raffiguranti i numerosi nobili che nei tempi che furono contribuirono a plasmare la storia della regione e della città. Durante l’insediamento del nuovo governo, alcuni vecchi mastri costruttori raccontano di aver trovato diverse aree murate nei sotterranei, probabilmente già rese inaccessibili in anni remoti. Cosa si celi al di là di esse rimane un mistero, visto che parecchie zone del castello sono state sigillate e non risultano accessibili al pubblico.
 
-##### Taverna del Lupo Grigio
+#### Taverna del Lupo Grigio
 
 Si tratta di un vecchio monastero convertito in locanda. E’ luogo di ritrovo abituale di avventurieri, mercenari e soldati in pensione. Nel piccolo chiostro dietro la locanda è possibile trovare la statua di un grande lupo grigio che possiede la strana proprietà di respingere anche gli incantesimi più potenti. In molti pensano che sia davvero una grande creatura pietrificata.
 
-##### Torre Planare
+#### Torre Planare
 
 Questa struttura fortificata ha ospitato da sempre gli esperti incantatori al servizio delle Casate. E’ formata da molti livelli e nel tempo ogni proprietario ha costruito un piano sopra quello del predecessore, fino a far diventare la costruzione simile ad una grande torre. Queste stanze sono raggiungibili tramite dei portali accessibili soltanto a chi ne possiede la chiave, per cui le modalità d’accesso a molti di essi sono state dimenticate o perdute. La Confraternita pensa che la struttura sia ormai un grande dungeon sigillato.
 
-##### La Camera Bianca
+#### La Camera Bianca
 
 Attualmente questa grande casa di pietra lucente ai margini della città viene utilizzata come camera ardente e obitorio per i corpi in attesa di sepoltura. Si tratta di una gilda di servizi funerari gestita da Matilde Brennil, un’umana dai lineamenti duri e dal temperamento glaciale. Pochi sanno che un tempo la struttura ospitò la sede di una potente gilda di ladri: i suoi tunnel sotterranei, oggi murati, sono stati sede di operazioni clandestine e in molti pensano che siano ancora infestate da mostri di ogni genere.
 
-##### Pozzo della Speranza
+#### Pozzo della Speranza
 
 In una zona remota della città è possibile intravedere la struttura di un antico pozzo al centro di una piccola piazza. Si racconta di come, durante la Grande Epidemia dell’821 EC, parte della popolazione si calò nel pozzo per raggiungere un vasto complesso di grotte sotterranee, utilizzate come rifugio estremo per sfuggire al contagio. Ignari e timorosi del flagello in superficie, lì restarono per anni in attesa che tutto finisse. Oggi il pozzo è sigillato e la sua storia viene considerata solo un racconto per spaventare i bambini e attrarre i turisti.
 

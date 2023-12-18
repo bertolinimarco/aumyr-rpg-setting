@@ -38,39 +38,39 @@ La città di Brean risulta ben visibile anche da grosse distanze, data la sua al
 
 - **1300 EC** Dopo varie dittature di potenti mercanti, vengono stipulati accordi con nani e altre razze delle montagne vicine. Vengono fondate varie società commerciali di scavatori e intagliatori di gemme, Il Mercatus acquista il potere e il controllo occulto della città.
 
-#### Distretti
+### Distretti
 
-##### Distretto degli Intagliatori
+#### Distretto degli Intagliatori
 
 Contiene la maggior parte delle attività commerciali della città, taverne e ristori. Nelle sue numerose vie laterali è possibile vedere all’opera i famosi intagliatori di Brean, intenti nel loro lavoro fuori dalle loro piccole botteghe. In questa zona è anche possibile trovare il centro cittadino, formato da costruzioni di pietra con smeraldo fuso proveniente dalle vicine montagne. Non è raro che alcuni avventurieri stacchino pietre per raffinarle e cercare di ricavarci qualche moneta, anche se la zona è sorvegliata giorno e notte.
 
-##### Quartiere dei Cercatori
+#### Quartiere dei Cercatori
 
 Si tratta di una moltitudine di case e abitazioni sorte intorno al centro storico della città. E’ il luogo dove si trova la popolazione meno benestante, formato da bassifondi, caserme di mercenari e gilde minori. Alcune botteghe vendono a basso prezzo monili di scarso valore, per cercare moneta facile adatta a sopravvivere al tenore di vita dei quartieri più ricchi.
 
-##### Lungo Cammino
+#### Lungo Cammino
 
 La lunga strada in salita che conduce alla Torre Celeste è il vero cuore della città. Qui si possono trovare i migliori mercanti e attrazioni per avventurieri o gente di passaggio. Ai lati della strada vi sono mercati sempre aperti, templi, biblioteche, negozi di oggetti magici, alchimisti, armaioli, bardi, spettacoli teatrali, feste itineranti, e molte altre attività.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Torre Celeste
+#### Torre Celeste
 
 Simbolo distintivo della città, la Torre Celeste è visibile da diversi chilometri di distanza nelle pianure circostanti ed è un vero e proprio capolavoro di architettura e ingegneria. Ospita il governo della regione e suoi diversi piani contengono rarità e oggetti preziosi di ogni genere. L’ingresso ai piani alti della Torre Celeste è vietato, tranne ai Mercanti. L’intera struttura è talmente avvolta dal mistero che si dice nella sua sommità vi sia una stanza segreta che custodisce al suo interno un antico portale Askari.
 
-##### Forgia delle Meraviglie
+#### Forgia delle Meraviglie
 
 E’ un negozio di oggetti magici, costruito intorno all’unico esemplare rinvenuto di antica Forgia Askari. Famoso per la compravendita e la realizzazione di oggetti rari e potenti, è possibile trovare o commissionare pressochè qualsiasi arma o armatura, purchè si possiedano abbastanza denari per pagare i mastri fabbri che vi lavorano.
 
-##### Parco delle Pietre
+#### Parco delle Pietre
 
 Così denominato per via delle numerose statue di pietra bianca sparse per tutta la sua grandezza, il parco cittadino è un’oasi di tranquillità lontano dal caos delle vie degli intagliatori di gemme. Tutta la zona è come un gigantesco libro di storie: le statue rappresentano divinità, eroi, mostri, animali e altre bizzarrie.
 
-##### La Chiave di Volta
+#### La Chiave di Volta
 
 Si tratta della più grande casa da gioco del continente. Un’enorme cupola multicolore sulla sommità di Lungocammino, che funge anche da porta d’ingresso verso la Torre Celeste. Al suo interno si trovano stanze sfarzose dedicate all’intrattenimento economico di mercanti e facoltosi clienti in cerca di fortuna.
 
-##### Casa degli Eterni Sospiri
+#### Casa degli Eterni Sospiri
 
 Questa fatiscente struttura è famosa in tutta la regione per essere uno dei luoghi più singolari e infestati da spiriti che si conoscano. Antica casa di piacere, la stuttura è ora un luogo sinistro: si dice che possieda numerose stanze con zone di magia morta, e data la sua importanza è sorvegliata dalla Società di Dorne, che la utilizza anche a scopo didattico per attività spiritiche e conoscenze soprannaturali.
 

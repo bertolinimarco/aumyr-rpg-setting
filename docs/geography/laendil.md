@@ -38,39 +38,39 @@ Anche se molti elfi sostengono che la capitale di Laendil sarebbe dovuta sorgere
 
 - **1512 EC** In un giorno noto come “Il Risveglio” la città viene epurata dal male per opera di un gruppo di potenti maghi e druidi elfi. Il Seme del Mondo, una volta riportato al suo stato originale, viene consegnato alla Confraternita. La città verrà poi ricostruita da un gruppo di druidi e ranger, che costruirà gran parte degli edifici visibili ancora oggi.
 
-#### Distretti
+### Distretti
 
-##### Giardini della Luna
+#### Giardini della Luna
 
 Chiamato così per via degli stupendi effetti di luce che la luna produce sul suo terreno, è il distretto che ospita il quartiere popolare e religioso. Molti decidono di acquistare casa in questa zona e una leggenda sostiene che lo stesso Savas passeggi invisibile tra le sue vie.
 
-##### Collebianco
+#### Collebianco
 
 La grande collina cittadina è anche la sede del governo, nonchè delle abitazioni nobiliari. La zona è spesso frequentata da storici, maghi e sacerdoti di diverse divinità, che si incontrano spesso a discutrere di questioni teologiche senza troppi rancori. Si pensa che il terreno di Collebianco emani un’aura di tranquillità che protegga la zona da negatività e violenza.
 
-##### Enclave dei Risvegliati
+#### Enclave dei Risvegliati
 
 Si tratta di un grosso quartiere recintato e indipendente, sede di chierici, druidi e fanatici religiosi. La popolazione, conosciuta come “I Risvegliati”, obbedisce alle proprie leggi e di fatto si dichiara comunità indipendente da ogni altro governo. Sono per lo più innocui pacifisti, ma possono diventare un serio problema se vengono provocati. Si dice che una volta usciti dalla comunità non sia più possibile rientrarvi e che l’ingresso tra i ranghi dei Risvegliati sia oggetto di un percorso di selezione sociale complesso e articolato.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### La Duplice Fonte
+#### La Duplice Fonte
 
 Il centro cittadino della capitale è riconoscibile per via della presenza di una complessa fontanamonumento, più volte modificata, che ricorda la dualità del bene-male, le sfumature grigie, la neutralità contemplativa, la complessità della vita e in qualche modo la dottrina del culto di Savas. La piazza circostante è sotto l’effetto di un incantesimo di benedizione perenne e gli incantesimi di guarigione vengono potenziati sortendo il massimo effetto.
 
-##### Tempio dei Doni
+#### Tempio dei Doni
 
 Questo strano e piccolo tempio è sempre pieno di oggetti e di offerte votive. Se l’area viene esaminata, si può percepire un’intensa energia magica pervadere tutto il luogo. Al centro del tempietto vi è una statua molto rovinata e praticamente irriconoscibile, probabilmente di una divinità. Per qualche strana ragione è possibile entrare e depositare oggetti, oro e offerte ma non è possibile portare tutto fuori dal tempio, neanche con mezzi magici. Ogni tanto le offerte spariscono e la statua cambia posizione, ma non si sa chi o cosa accetti le offerte.
 
-##### Dael-Madras
+#### Dael-Madras
 
 E’ il nome con il quale è conosciuto un grosso albero secolare, cavo e dalla chioma cadente. Viene utilizzato come sede secondaria della Guardia del Lupo, nonché come luogo di addestramento per ranger, druidi o semplicemente di coloro che vogliono imparare a sopravvivere coesistendo con la foresta. A volte le radici dell’albero si sono mosse, ciò fa pensare che Dael-Madras sia in realtà un grosso essere senziente dotato di una propria coscienza.
 
-##### Rovine di Mel’Shir
+#### Rovine di Mel’Shir
 
 La popolazione evita queste strane rovine, formate da cumuli di pietre quasi saldate tra loro, archi capovolti ricoperti di licheni e altra architettura bizzarra. Durante gli anni in cui Nayalis era conosciuta come un dungeon, qui si concentrava gran parte della follia e della malvagità delle creature che lo abitavano. Anche se la zona è stata ripetutamente benedetta da centinaia di chierici e avventurieri e non c’è traccia di ciò che c’era prima, alcuni superstiziosi pensano che in profondità dorma ancora qualcosa di oscuro e innominabile.
 
-##### Locanda dell’Unicorno Nero
+#### Locanda dell’Unicorno Nero
 
 Jherteg "Unicorno Nero", il proprietario di questa piccola ma confortevole taverna, è un halfling di mezza età che ama raccontare delle sue avventure, quando in giovane età seguiva i viaggi e le peripezie di un famoso gruppo di eroi del continente. Coloro che lo conoscono pensano che le storie che racconta siano solo uno stratagemma per attirare avventurieri in locanda, ma nessuno può negare che egli sia comunque un ottimo bardo e intrattenitore.
 

@@ -38,39 +38,39 @@ Entrando a Veloras passando dall’ampia strada pedemontana, si ha l’impressio
 
 - **1983 EC** Data della probabile Tragedia degli Amanti, una leggenda di Merosh che narra di tradimento e vendetta. Da queste storie si formeranno le credenze locali che porteranno la città a diventare conosciuta anche come Città degli Amanti.
 
-#### Distretti
+### Distretti
 
-##### Isole degli Spiriti
+#### Isole degli Spiriti
 
 Si tratta di un’insieme di isole alte abbastanza da consentire di essere raggiunte solo da un sistema di passerelle sovrastanti l’insenatura cittadina, a meno di scalare una parete di roccia alta diversi metri, a strapiombo sulle tortuose acque dell’insenatura.
 
-##### Colle delle Arti
+#### Colle delle Arti
 
 Questa collina è abitata principalmente di arcanisti e incantatori: quasi tutte le case sono protette magicamente. Nel “quartiere magico” qualcuno offre i propri servizi con una bottega al pianterreno, altri preferiscono restarsene isolati nello studio, nella meditazione o nella contemplazione.
 
-##### Montecorvo
+#### Montecorvo
 
 In questo quartiere scuro si concentra il giro degli affari illeciti della città. E’ ricco di taverne oleose, negozi ammuffiti, odori pungenti, senza contare il frastuono sempre presente delle vicine cascate. La gente di Montecorvo risulta ostile con gli avventurieri e spesso tenta di raggirare gli stranieri vendendo loro cianfrusaglie, oggetti maledetti o potenti veleni camuffati da normali pozioni curative.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Parlamento
+#### Parlamento
 
 Un palazzo semplice, di pianta pentagonale, svetta su una delle Isole. E’ la sede del governo e tra le sue sale si possono trovare messaggeri, politici, storici, saggi ed esperti. Gran parte delle controversie della regione vengono risolte in queste sale austere, sovente teatro di accesi scontri politici ed etici. In un’area sotterranea è custodita la raccolta delle Cronache del Mago.
 
-##### Tempio della Fonte
+#### Tempio della Fonte
 
 La presenza di questa zona viene segnalata da prima della costruzione della città. Oggi è possibile ammirare un tempio decorato d’aquamarina e pietra calcarea, con numerosi bassorilievi raffiguranti diverse divinità. Una volta l’anno, costituisce meta di pellegrinaggio da parte di una congrega di maghi convinti che la fonte custodisca un grande potere.
 
-##### Piazza degli Amanti
+#### Piazza degli Amanti
 
 Nella parte Sud-Ovest della città è possibile ammirare questa zona singolare. Un grande mosaico di pietra forma una figura roteante di due spiriti che si contrappongono in cerchio. Su tutta la piazza è presente una potente magia che fa aumentare il carisma, il magnetismo personale e la sicurezza di sé. Dato questo potere, sono in molti a sostare in questa zona in cerca del grande amore.
 
-##### Taverna del Salto
+#### Taverna del Salto
 
 Struttura fatiscente posta sul pezzo di terra più vicino alle cascate, la locanda è famosa per i suoi liquori forti e la sua posizione pericolosa. Dietro pagamento, come prova di coraggio è possibile cercare di attraversare una rete di passerelle invisibili poste sul retro della taverna. Il percorso è molto infido e denso di trappole, anch’esse invisibili, superabili solo grazie a incantesimi di divinazione o pura abilità.
 
-##### Torre dell’Oracolo
+#### Torre dell’Oracolo
 
 Si tratta di una strana pagoda, chiusa al pubblico. La gente di Merosh pensa che vi dimori una veggente solitaria. Ogni tanto pare sia possibile intravedere una chioma rossa attraverso le feritoie della torre, e si dice che una presenza risponda sempre alle richieste di chi riesca a contattarla, anche se sono in molti a credere che sia solo una farsa per attirare nuovi visitatori.
 

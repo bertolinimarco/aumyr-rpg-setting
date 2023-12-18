@@ -1,5 +1,7 @@
 # Multiverse
 
+![Multiverse](/images/multiverse-en.jpg)
+
 While tracing the millenary history of Aumyr one realizes how the planar travels and the possibility of moving on to other worlds have directly influenced the world itself, allowing its colonization by the races of the Multiverse.
 
 From the mystery of the Askari origin and the appearance of the first settlers through the Portal created by the Five, it was soon realized that moving on to other worlds was no longer the prerogative of ancient magic or rituals now extinct: more and more enchanters have experimented with new methods to open Portals, Astral Corridors or other forms of travel to other dimensions. Some of them have reported about entire populated planets, alternative realities, chaos planets, dimensions of pure imagination and more.

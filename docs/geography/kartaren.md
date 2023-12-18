@@ -38,39 +38,39 @@ Kartar, la capitale di Kartaren, è posta su un crocevia e riveste un ruolo impo
 
 - **1789 EC** Il fiorire dei commerci, soprattutto grazie alle ricchezze estratte dalle miniere, porta la città a venire dichiarata capitale. Successivamente il governo si insedia nella Fortezza, acquisendone il controllo completo.
 
-#### Distretti
+### Distretti
 
-##### Le Miniere
+#### Le Miniere
 
 Utilizzate dal governo come fonte di lavoro forzato dei prigionieri della Fortezza, le Miniere di Kartar sono state spesso oggetto di ispezione da parte della Società di Dorne, data la varietà dei suoi minerali, dei tunnel pericolosi e della presenza altre strane camere avvolte da energia magica sconosciuta.
 
-##### Testa del Drago
+#### Testa del Drago
 
 Grande zona cittadina dove è possibile trovare servizi clericali, templi e case nobiliari, nonchè le abitazioni di alcune personalità illustri come ex-Generali o condottieri. Il quartiere è conoscito con questo nome per via della grande statua di una testa di drago posta al centro del distretto.
 
-##### Distretto dei Fumi Neri
+#### Distretto dei Fumi Neri
 
 Così chiamato per via del colore denso di alcuni gas che fuoriescono dal sottosuolo, il distretto è attraversato ogni giorno da soldati di ronda, minatori e reclute del Collegio della Guerra, che qui trovano alloggi e riposo. E’ possibile trovare alcune locande dove poter giocare d’azzardo scommettendo dell’oro, anche se è sconsigliabile provocare i soldati in licenza.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### La Fortezza
+#### La Fortezza
 
 La maestosa struttura difensiva dalle mura circolari è posta nel centro della città. E’ la sede del governo e ospita le caserme dell’esercito cittadino nonché gli alloggi del Generale. Include anche una prigione sotterranea strutturata su vari livelli: alcuni criminali preferiscono togliersi la vita piuttosto che venire rinchiusi in questo luogo.
 
-##### Il Mortaio
+#### Il Mortaio
 
 Ogni giorno fuori da questo negozio è possibile intravedere fabbri e artigani al lavoro su strani esplosivi e armi esotiche. Nella bottega lavorano parecchi tra i più grandi fabbri e inventori della regione, costantemente impegnati a costruire nuova artiglieria sia per il governo che per commissione.
 
-##### Serraglio Arcano
+#### Serraglio Arcano
 
 Si tratta di una grande terreno pianeggiante delimitato da campi di forza e barriere magiche. Qui vengono vendute bestie magiche, cavalcature e rare creature esotiche.
 
-##### Collegio della Guerra
+#### Collegio della Guerra
 
 Famosa accademia d’addestramento per guerrieri, barbari, ranger, mercenari o soldati professionisti. La leva è obbligatoria e inizia in giovane età per i figli di tutti gli abitanti della regione, siano essi maschi o femmine, senza distinzioni. Coloro che riescono a superare gli anni di addestramento diventano soldati rispettati e temuti per la loro freddezza.
 
-##### La Caverna Rossa
+#### La Caverna Rossa
 
 Grande taverna sotterranea frequentata soprattutto da avventurieri, offre alloggio e ristoro a buon prezzo. La locanda è stata costruita sopra la vecchia caverna del drago rosso Kartaros, divenuto anche il simbolo della regione: il pavimento trasparente della locanda permette di intravedere le grandi aree sotterranee un tempo sede della creatura.
 

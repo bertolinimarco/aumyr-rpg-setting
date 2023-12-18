@@ -38,39 +38,39 @@ Although many elves claim that Laendil's capital was supposed to rise in Mistdee
 
 - [1512 CE](../chronology/#_1512-ce) On a day known as "The Awakening", the city is cleared of evil by a group of powerful magicians and druids elves. The Seed of the World, once restored to its original state, is handed over to the Council. The city will then be rebuilt by a group of druids and rangers, who will build most of the buildings still visible today.
 
-#### Districts
+### Districts
 
-##### Moon Gardens
+#### Moon Gardens
 
 Called so because of the wonderful light effects that the moon produces on its land, it is the district that houses the popular and religious district. Many people decide to buy house in this area and a legend claims that Savas himself walks invisible in his streets.
 
-##### Whitehills
+#### Whitehills
 
 The large hillside town is also home to the government, as well as to noble dwellings. The area is often frequented by historians, wizards and priests of different divinities, who often meet to discuss theological issues without too many resentments. It is thought that the terrain of Whitehill exudes an aura of tranquility that protects the area from negativity and violence.
 
-##### Enclaves of the Awakened
+#### Enclaves of the Awakened
 
 It is a large, fenced-in and independent neighborhood, home to clerics, druids and religious fanatics. The population, known as The Awakened, obeys its own laws and in fact declares itself an independent community from any other government. They are mostly harmless pacifists, but they can become a serious problem if they are provoked. It is said that once out of the community it is no longer possible to re-enter it and that the entrance between the ranks of the Awakened is subject to a complex and articulated social selection process.
 
-#### Points of Interest
+### Points of interest
 
-##### The Dual Source
+#### The Dual Source
 
 The city centre of the capital is recognizable for the presence of a complex fountain-monument, modified several times, which recalls the duality of the bene-male, grey shades, contemplative neutrality, the complexity of life and in some way the doctrine of the cult of Savas. The surrounding square is under the influence of a spell of perennial blessing, and the healing spells are enhanced by raising the maximum effect.
 
-##### Temple of the Gifts
+#### Temple of the Gifts
 
 This strange and small temple is always full of objects and votive offerings. If the area is examined, you can perceive an intense magical energy pervading the whole place. At the center of the temple there is a very ruined and practically unrecognizable statue, probably of a deity. For some strange reason it is possible to enter and deposit objects, gold and offers, but it is not possible to take everything out of the temple, not even by magic means. Every now and then the offerings disappear and the statue changes position, but you don't know who or what to accept the offerings.
 
-##### Dael-Madras
+#### Dael-Madras
 
 It is the name under which a large, secular, hollow and falling canopy tree is known. It is used as a secondary seat of the Company of the Wolf, as well as a training site for rangers, druids or simply for those who want to learn to survive coexisting with the forest. Sometimes the roots of the tree have moved, which suggests that Dael-Madras is actually a big sentient being endowed with his own consciousness.
 
-##### Ruins of Mel’Shir
+#### Ruins of Mel’Shir
 
 The population avoids these strange ruins, formed by piles of stones almost welded together, inverted arches covered with lichens and other bizarre architecture. During the years when Nayalis was known as a dungeon, it concentrated much of the insanity and wickedness of the creatures who lived there. Although the area has been repeatedly blessed by hundreds of clerics and adventurers and there is no trace of what was before, some superstitious people think that deep down there is still something dark and unbelievable.
 
-##### Black Unicorn Tavern
+#### Black Unicorn Tavern
 
 Jherteg, the owner of this small but comfortable tavern, is a middle-aged halfling who loves to tell of his adventures, when he followed the travels and adventures of a famous group of heroes of the continent at an early age. Those who know him think that the stories he tells are just a ploy to attract adventurers to the inn, but no one can deny that he is a great bard and entertainer.
 

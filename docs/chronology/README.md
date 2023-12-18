@@ -47,7 +47,7 @@ La Tradizione narra di come una potente sciamana Nativa, conosciuta come “la P
 
 La Storia dei Cinque, uno dei tomi conservati presso il Palazzo di Fivestar, raffigura un portale dimensionale e cinque avventurieri che ne fuoriescono, avvolti da vari aloni di luce. Essi vagarono per le terre in cerca di un posto dove riposare, per poi tornare al punto di apertura del portale, costruirvi un rifugio e aprire molti altri portali verso mondi esterni, iniziando così la colonizzazione del pianeta.
 
-##### Fondazione di Fivestar
+#### Fondazione di Fivestar
 
 Viene posta la prima pietra della futura città, da parte dei Cinque Viaggiatori.
 
@@ -181,7 +181,7 @@ Nelle Cripte della città di Fivestar, un gruppo di potenti maghi dà vita ad un
 
 La città di Pendor sorge in un luogo strategico, vicino ai deserti di Thanaros. Un tempo fu avamposto mercantile di nomadi diretti verso la Via della Sete, rifugio di carovane e sede di molte compagnie mercantili. Per secoli costituirà un centro di diversi poteri, politici e religiosi.
 
-##### Punti di luce
+#### Punti di luce
 
 Per proteggere al meglio il nuovo insediamento di Silverstone, unico punto di luce nel raggio di vari chilometri di desolazioni infestate dai non-morti, viene costituito un governo temporaneo formato da paladini ed ex-avventurieri.
 
@@ -378,8 +378,6 @@ Durante la piovosa notte che verrà ricordata per sempre come “Notte dei Terro
 ##### Fuori dall'Oscurità
 
 Un potente gruppo di fuorilegge e corsari del Mare della Notte si unisce sotto un’unica bandiera e contribuisce a riportare Damodar sotto il controllo della popolazione.
-
-#### 1744 EC
 
 #### 1762 EC
 

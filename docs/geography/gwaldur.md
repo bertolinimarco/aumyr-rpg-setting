@@ -38,39 +38,39 @@ Da sempre Kaphnur, la capitale di Gwaldur attira i visitatori affascinati dalle 
 
 - **2101 EC** Seconda Grande Distruzione: Una voragine profonda inghiotte il centro della città, ed ogni cosa viene distrutta nell’area circostante. Gli edifici vengono nuovamente ricostruiti questa volta utilizzando anche il vetro magico creato utilizzando la sabbia vicina. Tutto il terreno di Città Vecchia diventa un dungeon a cielo aperto, prima di essere pattugliato e posto in sicurezza dalla Fratellanza Rossa.
 
-#### Distretti
+### Distretti
 
-##### La Foce
+#### La Foce
 
 E’ la zona formata dalla parte finale del fiume di lava. In quest’area il terreno è sterile e instabile: forma una grossa cascata di sabbia nera finissima che scende fino all’oceano. Costituisce una zona “attiva” della caldera cittadina ed è sotto stretta osservazione da parte di alcuni consiglieri dell’Imperatore.
 
-##### Distretto Torrenera
+#### Distretto Torrenera
 
 Così chiamato per via dei camini neri e di bocche di geyser nella parte Ovest, nel Distretto Torrenera si possono trovare attività commerciali e templi delle divinità, nonchè empori di alchimia, fabbri, fucine e lavoratori di pietre. Il quartiere è posto sopra un grosso cumulo solidificato di roccia vulcanica e sono in molti a pensare che possa essere la zona più sicura della città.
 
-##### Grotte Lucenti
+#### Grotte Lucenti
 
 La sabbia di questa zona consente di forgiare del vetro cristallino, molto resistente, maneggevole e quasi invisibile. In questo distretto si concentra gran parte del commercio via mare ed ogni abitazione possiede una bottega al piano terra. Il nome proviene da dallo spettacolo di luci creato dalla rifrazione della sabbia sulle pareti delle grotte della costa.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Reggia Trascendente
+#### Reggia Trascendente
 
 E’ la sede dell’Imperatore, un palazzo fluttuante, dotato di numerosi piani e stanze. Protetto da campi di energia e zone di magia morta, il luogo riflette la personalità paranoica del proprietario, che da qui controlla tutti gli affari della Regione. Il popolo non viene mai ammesso a palazzo tranne in occasioni speciali o sotto costrizione. Qualche vecchio mago sostiene che il palazzo si trovi in realtà intrappolato tra il Piano Materiale e il Piano delle Ombre.
 
-##### Città Vecchia
+#### Città Vecchia
 
 L’antica parte nord della città è ora una distesa arida e rovente di case nerastre e pietre fuse. Per anni molti avventurieri si sono fatti strada tra le sue rovine per ritrovare qualche oggetto di valore, e ora la piana è devastata da scavi, palchi e rozze palafitte pericolanti su laghi di lava. La distruzione fu causata da un potente incantesimo che aprì un portale sul Vortice Eterno, durante la prima ricostruzione della città nel 2101 EC.
 
-##### Sale degli Specchi
+#### Sale degli Specchi
 
 Si tratta di un antico labirinto di specchi dagli scopi sconosciuti, probabilmente appartenuto ad un’organizzazione segreta o ad un culto ormai scomparso. Gli specchi sono stati creati fondendo la strana sabbia finissima formata dall’incontro tra magma e oceano di questa zona. Anche se oggi viene considerato un’attrazione per turisti, sono in molti a pensare che il dungeon nasconda, da qualche parte, un grande mistero.
 
-##### Monastero della Mano Nera
+#### Monastero della Mano Nera
 
 Le sue grotte interne ospitano la guardia cittadina, le caserme e gli alloggi di un antico di monaci guerrieri. Data la natura unica delle arti insegnate, è fortemente probabile che vengano addestrati anche assassini e ladri, in alcune aree riservate del luogo.
 
-##### Sorgenti del Vapore
+#### Sorgenti del Vapore
 
 Dopo la prima ricostruzione della città si pensò che fosse più facile prelevare l’energia direttamente dal sottosuolo delle caldere, tramite geyser e vapori. L’intera zona è un quartiere industriale, nonchè un enorme deposito di rottami e rovine portate qui dalla Città Vecchia. Nel suo mercato è possibile barattare qualsiasi minerale per generi di prima necessità, o oggetti magici.
 

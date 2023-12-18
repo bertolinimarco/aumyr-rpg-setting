@@ -4,47 +4,54 @@ pageClass: is--homepage
 heroImage: /assets/img/logo-aumyr-world.svg
 heroText: Adventure, Mystery, Magic
 tagline: Aumyr is a fantasy setting for role-playing games, ready for your adventures.
-actionText: Explore →
-actionLink: /en/welcome.md
+actions:
+  - text: Start now
+    link: /en/welcome.md
 footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt
 ---
 
 <div class="home-features">
   <div class="card">
     <div class="card-body">
-    <h3>Manual (ITA)</h3>
+    <h3>Manual </h3>
+    <h4>175 pages PDF</h4>
     <p>
-    <strong>175 pages PDF</strong><br>(<em>old school</em> black and white, with a full size COLOR map).
+    <strong>🇮🇹 ITALIAN-ONLY</strong> &middot; Old school black and white, with a full size COLOR map. 
     </p>
-    <a href="/assets/contents/aumyr.pdf" target="_blank" rel="noopener"><img src="/assets/icons/icon-pdf.svg" style="height:20px;display:inline-block;vertical-align:middle;margin-right:8px;">Download</a>
+    <a class="btn" href="/assets/contents/aumyr.pdf" target="_blank" rel="noopener">Download</a>
     </div>
   </div>
   <div class="card">
     <div class="card-body">
     <h3>World</h3>
+    <h4>Interactive Atlas</h4>
     <p>
-    <strong>Interactive Atlas</strong><br>Search and explore Aumyr locations during while adventuring.
+    Search and explore Aumyr locations during while adventuring.
     </p>
-    <a href="https://atlas.aumyr.world/en/aumyr.html" target="_blank"><img src="/assets/icons/icon-world.svg" style="height:20px;display:inline-block;vertical-align:middle;margin-right:8px;">Open</a>
+    <a class="btn" href="https://atlas.aumyr.world/en/aumyr.html" target="_blank">Explore</a>
     </div>
   </div>
   <div class="card">
     <div class="card-body">
     <h3>Community</h3>
+    <h4>Discord Server</h4>
     <p>
-    <strong>Discord Server</strong><br>Join our Discord Community and chat with us about Aumyr and more!
+    Join our Discord Community and chat with us about Aumyr and more!
     </p>
-    <a href="https://discord.gg/HP9bA4Z" target="_blank" rel="noopener"><img src="/assets/icons/icon-discord.svg" style="height:20px;display:inline-block;vertical-align:middle;margin-right:8px;">Join</a>
+    <a class="btn" href="https://discord.gg/HP9bA4Z" target="_blank" rel="noopener">Join</a>
     </div>
   </div>
-  <!-- <div class="card is-comingsoon">
+  <div class="card is-comingsoon">
     <div class="card-body">
-      <h3>SOON™ <span style="font-size:12px;">(2023)</span></h3>
-      <p>
-      <strong>FoundryVTT Module</strong><br>
-      Maps, NPCs, creatures, ideas ready for Foundry Virtual Tabletop!
-      </p>
-      <a href="#" target="_blank" rel="noopener"><img src="https://foundryvtt.com/static/assets/icons/fvtt.png" style="height:20px;display:inline-block;vertical-align:middle;margin-right:8px;opacity:.4;pointer-events:none;">Download</a>
+      <h3>Coming soon</h3>
+      <ul style="margin-bottom:0;">
+        <li>More languages: 🇫🇷, 🇪🇸, 🇩🇪</li>
+        <li>FoundryVTT (Official Module)</li>
+      </ul>
     </div>
-  </div> -->
+  </div>
+</div>
+
+<div class="home-footer-text-bottom">
+  <p>Something is missing, would you like to contribute? <a href="https://github.com/bertolinimarco/aumyr-rpg-setting/issues" target="_blank">Open an issue</a> or chat on <a href="https://discord.gg/HP9bA4Z">Discord</a></p>
 </div>

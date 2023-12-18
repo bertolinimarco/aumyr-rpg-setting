@@ -38,39 +38,39 @@ Also known as the "City on the Stakes" or "The Suspended City", Nordur is a larg
 
 - [1979 CE](../chronology/#_1979-ce) The area of the swamp widens and the central territory begins to solidify, thanks to the compound of mud and ashes of the dead. The ritual area is formed, endowed with powerful divine energies.
 
-#### Districts
+### Districts
 
-##### The District
+#### The District
 
 It is the outer district of the city, where you can find both shops and huts of clerics and druids. The population density is also concentrated in this area, which joins many passing adventurers and beggars.
 
-##### Ritual Area
+#### Ritual Area
 
 Located south-east of the city, this area is characterized by the presence of countless layers of land formed by ashes of the dead, which make the area dense with arcane and divine powers. It is said that during the night, many spirits are wandering because of this great mound, sensitive to the call of the living and the memory of themselves still alive.
 
-##### Vines Quarter
+#### Vines Quarter
 
 The whole area is infested with greenish roots, bulbs and vines. It is made up of shacks and huts anchored on rocky ground, almost like claws trying to escape the mudflats on which they are anchored. In addition to commercial facilities, here you can find shops and even old noble houses, saved from the time and corruption of the mephitic fumes of the place.
 
-#### Points of Interest
+### Points of interest
 
-##### Great Hall
+#### Great Hall
 
 A domed ebony wood building, home to the government of the region. Inside there are assemblies and political councils: the hall is built using polished stone, brick, wood and is decorated with beautiful tapestries.
 
-##### The Three Sisters
+#### The Three Sisters
 
 This large workshop is located on the top of a big root wrapped in creepers. Inside you can find potions, filters, alchemical compounds and ingredients for spells. It is run by three human sisters and they are said to know many ways to handle curses, afflictions, debilitations and illnesses.
 
-##### Arcadia
+#### Arcadia
 
 In the North-West quarter of the city you can glimpse the Arcadia, the semi-submerged wrecked ship. Not even the most wise men know the real history of this place, and the ship is so deteriorated that it is no longer able to sail again. The interior of the wreck was converted into a tavern some time ago and it is possible to stay in one of the rooms-cabins that once constituted the passenger section.
 
-##### Cave of Lights
+#### Cave of Lights
 
 It is a complex of caves with walls covered by luminous lichens, possible conductors of bioluminescence of the flora of the subsoil. It was once an asylum due to the soothing effect of some rooms), now it's a ghetto for marginalized and crazy people. Those who stay there are called Absorbed: they often express themselves through gestures and do not seem to have a leader.
 
-##### Dreamer's Rock
+#### Dreamer's Rock
 
 A strange stone monolith emerges at the corner of a street in the District. It is about two meters high, covered with an evanescent and gelatinous substance that does not seem to react to any external manipulation. Some people think that it is an ancient blasphemous monument erected by some worshippers of a dead lizard God, others think that it is a magical focus useful to cross the Dreamlands.
 

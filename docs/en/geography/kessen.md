@@ -39,39 +39,39 @@ Located in the middle of a large plain but not too far from the coast of the Nig
 
 - [1289 CE](../chronology/#_1289-ce) A group of merchants founded the city of Feldris. Few people remember the turmoil of the past and many adventurers help to secure the borders of the region, in the shadow of the foggy Mountains.
 
-#### Districts
+### Districts
 
-##### Lakes District
+#### Lakes District
 
 Most of the inhabitants live in this district, a tangle of narrow streets between lakes, internal squares, vaults, lintels of rough stone and low houses with wooden roofs. In recent years, buying a property in the city has become very simple thanks to a very reasonable pricing policy dictated by the union, with the aim of increasing the city population.
 
-##### The Old Swamp
+#### The Old Swamp
 
 The area north of the city consists of several layers of reclaimed land that once constituted a large swamp. The area is home to the city's temples, as well as government buildings ancillary to the Syndicate Palace, the city militia's barracks and a large number of taverns for all budgets. Here you can also find the best dwellings in the city: villas and rich noble manor houses with a long history.
 
-##### Silver Waters
+#### Silver Waters
 
 So called because of its position close to a large artificial lake with silver water, the district houses the shops of the capital's commercial activities. You can find both alchemists and shops selling magical objects, blacksmiths, carpenters, workshops of master builders, guild sites and more.
 
-#### Points of Interest
+### Points of interest
 
-##### Syndicate Palace
+#### Syndicate Palace
 
 The large Syndicate building is a historic stone palace consisting of a keep and several towers. It houses the government headquarters as well as several rooms suitable for hosting events, meetings, fairs and banquets. In one of the towers you can consult the town library, an important collection of manuscripts in which to find all kinds of historical, political or arcane information that has been reported in the historical chronicles of the region. The management of the palace is entrusted to an organization employed by the Syndicate and its members act as both supervisors and judges for the city's legal issues.
 
-##### The Old Source
+#### The Old Source
 
 It is an ancient distillery known for the goodness of its mead and currently run by a family of dwarves. The circular central hall accommodates two hundred seats and it is possible to reserve some private rooms in the towers adjacent to the structure. It is thought that a magical spring really exists somewhere under the inn and can be the true source of the goodness of the drinks that are produced here.
 
-##### Rock of Wrath
+#### Rock of Wrath
 
 A great igneous rock that fell here in 540 CE, the remnant of the attacks unleashed by the giants of the mountains. The rock seems to be indestructible and every fire magic thrown near the boulder is enhanced. The children are told that the Rock of Wrath covers the opening of a small tunnel through which it is possible to reach a mysterious cave, seat of a powerful spirit of fire.
 
-##### Ounemuïl
+#### Ounemuïl
 
 An ancient elven cemetery. During the night, he is closed to the public and is guarded by a selected group of elves from the Red Brotherhood. Some old wizards would still like to be buried in this graveyard, even if it is thought that the whole area is subject to some negative influences from the subsoil. During the day you can visit the Eye of the Widow, a splendid white marble mausoleum that contains the tomb of a young elf without name.
 
-##### Shrine of Visions
+#### Shrine of Visions
 
 This temple serves both as a hospital and a refreshment place for many adventurers, but also ordinary citizens. Most minor care is free of charge and the facility is maintained through free donation and support of various divine cults. Inside the rooms it is possible to find a cure for many diseases, both magical and natural, curses, mental conditioning and many other afflictions.
 

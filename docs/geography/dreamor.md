@@ -40,7 +40,7 @@ Fivestar è la più grande città del mondo conosciuto, con i suoi grandi templi
 
 - [2219 EC](/chronology/#_2219-ec) Forte espansione della città, divisione in quartieri, costruzione della Mano Bianca.
 
-#### Distretti
+### Distretti
 
 #### Distretto degli Dei
 
@@ -58,7 +58,7 @@ Un elegante isolato che comprende ville, giardini e laghetti privati. In questi 
 
 Il “quartiere che non dorme mai” è un grande mercato perennemente attivo. Per molti abitanti di Fivestar il commercio costituisce la prima fonte di occupazione. Data la vastità del quartiere, è molto facile venire borseggiati da abilissimi ladri sempre pronti a tagliare qualche borsa troppo in vista, soprattutto al tramonto.
 
-#### Luoghi Importanti
+### Luoghi Importanti
 
 #### Accademia Griga
 

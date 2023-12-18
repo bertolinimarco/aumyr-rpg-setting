@@ -14,6 +14,10 @@ Calice di legno con bordo dorato superiore. Data la sua natura umile e semplice,
 
 ### Cubo delle Ere
 
+::: warning
+Questa voce non è ancora completa
+:::
+
 ### Dogma
 
 Scudo Torre. Uno scudo all’apparenza logoro ma intagliato con grande maestria. La parte interna è dotata di un meccanismo a catena che consente di fissarlo all’armatura o al guanto d’arme in modo agevole. La parte esterna invece è formata da un intaglio a forma di testa di drago, nonché da una serie di cerchi avvolti attorno ad esso scritti in una lingua sconosciuta. Genera campo di antimagia che protegge una persona in più oltre al portatore. Rende chi lo brandisce immune dal soffio dei draghi e da condizionamenti mentali, sonno e paura.
@@ -34,6 +38,10 @@ Spada Lunga. Forgiata nei livelli più bassi di Gherzul e intrisa della sua ener
 
 Una piccola lanterna di ottone e ferro, il cui chiarore sembra alimentato da una forma di energia piuttosto che dal fuoco. La strana luce verde della lanterna identifica oggetti, scopre porte segrete, rivela illusioni, rivela esseri invisibili o sul piano etereo. E’ tuttavia un oggetto maledetto. Ogni volta che si accende qualcuno muore. Ce la possibilità che si tratti di una persona vicina a chi la accende. Può venire usata come focus per incantesimi necromantici, aumentando la potenza degli stessi in modo considerevole.
 
+### Le Figure
+
+Vedi [Le Figure](/almanac/figures.md)
+
 ### Luce Eterna
 
 Arco Lungo Composito. Anatema dei Non-Morti ed Esterni. Appare come un intricato e ricurvo bastone nodoso, pervaso di tenue energia. Al buio risplende di luce rossa. Se viene impugnato al centro, si genera un fascio di energia rossastra e sottile collegata alle due estremità del bastone, costituendo un arco ricurvo. Si possono scagliare frecce di ogni tipo, oppure se viene utilizzato senza frecce, l’arco genera una propria freccia di luce. Le frecce così generate sono infinite e si dissolvono dopo aver colpito il bersaglio.
@@ -51,6 +59,10 @@ Maglio di lega d’argento. La testa del martello può emettere una fiamma infuo
 Cubo di trenta centimetri per lato, di pietra levigata simile al quarzo. Antico strumento Askari che permette di raccogliere energia elementale per immagazzinarla come fonte di energia. Tramite alcune pratiche è possibile utilizzare un Nodo di Energia per alimentare fornaci, laboratori alchemici, fonti di calore e altri impianti che richiedono energia elementale o arcana. In molti pensano che i Portali siano alimentati da questi oggetti antichi e potenti.
 
 ### Seme del Mondo
+
+::: warning
+Questa voce non è ancora completa
+:::
 
 ### Teschio di Ossidiana
 

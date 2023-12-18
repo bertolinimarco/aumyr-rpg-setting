@@ -40,43 +40,43 @@ Damodar, il porto principale sulla Costa Splendente, è un caleidoscopio di colo
 
 - **2081 EC** Nasce la prima Organizzazione per il Controllo Portuale e Mercantile sul Commercio nel Mare della Notte, che in seguito prenderà il nome di Consorzio.
 
-#### Distretti
+### Distretti
 
-##### Bazaar
+#### Bazaar
 
 Non esiste merce che non sia stata scambiata tra gli anfratti di pietra di questi vicoli. Un tempo l’area del Bazaar era estesa quasi quanto la città stessa; anche se oggi si tratta di un quartiere, è impossibile trovare una superficie che non sia stata incisa per gestire inventari, calcolare partite di merci, e altro ancora. Perdersi è molto facile, tanto che scolpite nella strada si trovano indicazioni per le varie aree all’interno del distretto.
 
-##### Quartiere Rosso
+#### Quartiere Rosso
 
 L’area che ospita i templi, gli archivi cittadini e le strutture organizzative. Il nome suggerisce la sfumatura rossa tenue emanata dal vicino Distretto delle Lanterne. Si possono notare molti giardini pensili, e le strade sono spesso coperte da petali multicolore. E’ un quartiere ricco, il preferito da molti ambasciatori, facoltosi mercanti e avventurieri itineranti.
 
-##### Distretto delle Lanterne
+#### Distretto delle Lanterne
 
 Dicono che nulla sia paragonabile alla vista del Distretto nelle ore notturne. Fino al porto, la zona viene avvolta da aloni di luce rossa proveniente dalle lanterne appese in mezzo ai tortuosi vicoli cittadini. In questa zona è possibile gustare ottimi liquori prodotti da commercianti locali.
 
-##### Vie del Mago
+#### Vie del Mago
 
 Quartiere caratteristico per via di case dal tetto a punta, ospita esclusivamente maghi, stregoni ed incantatori famosi. Le abitazioni vengono assegnate ai vincitori del Torneo di Skyreel, che acquisiscono il diritto di vivere in un’elegante magione di questa zona per l’intera durata della propria vita.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Corte del Mare
+#### Corte del Mare
 
 L’antica roccaforte che ospita il governo del Gran Consiglio delle Repubbliche è una struttura singolare, frutto di multiple fusioni tra stili architettonici di diverse razze. La centenaria esposizione alla salsedine proveniente dall’oceano ne ha reso le mura multicolori, tanto che l’intera struttura sembra essere appena emersa dalle acque.
 
-##### Porto Vecchio
+#### Porto Vecchio
 
 Un dedalo di strade che inevitabilmente portano verso la costa. Il nome indica il luogo del primo approdo dei coloni, una zona un tempo salmastra e rocciosa. E’ famoso per ospitare a Locanda del Nuovo Sole, una costruzione maestosa in pietra e legno che funge da punto di ritrovo per molti avventurieri del continente.
 
-##### Prima Pietra
+#### Prima Pietra
 
 Un piccolo crocevia a nord della città ospita la Prima Pietra, un monolite di basalto nero, attraversato da luminose linee azzurre vorticanti. Si ritiene che il masso sia proietti una zona magica in grado di rilassare i nervi e calmare le paure. Molti si recano nelle vicinanze della pietra prima di prendere delle decisioni importanti, convinti che l’energia del monolite possa aiutarli a dipanare questioni spinose o decisioni difficili.
 
-##### Il Consorzio
+#### Il Consorzio
 
 Si tratta di una costruzione in mattoni rossi immersa in un’area di magazzini mercantili. Da questa sede si organizza il controllo della sicurezza portuale per i carichi navali operanti nel Mare della Notte, ed è un intrico di stanze, aree comuni, sale ripiene di merci, mercanti e marinai. La struttura possiede anche delle celle sotterranee per ospitare coloro che vengono accusati di crimini dal Tribunale delle Repubbliche.
 
-##### Auditorium
+#### Auditorium
 
 E’ il luogo dove vengono celebrati spettacoli di magia, manifestazioni e incontri cittadini. La struttura viene eretta dal Consorzio nel 172 EC per celebrare l’anno della libertà e dell’indipendenza.
 

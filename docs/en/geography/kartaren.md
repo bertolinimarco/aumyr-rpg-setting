@@ -38,39 +38,39 @@ The capital of Kartaren is situated at a crossroads and plays an important role 
 
 - [1789 CE](../chronology/#_1789-ce) The flourishing of commerce, above all thanks to the wealth extracted from mines, leads the city to be declared capital. Subsequently the government settled in the Keep, acquiring complete control.
 
-#### Districts
+### Districts
 
-##### Kartar Mines
+#### Kartar Mines
 
 Used by the government as a source of forced labor for prisoners in the Keep, the Kartar Mines have often been inspected by the Dorne Society, given the variety of its minerals, dangerous tunnels and the presence of other strange rooms wrapped in unknown magical energy.
 
-##### Dragon's Head
+#### Dragon's Head
 
 A large town area where it is possible to find clerical services, temples and noble houses, as well as the homes of some illustrious personalities such as former generals or leaders. The neighborhood is known by this name because of the large statue of a dragon's head placed in the center of the district.
 
-##### Black Rivers District
+#### Black Rivers District
 
 So called because of the dense color of some gases coming out of the subsoil, the district is crossed every day by patrol soldiers, miners and recruits of the College of War, who find accommodation and rest here. It is possible to find some inns where you can gamble gambling betting gold, even if it is inadvisable to provoke licensed soldiers.
 
-#### Points of Interest
+### Points of interest
 
-##### The Keep
+#### The Keep
 
 The majestic defensive structure with circular walls is located in the city centre. It is the seat of the government and houses the city army barracks as well as the General's lodgings. It also includes an underground prison structured on various levels: some criminals prefer to take their lives away rather than be locked up in this place.
 
-##### The Mortar
+#### The Mortar
 
 Every day outside this shop you can see blacksmiths and craftsmen working on strange explosives and exotic weapons. Several of the largest blacksmiths and inventors in the region, who are constantly building new artillery for the government and commission, work in the workshop.
 
-##### Arcane Serrail
+#### Arcane Serrail
 
 It is a large flat terrain bounded by strength fields and magical barriers. Here are sold magical beasts, horses and rare exotic creatures.
 
-##### College of War
+#### College of War
 
 Famous academy of training for warriors, barbarians, rangers, mercenaries or professional soldiers. Leverage is compulsory and begins at a young age for the children of all the inhabitants of the region, male or female, without distinction. Those who manage to overcome years of training become respected soldiers and feared for their coldness.
 
-##### The Red Cave
+#### The Red Cave
 
 Large underground tavern frequented above all by adventurers, offers accommodation and refreshment at a good price. The inn has been built above the old cave of the red dragon Kartaros, which has also become the symbol of the region: the transparent floor of the inn gives a glimpse of the large underground areas that once housed the creature.
 

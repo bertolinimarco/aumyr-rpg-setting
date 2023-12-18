@@ -1,5 +1,7 @@
 # Multiverso
 
+![Multiverse](/images/multiverse.jpg)
+
 Ripercorrendo la storia millenaria di Aumyr ci si accorge di come i viaggi planari e la possibilità di spostarsi su altri mondi abbiano influenzato direttamente il mondo stesso, permettendone la colonizzazione da parte delle razze del Multiverso.
 
 Dal mistero dell’origine degli Askari e dalla comparsa dei primi coloni attraverso il Portale creato dai Cinque, si è presto compreso che spostarsi su altri mondi non era più appannaggio di antiche magie o rituali ormai estinti: sempre più incantatori hanno sperimentato nuovi metodi per aprire Portali, Corridoi Astrali o altre forme di viaggio verso altre dimensioni. Alcuni di loro hanno riferito di interi pianeti popolati, realtà alternative, pianeti-caos, dimensioni di pura immaginazione e altro ancora.

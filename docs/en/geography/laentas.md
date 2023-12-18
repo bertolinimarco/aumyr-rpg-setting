@@ -41,43 +41,43 @@ The Port on the Splendent Coast is a kaleidoscope of colors and structures typic
 
 - [2081 CE](../chronology/#_2081-ce) The first Organization for Portual and Trade Control is born on the Commerce in the Night Sea, which will later take the name of Consortium.
 
-#### Districts
+### Districts
 
-##### Bazaar
+#### Bazaar
 
 There is no goods that have not been exchanged between the stone ravines of these alleys. Once upon a time the Bazaar area was almost as large as the city itself; even if today it is a neighborhood, it is impossible to find an area that has not been engraved to manage inventories, calculate values of goods, and more. It is very easy to get lost, so much so that carved into the street there are indications for the various areas within the district.
 
-##### Red Quarter
+#### Red Quarter
 
 The area that houses temples, city archives and organizational structures. The name suggests the soft red nuance emanating from the nearby District of Lanterns. Many hanging gardens can be seen, and the streets are often covered with multicolored petals. It is a rich neighborhood, the favorite of many ambassadors, wealthy merchants and itinerant adventurers.
 
-##### District of Lanterns
+#### District of Lanterns
 
 They say that nothing is comparable to the District's view at night. Up to the port, the area is surrounded by red lights from the lanterns hanging in the middle of the winding alleyways of the city. In this area you can enjoy excellent liqueurs produced by local traders.
 
-##### The Wizard Routes
+#### The Wizard Routes
 
 Characteristic neighborhood due to the tip-top houses, it is home exclusively to wizards, sorcerers and famous charmers. The houses are awarded to the winners of the Skyreel Tournament, who acquire the right to live in an elegant mansion in this area for the entire duration of their lives.
 
-#### Points of Interest
+### Points of interest
 
-##### Sea Court
+#### Sea Court
 
 The ancient stronghold that houses the government of the Grand Council of the Republics is a singular structure, the result of multiple mergers between architectural styles of different races. The centuries-old exposure to salt from the ocean has made its walls multicolored, so much so that the entire structure seems to have just emerged from the waters.
 
-##### Old Harbour
+#### Old Harbour
 
 A maze of roads that inevitably lead to the sea. The name indicates the place of the first settlers' landing place, an area that was once salty and rocky. It is famous for its location in New Sun Inn, a majestic stone and wood building that serves as a meeting point for many adventurers on the continent.
 
-##### The First Stone
+#### The First Stone
 
 A small crossroads to the north of the city hosts the First Stone, a black basalt monolith, crossed by bright swirling blue lines. It is believed that the boulder is projecting a magical area capable of relaxing the nerves and calming fears. Many people go to the stone before making important decisions, convinced that monolithic energy can help them unravel thorny issues or difficult decisions.
 
-##### The Consortium
+#### The Consortium
 
 It is a red brick building immersed in an area of merchant warehouses. From here, port security control is organized for ship cargoes operating in the Night Sea, and is a tangle of rooms, common areas, halls filled with cargo, merchants and sailors. The structure also has underground cells to accommodate those accused of crimes by the Republican Court.
 
-##### Auditorium
+#### Auditorium
 
 It is the place where magic shows, events and meetings are held. The structure was erected by the Consortium in 172 CE to celebrate the year of freedom and independence.
 

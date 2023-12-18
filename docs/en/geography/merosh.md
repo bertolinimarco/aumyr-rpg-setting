@@ -38,39 +38,39 @@ Entering Veloras via the wide foothill road, you get the impression that you are
 
 - [1983 CE](../chronology/#_1983-ce) Date of the probable Tragedy of the Lovers, a legend of Merosh that tells of betrayal and revenge. From these stories, local beliefs will be formed that will lead the city to become known as the City of Lovers.
 
-#### Districts
+### Districts
 
-##### Spirit Islands
+#### Spirit Islands
 
 It is a group of islands high enough to be reached only by a system of footbridges above the town cove, unless you climb a rock face several meters high, overhanging the winding waters of the cove.
 
-##### Hill of the Arts
+#### Hill of the Arts
 
 This hill is inhabited mainly by wizards and enchanters: almost all the houses are magically protected. In the "magic quarter" some offer their services with a shop on the ground floor, others prefer to remain isolated in study, meditation or contemplation.
 
-##### Ravenmount
+#### Ravenmount
 
 This dark neighborhood is where the city's illicit business is concentrated. It's full of oily taverns, moldy shops, pungent smells, not to mention the ever-present noise of the nearby waterfalls. The people of Montecorvo are hostile to adventurers and often try to deceive foreigners by selling them junk, cursed objects or powerful poisons disguised as normal healing potions.
 
-#### Points of Interest
+### Points of interest
 
-##### Parliament
+#### Parliament
 
 A simple, pentagonal palace stands out on one of the islands. It is the seat of the government and in its rooms you can find messengers, politicians, historians, wise men and experts. Much of the controversy in the region is resolved in these austere rooms, often the scene of heated political and ethical clashes. The collection of the Chronicles of the Wizard is kept in an underground area.
 
-##### Temple of the Source
+#### Temple of the Source
 
 The presence of this area is reported before the construction of the city. Today it is possible to admire a temple decorated with aquamarine and limestone, with numerous bas-reliefs depicting several divinities. Once a year, it is a place of pilgrimage for a congregation of magicians who believe that the fountain holds great power.
 
-##### Lovers Square
+#### Lovers Square
 
 In the south-west part of the city you can admire this unique area. A large stone mosaic forms a rotating figure of two spirits that contrast in a circle. All over the square there is a powerful magic that increases the charism, personal magnetism and self-confidence. Given this power, many people are in this area in search of great love.
 
-##### Jumping Tavern
+#### Jumping Tavern
 
 A wrecked structure located on the piece of land closest to the waterfalls, the inn is famous for its strong liqueurs and its dangerous location. Paying a toll, as a test of courage it is possible to try to cross a network of invisible walkways on the back of the tavern. The path is very dangerous and full of traps, also invisible, which can be overcome only thanks to spells of divination or pure skill.
 
-##### Oracle Tower
+#### Oracle Tower
 
 This is a strange pagoda, closed to the public. The people of Merosh think that it's the home of a solitary seer. Every now and then it seems possible to glimpse a red foliage through the slits of the tower, and it is said that a presence always responds to the requests of those who can contact it, even if many people believe that it is only a setup to attract new visitors.
 

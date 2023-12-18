@@ -55,6 +55,10 @@ Silver alloy maul. The hammer head may emit a flaming flame and generate light w
 
 Cube of 30cm per side, made of quartz-like polished stone. An ancient Askari tool that allows you to collect elemental energy to store it as a source of energy, as a battery. Through some practices it is possible to use an Energy Node to power structures, alchemical laboratories, heat sources and other plants that require elemental or arcane energy. Many people think that the Portals are powered by these ancient and powerful objects.
 
+### The Figures
+
+See [The Figures](/en/almanac/figures.md)
+
 ### The Seed of the World
 
 ::: warning

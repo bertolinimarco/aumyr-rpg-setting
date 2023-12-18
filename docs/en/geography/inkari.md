@@ -39,39 +39,39 @@ It is the city dedicated to the Great Father, situated on a spur of meteoric roc
 
 - [75 CE](../chronology/#_75-ce) An expedition of elves, humans, dwarves and halflings lands in the village of Jundarai. It is only a matter of time before they come to Khoralis and discover the natives and their ancient civilization. Since then, the capital's structure has remained almost unchanged, even if today it is home to many different races.
 
-#### Districts
+### Districts
 
-##### Circle of Strenght
+#### Circle of Strenght
 
 The central area of the city is a place used as a public arena, square, court, court, theatre, venue for shows and challenges. It is the centre of the city's activity, considering that all events of public and private order are disputed here, under the divine eyes of the Great Father. Every year, the young warriors celebrate the conclusion of the ritual of passage into adulthood, becoming warriors of the clan to all intents and purposes.
 
-##### Sages Hills
+#### Sages Hills
 
 It is a green area full of graves and monuments of rough stone. The area is considered both a graveyard and a temple and the land is sacred. A place with multiple functions, the oracles of the ancestors are consulted among the tombs, in search of advice or inspiration for the future. It is said that some restless spirits also wander through the monuments, whispering ancient curses to visitors and prompting them to practice ritual suicides.
 
-##### Crypts of the Tradition
+#### Crypts of the Tradition
 
 The western ridge of Khoralis is a maze of catacombs and crypts, some of which are ancient for millennia. They are a place of neutrality: both ancient Regents and simple warriors are buried in the same catacombs, symbolizing equity and equality in the inevitable moment of death. There are many religious services and blessing rites that are celebrated daily between these underground corridors from the low vaulted ceiling, and make the place relatively safe, although it's easy to get lost in its dark mazes.
 
-#### Points of Interest
+### Points of interest
 
-##### Temple of the Great Father
+#### Temple of the Great Father
 
 A large stone building with a wooden roof overlooking the capital, the center of worship of the Great Father is also the home of many great priests and paladins. He performs both a religious and military function, serving as a barracks and reference point for the training of all those who are devoted to the divinity. A large brazier in the middle of the temple symbolizes ardour and tenacity.
 
-##### The Crater
+#### The Crater
 
 Built on a singular terrain, formed after the fall of a meteor in remote times, the Crater is the largest tavern in the city, always a refuge of adventurers, bards, mercenaries and criminals. The architecture of the site is influenced by strong influences from outside the island of Inkari, making frequent brawls that often lead patrons to the Circle of Strenght. The owner of the inn is convinced that sooner or later another swarm of meteors will hit the area destroying everything.
 
-##### Burning Well
+#### Burning Well
 
 It is an old well, now sealed, located between two small lakes in the northern part of the city. It is said to have descended several hundred meters down to a complex of caves filled with the same meteoric rock that plunged into this area in the Ancient Era. The air on the bottom is unbreathable due to toxic vapors, acid pools and hot magma rivers. Numerous adventurers have descended into its depths, but apart from the magnificent underground grotto full of crystals, it seems that the cavity is empty.
 
-##### The Dragon Throne
+#### The Dragon Throne
 
 It is said that a native Regent of the past times had the ability to ride and command the dragons in battle. Today this structure is only a pale memory of the splendor of the past: it is formed by a circular mausoleum placed on the top of a hill, inside it is still possible to sit on the remains of a stone throne shaped like a dragon's head. It is often visited by religious groups, historians and elderly nostalgic warriors.
 
-##### The Eternal Forge
+#### The Eternal Forge
 
 This small shop is owned by an elderly blacksmith. In almost every day and night you can see it at work while hardening steel or forging swords. Someone thinks that the blacksmith pretends to be an old man. Others argue that it is under the influence of a powerful and ancient curse. The fact is that the Eternal Forge produces the best weapons and armour throughout the region and probably all of Aumyr, although the old owner does not want his creations to be sold to anyone.
 
@@ -91,39 +91,39 @@ The second capital of Inkari is accessible only from the surface, through a comp
 
 - [342 CE](../chronology/#_342-ce) The culture and tradition of Meentum also opens up most of its secrets to external races, after a series of civil unrest aimed at promoting integration policies, as well as a civil war that contributes to changing public opinion.
 
-#### Districts
+### Districts
 
-##### The Platforms
+#### The Platforms
 
 The only way to access Meentum from the surface is to use some flying platforms that serve as a control zone for a constant bustle of citizens and visitors. The platforms are no more than large slabs of polished stone that gently levitate towards the surface. It is said that the slabs contain powerful spells that determine the true nature and intentions of anyone who climbs or stands nearby.
 
-##### Knowledge Alleys
+#### Knowledge Alleys
 
 It is the place where the Scrolls of Tradition are conserved, an entire district made up of stairs, libraries, alcoves, bookshops and small houses. It is home to a school of magic specialized in divination and many people go to this area in case they have lost something and need advice to find it, be it a person, an object or something else.
 
-##### Umbral
+#### Umbral
 
 The land and houses in this neighborhood are invaded by a climbing mushroom that constitutes an immense living organism called Umbral. Its existence is much older than the city itself and some people think that its origins are lost in legend. For millennia, its mushrooms and fruits have been used to create potions, heal diseases and enhance arcane rituals. There are those who say that the fungus reacts to magical or emotional stimuli.
 
-#### Points of Interest
+### Points of interest
 
-##### The Tribunal
+#### The Tribunal
 
 In the middle of the cave, a building known as "The Tribunal" is located on a large raised area. It hosts Meentum government events, such as public sentences, proclamations of new laws, hearings of the Matriarchy, celebration of family unions, collective worship of the goddess, and more. Here the Matriarchs are named and a large stone inside the structure symbolizes the eternal tomb of the First Matriarch. It is said that touching the stone brings luck.
 
-##### Sensorium
+#### Sensorium
 
 It is difficult to notice the interior of this cave, located on the darkest edges of the city. Inside, mirror floors, multicoloured walls and other quirks lead to rooms with a wide variety of properties, created to stimulate the senses and perception. The population claims that it is a hybrid between a monastery and a place of entertainment. It is possible to stop in the rooms and experience particular experiences, similar to astral journeys. Many people suspect that the building hides several secrets.
 
-##### Sanctuary of the Great Mother
+#### Sanctuary of the Great Mother
 
 The centre of worship of the Great Mother, a large vaulted ceiling temple and large circular halls, is also the main seat of clerics, priests and paladins of the goddess. A maze of candles and arcane flames illuminate frescoed rooms, internal fountains and other plays of light that are reflected in the surrounding neighborhoods, symbolizing the omnipresence of the Great Mother. The lower rooms of the Temple house the Matriarchal and High Priestesses' accommodations.
 
-##### The Broken Blade
+#### The Broken Blade
 
 Former academy for warriors and fighters, it was abandoned some time ago, after some expansion works brought to light the entrances of an Askari tomb. The Dorne Society and the Council have tried several times to explore it, but the Matriarchs have always denied every request for an inspection. The structure is closed to the public and magically sealed by 1744 CE. Voices say that it is the place of eternal rest of a creature with immense powers.
 
-##### The Whitelight
+#### The Whitelight
 
 The inn is the last refuge before venturing into the dark tunnels, and its name derives from the white stone tower above it. It has the same function as a lighthouse in the dark and accommodates both adventurers and visitors alike. In its main hall, there are also expeditions in the underground. The owner, a slender native and mellifluous, takes into account adventurers who no longer return to the inn, adding notches to a wooden wall behind the counter. Needless to say, the wall is covered with signs.
 

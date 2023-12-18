@@ -39,39 +39,39 @@ Elerin is known as the "Mirror City". The octagon structure contains the large "
 
 - [1557 CE](../chronology/#_1557-ce) A group of magicians founded the Highspire School. Historians write about how the entire building, in the form of a flame, appeared from a portal as a result of an unknown ritual.
 
-#### Districts
+### Districts
 
-##### The Nucleus
+#### The Nucleus
 
 The large fortified structure in the centre of the city houses the government headquarters, numerous temples, commercial activities and elegant houses. In case of attack, this structure as large as a neighborhood can be closed like a cocoon, covered by a large shiny dome.
 
-##### Independent Quarter
+#### Independent Quarter
 
 It is a part of the city controlled by a group of citizens called "Independentists". Autarchy is in its streets and the city government allows the area to regulate itself. Visitors to the neighborhood immediately notice the absence of guards and militia, but the Independent people are far from being uninvolved.
 
-##### Port of Souls
+#### Port of Souls
 
 So called because of its position close to the Sea of Souls, the area is dotted with many shops, shipyards and warehouses full of goods. The port is a place of exchange, receiving stolen goods, agreements, gossip, subterfuges and secrets.
 
-#### Points of Interest
+### Points of interest
 
-##### Highspire
+#### Highspire
 
 So called because of its unique shape, Highspire is the most expensive and austere school of magic on the continent. For centuries, its classrooms have been making exceptional spells and many think that it provides an even more complete preparation than the Gray Academy of Fivestar. This school is famous for not having (or imposing) any limitations on the use of arcane arts, whether they are intended to be beneficial or evil. Attending Highspire's classes is a privilege for a few, given the very high cost of his courses and the absurdly difficult entry exams. It is said that the teaching group is composed above all of adventurers and that the Headmaster is a member of the mysterious Order of Gnosis.
 
-##### The Great Wheel
+#### The Great Wheel
 
 Many people think that this huge, glittering toothed wheel is part of a gigantic ancient machinery now forgotten. The Great Wheel allows the dome to move and close above the Core, protecting the city's central district if necessary. It is said that the material it is made of is indestructible, as is the dome itself.
 
-##### Aureum
+#### Aureum
 
 The large circular building with its four towers bears witness to the grandeur and power of the organization known as Mercatus. In this structure it is possible to carry out monetary operations: deposit money, borrow money, keep assets and valuables, convert treasures into gold coins and more. The staff members responsible for the supervision and control of this structure are called "Aureum agents".
 
-##### The Windrose
+#### The Windrose
 
 A odd inn is located in the Port of Souls area. The Windrose always guarantees entertainment: whether it's drinks, songs, stories of the sea and brawls among patrons. It is also possible to find all sorts of adventurers who sit at the unbalanced tables at any given time, a perfect place where you can get boat trips to the other regions of the continent or even further afield. The inn offers discounted prices to old sea wolves, smugglers, captains of vessels and buccaneers of all kinds.
 
-##### Xomaxan
+#### Xomaxan
 
 A small, semi-invisible internal square is also known as The Court of Silence. The area is just over 300 square meters large. The whole square is a zone of dead magic and no spell can be successfully cast. Many wizards have tried to understand the reasons for this arcane oddity and even the Council has sent here some brilliant students in search of answers over the years, but nothing has been worth the attempts to discover the reasons or history of this particular area.
 

@@ -38,39 +38,39 @@ Dunmere è un grosso insediamento di case dal tetto spiovente e appuntito, un’
 
 - **1762 EC** Alcuni clan di barbari delle montagne e vecchi guerrieri si insediano in una valle montana e contribuiscono a fondare Dunmere. Viene iniziata la costruzione della Sala degli Eroi in ricordo di tutti coloro che diedero la vita per la libertà dei clan e della popolazione.
 
-#### Distretti
+### Distretti
 
-##### Il Manto Gelido
+#### Il Manto Gelido
 
 La zona ovest della città è dedicata all’agricoltura e al raccolto di molte coltivazioni che trovano terreno ideale in climi rigidi e ghiacciati. Molti scelgono di stabilirsi vicino a questa zona in modo da coltivare il proprio terreno e sostenersi anche a livello commerciale, considerando che il cibo tra le montagne è una risorsa rara e preziosa.
 
-##### Sentieri della Prova
+#### Sentieri della Prova
 
 Una grande zona recintata ai margini della città viene utilizzata come sede della Prova, una sorta di cammino iniziatico per i giovani guerrieri di Dunmere. Coloro che vogliono entrare di diritto a far parte della società cittadina, devono affrontare questa Prova. Si dice che essa cambi a seconda della personalità di chi la affronta: molti perdono il senno e tornano afflitti da demenza precoce. Altri cambiano personalità o carattere. La leggenda vuole che durante la Prova, il grande eroe Beonur guidi tutti i Giovani Lupi verso una profonda comprensione di loro stessi.
 
-##### Quartiere dei Magli
+#### Quartiere dei Magli
 
 La parte sud-est della città è sede di fabbri, falegnami, magli e lavorazioni dei metalli, provenienti dalle montagne vicine. A qualsiasi ora del giorno è possibile sentire il pesante tonfo dei magli sul metallo, alimentati da piccole sorgenti di acqua provenienti dal ghiacciaio della montagna.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Sala degli Eroi
+#### Sala degli Eroi
 
 Chi entra per la prima volta in questo luogo ha la sensazione di essere osservato dalle decine e decine di busti incastonati nelle pareti di pietra grezza, raffiguranti grandi eroi del passato. Le stanze ospitano il governo della regione, comodi alloggi per diplomatici e personalità importanti, sale circolari dove ospitare riunioni e persino un grande archivio di pergamene sulla storia di Nordavind.
 
-##### La Brace
+#### La Brace
 
 Si tratta di un grosso maniero in pietra grigia, contenente svariate stanze e un’enorme camino circolare al centro del salone principale. Il fuoco è sempre acceso mentre vengono serviti spiedi di carne e birra leggendari. Su una parete è possibile osservare un ritratto di Kor Modan, ex avventuriero e fondatore della taverna: un grosso umano dai lineamenti duri e dalla barba grigia, avvolto da numerose pelli di orso.
 
-##### Grotta dei Cristalli
+#### Grotta dei Cristalli
 
 Un complesso di caverne e grotte che si aprono sui lati della montagna vicini alla città. Nei suoi tunnel è possibile osservare grossi cristalli multicolore, gruppi di gemme lucenti e diverse formazioni calcaree. Se opportunamente lavorati, alcuni di questi cristalli conferiscono singolari abilità magiche o potenziano capacità innate. Molti abitanti della città sono convinti che i cristalli portino fortuna per cui non è raro assistere ad unioni matrimoniali e celebrazioni di varia natura svolti all’interno delle grotte.
 
-##### Tempio delle Tre Verità
+#### Tempio delle Tre Verità
 
 Una setta di maghi trova la propria sede in questo strano palazzo ai margini della città. L’intera struttura sembra non aver nulla a che fare con le abitazioni di legno e pietra ricoperte di neve: si tratta di una torre con spirali dalle sfumature nerastre, scavata nella montagna. Gli accoliti del Tempio sono eremiti che raramente lasciano le mura della loro sede, se non per fare provviste o per dispensare enigmatici consigli ad avventurieri che tentano di essere accolti nella torre.
 
-##### Roccia del Gigante
+#### Roccia del Gigante
 
 Il modo più semplice di raggiungere questa struttura è quello di utilizzare un macchinario formato da una una cabina di metallo agganciata ad un grosso cavo semovente. Durante il ripido percorso ascensionale è possibile comprendere l’origine del nome di questo luogo: si tratta di una grotta scavata all’interno di una parete rocciosa, somigliante alla gigantesca bocca di un gigante delle montagne. Al suo interno è possibile trovare una sede della Società di Dorne, formata da un gruppo di esperti alpinisti e guide pronte a soccorrere avventurieri in pericolo, o ad esplorare alcuni dei numerosi dungeon che si nascondono tra i Picchi del Gelo.
 

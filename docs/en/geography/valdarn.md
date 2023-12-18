@@ -38,39 +38,39 @@ The city of Brean is also clearly visible from great distances, given its high C
 
 - [1300 CE](../chronology/#_1300-ce) After various dictatorships of powerful merchants, agreements are made with dwarves and other races of neighbor mountains. Various trading companies of miners and gem carvers are founded, Mercatus acquires the power and hidden control of the city.
 
-#### Districts
+### Districts
 
-##### Carvers District
+#### Carvers District
 
 It contains most of the city's commercial activities, taverns and refreshments. In its numerous side streets you can see the famous carvers of Brean at work, intent in their work outside their small shops. In this area it is also possible to find the town centre, formed by stone constructions with emerald melted stone coming from the nearby mountains. It is not uncommon for some adventurers to pick stones to refine them and try to make some money, even if the area is guarded day and night.
 
-##### Seeker Quarters
+#### Seeker Quarters
 
 It is a multitude of houses and dwellings built around the old town centre. It is the place where the less wealthy population is located, made up of slums, mercenary barracks and minor guilds. Some shops sell cheaply jewelry of low value, to look for easy currency suitable to survive the standard of living of the richest neighborhoods.
 
-##### The Long Walk
+#### The Long Walk
 
 The long uphill road that leads to the Celestial Tower is the true heart of the city. Here you can find the best merchants and attractions for adventurers or passing people. On the sides of the street there are always open markets, temples, libraries, shops selling magical objects, alchemists, gunsmiths, bards, theatre shows, travelling parties, and many other activities.
 
-#### Points of Interest
+### Points of interest
 
-##### Celestial Tower
+#### Celestial Tower
 
 A distinctive symbol of the city, the Celestial Tower is visible from several kilometers away in the surrounding plains and is a true masterpiece of architecture and engineering. It houses the government of the region and its various rooms contain rarities and precious objects of all kinds. Entrance to the top floors of the Heavenly Tower is forbidden, except for Merchants. The entire structure is so shrouded in mystery that it is said that there is a secret room at the top of it that contains an ancient Askari portal.
 
-##### Forge of Wonders
+#### Forge of Wonders
 
 It is a shop of magical objects, built around the only Askari Forge ever found. The shop is famous for buying and selling rare and powerful items, you can find or order almost any weapon or armor, as long as you own enough money to pay the master blacksmiths who work there.
 
-##### Stone Park
+#### Stone Park
 
 So called because of the numerous white stone statues scattered throughout its greatness, the city park is an oasis of tranquility far from the chaos of the streets of the gem carvers. The whole area is like a giant book of stories: the statues represent gods, heroes, monsters, animals and other bizarre stories.
 
-##### The Cornerstone
+#### The Cornerstone
 
 It is the largest gaming house on the continent. A huge multicolored dome on the top of The Long Walk, which also serves as an entrance door to the Heavenly Tower. Inside there are sumptuous rooms dedicated to the economic entertainment of merchants and wealthy customers looking for luck.
 
-##### House of Eternal Sighs
+#### House of Eternal Sighs
 
 This dilapidated structure is famous throughout the region for being one of the most unique places and infested with spirits you know. An ancient house of pleasure, the structure is now a sinister place: it is said to have many rooms with areas of dead magic, and given its importance is supervised by the Sleep Monks, which also uses it for teaching purposes for spiritual activities and supernatural knowledge.
 

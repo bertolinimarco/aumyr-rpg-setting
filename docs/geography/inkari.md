@@ -38,39 +38,39 @@ E’ la città dedicata al Grande Padre, posta su uno sperone di roccia meteoric
 
 - **75 EC** Una spedizione di elfi, umani, nani e halfling approda nel villaggio di Jundarai. E’ solo questione di tempo prima che essi giungano a Khoralis e scoprano i nativi e la loro civiltà millenaria. Da allora la struttura della capitale è rimasta pressochè invariata, anche se oggi ospita molte razze diverse.
 
-#### Distretti
+### Distretti
 
-##### Cerchio della Forza
+#### Cerchio della Forza
 
 L’area centrale della città è un luogo adibito ad arena pubblica, piazza, tribunale, teatro, sede di spettacoli e sfide. E’ il centro dell’attività cittadina, considerando che si disputano qui tutte le vicende di ordine pubblico e privato, sotto gli occhi divini del Grande Padre. Ogni anno i giovani guerrieri celebrano qui la conclusione del rito di passaggio nell’età adulta, divenendo a tutti gli effetti guerrieri del clan.
 
-##### Colline dei Saggi
+#### Colline dei Saggi
 
 Si tratta di un’area verde ricolma di tombe e monumenti di pietra grezza. La zona è considerata sia un camposanto che un tempio e la terra è sacra. Luogo dalle molteplici funzioni, si consultano gli oracoli degli antenati tra le tombe, in cerca di consigli o di ispirazione per l’avvenire. Si dice che anche alcuni spiriti inquieti vaghino tra i monumenti, sussurrando antiche maledizioni ai visitatori e spingendoli a praticare suicidi rituali.
 
-##### Cripte della Tradizione
+#### Cripte della Tradizione
 
 Il crinale ovest di Khoralis è un dedalo di catacombe e cripte, alcune antiche di millenni. Sono un luogo di neutralità: sia antichi Reggenti che semplici guerrieri sono sepolti nelle stesse catacombe, a simboleggiare l’equità e l’eguaglianza nell’inevitabile momento della morte. Sono molte le funzioni religiose ed i riti di benedizione che vengono celebrati giornamente tra questi corridoi sotterranei dal basso soffitto a volta, e rendono il luogo relativamente sicuro, anche se è facile perdersi nei suoi meandri oscuri.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Tempio del Grande Padre
+#### Tempio del Grande Padre
 
 Una grande costruzione in pietra dal tetto in legno che domina l’intera capitale, il centro del culto del Grande Padre è anche la casa di molti grandi sacerdoti e paladini. Svolge sia una funzione religiosa che militare, servendo da caserma e punto di riferimento per l’addestramento di tutti coloro che sono devoti alla divinità. Un grande bracere inestinguibile al centro del tempio simboleggia l’ardore e la tenacia.
 
-##### Il Cratere
+#### Il Cratere
 
 Sorta su un terreno singolare, formatosi dopo la caduta di una meteora in tempi remoti, il Cratere è la taverna più grande della città, da sempre rifugio di avventurieri, bardi, mercenari e criminali. L’architettura del luogo risente di forti influenze di esterni all’isola di Inkari, rendendo frequenti risse che spesso conducono gli avventori al Cerchio della Forza. Il proprietario della locanda è convinto che prima o poi un altro sciame di meteore colpirà la zona distruggendo ogni cosa.
 
-##### Pozzo Ardente
+#### Pozzo Ardente
 
 Si tratta di un vecchio pozzo, ora sigillato, posto tra due piccoli laghi nella parte Nord della città. Si dice che sia scenda per diverse centinaia di metri fino ad un complesso di grotte piene della stessa roccia meteorica che precipitò in questa zona nell’Era Antica. L’aria sul fondo è irrespirabile per via di vapori tossici, pozze acide e fiumi di magma rovente. Numerosi avventurieri si sono calati nelle sue profondità, ma a parte la magnifica grotta sotterranea piena di cristalli pare che la cavità sia vuota.
 
-##### Trono del Drago
+#### Trono del Drago
 
 Si dice che un Reggente nativo dei tempi passati avesse la capacità di cavalcare e comandare i draghi in battaglia. Oggi questa struttura è solo un pallido ricordo dei fasti del passato: è formata da un mausoleo circolare posto sulla sommità di una collina, al suo interno è possibile ancora sedersi sui resti di un trono di pietra a forma di testa di drago. Viene spesso visitata da gruppi religiosi, storici e anziani guerrieri nostalgici.
 
-##### La Forgia Eterna
+#### La Forgia Eterna
 
 Questa piccola bottega è di proprietà di un anziano fabbro. In quasi tutte le ore del giorno e della notte è possibile vederlo all’opera mentre tempra dell’acciaio o forgia delle spade. Qualcuno pensa che il fabbro finga di essere anziano. Altri sostengono che sia sotto l’effetto di una potente e antica maledizione. Sta di fatto che La Forgia Eterna produce le migliori armi e armature di tutta la regione e probabilmente di tutto Aumyr, sebbene l’anziano proprietario non voglia che le sue creazioni vengano vendute a chiunque.
 
@@ -90,39 +90,39 @@ Meentum, la seconda capitale di Inkari è accessibile solo dalla superficie, tra
 
 - **342 EC** La cultura e la Tradizione di Meentum apre gran parte dei suoi segreti anche alle razze esterne, dopo una serie di disordini cittadini volti a favorire politiche di integrazione, nonché una guerra civile che contribuisce a cambiare l’opinione pubblica.
 
-#### Distretti
+### Distretti
 
-##### Le Piattaforme
+#### Le Piattaforme
 
 L’unico modo di accedere a Meentum dalla superficie è quello di utilizzare alcune piattaforme volanti che fungono da zona di controllo per un viavai costante di cittadini e di visitatori. Le piattaforme non sono altro che grosse lastre di pietra levigata che levitano delicatamente verso la superficie. Si dice che le lastre contengano potenti incantesimi in grado di stabilire la vera natura e le intenzioni di chiunque vi salga o sosti nelle vicinanze.
 
-##### Sentieri del Sapere
+#### Sentieri del Sapere
 
 E’ il luogo in cui vengono conservate le Pergamene della Tradizione, un’intero quartiere formato da scale, biblioteche, alcove, librerie e piccole abitazioni. Ospita una scuola di magia specializzata in divinazione e sono in molti coloro che si recano in quest’area nel caso abbiano perso qualcosa e necessitino di un consiglio per ritrovarla, che sia questa una persona, un oggetto o altro.
 
-##### Umbral
+#### Umbral
 
 Il terreno e le abitazioni di questo quartiere sono invasi da un fungo rampicante che costituisce un’immenso organismo vivente chiamato Umbral. La sua esistenza è ben più antica della città stessa e alcuni pensano che le sue origini si perdano nella leggenda. Da millenni i suoi funghi e frutti sono utilizzati per creare pozioni, guarire le malattie e potenziare rituali arcani. C’è chi dice che il fungo reagisca a stimoli magici o emozionali.
 
-#### Luoghi Importanti
+### Luoghi importanti
 
-##### Il Tribunale
+#### Il Tribunale
 
 Al centro della grotta, su un’ampia zona sopraelevata si trova un edificio noto come “Il Tribunale”. Ospita gli eventi governativi di Meentum, come le sentenze pubbliche, le proclamazioni di nuove leggi, le udienze del Matriarcato, la celebrazione di unioni familiari, le adorazioni collettive alla dea, e altro ancora. Qui vengono nominate le Matriarche e una grossa pietra all’interno della struttura simboleggia il sepolcro eterno della Prima Matriarca. Si dice che toccare la pietra porti fortuna.
 
-##### Sensorium
+#### Sensorium
 
 E’ difficile notare l’interno di questa grotta, posta ai margini più oscuri della città. Al suo interno, pavimenti a specchio, pareti multicolori e altre stranezze conducono a camere dalle proprietà più disparate, create per stimolare i sensi e la percezione. La popolazione sostiene che si tratti di un ibrido tra un monastero e luogo di intrattenimento. E’ possibile sostare nelle stanze e sperimentare esperienze particolari, simili a viaggi astrali. Sono in molti a sospettare che l’edificio nasconda diversi segreti.
 
-##### Santuario della Grande Madre
+#### Santuario della Grande Madre
 
 Il centro del culto della Grande Madre, un grande tempio dai soffitti a volta e dalle ampie sale circolari, è anche la sede principale di chierici, sacerdoti e paladini della dea. Una dedalo di candele e fiamme arcane illuminano stanze affrescate, fontane interne e altri giochi di luce che si riflettono sui quartieri circostanti, a simboleggiare l’onnipresenza della Grande Madre. Le stanze inferiori del Tempio ospitano gli alloggi delle Matriarche e delle Alte Sacerdotesse.
 
-##### La Lama Spezzata
+#### La Lama Spezzata
 
 Ex accademia per guerrieri e combattenti, è stata abbandonata tempo fa, dopo che alcuni lavori di ampliamento riportarono alla luce gli ingressi di una tomba Askari. La Società di Dorne e la Confraternita hanno tentato più volte di esplorarla ma le Matriarche hanno sempre negato ogni richiesta di sopralluogo. La struttura è chiusa al pubblico e sigillata magicamente dal 1744 EC. Le voci dicono che sia il luogo di eterno riposo di una creatura dai poteri immensi.
 
-##### La Luce Bianca
+#### La Luce Bianca
 
 Ultimo rifugio prima di avventurarsi nei tunnel oscuri, la locanda deve il suo nome alla torre di pietra bianca che la sovrasta. Svolge la stessa funzione di un faro nel buio e ospita sia avventurieri che semplici visitatori. Nella sua sala principale si organizzano anche spedizioni nel sottosuolo. Il proprietario, un nativo snello e mellifluo, tiene il conto degli avventurieri che non fanno più ritorno alla locanda, aggiungendo delle tacche ad una parete di legno dietro il bancone. Inutile dire che la parete è ricoperta di segni.
 

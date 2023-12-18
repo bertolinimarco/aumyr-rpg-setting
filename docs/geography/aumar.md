@@ -38,7 +38,7 @@ Atanis, capitale di Aumar è posta su una piccola zona collinare al centro di un
 
 - [1956 EC](/chronology/#_1956-ec) La parte Nord della città, orginariamente sede delle abitazioni degli opulenti proprietari terrieri, viene abbattuta e quindi ceduta alla popolazione, divenendo le Terre del Popolo. I capi delle città circostanti si uniscono per formare un governo federale, creato per rappresentare equamente tutta la popolazione della regione.
 
-#### Distretti
+### Distretti
 
 #### Terre del Popolo
 
@@ -52,7 +52,7 @@ Questa zona è il centro delle attività agricole e industriali della regione: o
 
 E’ il quartiere dei nuovi nobili e dei ricchi della zona. Viene chiamato così per via della particolare bellezza delle sue vie e delle sue abitazioni: chi vi abita ha la sensazione che la primavera duri più del solito, mentre si gode il paesaggio circostante o coltiva il proprio campo all’ombra di grandi ville con giardini fioriti. In questa parte della città hanno sede anche la maggior parte dei templi dedicati alle divinità.
 
-#### Luoghi Importanti
+### Luoghi Importanti
 
 #### Isola del Crocevia
 

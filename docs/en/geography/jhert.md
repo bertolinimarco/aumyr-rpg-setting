@@ -38,39 +38,39 @@ This coastal city is home to the majority of the population escaped from the Dea
 
 - [1234 CE](../chronology/#_1234-ce) The region is once again seeing a large invasion of undead from the subsoil. Gherzul is discovered. The city is growing in size, gaining popularity as a safe haven and place.
 
-#### Districts
+### Districts
 
-##### The Tight District
+#### The Tight District
 
 Cumulative clusters of low cost social housing and small businesses that look out over the street. Over the years, it has become a ghetto for organised crime, and is often the subject of large-scale raids to tired thieves' organisations and seven others.
 
-##### Veiled Runes
+#### Veiled Runes
 
 Around the city you can admire a series of vertical stones, several meters high, covered with engraved runes and faded symbols. When activated, they produce a series of powerful force fields that envelop the city like a dome. They were created to protect the city from the assaults of the undead. Today they appear to be little more than ruins wrapped in a soft blue glow, but it is thought that they are only off, waiting to be activated again.
 
-##### Port of Sunsets
+#### Port of Sunsets
 
 Silverstone's harbor is often mentioned by bards and minstrels because of the beauty of its landscape. In this area you can find taverns, shops, banquets, open-air markets, venues of organizations and various services. Some sailors roam the streets telling incredible stories of journeys to unknown coasts beyond the Sunset Sea, but the population tends to be no coincidence to those who attend too many inns.
 
-#### Points of Interest
+### Points of interest
 
-##### The Tradehouse
+#### The Tradehouse
 
 It is an emporium where you can find objects of all kinds left as a lien or sold by some adventurer. The strangeness of some objects present in this place makes it a suitable place for those who want to buy something unusual, know the story of a magic weapon, get rid of a cursed object or clear a curse. Given the dangerous nature of this place's activity, you can find a constant influx of visitors and adventurers from all over Aumyr.
 
-##### Melian's Refuge
+#### Melian's Refuge
 
 Silverstone owes much to the joint efforts of adventurers and members of organizations who over the years have sacrificed their lives to protect the city from the invasions of the undead. In this sacred area, where Melian is believed to have lived for a certain period in her former mortal form, there is a temple dedicated to her. During the Feast of Sunset, all rulers from nearby villages or important guests are hosted in some underground rooms of the temple until the end of the festivities, which last three days.
 
-##### The Nightchant
+#### The Nightchant
 
 Built with a dark wood type belonging to a forest now destroyed, this large tavern boasts of having hosted many famous heroes and adventurers. Its rooms, at low cost, are as spacious and comfortable as a few taverns on the continent. Some rooms on the back house a detachment of the Red Brotherhood, which is installed in a stable plan in the city.
 
-##### The Seaways
+#### The Seaways
 
 It is the name of a large complex of warehouses, shipyards and small houses located in the Port of the Sunsets. For the right price you can rent transport to reach other regions by sea, or even order the construction of a personal ship. In this structure there are about a hundred craftsmen, master blacksmiths, carpenters and builders. The port streets are patrolled by a town militia also made up of former sailors, from whom it is difficult to escape or hide.
 
-##### Eiburn
+#### Eiburn
 
 This large manor, originally an important elite monastery, has seen a succession of different destinations. It was prison, temple, barracks, dungeons, magic shop and more. Today the building houses a magic school. Inside you can find several different floors divided into more or less large classrooms, a large underground cellar with various laboratories and a tower-observatory.
 

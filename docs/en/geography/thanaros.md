@@ -38,39 +38,39 @@ The old capital of Thanaros represents a triumph of architecture from the past: 
 
 - [1897 CE](../chronology/#_1897-ce) A group of adventurers find and destroy the hideout of the Whispers Cult, a maze of rooms full of snakes and other creatures. It turns out that its influence was so great that it corrupted the government representatives themselves. The following year a new group of Elders is elected on the basis of popular will.
 
-#### Districts
+### Districts
 
-##### Dances District
+#### Dances District
 
 The district has been the subject of a recent restoration, both territorial and commercial. A large part of the population still lives in its narrow streets filled with low stone houses. It once housed the popular houses and shacks of the slaves and gladiators of the arena, taverns and famous houses of pleasure.
 
-##### Shadow Alleys
+#### Shadow Alleys
 
 Despite their name, the alleyways host the middle class of society. They are called so because of a powerful guild of murderers who once found shelter in its winding streets. Today the guild has long since disappeared and its underground headquarters have been converted into a shrine dedicated to Hardon.
 
-##### The Forgotten Square
+#### The Forgotten Square
 
 The area once housed the city centre. The area was then the scene of a mysterious magical explosion that brought some pure gold veins to appear in the surrounding terrain. Immediately the area was attacked and excavated in a short time: people began to build a house here in the hope of digging undisturbed into their land. A few years later, the dwellings form a real neighborhood and the city centre is transferred to the Glass Palace.
 
-#### Points of Interest
+### Points of interest
 
-##### The Bloodpit
+#### The Bloodpit
 
 There was a time when heroes, gladiators, beasts and slaves fought both for their own pleasure and for the people of Pendor. Now the Well is a giant pile of blackish rubble in the open air. Its underground rooms are infested with spirits and obscure presences, made powerful and tormented by hundreds of years of violence, killing and massacres.
 
-##### Mind Refuge
+#### Mind Refuge
 
 A strange underground complex serves as the basis for a neutral cult of nature dedicated to divinatory and psychic practices called Whispers Cult. The access consists of an anonymous architrave that houses a portal that can be activated by members of the cult. They possess the ability to probe the minds and memories of a living creature. It is thought that most of the old slaves have been part of the cult and the most paranoid believe that secret rituals are practiced in the deep underground caves.
 
-##### The Glass Palace
+#### The Glass Palace
 
 It is a large triangular pyramid with a triangular base made up of translucent glass slabs and divided into several floors. There are temples, noble dwellings, commercial activities and a splendid internal garden. The environment is different from the outside: fresh air, ideal temperature and a general feeling of well-being lead many visitors to spend whole days inside. The upper floors of the pyramid are accessible only to the most important personalities of the city.
 
-##### Starred Minaret
+#### Starred Minaret
 
 This palace is located in a corner of the capital, often ignored by all visitors because of its function: a meeting place for old wizards and adventurers. The area, despite its ordinary appearance, is protected by powerful magic. Spells of transport, divination, and locating do not work. The structure is entered only by invitation and nobody knows how it is organized inside.
 
-##### The Ethereal Vial
+#### The Ethereal Vial
 
 At every hour of the day and night you can see a row of people trying to buy some potions in this alchemical workshop. It is said that the owner is familiar with methods of making certain effects derived from potions permanent. In fact, he has a profound knowledge of an ancient and mysterious tome he found when he was an adventurer.
 
@@ -90,39 +90,39 @@ Viriana, the new capital of Thanaros, is located on the shores of the crystal cl
 
 - [2099 CE](../chronology/#_2099-ce) The increasing influx of new inhabitants, attracted by new life and trade opportunities, has led the Thanaros government to abandon the Pendor Palaces and move permanently to Viriana. Most of the buildings in the old capital become unused: it is said that some of them were set on fire or destroyed by the owners themselves, for unknown reasons.
 
-#### Districts
+### Districts
 
-##### Reserve of the Ancients
+#### Reserve of the Ancients
 
 It is a protected territory of the Natives. It is located on the top of a reddish sand mountain and the entrance is forbidden to everyone except Natives. The entire area is protected by perimeter walls and force fields similar to a large dome. The control of the perimeter is entrusted to the Natives themselves, who protect the accesses. No one enters the reserve unless they are expressly invited or escorted inside by a member of the reserve, and foreigners are not seen with a good eye.
 
-##### Grey Caverns
+#### Grey Caverns
 
 The port consists of a series of passages and caves in the western part of the city. Here dock both fishing boats and battle ships: numerous houses have a small internal lift to transfer goods from the tunnels of the caves to the shops above. The black market is mainly located in this area and the trade takes place overnight in the grottoes of the caves.
 
-##### Dust District
+#### Dust District
 
 The wind has dragged the sand of the Void Expanses to this point, forming over time a hard, bare and compact earth. The mud, clay and stone houses are arranged on top of each other, forming strange structures sometimes pyramidal. The majority of the inhabitants of Viriana are concentrated here. Among its streets you can visit temples, shops, craftsmen, inns, pleasure houses and even the seat of the government, the Teatro dei Dieci.
 
-#### Points of Interest
+### Points of interest
 
-##### The Ten Theatre
+#### The Ten Theatre
 
 So called because of its large oval courtyard placed in the center of the city, the palace is the seat of the Ten Elders. Each tower contains a space designed to reflect each of the ten key principles of government and laws of the region. The Theatre Hall is of great importance, a sort of internal temple where the Ten Ten hold audience to the population that rushes to present various requests to the government. The structure is completely visitable and only a few rooms are closed to the public.
 
-##### The Pit
+#### The Pit
 
 Great area devastated by the maritime battle of 1538 EC. In case of special events, it is fenced and used as an arena to fight between adventurers, fighters, gladiators, beasts or slaves. This activity is a tangible remnant of Pendor's ancient traditions and customs.
 
-##### The Fifth Moon
+#### The Fifth Moon
 
 Inn owned by an ancient family of elves, it is suspected that it carries out clandestine trades with the natives of the Reserve of the Ancient, through hidden tunnels that pass under the thick magical walls of the reserve. If so, it would be the only known place through which it would be possible to access the protected place of the natives. The large salon is always filled with bards, songs, drunk battles, brawlers and adventurers.
 
-##### Temple of the Serpent
+#### Temple of the Serpent
 
 It is a snake-shaped structure twisted around it. The interior is visible only to the members of the Worship of the Serpent, affiliated to VelShar. The members of the Cult seem strange monks dedicated to meditation and self-seeking. It is thought to be a large terrarium for snakes of all kinds, even if many people suspect that the Temple is only the upper part of a large buried dungeon. Many sages claim that in this place there are strong negative, obscure, necromantic and still unknown energies.
 
-##### Red Mound
+#### Red Mound
 
 A hill with reddish ground rises to the west of the city, dominating the surrounding landscape. On top of it there is a small outpost almost as large as a small village, formed by stables, farms and mills. A headquarters of the Crossed Swords offers a caravan escort and transport service for the whole continent and uses this area as a free port for many goods coming from all regions, waiting to be sorted to the recipients. For many travelers Red Mound is an oasis of tranquility and peace where you can rest safe. Overlooking the square of Red Mound, The Sun Tavern is famous for producing good wine and excellent beer, for this reason it is always visited by groups of wandering adventurers.
 

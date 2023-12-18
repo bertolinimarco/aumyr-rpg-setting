@@ -76,9 +76,6 @@ In ordine sparso, ecco alcune fonti di ispirazione fra autori, libri, film, gioc
 - Gary Gygax
 - Chris Perkins
 - Ed Greenwood
-- Ben Cola
-- Il Fagiocane
-- Neko
 - Google
 - DeviantArt
 
@@ -95,6 +92,8 @@ E’ passato diverso tempo dal quel pomeriggio di settembre 1999, quando alcuni 
 - Tutti i testi e le mappe presenti in questo manuale vengono rilasciati secondo Licenza Licenza Creative Commons Attribuzione – Condividi allo stesso modo 3.0 Unported. Per informazioni sulla licenza, consultare il sito [www.creativecommons.org](https://www.creativecommons.org).
 
 - I caratteri dell'alfabeto Askarian sono basati su [DScript](http://www.dscript.ca).
+
+- Le traduzioni diverse dalla lingua inglese sono state generate da [Deepl Translator](https://www.deepl.com/).
 
 ### Grafica
 

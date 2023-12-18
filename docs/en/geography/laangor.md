@@ -39,39 +39,39 @@ The name of the capital derives from the name of the last great family, now deca
 
 - [1901 CE](../chronology/#_1901-ce) Arrus Highpine, the last noble of the family, is mysteriously killed during a hunting trip in the woods. In the following years, the government of the Assembly took over the Castle.
 
-#### Districts
+### Districts
 
-##### Paths of the Houses
+#### Paths of the Houses
 
 An old quarter dotted with rich noble mansions, temples and commercial guild houses as well as many merchant activities. Among its streets you can find many adventurers, historians and scholars, wizards, craftsmen and workshops of master builders. Every year the district's terraces are tinged with banners and tapestries, in memory of the years of government of the Houses.
 
-##### North Quarter
+#### North Quarter
 
 This district is home to most of the people houses, but also to criminals. On the sides of the road that leads to the Citadel, it is possible to see some grates that are part of the sewerage complex that extends under the city. These tunnels are used by criminals to travel secretly between the various city districts.
 
-##### Citadel
+#### Citadel
 
 It is the neighborhood formed by the Castle and various support structures such as stables, the park and other commercial activities once at the service of the Houses. Although it is not home to an élite of nobles but only government structures, the area is highly supervised and protected by the city guard, which also contributes to the maintenance of all the main buildings.
 
-#### Points of Interest
+### Points of interest
 
-##### Castle of the Houses
+#### Castle of the Houses
 
 The magnificent castle, once the residence of the Royal Houses, is now the seat of the government of the Assembly. Its frescoed and richly decorated rooms contain relics of the past, tapestries, carpets, beautiful furnishings and paintings depicting the many nobles who, in the past, contributed to shaping the history of the region and the city. During the new government's settlement, some old master builders report that they found several walled areas in the basement, probably already made inaccessible in remote years. What is hidden beyond them remains a mystery, since several areas of the castle have been sealed and are not accessible to the public.
 
-##### Greywolf Inn
+#### Greywolf Inn
 
 It is an old monastery converted into an inn. It is a regular meeting place for adventurers, mercenaries and retired soldiers. In the small cloister behind the inn you can find the statue of a large grey wolf who possesses the strange property of repelling even the most powerful spells. Many people think that it is really a great petrified creature.
 
-##### Planar Tower
+#### Planar Tower
 
 This fortified structure has always hosted the expert enchanters at the service of the Houses. It is made up of many levels and over time each owner has built a floor above that of his predecessor, until it becomes a tower-like construction. These rooms are accessible through portals accessible only to those who have the key, so that the access to many of them have been forgotten or lost. The Council thinks that the structure is now a large sealed dungeon.
 
-##### The White Chamber
+#### The White Chamber
 
 Currently, this large shiny stone house on the edge of the city is used as a burning room and morgue for bodies waiting to be buried. It is a funerary guild run by Matilde Brennil, a human with hard traits and glacial spirit. Few people know that the structure once housed the headquarters of a powerful guild of thieves: its underground tunnels, now walled, have been the site of clandestine operations and many people think that they are still infested with monsters of all kinds.
 
-##### Well of Hope
+#### Well of Hope
 
 In a remote area of the city it is possible to glimpse the structure of an ancient well in the middle of a small square. It is recounted how, during the Great Plague of 821 CE, part of the population escaped into the well to reach a vast complex of underground caves, used as an extreme refuge to escape the contagion. Ignoring and fearing of the scourge on the surface, they remained there for years waiting for everything to end. Today the well is sealed and its history is considered only a story to scare children and attract tourists.
 

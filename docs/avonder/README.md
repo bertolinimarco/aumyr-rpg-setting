@@ -1,6 +1,10 @@
-# Avonder
+# Avonder (BOT)
 
 Avonder è un bot sul [server Discord di Aumyr](https://discord.gg/HP9bA4Z) che ti può aiutare durante le tue sessioni di gioco, permettendoti di tirare vari tipi di dado, generare avventure, png e molto altro ancora...
+
+::: warning
+Avonder è temporaneamente disabilitato. [Il codice sorgente è disponibile qui](https://github.com/bertolinimarco/discord-bot-avonder).
+:::
 
 ## Funzionalità
 
