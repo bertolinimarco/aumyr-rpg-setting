@@ -1,6 +1,6 @@
 # Nordavind
 
-![Banner](./images/banner-nordavind.png)
+![Banner](/images/banner-nordavind.png)
 
 Nordavind is the region of northern men, seasoned sailors, fishermen and hard workers whose ships are often seen docking on the coasts of the known world.
 The territory is often a harsh, cold and inhospitable place, as well as its people, mountaineers with snow even in the bones. The valleys, fjords and mountain passes are known to be populated by giants, dragons and other powerful frost creatures. Isolated groups of elves and dwarves are allocated to wild regions, but rarely tend to relate friendly with visitors. Most people are concentrated in the outposts, the only places where you can cultivate some land and find resources to spend long seasons in the mountains.
@@ -25,7 +25,7 @@ The Nordavind knows the Fives, but most believers prefer to pay tribute to Hardo
 
 ### Dunmere
 
-![Dunmere](./images/map-dunmere-en.jpg)
+![Dunmere](/images/map-dunmere-en.jpg)
 
 The city is a large settlement of steep and pointed rooftop houses, an oasis of civilization in the wild mountains. Situated in a natural gorge that protects it from the raids of most nearby mountain creatures, in Dunmere people focus on farming and hunting, but also fighting in public arenas to prove their worth, trade or simply drink mead.
 

@@ -1,6 +1,6 @@
 # Faeland
 
-![Banner](./images/banner-faeland.png)
+![Banner](/images/banner-faeland.png)
 
 Faeland è un grande territorio compreso tra la Baia di Myrdon e la Foresta di Nayalis e caratterizzato dalla presenza di numerosi insediamenti più o meno popolati sparsi per la sua grande estensione. La presenza sulla costa di uno dei tre Osservatori la rende anche una delle mete preferite dagli studiosi degli Askari.
 
@@ -24,7 +24,7 @@ La regione adora i Cinque e tutte le religioni (tranne quelle caotiche, come Vel
 
 ### Elerin
 
-![Elerin](./images/map-elerin.jpg)
+![Elerin](/images/map-elerin.jpg)
 
 Elerin è conosciuta come la Città a Specchio. La struttura ad ottagono contiene al centro il grande “Nucleo” una struttura fortificata di forma circolare. Questa zona costituisce anche il centro cittadino dove hanno sede le attività commerciali. Lo specchio è un’illusione che si prova quando si guarda la città dall’alto dei monti vicini: se si dovesse idealmente dividere a metà e sovrapporre i due lati della città, una parte risulterebbe perfettamente coincidente con l’altra metà, quasi fossero due parti duplicate. Spesso nelle taverne ad alcuni bardi viene chiesto di cantare I Due Volti, una sorta di poema filosofico sull’importanza dell’equità.
 

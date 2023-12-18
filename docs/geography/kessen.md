@@ -1,6 +1,6 @@
 # Kessen
 
-![Banner](./images/banner-kessen.png)
+![Banner](/images/banner-kessen.png)
 
 Kessen è la regione che si trova tra l’area di Torre di Pietra ad ovest, la penisola di Feldris a sud e la Palude del Pianto ad est. E’ un territorio in larga parte dominato dall’imponente presenza delle Montagne Nebbiose, ma si può anche trovare un largo territorio pianeggiante chiamato Valle dei Tre Fiumi, famoso per l’abbondanza dei suoi raccolti.
 
@@ -24,7 +24,7 @@ Anche se la maggior parte degli abitanti è fedele al culto dei Cinque, è nota 
 
 ### Feldris
 
-![Feldris](./images/map-feldris.jpg)
+![Feldris](/images/map-feldris.jpg)
 
 Posta nel mezzo di una grande pianura ma non troppo distante dalle coste del Mare della Notte, la capitale di Kessen è favorita da un clima quasi sempre mite per via alcuni venti caldi provenienti dalle gole delle Montagne Nebbiose. I quartieri cittadini sostengono un grande flusso di traffico mercantile, proveniente sia dai paesi vicini della costa sia da quelli della vicina valle. Le grandi distese circostanti offrono piccole colline e pascoli con numerose fattorie e villaggi sparsi ovunque.
 

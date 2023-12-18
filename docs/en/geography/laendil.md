@@ -1,6 +1,6 @@
 # Laendil
 
-![Banner](./images/banner-laendil.png)
+![Banner](/images/banner-laendil.png)
 
 Laendil is famous for its shady coasts, the presence of large forests and the beauty of coastal towns. It is a region largely occupied by the Nayalis Forest, which is also the western border of the territory.
 
@@ -24,7 +24,7 @@ Laendil worship the Fives and Native Gods, like the other regions. Due to the pr
 
 ### Nayalis
 
-![Nayalis](./images/map-nayalis-en.jpg)
+![Nayalis](/images/map-nayalis-en.jpg)
 
 Although many elves claim that Laendil's capital was supposed to rise in Mistdeep, the city of Nayalis has always been considered the "Forest Center". The area is a large collection of uphill and downhill roads, small altars, ponds, ponds, lakes, illuminated by golden green bulbs. The population is protected by an armed militia made up mainly of rangers, druids and warriors. Savas is recalled everywhere and almost everyone possesses at least one statue of the divinity in the home. The city centre itself is marked by a large fountain where bridges and climbing bridges are combined with androgynous sculptures of sublime beauty: all in an elegant and never exaggerated combination of nature and life.
 

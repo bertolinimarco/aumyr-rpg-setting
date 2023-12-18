@@ -1,6 +1,6 @@
 # Multiverse
 
-![Multiverse](./images/multiverse-en.jpg)
+![Multiverse](/images/multiverse-en.jpg)
 
 While tracing the millenary history of Aumyr one realizes how the planar travels and the possibility of moving on to other worlds have directly influenced the world itself, allowing its colonization by the races of the Multiverse.
 

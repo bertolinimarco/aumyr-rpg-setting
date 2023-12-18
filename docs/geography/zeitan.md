@@ -1,6 +1,6 @@
 # Zeitan
 
-![Banner](./images/banner-zeitan.png)
+![Banner](/images/banner-zeitan.png)
 
 Zeitan è il territorio compreso tra i Picchi della Mente ad ovest e i Corni delle Tempeste a nord-est. Anche se è famosa per le sue numerose montagne, la regione è caratterizzata da un vasto numero di biomi come paludi, pianure, colline e perfino un lago centrale. La regione è spesso meta di chi voglia ammirare l’architettura dei villaggi su palafitte nelle Paludi Moorson, la singolarità delle valli montane dei Corni delle Tempeste, o i misteri dei Picchi della Mente.
 
@@ -24,7 +24,7 @@ La popolazione venera tutti gli dèi, ma in questa regione vi sono percentuali d
 
 ### Nordur
 
-![Nordur](./images/map-nordur.jpg)
+![Nordur](/images/map-nordur.jpg)
 
 Conosciuta anche come la “Città sui Pali” o “La Città Sospesa”, Nordur è un grosso insediamento popolato principalmente da mezzelfi, halfling e razze miste. E’ formata da grosse chiatte collegate tra loro e sospese sulla palude con palafitte e grossi tronchi centenari. Data la natura impervia del terreno che impedisce qualsiasi attacco via terra, non vi sono mura perimetrali esterne e negli annali non vi è traccia di un qualche evento storico di attacco alla città. La popolazione ricca si concentra nel centro cittadino, lasciando i poveri ai margini della città a costituire un quartiere di baracche fatiscenti chiamato “il Distretto”, che tuttavia è anche il vero cuore della città.
 

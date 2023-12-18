@@ -1,6 +1,6 @@
 # Inkari
 
-![Banner](./images/banner-inkari.png)
+![Banner](/images/banner-inkari.png)
 
 L'isola di Inkari costituisce il luogo dove i Nativi approdarono dopo essere fuggiti dal continente nell’Era della Rinascita. La flora e la fauna del luogo si è evoluta in modo leggermente diverso rispetto a quella del continente. Molti considerano Inkari un vero e proprio continente indipendente. Una delle numerose particolarità della regione è la presenza di due capitali.
 
@@ -24,7 +24,7 @@ a religione riveste un ruolo importante e complesso all’interno della società
 
 ### Khoralis
 
-![Kaphnur](./images/map-khoralis.jpg)
+![Kaphnur](/images/map-khoralis.jpg)
 
 E’ la città dedicata al Grande Padre, posta su uno sperone di roccia meteorica nella parte nord dell’isola di Inkari. Si presenta come un apparente ammasso di case una sull’altra, ma in verità si tratta di una progettazione ingegnosa che consente a molti abitanti di condividere le risorse basilari della città evitando al massimo gli sprechi. Grande rilevanza detiene la parte centrale della città, conosciuta anche come “Cerchio della Forza”: un’area pubblica dove chiunque può porre fine a diverse dispute, sfidando in un combattimento mortale un altro cittadino. E’ una consuetudine molto praticata durante le lotte per possedimenti, eredità, questioni famigliari, tribali, punizioni, vendette e affini.
 
@@ -76,7 +76,7 @@ Questa piccola bottega è di proprietà di un anziano fabbro. In quasi tutte le 
 
 ### Meentum
 
-![Kaphnur](./images/map-meentum.jpg)
+![Kaphnur](/images/map-meentum.jpg)
 
 Meentum, la seconda capitale di Inkari è accessibile solo dalla superficie, tramite un complesso sistema di piattaforme ascensionali verticali azionate magicamente. E’ posta in un’immensa grotta naturale e tutta l’area, dalla forma delle case, alle splendide fontane, ai giardini di felci multicolori, ricorda il credo e la dottrina della Grande Madre. Le biblioteche ospitano interi ripiani colmi di volumi antichissimi e perfettamente conservati, frutto del lavoro paziente di centinaia di maghi e sapienti dei Nativi che conservano i preziosi frammenti perduti della Conoscenza e della Tradizione.
 

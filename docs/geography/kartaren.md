@@ -1,6 +1,6 @@
 # Kartaren
 
-![Banner](./images/banner-kartaren.png)
+![Banner](/images/banner-kartaren.png)
 
 Kartaren, comunemente conosciuta come “la Tavola”, è un tratto di terra continentale riarsa da frequenti tempeste. E’ una regione formata da ampi spazi pianeggianti, detti Pianure di Hethan, che occupano quasi tutto il territorio. Per via di questi spazi è percorsa frequentemente da carovane provenienti da tutto il continente: la sua posizione consente ai traffici mercantili di spargersi nell’entroterra con molta facilità.
 
@@ -24,7 +24,7 @@ La regione crede nei Cinque ma la maggioranza della popolazione fa affidamento a
 
 ### Kartar
 
-![Kartar ](./images/map-kartar.jpg)
+![Kartar ](/images/map-kartar.jpg)
 
 Kartar, la capitale di Kartaren, è posta su un crocevia e riveste un ruolo importante per il commercio con le regioni circostanti. Al centro della città è possibile trovare la Fortezza, il palazzo del governo. Molto ben difesa, la Fortezza è uno dei posti più sorvegliati della regione: evadere dalle sue prigioni sotterranee è un’impresa anche per i migliori ladri di tutto il continente.
 

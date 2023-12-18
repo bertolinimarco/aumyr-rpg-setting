@@ -1,6 +1,6 @@
 # Laentas
 
-![Banner](./images/banner-laentas.png)
+![Banner](/images/banner-laentas.png)
 
 Laentas is the variegated region between the Golden Forest to the East, the Sunrise Islands to the West and the Gulf of Darkwaters to the South.
 It includes a main peninsula and an archipelago of several secondary islands, no less important. The region is a varied territory, consisting of both coastal landscapes and mountain ridges, especially inland. Its coasts are often a refuge for adventurers and pirates, but also for eclectic, solitary and free thinkers.
@@ -25,7 +25,7 @@ Melian (Air domain) and Savas (Water domain) make up the bulk of the population'
 
 ### Damodar
 
-![Damodar](./images/map-damodar-en.jpg)
+![Damodar](/images/map-damodar-en.jpg)
 
 The Port on the Splendent Coast is a kaleidoscope of colors and structures typical of a large merchant outpost. From the Sea Court to the West Gate, Damodar has always been the background of many adventures and stories. Many people think that it is the second most populated city on the continent, just after Fivestar. The city is also the symbol of the naval power of the Consortium, an association that has helped to shape its current appearance.
 

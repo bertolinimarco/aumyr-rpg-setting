@@ -1,6 +1,6 @@
 # Laangor
 
-![Banner](./images/banner-laangor.png)
+![Banner](/images/banner-laangor.png)
 
 Laangor è un termine dei Nativi la cui traduzione è simile al termine comune “Pietra Rossa”. La regione è famosa per le sue cave dalle quali si estraggono delle pietre e cristalli dalle venature rosse. Queste pietre sono simili a quelle delle Montagne di Smeraldo e per questi motivi si pensa che in epoca antica entrambe le montagne debbano essere state parte di un unica gigantesca catena montuosa dalle pietre multicolori. La regione è conosciuta anche per i suoi talentuosi bardi e la sua lunga storia fatta di monarchie dinastiche ormai cadute, cavalieri e grandi maghi, esperte cortigiane e buon vino.
 
@@ -24,7 +24,7 @@ Laangor adora i Cinque e le divinità dei Nativi e solo raramente vengono eretti
 
 ### Highpine
 
-![Highpine](./images/map-highpine.jpg)
+![Highpine](/images/map-highpine.jpg)
 
 Il nome della capitale deriva dal nome dell’ultima grande Casata oggi decaduta. Gli Highpine furono una potentissima famiglia dinastica che governò la regione di Laangor per molti anni, prima di venire sopraffatta dalla decadenza del regime nobiliare e dalla successiva trasformazione politica della cultura della regione. Oggi il Castello è dimora dei nobili e sede dell’Assemblea, una favolosa fortezza in larga parte ancora inesplorata e torreggiante sul paesaggio circostante, formato dalla città stessa, con i suoi ricchi quartieri e i numerosi campi coltivati delle fattorie circostanti.
 

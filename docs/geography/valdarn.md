@@ -1,6 +1,6 @@
 # Valdarn
 
-![Banner](./images/banner-valdarn.png)
+![Banner](/images/banner-valdarn.png)
 
 Valdarn è conosciuta come “tutto quello che si trova tra le Fauci e le Montagne”, ovvero un grande territorio collinare, se si escludono i suoi confini e il Dorso del Serpente. Valdarn è famosa per i suoi giacimenti minerari, la fierezza del suo popolo (forse retaggio degli scambi commerciali con Nordavind) e la bellezza dei suoi paesaggi. Quasi tutti i più grandi avventurieri sono stati in qualche modo attirati dalle miniere a nord della regione, dove si trovano anche le rovine dell’antica Zimara.
 
@@ -24,7 +24,7 @@ A Valdarn si adorano i Cinque, ma anche e soprattutto il Grande Padre, per la su
 
 ### Brean
 
-![Brean](./images/map-brean.jpg)
+![Brean](/images/map-brean.jpg)
 
 La città di Brean risulta ben visibile anche da grosse distanze, data la sua alta Torre Celeste. Questa struttura rappresenta il centro governativo della regione e i svariati livelli interni ospitano il cuore dell’amministrazione dei Mercanti. Le abitazioni cittadine sono costruite utilizzando una particolare pietra con venature verdastre, ricavata dalle Montagne di Smeraldo. L’aspetto della città al tramonto è quindi quello di una girandola di colori e luci che ispira meraviglia e tranquillità al visitatore. Quasi tutti si dedicano fin dalla giovane età al commercio delle pietre, dall’estrazione fino alla trasformazione in ottime gemme. Le numerose botteghe artigiane che punteggiano la città sono spesso a conduzione familiare, visto che l’arte viene trasmessa soprattutto in famiglia.
 
@@ -78,7 +78,7 @@ Questa fatiscente struttura è famosa in tutta la regione per essere uno dei luo
 
 ### Daxxos
 
-![Daxxos](./images/map-daxxos.jpg)
+![Daxxos](/images/map-daxxos.jpg)
 
 Il grande avamposto sulle Fauci di Orne è formato da piattaforme di terra ferrosa collegate da ponti di energia, sospese magicamente sopra geyser naturali e pozze acide. E’ un luogo molto pericoloso e non pochi sono morti cadendo dalle sue alture semoventi. Tutto il territorio è attraversato da forti folate di vento acido che corrode pietra, case e tessuti di ogni genere nel giro di qualche anno, rendendo molto difficile una lunga permanenza nel posto. Data la natura estrema di questo luogo, si può trovare poca sorveglianza sia da parte del governo locale che della Confraternita, il che consente la fioritura di commerci illeciti e mercato nero.
 

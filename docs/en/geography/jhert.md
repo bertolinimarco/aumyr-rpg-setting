@@ -1,6 +1,6 @@
 # Jhert
 
-![Banner](./images/banner-jhert.png)
+![Banner](/images/banner-jhert.png)
 
 Bordering the Erthell Plains to the north and the Dead Islands to the south, Jhert is formed by a largely uncultivated and wild territory. The inhabitants of the region tend to move frequently from one settlement to another in order to exploit resources or trade. The region is famous for the beauty of its coastline but also for the alarming presence of wild creatures.
 
@@ -24,7 +24,7 @@ Traditionally, the region is devoted to Melian. Many of its temples are located 
 
 ### Silversone
 
-![Silversone ](./images/map-silverstone-en.jpg)
+![Silversone ](/images/map-silverstone-en.jpg)
 
 This coastal city is home to the majority of the population escaped from the Dead Islands after the 110 CE disaster. It is surrounded by a network of monoliths called the Veiled Runes that protect the city from the attacks of the undead. The inhabitants fear that the city may still be the object of impious incursions. In this regard, a garrison of the Red Brotherhood has long since settled in the capital.
 

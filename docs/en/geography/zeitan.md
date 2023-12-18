@@ -1,6 +1,6 @@
 # Zeitan
 
-![Banner](./images/banner-zeitan.png)
+![Banner](/images/banner-zeitan.png)
 
 Zeitan is the territory between the Peaks of the Mind to the West and the Horn of Storm to the Northeast. Although it is famous for its numerous mountains, the region is characterized by a large number of biomes such as swamps, plains, hills and even a central lake. The region is often a destination for those who want to admire the architecture of the floating villages in the Moorson Swamps, the singularity of the mountain valleys of the Tempest Horns, or the mysteries of the Mind Peaks.
 
@@ -24,7 +24,7 @@ The population worships all the Gods, but in this region there are higher percen
 
 ### Nordur
 
-![Nordur](./images/map-nordur-en.jpg)
+![Nordur](/images/map-nordur-en.jpg)
 
 Also known as the "City on the Stakes" or "The Suspended City", Nordur is a large settlement populated mainly by half-elves, halflings and mixed races. It is formed by large barges connected to each other and suspended on the swamp with stilts and large old trunks. Given the impervious nature of the terrain that prevents any attack by land, there are no outer walls and in the annals there is no trace of any relevant event of attack on the city. The rich population is concentrated in the city centre, leaving the poor on the outskirts of the city to form a dilapidated barracks area called "The District", which is also the true heart of the city.
 

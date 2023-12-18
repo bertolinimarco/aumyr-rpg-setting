@@ -1,6 +1,6 @@
 # Valdarn
 
-![Banner](./images/banner-valdarn.png)
+![Banner](/images/banner-valdarn.png)
 
 The Valdarn Region is known as "everything that lies between the Jaws and the Mountains", that is to say a large hilly territory, if its borders and the Snake's Back are excluded. Valdarn is famous for its mineral deposits, the pride of its people (maybe the legacy of trade with Nordavind) and the beauty of its landscapes. Almost all the greatest adventurers have been somehow attracted by the mines to the north of the region, where the ruins of ancient Zimara can also be found.
 
@@ -24,7 +24,7 @@ In Valdarn, the Five are adored, but also and above all the Great Father, for hi
 
 ### Brean
 
-![Brean](./images/map-brean-en.jpg)
+![Brean](/images/map-brean-en.jpg)
 
 The city of Brean is also clearly visible from great distances, given its high Celestial Tower. This structure represents the government center of the region and the various internal levels host the heart of the Merchants administration. The town houses are built using a particular stone with greenish shades, obtained from the Emerald Mountains. The city's appearance at sunset is a twisting of colors and lights that inspires a sense of wonder and tranquility to the visitor. Almost everyone in the city has been involved in the trade of stones from an early age, from extraction to transformation into excellent gemstones. The numerous artisan workshops in the city are often family business, since art is transmitted mainly to the family.
 

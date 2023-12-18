@@ -1,6 +1,6 @@
 # Laentas
 
-![Banner](./images/banner-laentas.png)
+![Banner](/images/banner-laentas.png)
 
 Laentas è la variegata regione che si trova tra la Foresta Dorata ad est, le Isole dell’Alba a ovest e il Golfo di Acquescure a sud. Comprende una penisola principale e un arcipelago di varie isole secondarie, ma non meno importanti. La regione è un territorio variegato, formato sia da paesaggi costieri che da creste montane, soprattutto nell’entroterra. Le sue coste sono spesso rifugio di avventurieri e pirati, ma anche di eclettici, solitari e liberi pensatori.
 
@@ -24,7 +24,7 @@ Melian (dominio dell’Aria) e Savas (dominio dell’Acqua) costituiscono il gro
 
 ### Damodar
 
-![Damodar](./images/map-damodar.jpg)
+![Damodar](/images/map-damodar.jpg)
 
 Damodar, il porto principale sulla Costa Splendente, è un caleidoscopio di colori e di strutture propri di un grande avamposto mercantile. Dalla Corte del Mare alle alla Porta Ovest, Damodar è stata da sempre teatro di moltissime avventure e racconti. In molti pensano che sia la seconda città più popolata del continente, subito dopo Fivestar. La città è anche il simbolo della potenza navale del Consorzio, un’associazione che ha contribuito a plasmarne l’aspetto attuale.
 
