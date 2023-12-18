@@ -78,8 +78,6 @@ Questa fatiscente struttura è famosa in tutta la regione per essere uno dei luo
 
 ### Daxxos
 
-![Daxxos](/images/map-daxxos.jpg)
-
 Il grande avamposto sulle Fauci di Orne è formato da piattaforme di terra ferrosa collegate da ponti di energia, sospese magicamente sopra geyser naturali e pozze acide. E’ un luogo molto pericoloso e non pochi sono morti cadendo dalle sue alture semoventi. Tutto il territorio è attraversato da forti folate di vento acido che corrode pietra, case e tessuti di ogni genere nel giro di qualche anno, rendendo molto difficile una lunga permanenza nel posto. Data la natura estrema di questo luogo, si può trovare poca sorveglianza sia da parte del governo locale che della Confraternita, il che consente la fioritura di commerci illeciti e mercato nero.
 
 ## Montagne
