@@ -1,6 +1,6 @@
 # Jhert
 
-![Banner](/images/banner-jhert.png)
+![Banner](./images/banner-jhert.png)
 
 Confinante con le Piane di Erthell a nord e con le Isole dei Morti a sud, Jhert è formato da un territorio in gran parte poco coltivato e selvaggio. Gli abitanti della regione tendono a spostarsi frequentemente da un insediamento all’altro per sfruttarne le risorse o per commerciare. La regione è famosa sia per la bellezza delle sue coste ma anche per la presenza allarmante di creature selvagge.
 
@@ -24,7 +24,7 @@ Tradizionalmente, la regione è devota a Melian: molti dei suoi templi sono cost
 
 ### Silversone
 
-![Silversone ](/images/map-silverstone.jpg)
+![Silversone ](./images/map-silverstone.jpg)
 Questa città costiera ospita la maggior parte della popolazione fuggita dalle Isole dei Morti dopo il disastro del 110 EC. E’ circondata da una rete di monoliti detti Rune del Velo che proteggono la città dagli attacchi dei non-morti. Gli abitanti temono che la città possa essere ancora oggetto di empie incursioni. A tal proposito una guarnigione della Fratellanza Rossa si è da tempo insediata nella capitale.
 
 #### Storia

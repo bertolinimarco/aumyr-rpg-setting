@@ -1,6 +1,6 @@
 # Merosh
 
-![Banner](/images/banner-merosh.png)
+![Banner](./images/banner-merosh.png)
 
 Un insieme di catene montuose che si affiacciano su un golfo di pianure e colline. La regione di Merosh racchiude tutto il territorio compreso tra le Colline di Thomulard a ovest e la Via delle Carovane ad est. Merosh è diviso al centro da una catena di monti che taglia in senso obliquo tutta la zona. Grande importanza rivestono le Cascate degli Amanti, un luogo che è rappresentato perfino sullo stendardo regionale.
 
@@ -24,7 +24,7 @@ A Merosh vengono adorati tutte le divinità, ma solo recentemente il Parlamento 
 
 ### Veloras
 
-![Veloras](/images/map-veloras.jpg)
+![Veloras](./images/map-veloras.jpg)
 
 Entrando a Veloras passando dall’ampia strada pedemontana, si ha l’impressione di trovarsi in uno dei luoghi più belli dell’intera regione. La vista delle Cascate, onnipresente per chi percorre la strada salendo verso il centro della città, è stupefacente e l’intero paesaggio sembra essere un quadro appena disegnato da un pittore di talento. La città è spesso punteggiata da piccoli chioschi e da molti visitatori: le attività commerciali fanno a gara su come ottenere monete extra dal prossimo cliente. La criminalità dilaga, soprattutto nella parte ovest della costa, nonostante la guardia cittadina sorvegli costantemente.
 

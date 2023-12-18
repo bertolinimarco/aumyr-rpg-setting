@@ -1,6 +1,6 @@
 # Dreamor
 
-![Banner](/images/banner-dreamor.png)
+![Banner](./images/banner-dreamor.png)
 
 Dreamor is the centre of the world in many respects, both subjective and objective. It is the most extensive region: from the fronds of Darkwoods in the north to the Hills of Silence in the south, Dreamor is also home to the largest metropolis of Aumyr, Fivestar and the headquarters of the Council. It is the most densely populated region of the whole continent, given its historical and religious importance.
 
@@ -24,7 +24,7 @@ Five Worship (Hardon, Melian, Normod, Vel-Shar, Savas), including the Great Fath
 
 ### Fivestar
 
-![Fivestar](/images/map-fivestar-en.jpg)
+![Fivestar](./images/map-fivestar-en.jpg)
 
 Legend has it that the town of Fivestar now rises at the exact point where the Five arrived on Aumyr. Fivestar is the world's largest known city, with its large temples, ancient towers and ancient palaces, nestled in a lava rock promontory in the middle of the Night Sea.
 

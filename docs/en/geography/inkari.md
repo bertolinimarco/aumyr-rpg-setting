@@ -1,6 +1,6 @@
 # Inkari
 
-![Banner](/images/banner-inkari.png)
+![Banner](./images/banner-inkari.png)
 
 This great island is the place where the Native people landed after fleeing from the continent in the era of rebirth.
 The flora and fauna of the area has evolved slightly differently from that of the continent. Many people consider Inkari to be a true independent continent. One of the many peculiarities of the region is the presence of two Capitals.
@@ -25,7 +25,7 @@ Religion plays an important and complex role in the Natives society, profoundly 
 
 ### Khoralis
 
-![Kaphnur](/images/map-khoralis-en.jpg)
+![Kaphnur](./images/map-khoralis-en.jpg)
 
 It is the city dedicated to the Great Father, situated on a spur of meteoric rock in the northern part of the island. It looks like an apparent cluster of houses on top of each other, but in truth it's an ingenious design that allows many inhabitants to share the city's basic resources while avoiding waste as much as possible. The central part of the city, also known as "Circhio della Forza", is of great importance: a public area where anyone can put an end to different disputes, challenging another citizen in a deadly fight. It is a very common practice during struggles for possessions, inheritances, family affairs, tribal, punishment, revenge and similar.
 
@@ -77,7 +77,7 @@ This small shop is owned by an elderly blacksmith. In almost every day and night
 
 ### Meentum
 
-![Kaphnur](/images/map-meentum-en.jpg)
+![Kaphnur](./images/map-meentum-en.jpg)
 
 The second capital of Inkari is accessible only from the surface, through a complex system of magically operated vertical ascension platforms. It is located in an immense natural cave and the whole area, from the shape of the houses, to the splendid fountains, to the multicolored ferns gardens, reminds us of the creed and doctrine of the Great Mother. The libraries house entire shelves filled with ancient and perfectly preserved volumes, the result of the patient work of hundreds of wizards and wise natives who preserve the precious lost fragments of Knowledge and Tradition.
 

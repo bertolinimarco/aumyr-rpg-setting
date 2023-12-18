@@ -1,6 +1,6 @@
 # Kartaren
 
-![Banner](/images/banner-kartaren.png)
+![Banner](./images/banner-kartaren.png)
 
 Kartaren, commonly known as "the Table", is a tract of continental land protected by frequent storms. It is a region made up of large flat areas, called the Plains of Hethan, which occupy almost the whole territory. Because of these spaces it is frequently travelled by caravans coming from all over the continent: its position allows commercial traffics to spread in the hinterland with great ease.
 
@@ -24,7 +24,7 @@ The region believes in the Fives, but the majority of the population relies on H
 
 ### Kartar
 
-![Kartar ](/images/map-kartar-en.jpg)
+![Kartar ](./images/map-kartar-en.jpg)
 
 The capital of Kartaren is situated at a crossroads and plays an important role in trade with the surrounding regions. In the center of the city you can find the Fortress, the palace of government. Very well defended, the Keep is one of the most guarded places in the region: escaping from its underground prisons is a feat even for the best thieves across the continent.
 

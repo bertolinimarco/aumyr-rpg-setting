@@ -1,6 +1,6 @@
 # Kessen
 
-![Banner](/images/banner-kessen.png)
+![Banner](./images/banner-kessen.png)
 
 Kessen is the region that lies between the area of Stone Tower to the west, the Feldris peninsula to the south and the Weeping Marshes to the east.
 It is a territory largely dominated by the imposing presence of the Cloud Mountains, but you can also find a wide flat territory called Three Rivers Valley, famous for the abundance of harvest.
@@ -25,7 +25,7 @@ Although most inhabitants are faithful to the Fives, it is known that there are 
 
 ### Feldris
 
-![Feldris](/images/map-feldris-en.jpg)
+![Feldris](./images/map-feldris-en.jpg)
 
 Located in the middle of a large plain but not too far from the coast of the Night Sea, Kessen's capital city is blessed by a mild climate almost always due to some warm winds from the gorges of the foggy Mountains. The city districts support a large flow of merchant traffic, both from neighbor coast and countries. The large surrounding expanses offer small hills and pastures with numerous farms and villages scattered everywhere.
 

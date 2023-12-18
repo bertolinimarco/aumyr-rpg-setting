@@ -1,6 +1,6 @@
 # Aumar
 
-![Banner](/images/banner-aumar.png)
+![Banner](./images/banner-aumar.png)
 
 Aumar è un territorio punteggiato da flora e fauna lussureggiante, campi coltivati e verdi colline. E’ una grande regione che comprende vaste pianure verdeggianti, pascoli, fiumi e grandi laghi. Un luogo magico di pace e tranquillità. E’ possibile percorrere strade e sentieri fino al cuore delle sue foreste e la gente è molto tollerante nei confronti degli stranieri che visitano i suoi paesaggi. Anche se il luogo rappresenta in un certo senso “il Grande Giardino Verde di Aumyr”, sono molti i pericoli che si annidano tra i suoi campi sterminati.
 
@@ -24,7 +24,7 @@ Anche se ad Atanis e nelle città è possibile trovare templi di ogni divinità,
 
 ### Atanis
 
-![Atanis](/images/map-atanis.jpg)
+![Atanis](./images/map-atanis.jpg)
 
 Atanis, capitale di Aumar è posta su una piccola zona collinare al centro di un crocevia fluviale, nel punto dove il Fiume Ator e il Fiume Mor formano il Grande Fiume. E’ costituita da una miriade di piccole case di legno e pietra e quasi tutti gli abitanti possiedono un piccolo pezzo di terra adiacente la propria abitazione. La popolazione si dedica quasi completamente ad attività contadine e ogni anno si tengono numerose fiere dedicate alla celebrazione delle attività agricole. Questo non impedisce comunque ad Atanis di essere il centro culturale di un’intera regione, con numerosi templi e attività commerciali che sovrastano le pianure circostanti.
 

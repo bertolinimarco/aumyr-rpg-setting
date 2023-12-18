@@ -1,6 +1,6 @@
 # Thanaros
 
-![Banner](/images/banner-thanaros.png)
+![Banner](./images/banner-thanaros.png)
 
 Una vasta distesa desertica formata da terra e roccia rossastra caratterizza quasi tutta la regione di Thanaros. Il clima caldo e afoso è talmente opprimente da rendere difficili le traversate carovaniere attraverso l’interno, arrivando a denominare la strada principale mercantile la Via della Sete. La popolazione si concentra sulla costa ovest, al di là del deserto, o sull’entroterra ad est, punto di congiunzione con la regione di Gwaldur.
 
@@ -24,7 +24,7 @@ A Thanaros si adorano i Cinque. Data la presenza di numerose tribù lontane dall
 
 ### Pendor
 
-![Name](/images/map-pendor.jpg)
+![Name](./images/map-pendor.jpg)
 
 Pendor, la Vecchia capitale di Thanaros, rappresenta un trionfo di architettura del passato: palazzi dalle morbide linee ricurve, guglie decorate, fontane dallo stile ricercato e decorazioni frutto di mani esperte sono visioni molto comuni in tutta questa vecchia città. Degno di nota è il quartiere popolare, recentemente obiettivo di restauri e caratterizzato da un commercio fiorente. Oggi quasi tutti gli edifici governativi sono vuoti o convertiti in sontuosi palazzi per nobili o mercanti.
 
@@ -76,7 +76,7 @@ Ad ogni ora del giorno e della notte è possibile vedere una fila di persone che
 
 ### Viriana
 
-![Name](/images/map-viriana.jpg)
+![Name](./images/map-viriana.jpg)
 
 Viriana, la Nuova capitale di Thanaros sorge sulle sponde del Golfo dalle acque cristalline da cui prende lo stesso nome. Ricostruita in questa zona per meglio presidiare sulla regione, favorendo il commercio con la più facile via carovaniera verso nord, Viriana è frutto di un progetto architettonico congiunto tra varie razze e percorrendo una delle sue strade è possibile imbattersi in palazzi simili a quelli delle città del nord, o in case basse e dal tetto pianeggiante tipiche del sud. Gran parte degli edifici più importanti, comunque, riprende la forma dal grande tetto tondeggiante utilizzata a Pendor.
 

@@ -1,6 +1,6 @@
 # Multiverso
 
-![Multiverse](/images/multiverse.jpg)
+![Multiverse](./images/multiverse.jpg)
 
 Ripercorrendo la storia millenaria di Aumyr ci si accorge di come i viaggi planari e la possibilità di spostarsi su altri mondi abbiano influenzato direttamente il mondo stesso, permettendone la colonizzazione da parte delle razze del Multiverso.
 

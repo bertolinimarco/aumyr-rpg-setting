@@ -1,6 +1,6 @@
 # Gwaldur
 
-![Banner](/images/banner-gwaldur.png)
+![Banner](./images/banner-gwaldur.png)
 
 La regione di Gwaldur rappresenta il profondo Sud con le sue numerose foreste impenetrabili, baie, insenature e isole. Nota per la presenza di miniere e antiche fortezze, città in rovina e straordinari paesaggi, Gwaldur si è guadagnata il titolo di “Gioiello del Sud”.
 
@@ -24,7 +24,7 @@ L’Imperatore Hakkan III è generalmente tollerante con ogni tipo di culto, pur
 
 ### Kaphnur
 
-![Kaphnur](/images/map-kaphnur.jpg)
+![Kaphnur](./images/map-kaphnur.jpg)
 
 Da sempre Kaphnur, la capitale di Gwaldur attira i visitatori affascinati dalle mutevoli proprietà dell’elemento del fuoco. L’intera zona è stata costruita su un fiume di lava solidificato nel corso dei secoli, che ha formato una vallata surreale dal terreno nerastro. Le montagne vicine producono costantemente nuovi torrenti di magma che si riversano verso l’oceano. In città sono presenti numerose strutture create utilizzando vetro e mattoni, fusi utilizzando una varietà di sabbia grigio-bianca generata dall’incontro geologico tra vulcani e acque oceaniche. Il contrasto evidente tra edifici bianchi e terreno nero genera un paesaggio quasi alieno che affascina chiunque metta piede in città per la prima volta.
 

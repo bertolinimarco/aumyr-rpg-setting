@@ -1,6 +1,6 @@
 # Nordavind
 
-![Banner](/images/banner-nordavind.png)
+![Banner](./images/banner-nordavind.png)
 
 Nordavind è la regione degli uomini del nord, pirati e razziatori dalla pelle dura le cui navi sono viste spesso attraccare sulle coste del mondo conosciuto. Il territorio è un luogo spesso freddo e inospitale, così come la sua gente, montanari gretti con neve perfino nelle ossa. Le valli, i fiordi e passi montani sono conosciuti per essere popolati da giganti, draghi e altre strane creature. Isolati gruppi di elfi e nani sono stanziati nelle regioni selvagge, ma raramente tendono a rapportarsi in modo amichevole con i visitatori. La maggior parte della gente si concentra negli avamposti, unici luoghi dove è possibile coltivare un po’ di terra e trovare risorse utili a passare lunghe stagioni sulle montagne.
 
@@ -24,7 +24,7 @@ Il Nordavind conosce i Cinque, ma la maggior parte dei credenti preferisce rende
 
 ### Dunmere
 
-![Dunmere](/images/map-dunmere.jpg)
+![Dunmere](./images/map-dunmere.jpg)
 
 Dunmere è un grosso insediamento di case dal tetto spiovente e appuntito, un’oasi di civiltà nelle montagne selvagge. Situata in una gola naturale che la protegge dalle incursioni della maggior parte delle creature delle montagne vicine, a Dunmere la gente si concentra a coltivare la terra, ma anche a combattere in arene pubbliche per dimostrare il proprio valore, commerciare o semplicemente bere idromele.
 

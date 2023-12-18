@@ -1,6 +1,6 @@
 # Faeland
 
-![Banner](/images/banner-faeland.png)
+![Banner](./images/banner-faeland.png)
 
 This large territory between Myrdon Bay and the Nayalis Forest is characterized by the presence of numerous settlements more or less populated scattered for its great extension.
 The presence of one of the three Observatories on the coast also makes it one of the favorite destinations for Askari scholars.
@@ -25,7 +25,7 @@ The region worships the Fives and all religions (except for the chaotic ones, su
 
 ### Elerin
 
-![Elerin](/images/map-elerin-en.jpg)
+![Elerin](./images/map-elerin-en.jpg)
 
 Elerin is known as the "Mirror City". The octagon structure contains the large "Nucleus", a fortified circular structure in the middle. This area is also the city centre where commercial activities are located. The "mirror" is an illusion that one feels when one looks at the city from the top of the nearby mountains: if one were ideally to divide in half and overlap the two sides of the city, one part would be perfectly coincident with the other half, almost as if they were two duplicate parts. In the taverns of some bards, they are often asked to sing "The Two Faces", a sort of philosophical poem about the importance of equity.
 
