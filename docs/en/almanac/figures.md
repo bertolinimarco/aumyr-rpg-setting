@@ -35,9 +35,10 @@ The Spirit appears and places the whole Deck of Figures in front of the Player. 
 
 ### 02 - Key
 
-Figure 02 represents a Key with ornaments of an unknown magical nature engraved on it. A Player who knows 5 (five) or more languages may make a test on each one to see if they belong to his sphere of knowledge in an attempt to decipher the symbols engraved on the Key in the Figure. If he passes the test, he will find that they belong to a forgotten ancient language: in each case one of the possible meanings could be: "The Gate shows the Way" or "the Gate and Gates are with the Key Bearer".
+Figure 02 represents a Key with ornaments of an unknown magical nature engraved on it. 
 
 ::: details Effects
+A Player who knows 5 (five) or more languages may make a test on each one to see if they belong to his sphere of knowledge in an attempt to decipher the symbols engraved on the Key in the Figure. If he passes the test, he will find that they belong to a forgotten ancient language: in each case one of the possible meanings could be: "The Gate shows the Way" or "the Gate and Gates are with the Key Bearer".
 The Player acquires a key identical to the one in the Figure. The key is to be considered a minor artefact capable of opening any lock in any world, whether material or non-material and on any Plane of Existence. Its use is unique: the key disintegrates after use.
 :::
 

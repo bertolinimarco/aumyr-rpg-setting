@@ -35,9 +35,10 @@ Appare lo Spirito che pone davanti al Giocare l'intero Mazzo delle Figure. Lo Sp
 
 ### 02 - Chiave
 
-La figura 02 rappresenta una Chiave con ornamenti di natura magica sconosciuta incisi su di essa. Un Giocatore che conosca 5 (cinque) o più lingue può effettuare una prova su ognuna di essere per verificare se appartengono alla sua sfera di conoscenza per tentare di decifrare i simboli incisi sulla chiave della Figura. Se passa la prova, si accorgerà che appartengono ad un linguaggio dimenticato antico: in ogni caso uno dei possibili significati può essere: "La Chiate che indica la Strada" oppure "il Cancello e le Porte sono con il Portatore della Chiave".
+La figura 02 rappresenta una Chiave con ornamenti di natura magica sconosciuta incisi su di essa.
 
 ::: details Effetti
+Un Giocatore che conosca 5 (cinque) o più lingue può effettuare una prova su ognuna di essere per verificare se appartengono alla sua sfera di conoscenza per tentare di decifrare i simboli incisi sulla chiave della Figura. Se passa la prova, si accorgerà che appartengono ad un linguaggio dimenticato antico: in ogni caso uno dei possibili significati può essere: "La Chiate che indica la Strada" oppure "il Cancello e le Porte sono con il Portatore della Chiave".
 Il Giocatore acquisisce una chiave identica a quella della Figura. La chiave è da considerarsi un artefatto minore in grado di aprire una qualsiasi serratura in un qualsiasi mondo, sia materiale che non materiale e su qualsiasi Piano di esistenza. L'utilizzo è unico: la Chive si disintegra dopo l'uso.
 :::
 
