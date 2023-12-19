@@ -633,7 +633,7 @@ Figures appear in front of the player:
 The Player may choose a Figure from among these.
 :::
 
-### 64 - Swamps
+### 64 - Marshes
 
 Figure 64 represents a marshy landscape, with a river running through it. In the background, a group of adventurers.
 
