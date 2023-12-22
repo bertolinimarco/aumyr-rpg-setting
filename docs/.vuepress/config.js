@@ -22,6 +22,7 @@ import { activeHeaderLinksPlugin } from "@vuepress/plugin-active-header-links";
 import { gitPlugin } from "@vuepress/plugin-git";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { pwaPlugin } from "@vuepress/plugin-pwa";
+import { pwaPopupPlugin } from "@vuepress/plugin-pwa-popup";
 
 export default {
   locales: {
@@ -238,6 +239,18 @@ export default {
     activeHeaderLinksPlugin(),
     gitPlugin(),
     pwaPlugin(),
+    pwaPopupPlugin({
+      locales: {
+        "/": {
+          message: "Nuovi contenuti disponibili",
+          buttonText: "Aggiorna",
+        },
+        "/en/": {
+          message: "New content is available",
+          buttonText: "Refresh",
+        },
+      },
+    }),
     searchPlugin({
       locales: {
         "/": {
