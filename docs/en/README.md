@@ -7,7 +7,7 @@ tagline: Aumyr is a fantasy setting for role-playing games, ready for your adven
 actions:
   - text: Start now
     link: /en/welcome.md
-footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt
+footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 ---
 
 <div class="home-features">

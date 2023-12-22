@@ -7,7 +7,7 @@ tagline: Aumyr è un'ambientazione fantasy per giochi di ruolo, pronta per le tu
 actions:
   - text: Inizia ora
     link: /welcome.md
-footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt
+footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 ---
 
 <div class="home-features">
@@ -33,8 +33,8 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt
   </div>
   <div class="card">
     <div class="card-body">
-      <h3>Discord</h3>
-      <h4>Community</h4>
+      <h3>Community</h3>
+      <h4>Discord Server</h4>
       <p>
       Entra nella Community, parliamo di Aumyr e tanto altro!
       </p>

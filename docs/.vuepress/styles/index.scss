@@ -23,6 +23,11 @@
   --c-glass: rgba(255, 255, 255, 0.4);
   --c-text-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
   --search-border-color: #eaecef;
+  --c-bg-linear-left-right: linear-gradient(
+    to right,
+    rgba(241, 241, 241, 1) 0%,
+    rgba(255, 255, 255, 0) 60%
+  );
 
   // background colors
   --c-bg: #f1f1f1;
@@ -43,6 +48,11 @@ html.dark {
   --c-glass: rgba(0, 0, 0, 0.3);
   --c-text-shadow: 0 4px 7px rgba(0, 0, 0, 0.5);
   --search-border-color: #111;
+  --c-bg-linear-left-right: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0) 60%
+  );
 
   // background colors
   --c-bg: #1a1a1a;
@@ -212,6 +222,7 @@ html.dark main.page {
 
 .custom-container.details {
   border-radius: 6px;
+  background: var(--c-bg-linear-left-right);
 }
 
 .home .hero .description {
@@ -272,19 +283,15 @@ html.dark main.page {
     font-family: "Asul Bold", sans-serif;
   }
   img {
-    background: #fff;
-    margin: 1rem;
-    padding: 1rem;
+    background: var(--c-bg-light);
+    margin: 0;
+    padding: 0;
+    margin: 20px;
     float: right;
     clear: both;
-    max-width: 200px;
-    &:first-child {
-      background: var(--c-bg-light);
-      margin: 0;
-      padding: 1rem;
-      float: right;
-      clear: both;
-    }
+    max-width: 160px;
+    position: relative;
+    z-index: 1;
   }
   h1 + p:first-letter {
     text-transform: uppercase;

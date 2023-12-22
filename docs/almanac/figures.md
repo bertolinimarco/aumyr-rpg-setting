@@ -14,7 +14,7 @@ Gli effetti delle Figure, sono da considerarsi privi di meccaniche di salvezza: 
 
 La Figura dello Spirito quando (e se) appare, può eseguire a suo piacimento qualsiasi azione, anche se non prevista dalle altre Figure.
 
-L'estrazione delle Figure è casuale e in nessun modo il Giocatore può decidere di estrarre una carta che desidera, a meno che sia la Figura stessa (o lo Spirito) a dirlo. Una volta estratta, il Giocatore può osservare la Figure e decidere se attivarla o meno, senza conseguenze. Una volta attivata, la Figura torna magicamente nel mazzo senza che si debba riporla. Questo effetto serve (anche) ad impedire che il Mazzo sia incompleto di tutte e 100 le Figure.
+L'estrazione delle Figure è casuale (tramite un dado a cento facce) e in nessun modo il Giocatore può decidere di estrarre una carta che desidera, a meno che sia la Figura stessa (o lo Spirito) a dirlo. Una volta estratta, il Giocatore può osservare la Figure e decidere se attivarla o meno, senza conseguenze. Una volta attivata, la Figura torna magicamente nel mazzo senza che si debba riporla. Questo effetto serve (anche) ad impedire che il Mazzo sia incompleto di tutte e 100 le Figure.
 
 Ogni Figura rappresenta un'immagine o una scena che può rivelarsi di ingannevole previsione rispetto al suo contenuto. Il Mazzo (Lo Spirito) può decidere in qualsiasi momento di cambiare Portatore a sua discrezione.
 Qualche Figura riporta scritte in un linguaggio sconosciuto. Probabilmente è il linguaggio nativo del mazzo o è anche possibile che il mazzo se ne serva quando voglia nascondere qualcosa.
@@ -25,6 +25,8 @@ Per questo motivo il mazzo è uno degli oggetti più ricercati, potenti e perico
 **N.B:** Si consiglia al DM di leggere gli effetti della Figura prima di rivelarli al Giocatore, perché alcuni effetti delle Figure NON devono essere rivelati.
 Gli effetti a volte includono meccaniche riguardanti "tiri salvezza", valori di caratteristica e altro ancora: sono pensate per essere utilizzate con il sistema di gioco D&D, ma possono essere adattate a qualsiasi sistema regolistico, spetterà al DM decidere come gestirle.
 
+![01](/images/figures/01.webp)
+
 ### 01 - Spirito (Nero)
 
 La Figura 01 rappresenta lo Spirito delle Figure, di colore Nero, nell'atto di indicare il Giocatore.
@@ -32,6 +34,8 @@ La Figura 01 rappresenta lo Spirito delle Figure, di colore Nero, nell'atto di i
 ::: details Effetti
 Appare lo Spirito che pone davanti al Giocare l'intero Mazzo delle Figure. Lo Spirito estrae una carta e la Attiva come se lo stesso Giocatore l'avesse attivata. La scelta della Figura può essere quindi casuale (tira il DM) oppure può essere scelta dal DM.
 :::
+
+![02](/images/figures/02.webp)
 
 ### 02 - Chiave
 
@@ -42,6 +46,8 @@ Un Giocatore che conosca 5 (cinque) o più lingue può effettuare una prova su o
 Il Giocatore acquisisce una chiave identica a quella della Figura. La chiave è da considerarsi un artefatto minore in grado di aprire una qualsiasi serratura in un qualsiasi mondo, sia materiale che non materiale e su qualsiasi Piano di esistenza. L'utilizzo è unico: la Chive si disintegra dopo l'uso.
 :::
 
+![03](/images/figures/03.webp)
+
 ### 03 - Elmo
 
 La figura 03 rappresenta un elmo finemente lavorato, su un piedistallo di legno. Il materiale con cui è forgiato sembra contenere un qualche minerale o lega molto rara e pregiata, tendente all'argento.
@@ -49,6 +55,8 @@ La figura 03 rappresenta un elmo finemente lavorato, su un piedistallo di legno.
 ::: details Effetti
 Il Giocatore ottiene un elmo con il potere di rivelare entità invisibili.
 :::
+
+![04](/images/figures/04.webp)
 
 ### 04 - Torcia
 
@@ -58,6 +66,8 @@ La figura 04 rappresenta un uomo con una tunica da stregone in mezzo a delle rov
 Il Giocatore guadagna un punteggio di +10 a Conoscenze Arcane e gli viene permesso di scegliere 1 incantesimo di 2° livello da Mago o Stregone. Viene inoltre concesso al Giocatore di poter usufruire dell'incantesimo Scopri il Percorso per tutto il giorno seguente al momento dell'estrazione e attivazione della Carta.
 :::
 
+![05](/images/figures/05.webp)
+
 ### 05 - Spada
 
 La figura 05 rappresenta una Spada lunga con una lama di colore rosso, con un'impugnatura di colore nero. La lama è ricoperta di rune di colore nero.
@@ -66,13 +76,17 @@ La figura 05 rappresenta una Spada lunga con una lama di colore rosso, con un'im
 Il Giocatore ottiene una spada lunga con il potere di infliggere danni da fuoco. La spada è in grado di infliggere danni da fuoco anche a creature immuni al fuoco.
 :::
 
-### 06 - Freccia
+![06](/images/figures/06.webp)
+
+### 06 - Frecce
 
 La figura 06 rappresente un insieme di frecce conficcate in un prato. L'impennaggio è preciso e la lavorazione è di tipo perfetto. Sembra che il corpo sia in legno rosso.
 
 ::: details Effetti
 Il Giocatore ottiene la capacità di utilizzare armi da lancio incluso archi, balestre, nonchè un'arma da lancio magica adatta alla sua classe, a discrezione dello Spirito. Nel caso il Giocatore, per proibizioni di classe o di razza non possa utilizzare armi da lancio, gli viene conferito un potere utilizzabile una volta al giorno in grado di scagliare una nuvola di frecce con proprietà a discrezione del DM.
 :::
+
+![07](/images/figures/07.webp)
 
 ### 07 - Acqua
 
@@ -82,6 +96,8 @@ La Figura 07 rappresenta un uomo che versa dell'acqua da una brocca in un fiume.
 Il Giocatore guadagna la capacità di respirare sott'acqua come se fosse sotto l'effetto permanente del relativo incantesimo.
 :::
 
+![08](/images/figures/08.webp)
+
 ### 08 - Boccale
 
 La Figura 08 rappresenta un boccale di birra, con una schiuma bianca e densa. Il boccale è di legno e sembra essere stato scolpito da un artigiano molto abile.
@@ -90,6 +106,8 @@ La Figura 08 rappresenta un boccale di birra, con una schiuma bianca e densa. Il
 Il Giocatore guadagna la capacità di bere qualsiasi liquido, anche velenoso, senza subirne gli effetti. Il liquido viene trasformato in acqua.
 :::
 
+![09](/images/figures/09.webp)
+
 ### 09 - Orchi
 
 La Figura 09 rappresenta un gruppo di orchi che combattono contro un gruppo di umani. Gli orchi sono in netta superiorità numerica e sembrano avere la meglio.
@@ -97,6 +115,8 @@ La Figura 09 rappresenta un gruppo di orchi che combattono contro un gruppo di u
 ::: details Effetti
 Il Giocatore tiri un dado a venti facce: il risultato è il numero di orchi che compariranno davanti al Giocatore nel momento in cui attiva la Figura. Gli orchi sono da considerarsi alleati del Giocatore e sono soggetti alle regole dei seguaci e dei gregari, come qualsiasi altro personaggio non giocante.
 :::
+
+![10](/images/figures/10.webp)
 
 ### 10 - Mappa
 
@@ -115,6 +135,8 @@ Il Giocatore riceve una mappa. Non conosce tuttavia il luogo che vi è rappresen
 e così via.
 :::
 
+![11](/images/figures/11.webp)
+
 ### 11 - Clessidra
 
 La Figura 11 rappresenta una clessidra di vetro, con la sabbia bianca che scorre all'interno. La clessidra è appoggiata su un piedistallo di legno.
@@ -132,6 +154,8 @@ Il Giocatore tira un dado a otto facce. Gli effetti per un giorno e sono utilizz
 - 8: Identificare un oggetto magico.
   :::
 
+![12](/images/figures/12.webp)
+
 ### 12 - Observatorium
 
 La Figura 12 rappresenta un'enorme macchinario sconosciuto.
@@ -141,6 +165,8 @@ Il Giocatore e i suoi alleati entro 9 metri da esso, vengono trasportati istanta
 In questo Piano, solo vagamente menzionato in qualche oscuro tomo dimenticato, si narra che sia possibile osservare qualsiasi cosa su qualunque Piano di esistenza, in qualsiasi luogo e in qualsiasi tempo. L'effetto della Figura dura da 1 a 4 ore in base al risultato di un tiro di dado. Al termine di questo periodo, il Giocatore e i suoi alleati vengono riportati nel luogo in cui si trovavano prima di essere trasportati.
 :::
 
+![13](/images/figures/13.webp)
+
 ### 13 - Cibo
 
 La Figura 13 rappresenta una ricca tavola imbandita con cibo e bevande di ogni tipo. La tavola è apparecchiata con piatti e posate d'oro.
@@ -149,6 +175,8 @@ La Figura 13 rappresenta una ricca tavola imbandita con cibo e bevande di ogni t
 Il Giocatore che attiva questa Figura è soggetto ad una maledizione: deve assumere due pasti aggiuntivi al giorno: in caso contrario, gli effetti da applicare sono gli stessi nel caso del digiuno, con tutte le penalità del caso. La maledizione è removibile solo con un incantesimo di alto livello.
 :::
 
+![14](/images/figures/14.webp)
+
 ### 14 - Portale
 
 La Figura 14 rappresenta un mago perplesso di fronte ad un Portale appena creato sulla parete di un dungeon. Sul lato destro vi sono dei resti scheletrici, mentre sul lato sinistro vi è uno zaino da esploratore.
@@ -156,6 +184,8 @@ La Figura 14 rappresenta un mago perplesso di fronte ad un Portale appena creato
 ::: details Effetti
 Il Giocatore che attiva questa Figura vedrà aprirsi un Portale a breve distanza, su una superficie che sia almeno di quattro metri per due. Il Portale è permanente e rimane aperto per un tempo pari a 1d4 ore. Il Portale è bidirezionale e può essere attraversato da chiunque. Il Portale è di colore rosso e nero.
 :::
+
+![15](/images/figures/15.webp)
 
 ### 15 - Globo (Verde)
 
@@ -169,6 +199,8 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 - 20: La classe del Giocatore si trasforma in Druido o Ranger (a discrezione del DM).
   :::
 
+![16](/images/figures/16.webp)
+
 ### 16 - Donna
 
 La Figura 16 rappresenta il ritratto di una nobildonna. La figura sembra seguire con gli occhi il Giocatore.
@@ -176,6 +208,8 @@ La Figura 16 rappresenta il ritratto di una nobildonna. La figura sembra seguire
 ::: details Effetti
 Il Giocatore che attiva questa Figura cambia sesso diventando una donna. Nel caso sia già di sesso femminile, questa Figura non ha effetto.
 :::
+
+![17](/images/figures/17.webp)
 
 ### 17 - Stivali
 
@@ -185,6 +219,8 @@ La Figura 17 rappresenta un paio di stivali di cuoio, con delle fibbie d'oro. Gl
 Il Giocatore che attiva questa Figura ottiene la capacità di camminare su qualsiasi superficie, anche se essa è verticale o rocciosa. Il Giocatore può camminare anche su superfici liquide, come acqua o lava.
 :::
 
+![18](/images/figures/18.webp)
+
 ### 18 - Rune
 
 La Figura 18 rappresenta un insieme di rune incise su una pietra. Le rune sono di colore nero e rosso e sembrano essere incise con un'abilità magica.
@@ -192,6 +228,8 @@ La Figura 18 rappresenta un insieme di rune incise su una pietra. Le rune sono d
 ::: details Effetti
 Il Giocatore che attiva questa Figura ottiene la capacità di leggere e scrivere in un linguaggio sconosciuto. Il linguaggio è quello delle rune della Figura. Le rune possono anche essere usate come incantesimo che, se lette, possono avere effetti a discrezione del DM.
 :::
+
+![19](/images/figures/19.webp)
 
 ### 19 - Fuoco fatuo
 
@@ -201,12 +239,18 @@ La Figura 19 rappresenta una mano avvolta da spine e rovi, che sembra sorreggere
 Il Giocatore che attiva questa Figura ottiene la capacità di creare un fuoco fatuo che lo segue ovunque vada. Il fuoco fatuo è di colore verde e può essere usato per illuminare un'area di 9 metri.
 :::
 
+![20](/images/figures/20.webp)
+
 ### 20 - Segno dello Spirito
 
 La Figura 20 rappresenta un simbolo simile ad una "X" che sembra essere stato inciso nella pietra con un'abilità magica.
 
 ::: details Effetti
 Il Giocatore che attiva questa Figura è bandito per sempre dall'utilizzo delle Figure. Lo Spirito non lo riconoscerà più come suo Portatore e non gli permetterà più di utilizzare le Figure.
+
+:::
+
+![21](/images/figures/21.webp)
 
 ### 21 - Collana
 
@@ -216,13 +260,17 @@ La Figura 21 rappresenta una collana di perle. La collana è di colore bianco e 
 Il Giocatore che attiva questa Figura ottiene un oggetto simile ad una collana chiamato Rosario dei Piani. Il Rosario dei Piani è un oggetto magico che permette al Giocatore di viaggiare tra i Piani di esistenza. E' formato da 10 grani che possono essere attivati e ogni grano permette di viaggiare verso un Piano di esistenza diverso. Il Rosario dei Piani può essere usato una volta al giorno.
 :::
 
-### 22 - Luna (Piena)
+![22](/images/figures/22.webp)
 
-La Figura 22 rappresenta la Luna piena.
+### 22 - Luna (Rossa)
+
+La Figura 22 rappresenta una luna piena di colore rosso.
 
 ::: details Effetti
 Il Giocatore riceve un grosso malus (a discrezione del DM) a tutte le prove di caratteristica per sempre. Questa maledizione può essere rimossa solo con un incantesimo di alto livello.
 :::
+
+![23](/images/figures/23.webp)
 
 ### 23 - Castello
 
@@ -232,6 +280,8 @@ La Figura 23 rappresenta un castello molto fastoso, circondato da un fossato e c
 Il Giocatore che attiva questa Figura diventa proprietario di un castello (a scelta del DM dimensione, costi, servitù e annessi) e sovrano di un piccolo borgo di mille persone.
 Non può cedere il castello, né venderlo ed è obbligato a mantenerlo. Il castello è situato in un luogo a scelta del DM. Nel borgo, corrono strane voci su ciò che il castello potrebbe nascondere tra le sue sale: ogni proprietario del castello muore in circostanze misteriose una volta raggiunti i 50 anni di età...
 :::
+
+![24](/images/figures/24.webp)
 
 ### 24 - Scalinata (Ascendente)
 
@@ -245,6 +295,8 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 - 20: il Giocatore aggiunge alla sua classe due livelli.
   :::
 
+![25](/images/figures/25.webp)
+
 ### 25 - L'Occhio (Alto)
 
 La Figura 25 rappresenta il simbolo di un occhio con dei raggi che convergono verso l'alto. Il nome della figura è scritto in un linguaggio sconosciuto.
@@ -252,6 +304,8 @@ La Figura 25 rappresenta il simbolo di un occhio con dei raggi che convergono ve
 ::: details Effetti
 Il Giocatore deve superare un tiro a discrezione del DM o essere investito permanentemente con un effetto che lo rende cieco. L'effetto può essere rimosso solo con un incantesimo di alto livello. Nel caso il Giocatore superi la prova, ottiene la capacità di vedere in ogni direzione, anche attraverso gli oggetti.
 :::
+
+![26](/images/figures/26.webp)
 
 ### 26 - Forziere
 
@@ -265,6 +319,8 @@ Il Giocatore che attiva questa Figura guadagna l'abilità di scassinare le serra
 - 20: Il Giocatore viene trasportato in una stanza di trenta metri quadri, con al suo interno 1 forziere ricolmo di oggetti magici.
   :::
 
+![27](/images/figures/27.webp)
+
 ### 27 - Monete
 
 La Figura 27 rappresenta un insieme di monete di colore nero.
@@ -274,14 +330,18 @@ Il Giocatore che attiva questa Figura perde tutte le monete che possiede. Nel ca
 Nel caso non abbia oggetti né beni, il Giocatore guadagna un numero di oggetti magici a discrezione dello Spirito, pari al livello del suo personaggio.
 :::
 
+![28](/images/figures/28.webp)
+
 ### 28 - Cavaliere (Nero)
 
-La Figura 28 rappresenta un cavaliere in armatura che cavalca un cavallo alato. Il cavaliere ha un'espressione truce sul volto.
+La Figura 28 rappresenta un cavaliere in armatura nera.
 
 ::: details Effetti
 Se il Giocatore è di allineamento malvagio, compare Xamorel, un incubo alato, cavalcabile solo dal Giocatore.
 Il destriero obbidisce solo ai comandi del Giocatore che ha estratto la Figura e permane nel piano materiale per 1d4 di giorni. Se il Giocatore è di allineamento buono, la Figura non ha effetto.
 :::
+
+![29](/images/figures/29.webp)
 
 ### 29 - Freccia di fuoco
 
@@ -290,6 +350,8 @@ La Figura 29 rappresenta un'arciere che scocca una freccia di fuoco. L'arciere �
 ::: details Effetti
 Il Giocatore che attiva questa Figura ottiene un artefatto conosciuto come Faretra del Caos. Essa contiene un numero infinito di frecce di fuoco. Un incantesimo di alto livello può far scomparire la faretra e farla tornare nei piani di esistenza da cui proviene.
 :::
+
+![30](/images/figures/30.webp)
 
 ### 30 - Deserto
 
@@ -304,6 +366,8 @@ Tirare un dado a quattro facce.
 - 4: Il Giocatore guadagna permanentemente un punto di Intelligenza, Saggezza e Costituzione.
   :::
 
+![31](/images/figures/31.webp)
+
 ### 31 - Torre e Rovine
 
 La Figura 31 rappresenta un particolare e lugubre paesaggio formato da torri e rovine.
@@ -312,6 +376,8 @@ La Figura 31 rappresenta un particolare e lugubre paesaggio formato da torri e r
 Il Giocatore che attiva questa Figura viene trasportato nei recessi di una prigione in una locazione a caso del mondo di gioco. Tutto il suo equipaggiamento viene portato in un'altra locazione, a scelta del DM. Il Giocatore perde la memoria e ignora il motivo per il quale si trovi in quel luogo.
 In realtà, è stata la Figura Torre e Rovine a condurlo in quel luogo e a creare le condizioni per cui sia il quel posto. La motivazione è a scelta del DM: può essere stato accusato di un crimine, o scambiato per qualcun altro, potrebbe essere una vendetta di un personaggio incontrato in un'avventura precedente, e altro ancora. Nel momento in cui il "mistero" viene risolto dal Giocatore, la Figura Torre e Rovine fa tornare il Giocatore nel luogo in cui si trovava prima di essere trasportato.
 :::
+
+![32](/images/figures/12.webp)
 
 ### 32 - Paese
 
@@ -327,6 +393,8 @@ Tirare un dado a venti facce.
 Una volta attivata la carta non presenta effetti particolari: il Giocatore non sa di aver guadagnato un'abitazione, ma potrebbe iniziare a ricevere delle lettere, o un messaggero, o qualcuno che lo cerca per consegnargli le chiavi di una casa...
 :::
 
+![33](/images/figures/33.webp)
+
 ### 33 - Folla
 
 La Figura 33 rappresenta una folla di persone che si raduna intorno ad un uomo.
@@ -334,6 +402,8 @@ La Figura 33 rappresenta una folla di persone che si raduna intorno ad un uomo.
 ::: details Effetti
 Il Giocatore che attiva questa Figura viene trasportato in un luogo a scelta del DM, in cui è considerato un criminale, con l'accusa di aver assassinato un personaggio famoso (un sovrano o un Re) del paese in cui viene trasportato. L'ideale sarebbe sviluppare un'avventura a parte su questa vicenda, sebbene il Giocatore non debba sapere nulla sugli effetti di questa carta, appena viene attivata.
 :::
+
+![34](/images/figures/34.webp)
 
 ### 34 - Muro
 
@@ -345,6 +415,8 @@ La fisicità del Giocatore viene alterata: il suo punteggio di Costituzione aume
 - 1-10: Il prossimo percorso che il Giocatore intraprenderà sarà pieno di ostacoli e difficoltà: la via potrebbe essere chiusa, murata, sbarrata per sempre. Il luogo potrebbe essere inaccessibile, o inesplorabile, o inavvicinabile.
 - 11-20: Il Giocatore guadagna la capacità di attraversare qualsiasi muro, anche se è di pietra o di ferro. Questa capacità viene considerata come se il Giocatore fosse sotto l'effetto dell'incantesimo equivalente.
   :::
+
+![35](/images/figures/35.webp)
 
 ### 35 - [Vuoto]
 
@@ -358,6 +430,8 @@ Tirare un dado a venti facce.
 - 16-20: Compare lo Spirito che permette al Giocatore di fare tre domande su qualsiasi argomento, e lo Spirito è obbligato a rispondere con la verità.
   :::
 
+![36](/images/figures/36.webp)
+
 ### 36 - Rovine
 
 La Figura 36 rappresenta un insieme di rovine di un antico tempio. Le rovine sono di colore bianco e sembrano essere state costruite con un materiale sconosciuto.
@@ -368,6 +442,8 @@ Questa Figura ha due effetti consecutivi:
 - 1: Il Giocatore guadagna alcuni gradi in tutte le abilità che coinvolgono le Conoscenze che possiede la propria classe, a discrezione del DM.
 - 2: Il Giocatora tira un dado a venti facce. Se il risultato è pari o superiore a 17, guadagna l'abilità di parlare e scrivere gli antichi linguaggi scomparsi. Questo porterà il Giocatore a scoprire tutta una serie di informazioni nascoste in livelli di conoscenza prima irraggiungibili, ed eventualmente, ad affrontare una missione pericolosa per scoprire un segreto antico. Nel caso il Giocatore fallisca il tiro, il Giocatore perde la capacità di parlare per 1d4 giorni.
   :::
+
+![37](/images/figures/37.webp)
 
 ### 37 - Fiala d'argento
 
@@ -386,6 +462,8 @@ Il Giocatore che attiva questa Figura guadagna tre fiale dello stesso aspetto de
 Le conseguenze di queste capacità sono a discrezione del DM.
 :::
 
+![38](/images/figures/38.webp)
+
 ### 38 - Paesaggio
 
 La Figura 38 rappresenta un paesaggio campestre: un ponte ad arco domina la scena e attraversa un fiuime con tre piccole cascate. Su un lato del ponte, le rovine di un castello o di un posto di guardia; mentre in basso a destra tre mucche ed un pastore si rilassano al sole.
@@ -393,6 +471,8 @@ La Figura 38 rappresenta un paesaggio campestre: un ponte ad arco domina la scen
 ::: details Effetti
 Il Giocatore che attiva questa Figura può aggiungere gradi ad una professione o ad un background a sua scelta. Nel caso non possieda queste abilità potrà decidere di assegnarla ex-novo per ogni livello di classe che possiede.
 :::
+
+![39](/images/figures/39.webp)
 
 ### 39 - Chiavi d'ossa
 
@@ -402,6 +482,8 @@ La Figura 39 rappresenta un mazzo di chiavi di ossa. Le chiavi sono di colore bi
 Il Giocatore che attiva questa Figura ottiene un mazzo di chiavi fatte con ossa apparentemente umane. Non ha idea di cosa possano aprire (e neanche il DM?)
 :::
 
+![40](/images/figures/40.webp)
+
 ### 40 - Libro
 
 La Figura 40 rappresenta un libro di pergamena con delle rune incise sulla copertina. Il libro è chiuso da una fibbia d'oro.
@@ -410,13 +492,17 @@ La Figura 40 rappresenta un libro di pergamena con delle rune incise sulla coper
 Il Giocatore sottrae punti a tre abilità decise dal DM. E' una maledizione che può essere rimossa solo con un incantesimo di alto livello.
 :::
 
-### 41 - Morning Star
+![41](/images/figures/41.webp)
+
+### 41 - Mazza
 
 La Figura 41 rappresenta una mazza ferrata con una catena. La mazza è di colore nero e la catena è di colore rosso. Sull'impugnatura sembra essere incisa la parola "Khel-Thal Ut Varganar".
 
 ::: details Effetti
 Il Giocatore che attiva questa Figura ottiene una mazza ferrata chiamata Varganar, un artefatto potente (e senziente) che permette al Giocatore di evocare un demone di livello pari al suo, una volta al giorno. Il demone è soggetto al controllo del Giocatore per 1d4 giorni, dopodiché, se non è stato distrutto, torna nel suo piano di esistenza.
 :::
+
+![42](/images/figures/42.webp)
 
 ### 42 - Sestante Dimensionale
 
@@ -425,6 +511,8 @@ La Figura 42 rappresenta un esploratore che sta maneggiando un sestante planare.
 ::: details Effetti
 Il Giocatore e 1d6 di alleati vengono trasportati in un Piano casuale (a scelta del DM). Tutte le creature trasportate in questo modo si troveranno sul Piano casuale senza oggietti né equipaggiamento: essi verranno trasportati in un posto a scelta del DM (sullo stesso piano, o un altro...). Se i personaggi riescono a trovare gli ogetti senza morire, tra essi troveranno anche un Sesta Dimensionale, un artefatto potente, che permette di viaggiare tra i Piani di esistenza. Il Sestante Dimensionale può essere usato una volta al giorno.
 :::
+
+![43](/images/figures/43.webp)
 
 ### 43 - Foresta
 
@@ -439,13 +527,17 @@ Tirare un dado a venti facce.
 - 16-20: Tirare un dado a venti facce. Da questo momento in poi, il Giocatore è soggetto a una maledizione che lo trasforma in un animale a caso, a discrezione del DM. La trasformazione dura 1d4 ore.
   :::
 
-### 44 - Luna (Nuova)
+![44](/images/figures/44.webp)
 
-La Figura 44 rappresenta la Luna nuova.
+### 44 - Luna (Piena)
+
+La Figura 44 rappresenta la luna piena.
 
 ::: details Effetti
 Il Giocatore ottiene un bonus permanente a tutti i tiri salvezza, a discrezione del DM.
 :::
+
+![45](/images/figures/45.webp)
 
 ### 45 - Sole (Calante)
 
@@ -455,13 +547,17 @@ La Figura 45 rappresenta il Sole calante.
 Il Giocatore riceve un malus di 3 punti in 3 caratteristiche a scelta del DM. Il malus è permanente. Guadagna successivamente un bonus di cinquanta punti ferita permanenti e un bonus di venti nelle quattro resistenze elementali (fuoco, freddo, elettricità, acido).
 :::
 
-### 46 - Freccia di luce
+![46](/images/figures/46.webp)
 
-La Figura 29 rappresenta un'arciere che scocca una freccia di luce. L'arciere è donna.
+### 46 - Fulmine
+
+La Figura 46 rappresenta una figura che osserva un fulmine in un cielo tempestoso.
 
 ::: details Effetti
 Il Giocatore che attiva questa Figura ottiene un artefatto conosciuto come Faretra della Virtù. Essa contiene un numero infinito di frecce di di energia. Un incantesimo di alto livello può far scomparire la faretra e farla tornare nei piani di esistenza da cui proviene.
 :::
+
+![47](/images/figures/47.webp)
 
 ### 47 - Runa degli Abeti
 
@@ -471,6 +567,8 @@ La Figura 47 rappresenta una runa di colore verde, con la raffigurazione di un a
 Il Giocatore che attiva questa Figura si trasforma istantaneamente in un abete secolare, con punti ferita pari a metà di quelli che aveva al momento dell'attivazione della Figura. Da questo momento, a parte i punti ferita, viene considerato a tutti gli effetti un albero e non un Giocatore, né un personaggio non giocante, né di un personaggio sotto gli effetti di un incantesimo. La maledizione può essere rimossa soltanto con un antichissimo rituale che solo un gruppo ristretto di persone conosce.
 :::
 
+![48](/images/figures/48.webp)
+
 ### 48 - Guanti
 
 La Figura 48 rappresenta un paio di guanti di colore rosso, con delle rune incise. I guanti sembrano essere stati costruiti con una pelle sconosciuta.
@@ -478,6 +576,8 @@ La Figura 48 rappresenta un paio di guanti di colore rosso, con delle rune incis
 ::: details Effetti
 Il Giocatore che attiva questa Figura ottiene un paio di guanti chiamati Guanti Infernali. I Guanti Infernali sono un artefatto potente che permette al Giocatore di evocare un demone di livello pari al suo, una volta al giorno. Il demone è soggetto al controllo del Giocatore per 1d4 giorni, dopodiché, se non è stato distrutto, torna nel suo piano di esistenza.
 :::
+
+![49](/images/figures/49.webp)
 
 ### 49 - Infante
 
@@ -488,13 +588,17 @@ Il Giocatore che attiva questa Figura deve modificare la sua età di un punteggi
 Il Giocatore conserva la memoria, gli incantesimi e le abilità che possedeva prima di essere trasformato dalla Figura. A discrezione del DM stabilire se un incantesimo di alto livello possa rimuovere la maledizione.
 :::
 
+![50](/images/figures/50.webp)
+
 ### 50 - [?]
 
-La Figura 50 rappresenta un segno che appare e scompare. A volte, sulla Figura appaiono immagini casuali, come un paesaggio, un volto, un oggetto, un animale.
+La Figura 50 rappresenta un vortice di puro caos. A volte la scritta appare e scompare, come se fosse un'illusione.
 
 ::: details Effetti
 Il Giocatore è costretto ad estrarre un'altra carta e ad attivarla immediatamente.
 :::
+
+![51](/images/figures/51.webp)
 
 ### 51 - Globo (Nero)
 
@@ -507,6 +611,8 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 - 11-19: Il Giocatore viene sconvolto da un'ondata di potere magico e deve effettuare un tiro per resistervi. In caso di fallimento, il Giocatore viene portato in coma per 1d4 di ore.
 - 20: La classe del Giocatore si trasforma in Mago o Stregone (a discrezione del DM).
   :::
+
+![52](/images/figures/52.webp)
 
 ### 52 - Colline
 
@@ -522,13 +628,17 @@ Il Giocatore viene avvicinato da un gruppo di persone che conosce un particolare
 Nel caso riesca nella seconda ipotesi, i personaggi potranno rivelare di essere stati imprigionati delle Figure di Koth: alcuni dei (tanti) avventurieri costretti a servire Spirito del Mazzo e le Figure, maledetti da qualche effetto del passato che li ha costretti ad obbedire. Se il Giocatore riesce a liberarli, potrà guadagnare ulteriori bonus a discrezione del DM, ma lo Spirito del Mazzo potrebbe anche essere contento di questa scelta...
 :::
 
+![53](/images/figures/53.webp)
+
 ### 53 - Gioielli
 
-La Figura 53 rappresenta un insieme di gioielli di colore nero.
+La Figura 53 rappresenta una donna che indossa un ricco set di gioielli.
 
 ::: details Effetti
 Il Giocatore perde tutti gli oggetti magici che possiede. Nel caso non ne possieda, perde tutti gli oggetti di valore che possiede. Nel caso non ne possieda, perde il primo oggetto in ordine di valore (monetario) che possiede. Successivamente, acquista una taglia enorme sulla propria testa, in una città a scelta del DM.
 :::
+
+![54](/images/figures/54.webp)
 
 ### 54 - Biblioteca
 
@@ -537,6 +647,8 @@ La Figura 54 rappresenta una biblioteca con scaffali di legno e libri di ogni ti
 ::: details Effetti
 Il Giocatore acquisisce tre nuove abilità a discrezione del DM. Le abilità sono legate alla conoscenza e alla lettura. Nel caso il Giocatore non possieda queste abilità, può assegnarle ex-novo per ogni livello di classe che possiede.
 :::
+
+![55](/images/figures/55.webp)
 
 ### 55 - [Figura nera]
 
@@ -550,6 +662,8 @@ Nello spazio dimensionale, vi è un numero di anime a discrezione del DM: tutti 
 In caso abbia successo con il tiro salvezza precedente, non succede nulla per 1d6 di minuti. Successivamente, qualora avesse di nuovo la Figura in mano, viene costretto a tirare un dado a venti facce. Se il risultato è maggiore di 17, il Giocatore può decidere se liberare un'anima rinchiusa nello spazio dimensionale all'interno della Figura. Se è minore, si tiri un altro dado: in questo caso, se il risultato è minore o pari a cinque (5), tutte le anime verranno liberate dal mazzo...
 :::
 
+![56](/images/figures/56.webp)
+
 ### 56 - Accampamenti
 
 La Figura 56 rappresenta un accampamento di avventurieri.
@@ -558,6 +672,8 @@ La Figura 56 rappresenta un accampamento di avventurieri.
 Il Giocatore che attiva la Figura e gli alleati non riceveranno attacchi _notturni_ da mostri o altre creature per 1d4 di mesi. Inoltre, per 1d4 di mesi possono dormire la metà delle ore standard di riposo per il recupero di incantesimi e dei punti ferita (8 ore diventano 4).
 Tirare in seguito un dado a venti facce. Se il risultato è pari o superiore a 15, il Giocatore incontrerà un gruppo di chiamati la "Compagnia del Viaggio", un gruppo di avventurieri specializzati in incantesimi di viaggio e di scoperta: possono offrirsi di trasportare il Giocatore e i suoi alleati in un punto qualsiasi del mondo, oppure possono creare un Portale e altro ancora.
 :::
+
+![57](/images/figures/57.webp)
 
 ### 57 - Miniera
 
@@ -574,13 +690,17 @@ Il Giocatore scopre (modi e tempi decisi dal DM) l'accesso ad un'antica miniera 
 
 :::
 
+![58](/images/figures/58.webp)
+
 ### 58 - Anelli
 
-La Figura 58 rappresenta un insieme di anelli di colore nero.
+La Figura 58 rappresenta un insieme di anelli e altri oggetti sparsi su un tavolo.
 
 ::: details Effetti
 Il Giocatore può decidere di duplicare 1d4 di oggetti magici che possiede, oppure toccandone uno. Il DM deciderà se questa operazione è valida anche per oggetti magici che non possono essere duplicati (ad esempio, un artefatto). Nota per il DM: duplicare un Artefatto è un'operazione molto pericolosa, che potrebbe avere conseguenze imprevedibili.
 :::
+
+![59](/images/figures/59.webp)
 
 ### 59 - Dadi
 
@@ -590,6 +710,8 @@ La Figura 59 rappresenta un insieme di dadi di colore nero. Alcuni sembrano anti
 Il Giocatore è costretto ad estrarre tre Figure e ad attivarne due a sua scelta. Inizialmente può decidere se attivare o meno la prima: se la carta possiede un effetto negativo (perdita, maledizioni o simili), il Mazzo può decidere di cambiare Portatore.
 :::
 
+![60](/images/figures/60.webp)
+
 ### 60 - Abisso
 
 La Figura 60 rappresenta un abisso profondo, con delle rocce che si stagliano verso il basso. Alcune rocce sono ricoperte di muschio.
@@ -598,13 +720,17 @@ La Figura 60 rappresenta un abisso profondo, con delle rocce che si stagliano ve
 Il Giocatore deve effettuare un tiro salvezza a discrezione del DM. Se lo fallisce, il suo punteggio di intelligenza scende a zero. Egli si troverà in uno stato di assenza costante, come se il suo corpo non possedesse più volontà di azione, di pensiero e di movimento. E' da considerarsi un personaggio non giocante sotto il controllo del DM. Per mantenersi, il corpo deve essere alimentato giornalmente e deve poter riposare, come se il Giocatore fosse entrato in coma. Questo stato può essere rimosso solo con un incantesimo di alto livello: ma solamente entro 1d4 di giorni. Dopo questo periodo, il corpo del Giocatore morirà e la sua anima verrà assorbita dal Mazzo delle Figure.
 :::
 
+![61](/images/figures/61.webp)
+
 ### 61 - Demone
 
-La Figura 61 rappresenta un piccolo demone con le corna e la coda. Il demone ha un'espressione di gioia sul volto.
+La Figura 61 rappresenta un piccolo demone con le corna e la coda. Il demone ha una strana espressione sul volto.
 
 ::: details Effetti
 Il Giocatore guadagna un mazzafrusto chiamato "Rovina Demoniaca". Si tratta di un artefatto potente che permette al Giocatore di infliggere danni duplicati ai demoni e di controllarli una volta colpiti, per 1d4 giorni. Dopodiché, se non è stato distrutto, torna nel suo piano di esistenza.
 :::
+
+![62](/images/figures/62.webp)
 
 ### 62 - Cornucopia
 
@@ -613,6 +739,8 @@ La Figura 62 rappresenta una cornucopia di colore nero. La cornucopia è piena d
 ::: details Effetti
 Il Giocatore perde trenta anni di vita se umano, 1/3 se elfo, 1/2 se nano. In seguito, guadagna un numero di monete d'oro pari agli anni persi, pari a anni per 1000 monete d'oro. Ad esempio, se il Giocatore ha perso 30 anni, guadagnerà 30.000 monete d'oro.
 :::
+
+![63](/images/figures/63.webp)
 
 ### 63 - Campi
 
@@ -633,6 +761,8 @@ Davanti al Giocatore compaiono le Figure:
 Il Giocatore può scegliere una Figura tra queste.
 :::
 
+![64](/images/figures/64.webp)
+
 ### 64 - Paludi
 
 La Figura 64 rappresenta un paesaggio paludoso, con un fiume che lo attraversa. Sullo sfondo, un gruppo di avventurieri.
@@ -640,6 +770,8 @@ La Figura 64 rappresenta un paesaggio paludoso, con un fiume che lo attraversa. 
 ::: details Effetti
 Il Giocatore e 1d4 di alleati vengono colpiti da una maledizione chiamata "Maledizione del Viandante Perduto". Gli effetti di questo incantesimo variano da 1d4 di giorni a 1d4 di mesi, a discrezione del DM. La maledizione consiste nella perdita di tutte le indicazioni per il raggiungimento di un luogo. Ad esempio, se il gruppo di avventurieri di cui fa parte il Giocatore deve recarsi in un luogo, questo viene dimenticato dai personaggi, non compare sulle mappe, il gruppo non riesce a trovare nessuna informazione, ecc... Questa maledizione può essere importante a livello narrativo per il DM, per far perdere le tracce di un luogo, di un personaggio, di un oggetto che magari il DM ritiene troppo importante per essere trovato. Questa Figura può essere considerata una Figura "neutra", poiché non ha effetti positivi o negativi, ma può essere usata per creare situazioni interessanti.
 :::
+
+![65](/images/figures/65.webp)
 
 ### 65 - Sole (Nascente)
 
@@ -649,6 +781,8 @@ La Figura 65 rappresenta il Sole nascente.
 Il Giocatore riceve un bonus di 3 punti in 3 caratteristiche a scelta del DM. Il bonus è permanente. Guadagna successivamente un malus di cinquanta punti ferita permanenti e un malus di venti nelle quattro resistenze elementali (fuoco, freddo, elettricità, acido).
 :::
 
+![66](/images/figures/66.webp)
+
 ### 66 - [Figura senza nome]
 
 La Figura 66 non ha un nome ma rappresenta la figura della Morte ache abbraccia una donna bionda, la quale sembra indossare degli abiti da negromante. La donna sembra essere in qualche modo schiava della Morte.
@@ -657,13 +791,17 @@ La Figura 66 non ha un nome ma rappresenta la figura della Morte ache abbraccia 
 Il Giocatore viene intrappolato su un semipiano in una locazione che assomiglia ad una grande arena. Dovrà combattere contro una creatura demoniaca di livello superiore al suo, a discrezione del DM. Se vince, tornerà sul Piano Materiale con tutto quello che è riuscito a portare con sé dalla sua avventura. Se perde, la sua anima verrà assorbita dal Mazzo delle Figure.
 :::
 
+![67](/images/figures/67.webp)
+
 ### 67 - Mendicanti
 
-La Figura 67 rappresenta un gruppo di mendicanti che chiedono l'elemosina ad un avventuriero.
+La Figura 67 rappresenta un gruppo di mendicanti che chiedono l'elemosina ad un avventuriero. Anche l'avventuriero sembra essere un mendicante.
 
 ::: details Effetti
 Il Giocatore viene avvicinato da un mendicante (quando, è a discrezione del DM) che gli chiederà del denaro. Se il Giocatore gli darà del denaro, il mendicante lo ringrazierà e rivelerà al Giocatore una notizia importante ai fini della sua missione. Se il Giocatore non gli darà del denaro, il mendicante lo maledirà con un incantesimo singolare: il Giocatore perderà costantemente denaro o oggetti preziosi in circostanze che sembrano fortuite (mentre attraversa un ponte, in combattimento, mentre dorme, ecc...). Per far sì che la maledizione venga rimossa, il Giocatore dovrà ritrovare il mendicante e offrirgli un oggetto prezioso.
 :::
+
+![68](/images/figures/68.webp)
 
 ### 68 - Diamanti
 
@@ -679,6 +817,8 @@ Tirare un dado a quattro facce.
 
 :::
 
+![69](/images/figures/69.webp)
+
 ### 69 - Gemelli
 
 La Figura 69 rappresenta due gemelli che giocano con un giocattolo di legno. I gemelli hanno un'espressione di gioia sul volto.
@@ -686,6 +826,8 @@ La Figura 69 rappresenta due gemelli che giocano con un giocattolo di legno. I g
 ::: details Effetti
 Il Giocatore che attiva questa figura non avverte nulla e non subisce alcun effetto. In realtà, da qualche parte del Piano Materiale viene creata una copia esatta del Giocatore dall'allineamento e dagli scopi opposti, che tenterà di trovarlo e di sconfiggerlo in ogni modo. Il Giocatore potrà porre fine all'effetto della Figura solo uccidendo il suo gemello. Se il Giocatore non uccide il suo gemello, il gemello lo ucciderà e prenderà il suo posto. Nota per il DM: gli effetti di questa Figura sono diversi rispetto a quelli della Figura 96.
 :::
+
+![70](/images/figures/70.webp)
 
 ### 70 - Globo (Blu)
 
@@ -700,6 +842,8 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 
 :::
 
+![71](/images/figures/71.webp)
+
 ### 71 - Altare
 
 La Figura 71 rappresenta un altare di pietra, con una figura umana che giace sopra di esso. L'altare è decorato con simboli di divinità sconosciute.
@@ -712,13 +856,17 @@ Tirare un dado a sei facce:
 
 :::
 
+![72](/images/figures/72.webp)
+
 ### 72 - Monete
 
-La Figura 72 rappresenta un insieme di monete di colore nero.
+La Figura 72 rappresenta un insieme di monete d'oro.
 
 ::: details Effetti
 Il Giocatore riceve 1d20x1000 monete d'oro. Nel caso ne sia sprovvisto (cioè non abbia nessuna moneta con sé) il Giocatore guadagna anche un oggetto di valore a discrezione del DM. Nel caso non abbia con sé nessun oggetto e nessuna monetam, la Figura non ha effetto.
 :::
+
+![73](/images/figures/73.webp)
 
 ### 73 - Clessidra
 
@@ -739,6 +887,8 @@ Il Giocatore tiri un dado a otto facce:
 Gli effetti di questa Figura non sono reversibili neanche con un incantesimo di alto livello.
 :::
 
+![74](/images/figures/74.webp)
+
 ### 74 - Vulcano
 
 La Figura 74 rappresenta un vulcano in eruzione. Il vulcano è circondato da un paesaggio roccioso.
@@ -755,6 +905,8 @@ Il Giocatore tiri un dado a sei facce:
 
 :::
 
+![75](/images/figures/75.webp)
+
 ### 75 - Mercato
 
 La Figura 75 rappresenta un mercato all'aperto, con un gruppo di mercanti che vendono oggetti di ogni tipo.
@@ -763,13 +915,17 @@ La Figura 75 rappresenta un mercato all'aperto, con un gruppo di mercanti che ve
 Se il Giocatore possiede un punteggio di Carisma di quindici o superiore, per 1d4 di mesi il mercanti offriranno a quel Giocatore le loro merci con uno sconto del 50% rispetto al valore reale della merce. In caso contrario, se il Giocatore che ha estratto la Figura possiede un punteggio di Carisma inferiore a quindici, i mercanti offriranno a quel Giocatore le loro merci con un sovrapprezzo del 50% rispetto al valore reale della merce.
 :::
 
-### 76 - Scudo e Spada
+![76](/images/figures/76.webp)
 
-La Figura 76 rappresenta uno scudo e una spada di colore nero. Lo scudo è decorato con stemmi araldici di casate sconosciute.
+### 76 - Scudo
+
+La Figura 76 rappresenta uno scudo di colore nero. Lo scudo è decorato con stemmi araldici di casate sconosciute.
 
 ::: details Effetti
 Il Giocatore tiri un dado a venti facce: il risultato è il numero di cavalieri che compariranno davanti al Giocatore nel momento in cui attiva la Figura. Gli cavalieri sono da considerarsi alleati del Giocatore e sono soggetti alle regole dei seguaci e dei gregari, come qualsiasi altro personaggio non giocante.
 :::
+
+![77](/images/figures/77.webp)
 
 ### 77 - Globo (Rosso)
 
@@ -784,15 +940,19 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 
 :::
 
+![78](/images/figures/78.webp)
+
 ### 78 - Attrezzi
 
-La Figura 78 rappresenta un set di attrezzi, presumibilmente da scassinatore.
+La Figura 78 rappresenta una parete ricolma di attrezzi, presumibilmente da scassinatore.
 
 ::: details Effetti
 Il Giocatore guadagna un set completo di attrezzi da scassinatore. Il set è indistruttibile e forgiato secondo un antico rituale che lo rende in grado di aprire qualsiasi serratura, anche quelle magiche. Il set è inoltre in grado di aprire Portali, ma solo se il Giocatore conosce la parola d'ordine per aprirli.
 :::
 
-### 79 - Armatura completa
+![79](/images/figures/79.webp)
+
+### 79 - Armatura
 
 La Figura 79 rappresenta un'armatura completa di colore nero. L'armatura è decorata con simboli di divinità sconosciute.
 
@@ -800,6 +960,8 @@ La Figura 79 rappresenta un'armatura completa di colore nero. L'armatura è deco
 Il Giocatore che attiva la Figura non potrà più indossare nessun tipo di armatura, né di protezione, né di altro tipo. Se il Giocatore indossa già un'armatura, questa si disintegra e il Giocatore perde permanentemente 1d4 di punti di Costituzione. Se il Giocatore non indossa nessun tipo di armatura, la Figura non ha effetto.
 
 :::
+
+![80](/images/figures/80.webp)
 
 ### 80 - Scalinata (Discendente)
 
@@ -814,6 +976,8 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 
 :::
 
+![81](/images/figures/81.webp)
+
 ### 81 - Uomo
 
 La Figura 81 rappresenta il ritratto di un nobiluomo. La figura sembra seguire con gli occhi il Giocatore.
@@ -822,14 +986,18 @@ La Figura 81 rappresenta il ritratto di un nobiluomo. La figura sembra seguire c
 Il Giocatore che attiva questa Figura cambia sesso diventando un uomo. Nel caso sia già di sesso maschile, questa Figura non ha effetto.
 :::
 
+![82](/images/figures/82.webp)
+
 ### 82 - Cavaliere (Bianco)
 
-La Figura 28 rappresenta un cavaliere in armatura che cavalca un cavallo alato. Il cavaliere ha un'espressione di trionfo sul volto.
+La Figura 82 rappresenta un cavaliere in armatura bianca.
 
 ::: details Effetti
 Se il Giocatore è di allineamento buono, compare Leromax, un unicorno alato, cavalcabile solo dal Giocatore.
 Il destriero obbidisce solo ai comandi del Giocatore che ha estratto la Figura e permane nel piano materiale per 1d4 di giorni. Se il Giocatore è di allineamento malvagio, la Figura non ha effetto.
 :::
+
+![83](/images/figures/83.webp)
 
 ### 83 - Bastone
 
@@ -842,6 +1010,8 @@ Il Giocatore guadagna un artefatto noto come "Asta del Simulacro Vivente" che po
 
 Chi impugna il bastone guadagna anche diversi poteri curativi a discrezione del DM, come ad esempio la capacità di curare malattie, di curare ferite, di resuscitare i morti, ecc...
 :::
+
+![84](/images/figures/84.webp)
 
 ### 84 - Oceano
 
@@ -856,6 +1026,8 @@ La nave conta in totale quindici uomini aventi ognuno una mansione specifica (ma
 - Alcuni marinai, specie se il Giocatore stenti o non abbia interesse a comandare la nave, potrebbero tramare contro di lui per prendere il controllo della nave. Il Giocatore potrebbe scoprire il complotto e decidere di uccidere i marinai ribelli, oppure potrebbe decidere di lasciare la nave e di tornare a terra.
   :::
 
+![85](/images/figures/85.webp)
+
 ### 85 - Catene
 
 La Figura 85 rappresenta un avventuriero avvolto da catene chiodate.
@@ -866,9 +1038,11 @@ Il Giocatore guadagna le Catene dell'Odio di Nerzul, un potente artefatto con qu
 - Sono da considerarsi un'arma esotica il cui danno è a discrezione del DM. Quando effettuano un colpo critico, le catene possono imprigionare il bersagio e avvolgerlo fino a disintegrarlo. Ogni volta che viene usato questo potere, le Catene crescono di un centimetro, diventando complesse da maneggiare. Le Catene possono crescere fino a un massimo di 10 metri. Una volta raggiunti, le Catene inizieranno ad avvolgere il corpo del Giocatore, fino a soffocarlo e ucciderlo. Le Catene possono essere distrutte solo da un incantesimo di alto livello.
   :::
 
+![86](/images/figures/86.webp)
+
 ### 86 - Flauti
 
-La Figura 86 rappresenta tre flauti di legno di ottima fattura.
+La Figura 86 rappresenta quattro flauti di legno di ottima fattura.
 
 ::: details Effetti
 Il Giocatore tira un dado a dieci facce. Il Giocatore riceverà un flauto (a discrezione del DM per i dettagli) tra i seguenti:
@@ -886,13 +1060,17 @@ Il Giocatore tira un dado a dieci facce. Il Giocatore riceverà un flauto (a dis
 
 :::
 
-### 87 - Cavalli
+![87](/images/figures/87.webp)
 
-La Figura 87 rappresenta lo studio anatomico su pergamena di cavalli e di altri animali.
+### 87 - Stalla
+
+La Figura 87 rappresenta una stalla con alcuni cavalli.
 
 ::: details Effetti
 Il Giocatore guadagna un cavallo da guerra, un cavallo da tiro e un cavallo da sella. I cavalli sono di colore nero e sono dotati di un'aura di colore nero. I cavalli sono inoltre dotati di un'intelligenza superiore alla media e possono comunicare con il Giocatore. I cavalli sono inoltre in grado di teletrasportarsi in un luogo a scelta del Giocatore, una volta al giorno.
 :::
+
+![88](/images/figures/88.webp)
 
 ### 88 - Guerra
 
@@ -902,9 +1080,11 @@ La Figura 88 rappresenta un gruppo di soldati che corrono verso il Giocatore.
 La Figura si trasforma in realtà: il Giocatore e 1d4 di alleati vengono trasportati istantaneamente sul luogo in cui si sta svolgendo una battaglia. Il Giocatore e i suoi alleati possono decidere se unirsi ad una delle due fazioni in lotta, oppure se combattere contro entrambe le fazioni. Il Giocatore e i suoi alleati possono decidere di non combattere e di fuggire, ma in questo caso la Figura non ha effetto.
 :::
 
+![89](/images/figures/89.webp)
+
 ### 89 - Fiale
 
-La Figura 89 rappresenta un insieme di fiale di colore nero. Le fiale sono piene di un liquido nero.
+La Figura 89 rappresenta un insieme di fiale ornate di colore nero. Le fiale sono piene di un liquido rosso.
 
 ::: details Effetti
 Tirare un dado a sei facce:
@@ -914,6 +1094,8 @@ Tirare un dado a sei facce:
 
 :::
 
+![90](/images/figures/90.webp)
+
 ### 90 - Pugnale
 
 La Figura 90 rappresenta un pugnale di colore nero. Il pugnale è decorato con simboli di divinità sconosciute.
@@ -921,6 +1103,8 @@ La Figura 90 rappresenta un pugnale di colore nero. Il pugnale è decorato con s
 ::: details Effetti
 Il Giocatore viene contattato (nella notte o in un altro luogo a scelta del DM purché sia solo) da una potente Gilda di Ladri e Assassini che lo ingaggia per una missione. Se accetta, otterrà il favore della Gilda. Se rifiuta, la Gilda lo considererà un nemico e cercherà di ucciderlo.
 :::
+
+![91](/images/figures/91.webp)
 
 ### 91 - Rune
 
@@ -930,7 +1114,9 @@ La Figura 91 rappresenta un insieme di rune di colore nero. Le rune sono incise 
 Il Giocatore guadagna la possibilità di lanciare una sola volta un incantesimo di Desiderio o equivalente (a discrezione del DM). Questo potere può essere utilizzato per annullare gli effetti di una Figura.
 :::
 
-### 92 - Mostro
+![92](/images/figures/92.webp)
+
+### 92 - L'Occhio
 
 La Figura 92 rappresenta una creatura abominevole, simile ad una sfera con tentacoli e occhi.
 
@@ -938,7 +1124,9 @@ La Figura 92 rappresenta una creatura abominevole, simile ad una sfera con tenta
 Il Giocatore guadagna una condizione chiamata "Terzo Occhio", con la conseguente apertura di un vero terzo occhio sulla sua fronte. Esso conferisce il potere di vedere con gli occhi di un'altra creatura a scelta del Giocatore, fino a una distanza di 1 km. Consente di vedere nel buio come se fosse giorno, di vedere attraverso le illusioni e di vedere le creature invisibili. Il potere non è attivabile a piacimento, ma è attivo in ogni momento. Vedere cose che non dovrebbero essere viste può portare alla pazzia. Il potere può essere rimosso solo con un incantesimo di alto livello.
 :::
 
-### 93 - Vampiro
+![93](/images/figures/93.webp)
+
+### 93 - Sangue
 
 La Figura 93 rappresenta una giovane donna dalle sembianze di un vampiro.
 
@@ -952,6 +1140,8 @@ Il Giocatore tiri un dado a venti facce:
 
 :::
 
+![94](/images/figures/94.webp)
+
 ### 94 - Anziano
 
 La Figura 94 rappresenta un anziano con un bastone. L'anziano ha un'espressione di saggezza sul volto.
@@ -960,6 +1150,8 @@ La Figura 94 rappresenta un anziano con un bastone. L'anziano ha un'espressione 
 Il Giocatore che attiva questa Figura deve modificare la sua età di un punteggio pari agli anni che avrebbe se fosse un anziano. Se il Giocatore è già un anziano, la Figura non ha effetto.
 Il Giocatore conserva la memoria, gli incantesimi e le abilità che possedeva prima di essere trasformato dalla Figura. A discrezione del DM stabilire se un incantesimo di alto livello possa rimuovere la maledizione.
 :::
+
+![95](/images/figures/95.webp)
 
 ### 95 - Globo (Bianco)
 
@@ -974,9 +1166,11 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 
 :::
 
+![96](/images/figures/96.webp)
+
 ### 96 - [Specchio]
 
-La Figura 96 non ha un nome né un'illustrazione, ma solo una superficie riflettente.
+La Figura 96 non ha un nome ma solo l'illustrazione di uno specchio.
 
 ::: details Effetti
 **Attenzione**: il DM valuti attentamente prima di proporre una missione simile: essa potrebbe essere troppo difficile per i Giocatori e potrebbe portare alla morte di uno o più personaggi.
@@ -984,6 +1178,8 @@ La Figura 96 non ha un nome né un'illustrazione, ma solo una superficie riflett
 La figura rappresenta un Portale per il misterioso e sconosciuto Regno degli Specchi: il Giocatore e 1d4 di suoi alleati devono effettuare un tiro salvezza o essere trascinati nel piano misterioso. Il Regno degli Specchi è da considerare il gemello del Piano Materiale, e in effetti è la sua copia esatta. Il Regno degli Specchi è abitato da creature simili a quelle del Piano Materiale, ma con un allineamento opposto. Ad esempio, se nel Piano Materiale esiste un'elfa buona, nel Regno degli Specchi esisterà un'elfa malvagia. Il Regno degli Specchi è un luogo pericoloso, dove il Giocatore e i suoi alleati dovranno affrontare pericoli di ogni genere, perché la realtà è l'opposto di quello che conoscono. Ogni oggetto (e soggetto) del Regno degli Specchi anela a conquistare il Piano Materiale con ogni mezzo possibile: le conseguenze di questo desiderio sono imprevedibili. Il Giocatore e i suoi alleati dovranno trovare un modo per tornare nel Piano Materiale, prima che sia troppo tardi. Il Regno degli Specchi è un luogo immenso, che si estende all'infinito. Il Giocatore e i suoi alleati dovranno trovare un modo per tornare nel Piano Materiale, prima che sia troppo tardi. Come possa tornarci, è a discrezione del DM.
 
 :::
+
+![97](/images/figures/97.webp)
 
 ### 97 - Drago
 
@@ -993,6 +1189,8 @@ La Figura 97 rappresenta un drago rosso che vola sopra un paesaggio montuoso.
 Un drago di età, dimensioni, colore e appartenenza a discrezione del DM, convoca il Giocatore e i suoi alleati alla sua tana. Egli giurerà fedeltà al Giocatore e lo servirà in ogni modo possibile, in cambio di una missione che il Giocatore dovrà svolgere per lui. Il drago è in grado di teletrasportarsi in un luogo a scelta del Giocatore, una volta al giorno. Si tratterà di una missione piuttosto complessa, considerando il premio in palio: la missione è anche soggetta ad un limite di tempo. Nota per il DM: il drago potrebbe essere un alleato o un nemico del Giocatore, a discrezione del DM.
 :::
 
+![98](/images/figures/98.webp)
+
 ### 98 - L'Occhio (Basso)
 
 La Figura 25 rappresenta il simbolo di un occhio con dei raggi che convergono verso il basso. Il nome della figura è scritto in un linguaggio sconosciuto.
@@ -1001,15 +1199,19 @@ La Figura 25 rappresenta il simbolo di un occhio con dei raggi che convergono ve
 Il Giocatore riceve le attenzioni di una creatura potente proveniente da un altro Piano. Le intenzioni della creatura non sono chiare, ma essa sembra essere interessata al Giocatore. La creatura potrebbe essere un alleato o un nemico del Giocatore, a discrezione del DM.
 :::
 
+![99](/images/figures/99.webp)
+
 ### 99 - [Linguaggio sconosciuto]
 
-La Figura 99 rappresenta qualcosa di difficile da descrivere: sembra trattarsi di un'insieme di torri di basalto nere, disperse in uno spazio infinito. Le torri sono collegate tra loro da un'energia di colore nero.
+La Figura 99 rappresenta qualcosa di difficile da descrivere: sembra trattarsi di un'insieme di torri di basalto nere, disperse in uno spazio infinito dal cielo innaturale. Le torri sembrano "connesse" tra loro da un'energia di colore nero.
 
 ::: details Effetti
 **Attenzione**: il DM valuti attentamente prima di proporre una missione simile: essa potrebbe essere troppo difficile per i Giocatori e potrebbe portare alla morte di uno o più personaggi.
 
 Il Giocatore che attiva questa Figura si troverà trasportato, insieme a 1d4 di suoi alleati, nel misterioso e folle "Oltremondo": un luogo oscuro e folle, dominato dal caos, da creature oltre l'umana comprensione e dove le leggi della fisica non hanno alcun senso. Il Giocatore e i suoi alleati dovranno trovare un modo per tornare nel Piano Materiale, prima che sia troppo tardi. Come possa tornarci, è a discrezione del DM.
 :::
+
+![100](/images/figures/100.webp)
 
 ### 100 - Spirito (Bianco)
 

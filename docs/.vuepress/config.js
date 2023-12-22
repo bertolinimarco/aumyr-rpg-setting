@@ -77,11 +77,19 @@ export default {
 
     locales: {
       "/": {
+        repo: "bertolinimarco/aumyr-rpg-setting",
         repoLabel: "Contribuisci",
         selectLanguageName: "🇮🇹 Italiano",
         selectLanguageText: "Lingua",
         lastUpdated: "Ultimo aggiornamento",
         editLinkText: "Modifica pagina su GitHub",
+        notFound: [
+          "Mmmm... non c'è nulla qui",
+          "Sembra che non ci sia nulla qui",
+          "Non c'è niente qui",
+          "Non c'è niente da vedere qui",
+        ],
+        backToHome: "Torna alla Home",
         navbar: [
           // { text: "Home", link: "/" },
           {
@@ -107,11 +115,19 @@ export default {
         ],
       },
       "/en/": {
+        repo: "bertolinimarco/aumyr-rpg-setting",
         repoLabel: "Contribute",
         selectLanguageName: "🇬🇧 English",
         selectLanguageText: "Language",
         lastUpdated: "Last Updated",
         editLinkText: "Edit this page on GitHub",
+        notFound: [
+          "Mmmm... nothing here",
+          "It seems there's nothing here",
+          "There's nothing here",
+          "There's nothing to see here",
+        ],
+        backToHome: "Back to Home",
         navbar: [
           {
             text: "The World",
