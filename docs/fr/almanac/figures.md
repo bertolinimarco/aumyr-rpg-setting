@@ -4,13 +4,13 @@ Il s'agit d'un jeu de cent (100) figures (ou cartes). Chaque carte représente u
 
 ## Un artefact légendaire
 
-**Propriétés** :
+**Propriétés**:
 Les Figures, en tant que cartes du Deck, sont indestructibles et inaltérables. Les effets des figurines sont cumulatifs. Le jeu lui-même ne peut être détruit, ni endommagé de quelque manière que ce soit. Si le deck est perdu, il réapparaît magiquement dans les mains de son porteur, de même s'il essaie de le vendre ou de s'en débarrasser.
 
-Tous les pouvoirs et les sorts sont gérés par le jeu lui-même, ou plutôt par la figure spéciale de l'"Esprit" qui représente l'Esprit du jeu : dans un sens, elle _est le jeu_.
+Tous les pouvoirs et les sorts sont gérés par le jeu lui-même, ou plutôt par la figure spéciale de l'"Esprit" qui représente l'Esprit du jeu: dans un sens, elle _est le jeu_.
 Cette Figure, même si elle intervient rarement, gère à volonté le propriétaire du Deck et a un pouvoir de décision quant à l'extraction des Figures (une, aucune, ou plusieurs Figures à la fois), et quant à tous les effets qu'elles contiennent (durée du sort, effets rétroactifs, lieux cibles, nombre d'objets, etc.)
 
-Les effets des Figures doivent être considérés comme n'ayant pas de mécanique de sauvegarde : il n'est donc pas possible de se soustraire aux effets des Figures, sauf si l'Esprit le souhaite, mais toujours avec une raison, qu'elle soit explicite ou cachée.
+Les effets des Figures doivent être considérés comme n'ayant pas de mécanique de sauvegarde: il n'est donc pas possible de se soustraire aux effets des Figures, sauf si l'Esprit le souhaite, mais toujours avec une raison, qu'elle soit explicite ou cachée.
 
 La Figure de l'Esprit, quand (et si) elle apparaît, peut effectuer n'importe quelle action à volonté, même si elle n'est pas prévue par les autres Figures.
 
@@ -19,11 +19,11 @@ Le tirage des Figures est aléatoire (au moyen d'un dé à cent faces) et en auc
 Chaque Figure représente une image ou une scène qui peut s'avérer trompeuse quant à son contenu. Le Jeu (l'Esprit) peut décider à tout moment de changer de Porteur.
 Certaines figures portent des inscriptions dans une langue inconnue. Il s'agit probablement de la langue maternelle du jeu ou il est également possible que le jeu l'utilise lorsqu'il veut cacher quelque chose.
 
-Les effets sont à la fois positifs et négatifs : certaines figurines provoquent des événements qui peuvent affecter la vie d'un joueur, de ses alliés, de l'endroit où il se trouve, et parfois même de l'ensemble du monde du jeu.
+Les effets sont à la fois positifs et négatifs: certaines figurines provoquent des événements qui peuvent affecter la vie d'un joueur, de ses alliés, de l'endroit où il se trouve, et parfois même de l'ensemble du monde du jeu.
 Pour cette raison, le deck est l'un des objets les plus recherchés, les plus puissants et les plus dangereux qui existent.
 
 \*\*Il est conseillé au MJ de lire les effets de la figurine avant de les révéler au joueur, car certains effets de la figurine ne doivent PAS être révélés.
-Les effets incluent parfois des mécanismes concernant les jets de sauvegarde, les valeurs de caractéristiques et plus encore : ils sont conçus pour être utilisés avec le système de jeu D&D, mais peuvent être adaptés à n'importe quel système réglementaire, c'est au MD de décider comment les gérer.
+Les effets incluent parfois des mécanismes concernant les jets de sauvegarde, les valeurs de caractéristiques et plus encore: ils sont conçus pour être utilisés avec le système de jeu D&D, mais peuvent être adaptés à n'importe quel système réglementaire, c'est au MD de décider comment les gérer.
 
 ![01](/images/figures/01.webp)
 
@@ -42,8 +42,8 @@ L'Esprit apparaît et place l'ensemble du paquet de figurines devant le joueur. 
 La figure 02 représente une clé sur laquelle sont gravés des ornements d'une nature magique inconnue.
 
 ::: details Effets
-Un joueur qui connaît 5 (cinq) langues ou plus peut faire un test sur chacune d'entre elles pour savoir si elles appartiennent à sa sphère de connaissance afin de tenter de déchiffrer les symboles gravés sur la Clé de la figurine. S'il réussit le test, il découvrira qu'ils appartiennent à une langue ancienne oubliée : en tout cas, l'une des significations possibles pourrait être : " La Porte montre le Chemin " ou " la Porte et les Portes sont avec le Porteur de la Clé ".
-Le joueur acquiert une clé identique à celle de la figure. La clé doit être considérée comme un artefact mineur capable d'ouvrir n'importe quelle serrure dans n'importe quel monde, qu'il soit matériel ou non matériel et sur n'importe quel plan d'existence. Son utilisation est unique : la Ciboulette se désintègre après usage.
+Un joueur qui connaît 5 (cinq) langues ou plus peut faire un test sur chacune d'entre elles pour savoir si elles appartiennent à sa sphère de connaissance afin de tenter de déchiffrer les symboles gravés sur la Clé de la figurine. S'il réussit le test, il découvrira qu'ils appartiennent à une langue ancienne oubliée: en tout cas, l'une des significations possibles pourrait être: " La Porte montre le Chemin " ou " la Porte et les Portes sont avec le Porteur de la Clé ".
+Le joueur acquiert une clé identique à celle de la figure. La clé doit être considérée comme un artefact mineur capable d'ouvrir n'importe quelle serrure dans n'importe quel monde, qu'il soit matériel ou non matériel et sur n'importe quel plan d'existence. Son utilisation est unique: la Ciboulette se désintègre après usage.
 :::
 
 ![03](/images/figures/03.webp)
@@ -113,7 +113,7 @@ Le joueur acquiert la capacité de boire n'importe quel liquide, même toxique, 
 La figure 09 représente un groupe d'orcs se battant contre un groupe d'humains. Les orcs sont nettement plus nombreux que les humains et semblent avoir le dessus.
 
 ::: details Effets
-Le joueur lance un dé à vingt faces : le résultat est le nombre d'orcs qui apparaîtront devant le joueur au moment où il activera la figurine. Les orcs sont considérés comme des alliés du joueur et sont soumis aux règles des suiveurs et des ailiers, comme tout autre personnage non joueur.
+Le joueur lance un dé à vingt faces: le résultat est le nombre d'orcs qui apparaîtront devant le joueur au moment où il activera la figurine. Les orcs sont considérés comme des alliés du joueur et sont soumis aux règles des suiveurs et des ailiers, comme tout autre personnage non joueur.
 :::
 
 ![10](/images/figures/10.webp)
@@ -123,7 +123,7 @@ Le joueur lance un dé à vingt faces : le résultat est le nombre d'orcs qui ap
 La figure 10 représente une carte dessinée sur une feuille de parchemin. La carte est très détaillée et semble représenter un lieu très particulier. La carte est dessinée à l'encre noire et rouge.
 
 ::: details Effets
-Le joueur reçoit une carte. Cependant, il ne connaît pas le lieu qui y est représenté. Au choix de l'Esprit, il peut s'agir de.. :
+Le joueur reçoit une carte. Cependant, il ne connaît pas le lieu qui y est représenté. Au choix de l'Esprit, il peut s'agir de..:
 
 - Un lieu qui n'existe pas
 - L'antre d'un ancien dragon
@@ -142,17 +142,17 @@ et ainsi de suite.
 La figure 11 représente un sablier en verre, traversé par du sable blanc. Le sablier repose sur un socle en bois.
 
 ::: details Effets
-Le joueur lance un dé à huit faces. Les effets durent un jour et peuvent être utilisés une fois par jour. En fonction du résultat, il obtient la capacité de :
+Le joueur lance un dé à huit faces. Les effets durent un jour et peuvent être utilisés une fois par jour. En fonction du résultat, il obtient la capacité de:
 
-- 1 : Localiser l'alignement d'une créature.
-- 2 : Localiser des clés ou des pièges dans un rayon de 30 pieds autour de lui.
-- 3 : Escalader les murs comme s'il était sous l'effet du sort.
-- 4 : Détecter le bien et le mal dans un rayon de 30 pieds autour de soi.
-- 5 : Voler comme sous l'effet du sort.
-- 6 : Respirer sous l'eau comme sous l'effet du sort.
-- 7 : Localiser un objet magique dans un rayon de 30 pieds autour de soi.
-- 8 : Identifier un objet magique.
-  :::
+- 1: Localiser l'alignement d'une créature.
+- 2: Localiser des clés ou des pièges dans un rayon de 30 pieds autour de lui.
+- 3: Escalader les murs comme s'il était sous l'effet du sort.
+- 4: Détecter le bien et le mal dans un rayon de 30 pieds autour de soi.
+- 5: Voler comme sous l'effet du sort.
+- 6: Respirer sous l'eau comme sous l'effet du sort.
+- 7: Localiser un objet magique dans un rayon de 30 pieds autour de soi.
+- 8: Identifier un objet magique.
+ :::
 
 ![12](/images/figures/12.webp)
 
@@ -172,7 +172,7 @@ Dans ce plan, vaguement mentionné dans un obscur tome oublié, il est dit qu'il
 La figure 13 représente une table richement garnie de nourriture et de boissons de toutes sortes. La table est garnie d'assiettes et de couverts en or.
 
 ::: details Effets
-Le Joueur qui active cette Figure est soumis à une malédiction : il doit prendre deux repas supplémentaires par jour : sinon, les effets à appliquer sont les mêmes que dans le cas d'un jeûne, avec toutes les pénalités appropriées. La malédiction ne peut être levée que par un sort de haut niveau.
+Le Joueur qui active cette Figure est soumis à une malédiction: il doit prendre deux repas supplémentaires par jour: sinon, les effets à appliquer sont les mêmes que dans le cas d'un jeûne, avec toutes les pénalités appropriées. La malédiction ne peut être levée que par un sort de haut niveau.
 :::
 
 ![14](/images/figures/14.webp)
@@ -194,10 +194,10 @@ La figure 15 représente un globe vert, entouré d'une aura verte. Le globe est 
 ::: details Effets
 Le joueur qui active cette figurine lance un dé à vingt faces.
 
-- 1-10 : La classe du joueur devient Druide ou Rôdeur (au choix du DM) et prend un niveau égal à la moitié du niveau du personnage au moment de l'extraction de la figurine (ex : si le joueur est niveau 10, son nouveau niveau de classe sera 5).
-- 11-19 : Le joueur est choqué par une vague de puissance magique et doit faire un jet pour y résister. En cas d'échec, le joueur est transformé en un animal aléatoire, à la discrétion du MD. La transformation dure 1d4 heures.
-- 20 : La classe du joueur est transformée en Druide ou Ranger (au choix du DM).
-  :::
+- 1-10: La classe du joueur devient Druide ou Rôdeur (au choix du DM) et prend un niveau égal à la moitié du niveau du personnage au moment de l'extraction de la figurine (ex: si le joueur est niveau 10, son nouveau niveau de classe sera 5).
+- 11-19: Le joueur est choqué par une vague de puissance magique et doit faire un jet pour y résister. En cas d'échec, le joueur est transformé en un animal aléatoire, à la discrétion du MD. La transformation dure 1d4 heures.
+- 20: La classe du joueur est transformée en Druide ou Ranger (au choix du DM).
+ :::
 
 ![16](/images/figures/16.webp)
 
@@ -278,7 +278,7 @@ La figure 23 représente un château très somptueux, entouré de douves et dot�
 
 ::: details Effets
 Le joueur qui active cette figurine devient propriétaire d'un château (taille, coût, serviteurs et dépendances au choix du DM) et dirigeant d'un petit village de mille personnes.
-Il ne peut ni donner ni vendre le château et est obligé de l'entretenir. Le château est situé dans un lieu choisi par le meneur de jeu. Dans le hameau, d'étranges rumeurs courent sur ce que le château pourrait cacher dans ses salles : chaque propriétaire du château meurt dans des circonstances mystérieuses lorsqu'il atteint l'âge de 50 ans...
+Il ne peut ni donner ni vendre le château et est obligé de l'entretenir. Le château est situé dans un lieu choisi par le meneur de jeu. Dans le hameau, d'étranges rumeurs courent sur ce que le château pourrait cacher dans ses salles: chaque propriétaire du château meurt dans des circonstances mystérieuses lorsqu'il atteint l'âge de 50 ans...
 :::
 
 ![24](/images/figures/24.webp)
@@ -290,10 +290,10 @@ La figure 24 représente un escalier orné qui semble s'élever vertigineusement
 ::: details Effets
 Le joueur qui active cette figurine lance un dé à vingt faces.
 
-- 1-4 : Le joueur soustrait un niveau à sa classe.
-- 5-19 : Le joueur ajoute un niveau à sa classe
-- 20 : Le joueur ajoute deux niveaux à sa classe.
-  :::
+- 1-4: Le joueur soustrait un niveau à sa classe.
+- 5-19: Le joueur ajoute un niveau à sa classe
+- 20: Le joueur ajoute deux niveaux à sa classe.
+ :::
 
 ![25](/images/figures/25.webp)
 
@@ -314,10 +314,10 @@ La figure 26 représente un coffre en bois, avec des gravures d'une nature magiq
 ::: details Effets
 Le joueur qui active cette figure acquiert la capacité de crocheter les serrures, même si sa classe ne lui permet pas cette compétence. Il lance alors un dé à vingt faces.
 
-- 1-10 : Le joueur est transporté dans une pièce de cinquante mètres carrés avec trois coffres à l'intérieur, qui sont en fait des Mimics de la moitié du niveau du joueur. Les Mimics attaquent le joueur et ses alliés et sont en possession d'objets magiques.
-- 11-19 : Le joueur est transporté dans une salle de 40 m² avec 2 coffres à l'intérieur, qui sont en fait des Mimics du niveau du joueur. Les Mimics attaquent le joueur et ses alliés et sont en possession d'objets magiques.
-- 20 : Le joueur est transporté dans une pièce de 30 mètres carrés, avec 1 coffre rempli d'objets magiques à l'intérieur.
-  :::
+- 1-10: Le joueur est transporté dans une pièce de cinquante mètres carrés avec trois coffres à l'intérieur, qui sont en fait des Mimics de la moitié du niveau du joueur. Les Mimics attaquent le joueur et ses alliés et sont en possession d'objets magiques.
+- 11-19: Le joueur est transporté dans une salle de 40 m² avec 2 coffres à l'intérieur, qui sont en fait des Mimics du niveau du joueur. Les Mimics attaquent le joueur et ses alliés et sont en possession d'objets magiques.
+- 20: Le joueur est transporté dans une pièce de 30 mètres carrés, avec 1 coffre rempli d'objets magiques à l'intérieur.
+ :::
 
 ![27](/images/figures/27.webp)
 
@@ -360,10 +360,10 @@ La figure 30 représente un paysage désertique traversé par quatre aventuriers
 ::: details Effets
 Lancez un dé à quatre faces.
 
-- 1 : Le joueur perd définitivement un point d'Intelligence.
-- 2 : Le joueur perd définitivement un point de Sagesse.
-- 3 : Le joueur perd définitivement un point de Constitution.
-- 4 : Le joueur gagne définitivement un point d'Intelligence, de Sagesse et de Constitution.
+- 1: Le joueur perd définitivement un point d'Intelligence.
+- 2: Le joueur perd définitivement un point de Sagesse.
+- 3: Le joueur perd définitivement un point de Constitution.
+- 4: Le joueur gagne définitivement un point d'Intelligence, de Sagesse et de Constitution.
 :::
 
 ![31](/images/figures/31.webp)
@@ -374,142 +374,142 @@ La figure 31 représente un paysage étrange et lugubre formé de tours et de ru
 
 ::: details Effets
 Le joueur qui active cette figurine est transporté dans les recoins d'un donjon situé à un endroit aléatoire de l'univers de jeu. Tout son équipement est emporté dans un autre lieu, choisi par le MD. Le Joueur perd la mémoire et ne sait pas pourquoi il se trouve dans ce lieu.
-En réalité, c'est la Figure de la Tour et des Ruines qui l'a conduit à cet endroit et a créé les conditions pour qu'il s'y trouve. La motivation est laissée au choix du MJ : il peut avoir été accusé d'un crime, ou pris pour quelqu'un d'autre, il peut s'agir d'une vengeance d'un personnage qu'il a rencontré dans une aventure précédente, et bien d'autres choses encore. Dès que le "mystère" est résolu par le joueur, la Figure de la Tour et des Ruines le ramène à l'endroit où il se trouvait avant d'être transporté.
+En réalité, c'est la Figure de la Tour et des Ruines qui l'a conduit à cet endroit et a créé les conditions pour qu'il s'y trouve. La motivation est laissée au choix du MJ: il peut avoir été accusé d'un crime, ou pris pour quelqu'un d'autre, il peut s'agir d'une vengeance d'un personnage qu'il a rencontré dans une aventure précédente, et bien d'autres choses encore. Dès que le "mystère" est résolu par le joueur, la Figure de la Tour et des Ruines le ramène à l'endroit où il se trouvait avant d'être transporté.
 :::
 
 ![32](/images/figures/12.webp)
 
-### 32 - Paese
+### 32 - Pays
 
-La Figura 32 rappresenta un paese con delle case di legno e un fiume che lo attraversa. Il paese è circondato da una palizzata di legno.
+La figure 32 représente un village avec des maisons en bois et une rivière qui le traverse. Le village est entouré d'une palissade en bois.
 
-::: details Effetti
-Tirare un dado a venti facce.
+::: details Effets
+Lancez un dé à vingt faces.
 
-- 1-10: Il Giocatore guadagna un'abitazione in un paese a scelta del DM.
-- 11-18: Il Giocatore guadagna un'abitazione grande in un paese a scelta del DM.
-- 19-20: Il Giocatore guadagna un'abitazione a sua scelta in un luogo a sua scelta.
+- 1-10: Le joueur gagne une habitation dans une ville au choix du MD.
+- 11-18: Le joueur gagne une grande demeure dans un pays au choix du MD.
+- 19-20: Le joueur gagne une habitation de son choix dans un lieu de son choix.
 
-Una volta attivata la carta non presenta effetti particolari: il Giocatore non sa di aver guadagnato un'abitazione, ma potrebbe iniziare a ricevere delle lettere, o un messaggero, o qualcuno che lo cerca per consegnargli le chiavi di una casa...
+Une fois activée, la carte n'a pas d'effets particuliers: le joueur ne sait pas qu'il a gagné une habitation, mais il peut commencer à recevoir des lettres, ou un messager, ou quelqu'un qui le cherche pour lui remettre les clés d'une maison...
 :::
 
 ![33](/images/figures/33.webp)
 
-### 33 - Folla
+### 33 - Foule
 
-La Figura 33 rappresenta una folla di persone che si raduna intorno ad un uomo.
+La figure 33 représente une foule de personnes se rassemblant autour d'un homme.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura viene trasportato in un luogo a scelta del DM, in cui è considerato un criminale, con l'accusa di aver assassinato un personaggio famoso (un sovrano o un Re) del paese in cui viene trasportato. L'ideale sarebbe sviluppare un'avventura a parte su questa vicenda, sebbene il Giocatore non debba sapere nulla sugli effetti di questa carta, appena viene attivata.
+::: details Effets
+Le joueur qui active cette figurine est transporté dans un lieu choisi par le MD, où il est considéré comme un criminel, accusé d'avoir assassiné un personnage célèbre (un souverain ou un roi) du pays dans lequel il est transporté. Idéalement, une aventure séparée devrait être développée sur cette histoire, bien que le Joueur ne doive rien savoir des effets de cette carte dès qu'elle est activée.
 :::
 
 ![34](/images/figures/34.webp)
 
-### 34 - Muro
+### 34 - Mur
 
-La Figura 34 rappresenta un muro di mattoni ben costruito.
+La figure 34 représente un mur de briques bien construit.
 
-::: details Effetti
-La fisicità del Giocatore viene alterata: il suo punteggio di Costituzione aumenta di cinque punti, ma il Carisma diminuisce di due punti. Questo effetto è permanente. In seguito, tirare un dado a venti facce.
+::: details Effets
+Le physique du joueur est altéré: son score de Constitution augmente de 5 points, mais son Charisme diminue de 2 points. Cet effet est permanent. Par la suite, le joueur lance un dé à vingt faces.
 
-- 1-10: Il prossimo percorso che il Giocatore intraprenderà sarà pieno di ostacoli e difficoltà: la via potrebbe essere chiusa, murata, sbarrata per sempre. Il luogo potrebbe essere inaccessibile, o inesplorabile, o inavvicinabile.
-- 11-20: Il Giocatore guadagna la capacità di attraversare qualsiasi muro, anche se è di pietra o di ferro. Questa capacità viene considerata come se il Giocatore fosse sotto l'effetto dell'incantesimo equivalente.
-  :::
+- 1-10: Le prochain chemin emprunté par le joueur sera semé d'embûches et de difficultés: la voie peut être fermée, murée, barrée à jamais. L'endroit peut être inaccessible ou inapprochable.
+- 11-20: Le joueur acquiert la capacité de franchir n'importe quel mur, même s'il est en pierre ou en fer. Cette capacité est traitée comme si le joueur était sous l'effet du sort équivalent.
+:::
 
 ![35](/images/figures/35.webp)
 
-### 35 - [Vuoto]
+### 35 - [Vide]
 
-La Figura 35 è completamente bianca, senza alcuna immagine o scritta. Sembra riflettere come se fosse la superficie di uno specchio, il volto del Giocatore.
+La figure 35 est complètement vide, sans image ni écriture. Elle semble refléter, comme s'il s'agissait de la surface d'un miroir, le visage du joueur.
 
-::: details Effetti
-Tirare un dado a venti facce.
+::: details Effets
+Lancez un dé à vingt faces.
 
-- 1-5: Compare lo Spirito che permette al Giocatore di fare una domanda su qualsiasi argomento, e lo Spirito è obbligato a rispondere con la verità.
-- 6-15: Compare lo Spirito e il Giocatore subisce gli effetti dell'incatesimo Confusione per 1d4 di giorni.
-- 16-20: Compare lo Spirito che permette al Giocatore di fare tre domande su qualsiasi argomento, e lo Spirito è obbligato a rispondere con la verità.
-  :::
+- 1-5: L'Esprit apparaît et permet au joueur de poser une question sur n'importe quel sujet, et l'Esprit est obligé de répondre par la vérité.
+- 6-15: L'Esprit apparaît et le joueur subit les effets du sort Confusion pendant 1d4 jours.
+- 16-20: L'Esprit apparaît et permet au joueur de poser trois questions sur n'importe quel sujet, et l'Esprit est obligé de répondre par la vérité.
+:::
 
 ![36](/images/figures/36.webp)
 
-### 36 - Rovine
+### 36 - Ruines
 
-La Figura 36 rappresenta un insieme di rovine di un antico tempio. Le rovine sono di colore bianco e sembrano essere state costruite con un materiale sconosciuto.
+La figure 36 représente un ensemble de ruines d'un ancien temple. Les ruines sont de couleur blanche et semblent avoir été construites dans un matériau inconnu.
 
-::: details Effetti
-Questa Figura ha due effetti consecutivi:
+::: details Effet
+Cette figurine a deux effets consécutifs:
 
-- 1: Il Giocatore guadagna alcuni gradi in tutte le abilità che coinvolgono le Conoscenze che possiede la propria classe, a discrezione del DM.
-- 2: Il Giocatora tira un dado a venti facce. Se il risultato è pari o superiore a 17, guadagna l'abilità di parlare e scrivere gli antichi linguaggi scomparsi. Questo porterà il Giocatore a scoprire tutta una serie di informazioni nascoste in livelli di conoscenza prima irraggiungibili, ed eventualmente, ad affrontare una missione pericolosa per scoprire un segreto antico. Nel caso il Giocatore fallisca il tiro, il Giocatore perde la capacità di parlare per 1d4 giorni.
-  :::
+- 1: Le joueur gagne quelques rangs dans toutes les compétences impliquant la Connaissance que sa classe possède, à la discrétion du DM.
+- 2: Le joueur lance un dé à vingt faces. Si le résultat est supérieur ou égal à 17, il gagne la capacité de parler et d'écrire les langues anciennes disparues. Cela l'amènera à découvrir tout un tas d'informations cachées dans des niveaux de connaissance jusqu'alors inaccessibles, et finalement, à s'embarquer dans une quête dangereuse pour découvrir un ancien secret. En cas d'échec, le Joueur perd la capacité de parler pendant 1d4 jours.
+:::
 
 ![37](/images/figures/37.webp)
 
-### 37 - Fiala d'argento
+### 37 - Fiole d'argent
 
-La Figura 37 rappresenta una fiala d'argento con la raffigurazione di un unicorno ed di un albero, con una falce di luna crescente sullo sfondo.
+La figure 37 représente une fiole en argent avec une représentation d'une licorne et d'un arbre, avec un croissant de lune en arrière-plan.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura guadagna tre fiale dello stesso aspetto dell'illustrazione della carta. Ogni fiala è utilizzabile 3 volte prima di esaurirsi. Le fiale hanno i seguenti effetti, in base a un tiro con un dado a 6 facce:
+::: details Effets
+Le joueur qui active cette figurine gagne trois fioles de la même apparence que l'illustration de la carte. Chaque fiole est utilisable 3 fois avant d'être épuisée. Les fioles ont les effets suivants, basés sur un jet de dé à 6 faces:
 
-- 1: Il Giocatore guadagna la capacità equivalente a "Parlare con gli Animali" per 1d4 giorni.
-- 2: Il Giocatore guadagna la capacità equivalente a "Passo senza Tracce" per 1d4 giorni.
-- 3: Il Giocatore guadagna la capacità equivalente a "Parlare con i Morti per 1d4 giorni.
-- 4: Il Giocatore guadagna la capacità equivalente a evocare elementali per 1d4 giorni.
-- 5: Il Giocatore guadagna la capacità equivalente a evocare demoni per 1d4 giorni.
-- 6: Il Giocatore guadagna la capacità equivalente a evocare angeli per 1d4 giorni.
+- 1: Le joueur gagne la capacité équivalente à "Parler aux animaux" pendant 1d4 jours.
+- 2: Le joueur gagne la capacité équivalente à "Marcher sans trace" pendant 1d4 jours.
+- 3: Le joueur gagne la compétence équivalente à " Parler aux morts " pendant 1d4 jours.
+- 4: Le joueur gagne la compétence équivalente à " Invoquer des élémentaires " pendant 1d4 jours.
+- 5: Le joueur gagne la compétence équivalente à l'invocation de démons pendant 1d4 jours.
+- 6: Le joueur gagne la capacité équivalente d'invoquer des anges pendant 1d4 jours.
 
-Le conseguenze di queste capacità sono a discrezione del DM.
+Les conséquences de ces capacités sont laissées à la discrétion du DM.
 :::
 
 ![38](/images/figures/38.webp)
 
-### 38 - Paesaggio
+### 38 - Paysage
 
-La Figura 38 rappresenta un paesaggio campestre: un ponte ad arco domina la scena e attraversa un fiuime con tre piccole cascate. Su un lato del ponte, le rovine di un castello o di un posto di guardia; mentre in basso a destra tre mucche ed un pastore si rilassano al sole.
+La figure 38 représente un paysage rural: un pont arqué domine la scène et traverse une rivière avec trois petites chutes d'eau. D'un côté du pont, les ruines d'un château ou d'un poste de garde, tandis qu'en bas à droite, trois vaches et un berger se détendent au soleil.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura può aggiungere gradi ad una professione o ad un background a sua scelta. Nel caso non possieda queste abilità potrà decidere di assegnarla ex-novo per ogni livello di classe che possiede.
+::: details Effets
+Le joueur qui active cette figurine peut ajouter des rangs à une profession ou un background de son choix. S'il ne possède pas ces compétences, il peut choisir de les attribuer à partir de zéro pour chaque niveau de classe qu'il possède.
 :::
 
 ![39](/images/figures/39.webp)
 
-### 39 - Chiavi d'ossa
+### 39 - Clés d'os
 
-La Figura 39 rappresenta un mazzo di chiavi di ossa. Le chiavi sono di colore bianco e sembrano essere state costruite con ossa umane.
+La figure 39 représente un trousseau de clés en os. Les clés sont de couleur blanche et semblent avoir été fabriquées à partir d'os humains.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene un mazzo di chiavi fatte con ossa apparentemente umane. Non ha idea di cosa possano aprire (e neanche il DM?)
+::: details Effets
+Le joueur qui active cette figurine reçoit un trousseau de clés faites d'os apparemment humains. Il n'a aucune idée de ce qu'elles peuvent ouvrir (et le MD non plus ?).
 :::
 
 ![40](/images/figures/40.webp)
 
-### 40 - Libro
+### 40 - Livre
 
-La Figura 40 rappresenta un libro di pergamena con delle rune incise sulla copertina. Il libro è chiuso da una fibbia d'oro.
+La figure 40 représente un livre en parchemin dont la couverture est gravée de runes. Le livre est fermé par un fermoir en or.
 
-::: details Effetti
-Il Giocatore sottrae punti a tre abilità decise dal DM. E' una maledizione che può essere rimossa solo con un incantesimo di alto livello.
+::: details Effets
+Le joueur perd des points dans trois compétences décidées par le DM. Il s'agit d'une malédiction qui ne peut être levée que par un sort de haut niveau.
 :::
 
 ![41](/images/figures/41.webp)
 
-### 41 - Mazza
+### 41 - Masse
 
-La Figura 41 rappresenta una mazza ferrata con una catena. La mazza è di colore nero e la catena è di colore rosso. Sull'impugnatura sembra essere incisa la parola "Khel-Thal Ut Varganar".
+La figure 41 représente une masse avec une chaîne. La masse est noire et la chaîne est rouge. Sur le manche semble être gravé le mot "Khel-Thal Ut Varganar".
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene una mazza ferrata chiamata Varganar, un artefatto potente (e senziente) che permette al Giocatore di evocare un demone di livello pari al suo, una volta al giorno. Il demone è soggetto al controllo del Giocatore per 1d4 giorni, dopodiché, se non è stato distrutto, torna nel suo piano di esistenza.
+::: details Effets
+Le joueur qui active cette figurine gagne une masse de fer appelée Varganar, un artefact puissant (et sensible) qui permet au joueur d'invoquer un démon de niveau égal au sien, une fois par jour. Le démon est soumis au contrôle du joueur pendant 1d4 jours, après quoi, s'il n'est pas détruit, il retourne dans son plan d'existence.
 :::
 
 ![42](/images/figures/42.webp)
 
-### 42 - Sestante Dimensionale
+### 42 - Sextant dimensionnel
 
-La Figura 42 rappresenta un esploratore che sta maneggiando un sestante planare. Il nome della Figura è evanescente e mutevole. Certe volte i caratteri sembrano scritti al contrario.
+La figure 42 représente un explorateur manipulant un sextant planaire. Le nom de la figure est évanescent et changeant. Parfois, les caractères semblent écrits à l'envers.
 
-::: details Effetti
-Il Giocatore e 1d6 di alleati vengono trasportati in un Piano casuale (a scelta del DM). Tutte le creature trasportate in questo modo si troveranno sul Piano casuale senza oggietti né equipaggiamento: essi verranno trasportati in un posto a scelta del DM (sullo stesso piano, o un altro...). Se i personaggi riescono a trovare gli ogetti senza morire, tra essi troveranno anche un Sesta Dimensionale, un artefatto potente, che permette di viaggiare tra i Piani di esistenza. Il Sestante Dimensionale può essere usato una volta al giorno.
+::: details Effets
+Le joueur et 1d6 de ses alliés sont transportés sur un plan aléatoire (au choix du DM). Toutes les créatures ainsi transportées se retrouvent sur le plan aléatoire sans ogos ni équipement : elles sont transportées vers un lieu au choix du MJ (sur le même plan, ou un autre...). Si les personnages parviennent à trouver les objets sans mourir, ils y trouveront également un Sextant Dimensionnel, un puissant artefact qui leur permet de voyager entre les Plans d'existence. Le Sextant Dimensionnel peut être utilisé une fois par jour.
 :::
 
 ![43](/images/figures/43.webp)
@@ -525,7 +525,7 @@ Tirare un dado a venti facce.
 - 6-10: Il Giocatore viene trasportato in una foresta a scelta del DM.
 - 11-15: Il Giocatore guadagna la capacità di trasformarsi in un animale a caso, a discrezione del DM. La trasformazione dura 1d4 ore.
 - 16-20: Tirare un dado a venti facce. Da questo momento in poi, il Giocatore è soggetto a una maledizione che lo trasforma in un animale a caso, a discrezione del DM. La trasformazione dura 1d4 ore.
-  :::
+ :::
 
 ![44](/images/figures/44.webp)
 
@@ -610,7 +610,7 @@ Il Giocatore che attiva questa Figura tira un dado a venti facce.
 - 1-10: La classe del Giocatore si trasforma in Mago o Stregone (a discrezione del DM) e assume un livello pari alla metà del livello del personaggio al momento dell'estrazione della Figura (ad esempio, se il Giocatore è di livello 10, il livello della nuova classe sarà pari a 5).
 - 11-19: Il Giocatore viene sconvolto da un'ondata di potere magico e deve effettuare un tiro per resistervi. In caso di fallimento, il Giocatore viene portato in coma per 1d4 di ore.
 - 20: La classe del Giocatore si trasforma in Mago o Stregone (a discrezione del DM).
-  :::
+ :::
 
 ![52](/images/figures/52.webp)
 
@@ -1024,7 +1024,7 @@ La nave conta in totale quindici uomini aventi ognuno una mansione specifica (ma
 - Se il Giocatore vuole indagare sulla nave, potrà scoprire che in un periodo precedente essa apparteneva ad un gruppo di pirati, che la utilizzavano per compiere razzie e saccheggi. La nave è stata abbandonata dai pirati dopo che questi sono stati uccisi da un gruppo di avventurieri. La nave è stata poi venduta ad un mercante che l'ha utilizzata per scopi commerciali.
 - Alcuni marinai trovano una mappa nascosta sotto l'asse del timone. La mappa mostra la posizione di un tesoro nascosto su un'isola sconosciuta. Il tesoro è stato nascosto da un gruppo di pirati che ha poi abbandonato la nave.
 - Alcuni marinai, specie se il Giocatore stenti o non abbia interesse a comandare la nave, potrebbero tramare contro di lui per prendere il controllo della nave. Il Giocatore potrebbe scoprire il complotto e decidere di uccidere i marinai ribelli, oppure potrebbe decidere di lasciare la nave e di tornare a terra.
-  :::
+ :::
 
 ![85](/images/figures/85.webp)
 
@@ -1036,7 +1036,7 @@ La Figura 85 rappresenta un avventuriero avvolto da catene chiodate.
 Il Giocatore guadagna le Catene dell'Odio di Nerzul, un potente artefatto con queste caratteristiche:
 
 - Sono da considerarsi un'arma esotica il cui danno è a discrezione del DM. Quando effettuano un colpo critico, le catene possono imprigionare il bersagio e avvolgerlo fino a disintegrarlo. Ogni volta che viene usato questo potere, le Catene crescono di un centimetro, diventando complesse da maneggiare. Le Catene possono crescere fino a un massimo di 10 metri. Una volta raggiunti, le Catene inizieranno ad avvolgere il corpo del Giocatore, fino a soffocarlo e ucciderlo. Le Catene possono essere distrutte solo da un incantesimo di alto livello.
-  :::
+ :::
 
 ![86](/images/figures/86.webp)
 
