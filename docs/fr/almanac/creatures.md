@@ -1,17 +1,17 @@
-# Creature
+# Créatures
 
-## Esterni
+## Outsiders
 
 ### Mardok
 
-Nell'anno 188 EC, Aumyr venne invasa da un essere senziente senza precedenti, uno spaventoso abominio extraplanare generato dal caos e dalla follia, una creatura grande quanto una montagna. In lingua Askari, Mardok significa letteralmente Flagello del Mondo. A Nimirdaz, prima città invasa, le vittime furono migliaia, mentre la follia filtrava dal Vuoto al Piano Materiale. Un esercito formato da avventurieri ed eroi provenienti da ogni parte di Aumyr, e anche da altri mondi, fronteggiò unito la minaccia aliena e l'essenza di Mardok venne intrappolata all'interno del Cubo delle Ere, un potente artefatto Askari. L'epico scontro ebbe luogo in un territorio conosciuto oggi come Giungle di Mardok, a sud-est dell'isola di Inkari.
+En l'an 188 de l'ère chrétienne, Aumyr fut envahi par un être sensible sans précédent, une abomination extraplanaire effrayante née du chaos et de la folie, une créature de la taille d'une montagne. En langue Askari, Mardok signifie littéralement Fléau du Monde. À Nimirdaz, la première ville envahie, les victimes se comptaient par milliers, alors que la folie s'infiltrait du Vide au Plan matériel. Une armée d'aventuriers et de héros venus de toutes les régions d'Aumyr, et même d'autres mondes, s'est unie pour faire face à la menace extraterrestre, et l'essence de Mardok a été piégée dans le Cube des Âges, un puissant artefact Askari. L'affrontement épique s'est déroulé dans une région connue aujourd'hui sous le nom de Jungles de Mardok, au sud-est de l'île d'Inkari.
 
-## Mostri
+## Monstres
 
 ### Kartaros
 
-Kartaros é un antico dragone rosso, probabilmente fu una delle creature più potenti del pianeta dai tempi degli antichi Askari. Il suo risveglio dalle viscere della terra fu devastante, nell'anno 1113 EC. Il drago invase la città di Kartar, distruggendo quasi completamente tutte le abitazioni e creò la propria tana in un complesso di grotte e caverne sotterranee. Il drago verrà sconfitto dopo varie battaglie, da un manipolo di eroi inviati dalla Società di Dorne. Qualche membro del Circolo sostiene che la sua essenza sia immortale, altri temono che qualche rituale perduto possa, un giorno, riportarlo in vita.
+Kartaros est un ancien dragon rouge, probablement l'une des créatures les plus puissantes de la planète depuis l'époque des anciens Askari. Son réveil des entrailles de la terre a été dévastateur, en l'an 1113 EC. Le dragon envahit la ville de Kartar, détruisant presque entièrement toutes les habitations et créa son propre repaire dans un complexe de grottes et de cavernes souterraines. Le dragon a été vaincu après plusieurs batailles, par une poignée de héros envoyés par la Dorne Society. Certains membres du Cercle prétendent que son essence est immortelle, d'autres craignent qu'un rituel perdu ne le ramène un jour à la vie.
 
 ### Orog-Mar
 
-Il gigantesco orco Orog-Mar fu leader di un numeroso clan di orchi, goblin e altre creature delle montagne di Nordavind. Sconfitto da Beonur, i suoi discendenti giurarono vendetta contro tutta la popolazione della regione e delle aree circostanti, prefiggendosi l'obiettivo di ristabilire il Nordavind come pura zona selvaggia. La Società di Dorne tiene sotto controllo il numero degli orchi del clan di Orog-Mar e dei suoi luogotenenti, diretti discendenti del gigantesco orco. La presenza di numerosi indizi tra i villaggi e gli avventurieri hanno convinto la Società che Orog-Mar fu in realtà anche un potente mago, poteri senza i quali non poté riuscire a unire in un solo esercito diverse creature tra cui giganti, draghi bianchi e razze del sottosuolo delle montagne.
+L'orque géant Orog-Mar était le chef d'un grand clan d'orques, de gobelins et d'autres créatures dans les montagnes du Nordavind. Vaincus par Beonur, ses descendants ont juré de se venger de toute la population de la région et des environs, se fixant pour objectif de rétablir le Nordavind en tant que région sauvage pure. La Dorne Society surveille le nombre d'orcs du clan Orog-Mar et de ses lieutenants, descendants directs de l'orc géant. De nombreux indices dans les villages et chez les aventuriers ont convaincu la Société qu'Orog-Mar était en fait aussi un puissant sorcier, des pouvoirs sans lesquels il n'aurait pu réunir en une seule armée diverses créatures dont des géants, des dragons blancs et des races du monde souterrain des montagnes.

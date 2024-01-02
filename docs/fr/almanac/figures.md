@@ -1,380 +1,380 @@
-# Le Figure
+# Figures
 
-Si tratta di un Mazzo di cento (100) Figure (o carte). Ogni carta rappresenta un'illustrazione e al di sotto di essa, un numero. Ognuna possiede un potere in grado di alterare la natura stessa della realtà. Una Figura speciale è la numero 100, e rappresenta lo Spirito del Mazzo. Data la sua natura potente, solo pochi ne conoscono l'esistenza. Non si conoscono le origini del Mazzo.
+Il s'agit d'un jeu de cent (100) figures (ou cartes). Chaque carte représente une illustration et, en dessous, un chiffre. Chacune possède un pouvoir qui peut modifier la nature même de la réalité. Le chiffre 100 est une figure spéciale qui représente l'esprit du jeu. En raison de sa nature puissante, seul un petit nombre de personnes connaît son existence. Les origines du Deck ne sont pas connues.
 
-## Un artefatto leggendario
+## Un artefact légendaire
 
-**Proprietà**:
-Le Figure, in quanto carte del mazzo, sono indistruttibili e inalterabili. Gli effetti delle Figura sono cumulabili. Il mazzo stesso, non può essere distrutto, né può essere danneggiato in alcun modo. Se il Mazzo viene perso, esso ricompare magicamente nelle mani del suo Portatore, idem se cerca di venderlo o di sbarazzarsene.
+**Propriétés** :
+Les Figures, en tant que cartes du Deck, sont indestructibles et inaltérables. Les effets des figurines sont cumulatifs. Le jeu lui-même ne peut être détruit, ni endommagé de quelque manière que ce soit. Si le deck est perdu, il réapparaît magiquement dans les mains de son porteur, de même s'il essaie de le vendre ou de s'en débarrasser.
 
-Tutti i poteri e gli incantesimi sono gestiti dal Mazzo stesso, o meglio, dalla Figura speciale "Spirito" che rappresenta lo Spirito del Mazzo: in un certo senso essa _è il Mazzo_.
-Questa Figura, anche se interviene raramente, gestisce a suo piacimento il possessore del Mazzo e possiede poteri decisionali rispetto all'estrazione delle Figure (una, nessuna, o più Figure in una sola volta), e riguardo tutti gli effetti in esse contenuti (durata dell'incantesimo, effetti retroattivi, locazioni di destinazione, numero di oggetti ecc...).
+Tous les pouvoirs et les sorts sont gérés par le jeu lui-même, ou plutôt par la figure spéciale de l'"Esprit" qui représente l'Esprit du jeu : dans un sens, elle _est le jeu_.
+Cette Figure, même si elle intervient rarement, gère à volonté le propriétaire du Deck et a un pouvoir de décision quant à l'extraction des Figures (une, aucune, ou plusieurs Figures à la fois), et quant à tous les effets qu'elles contiennent (durée du sort, effets rétroactifs, lieux cibles, nombre d'objets, etc.)
 
-Gli effetti delle Figure, sono da considerarsi privi di meccaniche di salvezza: non è perciò possibile sotrtarsi agli effetti delle Figure, a meno che Spirito non lo voglia, ma sempre con una motivazione, sia essa esplicita o nascosta.
+Les effets des Figures doivent être considérés comme n'ayant pas de mécanique de sauvegarde : il n'est donc pas possible de se soustraire aux effets des Figures, sauf si l'Esprit le souhaite, mais toujours avec une raison, qu'elle soit explicite ou cachée.
 
-La Figura dello Spirito quando (e se) appare, può eseguire a suo piacimento qualsiasi azione, anche se non prevista dalle altre Figure.
+La Figure de l'Esprit, quand (et si) elle apparaît, peut effectuer n'importe quelle action à volonté, même si elle n'est pas prévue par les autres Figures.
 
-L'estrazione delle Figure è casuale (tramite un dado a cento facce) e in nessun modo il Giocatore può decidere di estrarre una carta che desidera, a meno che sia la Figura stessa (o lo Spirito) a dirlo. Una volta estratta, il Giocatore può osservare la Figure e decidere se attivarla o meno, senza conseguenze. Una volta attivata, la Figura torna magicamente nel mazzo senza che si debba riporla. Questo effetto serve (anche) ad impedire che il Mazzo sia incompleto di tutte e 100 le Figure.
+Le tirage des Figures est aléatoire (au moyen d'un dé à cent faces) et en aucun cas le Joueur ne peut décider de tirer une carte qu'il souhaite, sauf si la Figure (ou l'Esprit) l'indique. Une fois tirée, le joueur peut observer la figurine et décider de l'activer ou non, sans conséquence. Une fois activée, la figurine retourne magiquement dans la pioche sans avoir à être rangée. Cet effet permet (également) d'éviter que la pioche ne soit incomplète avec les 100 figurines.
 
-Ogni Figura rappresenta un'immagine o una scena che può rivelarsi di ingannevole previsione rispetto al suo contenuto. Il Mazzo (Lo Spirito) può decidere in qualsiasi momento di cambiare Portatore a sua discrezione.
-Qualche Figura riporta scritte in un linguaggio sconosciuto. Probabilmente è il linguaggio nativo del mazzo o è anche possibile che il mazzo se ne serva quando voglia nascondere qualcosa.
+Chaque Figure représente une image ou une scène qui peut s'avérer trompeuse quant à son contenu. Le Jeu (l'Esprit) peut décider à tout moment de changer de Porteur.
+Certaines figures portent des inscriptions dans une langue inconnue. Il s'agit probablement de la langue maternelle du jeu ou il est également possible que le jeu l'utilise lorsqu'il veut cacher quelque chose.
 
-Gli effetti sono sia effetti positivi che negativi: in esso vi sono Figure che provocano avvenimenti che possono influenzare molto la vita di un Giocatore, dei suoi alleati, del luogo in cui si trova e qualche volta, anche su tutto il mondo di gioco.
-Per questo motivo il mazzo è uno degli oggetti più ricercati, potenti e pericolosi che esistano.
+Les effets sont à la fois positifs et négatifs : certaines figurines provoquent des événements qui peuvent affecter la vie d'un joueur, de ses alliés, de l'endroit où il se trouve, et parfois même de l'ensemble du monde du jeu.
+Pour cette raison, le deck est l'un des objets les plus recherchés, les plus puissants et les plus dangereux qui existent.
 
-**N.B:** Si consiglia al DM di leggere gli effetti della Figura prima di rivelarli al Giocatore, perché alcuni effetti delle Figure NON devono essere rivelati.
-Gli effetti a volte includono meccaniche riguardanti "tiri salvezza", valori di caratteristica e altro ancora: sono pensate per essere utilizzate con il sistema di gioco D&D, ma possono essere adattate a qualsiasi sistema regolistico, spetterà al DM decidere come gestirle.
+\*\*Il est conseillé au MJ de lire les effets de la figurine avant de les révéler au joueur, car certains effets de la figurine ne doivent PAS être révélés.
+Les effets incluent parfois des mécanismes concernant les jets de sauvegarde, les valeurs de caractéristiques et plus encore : ils sont conçus pour être utilisés avec le système de jeu D&D, mais peuvent être adaptés à n'importe quel système réglementaire, c'est au MD de décider comment les gérer.
 
 ![01](/images/figures/01.webp)
 
-### 01 - Spirito (Nero)
+### 01 - Spirit (Noir)
 
-La Figura 01 rappresenta lo Spirito delle Figure, di colore Nero, nell'atto di indicare il Giocatore.
+La figure 01 représente l'Esprit des figurines, de couleur noire, en train de pointer le joueur.
 
-::: details Effetti
-Appare lo Spirito che pone davanti al Giocare l'intero Mazzo delle Figure. Lo Spirito estrae una carta e la Attiva come se lo stesso Giocatore l'avesse attivata. La scelta della Figura può essere quindi casuale (tira il DM) oppure può essere scelta dal DM.
+::: details Effets
+L'Esprit apparaît et place l'ensemble du paquet de figurines devant le joueur. L'Esprit tire une carte et l'active comme si le joueur l'avait lui-même activée. Le choix de la figurine peut alors être aléatoire (tirage par le MD) ou être choisi par le MD.
 :::
 
 ![02](/images/figures/02.webp)
 
-### 02 - Chiave
+### 02 - Clé
 
-La figura 02 rappresenta una Chiave con ornamenti di natura magica sconosciuta incisi su di essa.
+La figure 02 représente une clé sur laquelle sont gravés des ornements d'une nature magique inconnue.
 
-::: details Effetti
-Un Giocatore che conosca 5 (cinque) o più lingue può effettuare una prova su ognuna di essere per verificare se appartengono alla sua sfera di conoscenza per tentare di decifrare i simboli incisi sulla chiave della Figura. Se passa la prova, si accorgerà che appartengono ad un linguaggio dimenticato antico: in ogni caso uno dei possibili significati può essere: "La Chiate che indica la Strada" oppure "il Cancello e le Porte sono con il Portatore della Chiave".
-Il Giocatore acquisisce una chiave identica a quella della Figura. La chiave è da considerarsi un artefatto minore in grado di aprire una qualsiasi serratura in un qualsiasi mondo, sia materiale che non materiale e su qualsiasi Piano di esistenza. L'utilizzo è unico: la Chive si disintegra dopo l'uso.
+::: details Effets
+Un joueur qui connaît 5 (cinq) langues ou plus peut faire un test sur chacune d'entre elles pour savoir si elles appartiennent à sa sphère de connaissance afin de tenter de déchiffrer les symboles gravés sur la Clé de la figurine. S'il réussit le test, il découvrira qu'ils appartiennent à une langue ancienne oubliée : en tout cas, l'une des significations possibles pourrait être : " La Porte montre le Chemin " ou " la Porte et les Portes sont avec le Porteur de la Clé ".
+Le joueur acquiert une clé identique à celle de la figure. La clé doit être considérée comme un artefact mineur capable d'ouvrir n'importe quelle serrure dans n'importe quel monde, qu'il soit matériel ou non matériel et sur n'importe quel plan d'existence. Son utilisation est unique : la Ciboulette se désintègre après usage.
 :::
 
 ![03](/images/figures/03.webp)
 
-### 03 - Elmo
+### 03 - Casque
 
-La figura 03 rappresenta un elmo finemente lavorato, su un piedistallo di legno. Il materiale con cui è forgiato sembra contenere un qualche minerale o lega molto rara e pregiata, tendente all'argento.
+La figure 03 représente un casque finement ouvragé posé sur un socle en bois. Le matériau dans lequel il a été forgé semble contenir un minéral ou un alliage très rare et précieux, qui tend vers l'argent.
 
-::: details Effetti
-Il Giocatore ottiene un elmo con il potere di rivelare entità invisibili.
+::: details Effets
+Le joueur obtient un casque ayant le pouvoir de révéler les entités invisibles.
 :::
 
 ![04](/images/figures/04.webp)
 
-### 04 - Torcia
+### 04 - Torche
 
-La figura 04 rappresenta un uomo con una tunica da stregone in mezzo a delle rovine che regge una torcia nella mano destra, e indica un punto lontano con la mano sinistra.
+La figure 04 représente un homme en robe de sorcier au milieu de ruines, tenant une torche dans sa main droite et désignant un point éloigné de sa main gauche.
 
-::: details Effetti
-Il Giocatore guadagna un punteggio di +10 a Conoscenze Arcane e gli viene permesso di scegliere 1 incantesimo di 2° livello da Mago o Stregone. Viene inoltre concesso al Giocatore di poter usufruire dell'incantesimo Scopri il Percorso per tutto il giorno seguente al momento dell'estrazione e attivazione della Carta.
+::: details Effets
+Le joueur gagne un score de +10 en Connaissance des arcanes et peut choisir 1 sort de magicien ou de sorcier de 2ème niveau. Le joueur a également la possibilité d'utiliser le sort Discover the Path pendant toute la journée qui suit le moment où la carte est tirée et activée.
 :::
 
 ![05](/images/figures/05.webp)
 
-### 05 - Spada
+### 05 - Épée
 
-La figura 05 rappresenta una Spada lunga con una lama di colore rosso, con un'impugnatura di colore nero. La lama è ricoperta di rune di colore nero.
+La figure 05 représente une épée longue à lame rouge et manche noir. La lame est couverte de runes noires.
 
-::: details Effetti
-Il Giocatore ottiene una spada lunga con il potere di infliggere danni da fuoco. La spada è in grado di infliggere danni da fuoco anche a creature immuni al fuoco.
+::: details Effets
+Le joueur gagne une épée longue avec le pouvoir d'infliger des dégâts de feu. L'épée est capable d'infliger des dégâts de feu même aux créatures immunisées contre le feu.
 :::
 
 ![06](/images/figures/06.webp)
 
-### 06 - Frecce
+### 06 - Flèches
 
-La figura 06 rappresente un insieme di frecce conficcate in un prato. L'impennaggio è preciso e la lavorazione è di tipo perfetto. Sembra che il corpo sia in legno rosso.
+La figure 06 représente une série de flèches plantées dans un pré. L'envol est précis et l'exécution est parfaite. Le corps semble être en bois rouge.
 
-::: details Effetti
-Il Giocatore ottiene la capacità di utilizzare armi da lancio incluso archi, balestre, nonchè un'arma da lancio magica adatta alla sua classe, a discrezione dello Spirito. Nel caso il Giocatore, per proibizioni di classe o di razza non possa utilizzare armi da lancio, gli viene conferito un potere utilizzabile una volta al giorno in grado di scagliare una nuvola di frecce con proprietà a discrezione del DM.
+::: details Effets
+Le joueur acquiert la capacité d'utiliser des armes de jet, y compris des arcs, des arbalètes, ainsi qu'une arme de jet magique appropriée à sa classe, à la discrétion de l'Esprit. Si le joueur, en raison d'interdictions de classe ou de race, ne peut pas utiliser d'armes de jet, il reçoit une fois par jour un pouvoir qui lui permet de tirer une nuée de flèches dont les propriétés sont laissées à l'appréciation du DM.
 :::
 
 ![07](/images/figures/07.webp)
 
-### 07 - Acqua
+### 07 - L'eau
 
-La Figura 07 rappresenta un uomo che versa dell'acqua da una brocca in un fiume. L'uomo è vestito con una tunica bianca e ha un'espressione di pace sul volto.
+La figure 07 représente un homme qui verse de l'eau d'une cruche dans une rivière. L'homme est vêtu d'une tunique blanche et a une expression paisible sur le visage.
 
-::: details Effetti
-Il Giocatore guadagna la capacità di respirare sott'acqua come se fosse sotto l'effetto permanente del relativo incantesimo.
+::: details Effets
+Le joueur gagne la capacité de respirer sous l'eau comme s'il était sous l'effet permanent du sort correspondant.
 :::
 
 ![08](/images/figures/08.webp)
 
-### 08 - Boccale
+### 08 - Tasse
 
-La Figura 08 rappresenta un boccale di birra, con una schiuma bianca e densa. Il boccale è di legno e sembra essere stato scolpito da un artigiano molto abile.
+La figure 08 représente une chope de bière, recouverte d'une épaisse mousse blanche. La chope est en bois et semble avoir été sculptée par un artisan très habile.
 
-::: details Effetti
-Il Giocatore guadagna la capacità di bere qualsiasi liquido, anche velenoso, senza subirne gli effetti. Il liquido viene trasformato in acqua.
+::: details Effets
+Le joueur acquiert la capacité de boire n'importe quel liquide, même toxique, sans en subir les effets. Le liquide est transformé en eau.
 :::
 
 ![09](/images/figures/09.webp)
 
-### 09 - Orchi
+### 09 - Orques
 
-La Figura 09 rappresenta un gruppo di orchi che combattono contro un gruppo di umani. Gli orchi sono in netta superiorità numerica e sembrano avere la meglio.
+La figure 09 représente un groupe d'orcs se battant contre un groupe d'humains. Les orcs sont nettement plus nombreux que les humains et semblent avoir le dessus.
 
-::: details Effetti
-Il Giocatore tiri un dado a venti facce: il risultato è il numero di orchi che compariranno davanti al Giocatore nel momento in cui attiva la Figura. Gli orchi sono da considerarsi alleati del Giocatore e sono soggetti alle regole dei seguaci e dei gregari, come qualsiasi altro personaggio non giocante.
+::: details Effets
+Le joueur lance un dé à vingt faces : le résultat est le nombre d'orcs qui apparaîtront devant le joueur au moment où il activera la figurine. Les orcs sont considérés comme des alliés du joueur et sont soumis aux règles des suiveurs et des ailiers, comme tout autre personnage non joueur.
 :::
 
 ![10](/images/figures/10.webp)
 
-### 10 - Mappa
+### 10 - Carte
 
-La Figura 10 rappresenta una mappa disegnata su un foglio di pergamena. La mappa è molto dettagliata e sembra rappresentare un luogo molto particolare. La mappa è disegnata con inchiostro nero e rosso.
+La figure 10 représente une carte dessinée sur une feuille de parchemin. La carte est très détaillée et semble représenter un lieu très particulier. La carte est dessinée à l'encre noire et rouge.
 
-::: details Effetti
-Il Giocatore riceve una mappa. Non conosce tuttavia il luogo che vi è rappresentato. A scelta dello Spirito, potrebbe essere:
+::: details Effets
+Le joueur reçoit une carte. Cependant, il ne connaît pas le lieu qui y est représenté. Au choix de l'Esprit, il peut s'agir de.. :
 
-- Un luogo che non esiste
-- La tana di un drago antico
-- L'ubicazione di una preziosa reliquia unica
-- Un posto desolato
-- Un ricco e inesplorato dungeon sotterraneo
-- Parte di una missione epica
+- Un lieu qui n'existe pas
+- L'antre d'un ancien dragon
+- L'emplacement d'une relique précieuse unique
+- Un lieu désolé
+- Un donjon souterrain riche et inexploré
+- Une partie d'une quête épique
 
-e così via.
+et ainsi de suite.
 :::
 
 ![11](/images/figures/11.webp)
 
-### 11 - Clessidra
+### 11 - Sablier
 
-La Figura 11 rappresenta una clessidra di vetro, con la sabbia bianca che scorre all'interno. La clessidra è appoggiata su un piedistallo di legno.
+La figure 11 représente un sablier en verre, traversé par du sable blanc. Le sablier repose sur un socle en bois.
 
-::: details Effetti
-Il Giocatore tira un dado a otto facce. Gli effetti per un giorno e sono utilizzabili una volta al giorno. In base al risultato, ottiene la capacità di:
+::: details Effets
+Le joueur lance un dé à huit faces. Les effets durent un jour et peuvent être utilisés une fois par jour. En fonction du résultat, il obtient la capacité de :
 
-- 1: Individuare l'allineamento di una creatura.
-- 2: Individuare Chiavi o Trappole in un'area di 9 metri da sé.
-- 3: Scalare le pareti come se fosse sotto l'effetto dell'incantesimo.
-- 4: Individuare il bene e il male in un'area di 9 metri da sé.
-- 5: Volare come se fosse sotto l'effetto dell'incantesimo.
-- 6: Respirare sott'acqua come se fosse sotto l'effetto dell'incantesimo.
-- 7: Individuare oggetti magici in un'area di 9 metri da sé.
-- 8: Identificare un oggetto magico.
+- 1 : Localiser l'alignement d'une créature.
+- 2 : Localiser des clés ou des pièges dans un rayon de 30 pieds autour de lui.
+- 3 : Escalader les murs comme s'il était sous l'effet du sort.
+- 4 : Détecter le bien et le mal dans un rayon de 30 pieds autour de soi.
+- 5 : Voler comme sous l'effet du sort.
+- 6 : Respirer sous l'eau comme sous l'effet du sort.
+- 7 : Localiser un objet magique dans un rayon de 30 pieds autour de soi.
+- 8 : Identifier un objet magique.
   :::
 
 ![12](/images/figures/12.webp)
 
 ### 12 - Observatorium
 
-La Figura 12 rappresenta un'enorme macchinario sconosciuto.
+La figure 12 représente une énorme machine inconnue.
 
-::: details Effetti
-Il Giocatore e i suoi alleati entro 9 metri da esso, vengono trasportati istantaneamente in un Piano denominato Observatorium. La descrizione, l'aspetto e le funzioni di questo Piano sono a discrezione del DM.
-In questo Piano, solo vagamente menzionato in qualche oscuro tomo dimenticato, si narra che sia possibile osservare qualsiasi cosa su qualunque Piano di esistenza, in qualsiasi luogo e in qualsiasi tempo. L'effetto della Figura dura da 1 a 4 ore in base al risultato di un tiro di dado. Al termine di questo periodo, il Giocatore e i suoi alleati vengono riportati nel luogo in cui si trovavano prima di essere trasportati.
+::: details Effets
+Le joueur et ses alliés dans un rayon de 30 pieds sont instantanément transportés dans un plan appelé Observatorium. La description, l'apparence et les fonctions de ce plan sont laissées à la discrétion du DM.
+Dans ce plan, vaguement mentionné dans un obscur tome oublié, il est dit qu'il est possible d'observer n'importe quoi sur n'importe quel plan d'existence, en n'importe quel lieu et à n'importe quel moment. L'effet de la Figure dure entre 1 et 4 heures selon le résultat d'un jet de D6. A la fin de cette période, le Joueur et ses alliés sont ramenés à l'endroit où ils se trouvaient avant d'être transportés.
 :::
 
 ![13](/images/figures/13.webp)
 
-### 13 - Cibo
+### 13 - Nourriture
 
-La Figura 13 rappresenta una ricca tavola imbandita con cibo e bevande di ogni tipo. La tavola è apparecchiata con piatti e posate d'oro.
+La figure 13 représente une table richement garnie de nourriture et de boissons de toutes sortes. La table est garnie d'assiettes et de couverts en or.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura è soggetto ad una maledizione: deve assumere due pasti aggiuntivi al giorno: in caso contrario, gli effetti da applicare sono gli stessi nel caso del digiuno, con tutte le penalità del caso. La maledizione è removibile solo con un incantesimo di alto livello.
+::: details Effets
+Le Joueur qui active cette Figure est soumis à une malédiction : il doit prendre deux repas supplémentaires par jour : sinon, les effets à appliquer sont les mêmes que dans le cas d'un jeûne, avec toutes les pénalités appropriées. La malédiction ne peut être levée que par un sort de haut niveau.
 :::
 
 ![14](/images/figures/14.webp)
 
-### 14 - Portale
+### 14 - Portail
 
-La Figura 14 rappresenta un mago perplesso di fronte ad un Portale appena creato sulla parete di un dungeon. Sul lato destro vi sono dei resti scheletrici, mentre sul lato sinistro vi è uno zaino da esploratore.
+La figure 14 montre un mage perplexe devant un portail nouvellement créé sur le mur d'un donjon. Sur le côté droit se trouvent des restes de squelettes, tandis que sur le côté gauche se trouve le sac à dos d'un explorateur.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura vedrà aprirsi un Portale a breve distanza, su una superficie che sia almeno di quattro metri per due. Il Portale è permanente e rimane aperto per un tempo pari a 1d4 ore. Il Portale è bidirezionale e può essere attraversato da chiunque. Il Portale è di colore rosso e nero.
+::: details Effets
+Le joueur qui active cette figure voit un portail s'ouvrir à une courte distance, sur une surface d'au moins quatre mètres sur deux. Le Portail est permanent et reste ouvert pendant une durée égale à 1d4 heures. Le Portail est bidirectionnel et peut être franchi par n'importe qui. Le Portail est rouge et noir.
 :::
 
 ![15](/images/figures/15.webp)
 
-### 15 - Globo (Verde)
+### 15 - Globe (vert)
 
-La Figura 15 rappresenta un globo verde, con un'aura di colore verde intorno ad esso. Il globo è sospeso in aria e sembra essere in grado di muoversi autonomamente.
+La figure 15 représente un globe vert, entouré d'une aura verte. Le globe est suspendu dans les airs et semble pouvoir se déplacer de manière autonome.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura tira un dado a venti facce.
+::: details Effets
+Le joueur qui active cette figurine lance un dé à vingt faces.
 
-- 1-10: La classe del Giocatore si trasforma in Druido o Ranger (a discrezione del DM) e assume un livello pari alla metà del livello del personaggio al momento dell'estrazione della Figura (ad esempio, se il Giocatore è di livello 10, il livello della nuova classe sarà pari a 5).
-- 11-19: Il Giocatore viene sconvolto da un'ondata di potere magico e deve effettuare un tiro per resistervi. In caso di fallimento, il Giocatore viene trasformato in un animale a caso, a discrezione del DM. La trasformazione dura 1d4 ore.
-- 20: La classe del Giocatore si trasforma in Druido o Ranger (a discrezione del DM).
+- 1-10 : La classe du joueur devient Druide ou Rôdeur (au choix du DM) et prend un niveau égal à la moitié du niveau du personnage au moment de l'extraction de la figurine (ex : si le joueur est niveau 10, son nouveau niveau de classe sera 5).
+- 11-19 : Le joueur est choqué par une vague de puissance magique et doit faire un jet pour y résister. En cas d'échec, le joueur est transformé en un animal aléatoire, à la discrétion du MD. La transformation dure 1d4 heures.
+- 20 : La classe du joueur est transformée en Druide ou Ranger (au choix du DM).
   :::
 
 ![16](/images/figures/16.webp)
 
-### 16 - Donna
+### 16 - Femme
 
-La Figura 16 rappresenta il ritratto di una nobildonna. La figura sembra seguire con gli occhi il Giocatore.
+La figure 16 représente le portrait d'une femme noble. La figure semble suivre le joueur des yeux.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura cambia sesso diventando una donna. Nel caso sia già di sesso femminile, questa Figura non ha effetto.
+::: details Effets
+Le joueur qui active cette figurine change de sexe et devient une femme. S'il est déjà une femme, cette figure n'a pas d'effet.
 :::
 
 ![17](/images/figures/17.webp)
 
-### 17 - Stivali
+### 17 - Bottes
 
-La Figura 17 rappresenta un paio di stivali di cuoio, con delle fibbie d'oro. Gli stivali sono di colore nero e sembrano essere molto resistenti.
+La figure 17 représente une paire de bottes en cuir avec des boucles en or. Les bottes sont de couleur noire et semblent très résistantes.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene la capacità di camminare su qualsiasi superficie, anche se essa è verticale o rocciosa. Il Giocatore può camminare anche su superfici liquide, come acqua o lava.
+::: details Effets
+Le joueur qui active cette figurine gagne la possibilité de marcher sur n'importe quelle surface, même si elle est verticale ou rocheuse. Il peut également marcher sur des surfaces liquides, comme l'eau ou la lave.
 :::
 
 ![18](/images/figures/18.webp)
 
-### 18 - Rune
+### 18 - Runes
 
-La Figura 18 rappresenta un insieme di rune incise su una pietra. Le rune sono di colore nero e rosso e sembrano essere incise con un'abilità magica.
+La figure 18 représente un ensemble de runes gravées sur une pierre. Les runes sont de couleur noire et rouge et semblent avoir été gravées avec des compétences magiques.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene la capacità di leggere e scrivere in un linguaggio sconosciuto. Il linguaggio è quello delle rune della Figura. Le rune possono anche essere usate come incantesimo che, se lette, possono avere effetti a discrezione del DM.
+::: details Effets
+Le joueur qui active cette figure acquiert la capacité de lire et d'écrire dans une langue inconnue. Cette langue est celle des runes de la figurine. Les runes peuvent également être utilisées comme des sorts, qui, lorsqu'ils sont lus, peuvent avoir des effets à la discrétion du DM.
 :::
 
 ![19](/images/figures/19.webp)
 
-### 19 - Fuoco fatuo
+### 19 - Le feu gras
 
-La Figura 19 rappresenta una mano avvolta da spine e rovi, che sembra sorreggere un fuoco fatuo.
+La figure 19 représente une main enveloppée d'épines et de ronces, qui semble tenir un feu gras.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene la capacità di creare un fuoco fatuo che lo segue ovunque vada. Il fuoco fatuo è di colore verde e può essere usato per illuminare un'area di 9 metri.
+::: details Effets
+Le joueur qui active cette figurine gagne la possibilité de créer un feu féerique qui le suit partout où il va. Le feu de fée est de couleur verte et permet d'éclairer une zone de 9 mètres.
 :::
 
 ![20](/images/figures/20.webp)
 
-### 20 - Segno dello Spirito
+### 20 - Signe de l'esprit
 
-La Figura 20 rappresenta un simbolo simile ad una "X" che sembra essere stato inciso nella pietra con un'abilità magica.
+La figure 20 représente un symbole en forme de "X" qui semble avoir été gravé dans la pierre grâce à des compétences magiques.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura è bandito per sempre dall'utilizzo delle Figure. Lo Spirito non lo riconoscerà più come suo Portatore e non gli permetterà più di utilizzare le Figure.
+::: details Effets
+Le joueur qui active cette figurine est à jamais interdit d'utiliser des figurines. L'Esprit ne le reconnaîtra plus comme son porteur et ne lui permettra plus d'utiliser les figurines.
 
 :::
 
 ![21](/images/figures/21.webp)
 
-### 21 - Collana
+### 21 - Collier
 
-La Figura 21 rappresenta una collana di perle. La collana è di colore bianco e sembra essere molto preziosa, anche se la sua fattura non sembra ricordare l'artigianato di nessuna razza conosciuta.
+La figure 21 représente un collier de perles. Le collier est de couleur blanche et semble très précieux, bien que sa fabrication ne rappelle pas celle d'une race connue.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene un oggetto simile ad una collana chiamato Rosario dei Piani. Il Rosario dei Piani è un oggetto magico che permette al Giocatore di viaggiare tra i Piani di esistenza. E' formato da 10 grani che possono essere attivati e ogni grano permette di viaggiare verso un Piano di esistenza diverso. Il Rosario dei Piani può essere usato una volta al giorno.
+::: details Effets
+Le joueur qui active cette figurine obtient un objet en forme de collier appelé le Rosaire des Plaines. Le chapelet des plans est un objet magique qui permet au joueur de voyager entre les plans d'existence. Il est composé de 10 grains qui peuvent être activés et chaque grain permet au joueur de voyager vers un plan d'existence différent. Le Rosaire des Plans peut être utilisé une fois par jour.
 :::
 
 ![22](/images/figures/22.webp)
 
-### 22 - Luna (Rossa)
+### 22 - Lune (Rouge)
 
-La Figura 22 rappresenta una luna piena di colore rosso.
+La figure 22 représente une pleine lune en rouge.
 
-::: details Effetti
-Il Giocatore riceve un grosso malus (a discrezione del DM) a tutte le prove di caratteristica per sempre. Questa maledizione può essere rimossa solo con un incantesimo di alto livello.
+::: details Effets
+Le joueur reçoit un malus important (à la discrétion du DM) à tous les tests de caractéristique pour toujours. Cette malédiction ne peut être levée que par un sort de haut niveau.
 :::
 
 ![23](/images/figures/23.webp)
 
-### 23 - Castello
+### 23 - Château
 
-La Figura 23 rappresenta un castello molto fastoso, circondato da un fossato e con diversi torrioni di guardia. Il camminamento sembra condurre anche verso un paese annesso, sullo sfondo.
+La figure 23 représente un château très somptueux, entouré de douves et doté de plusieurs tours de guet. L'allée semble également mener vers un village voisin à l'arrière-plan.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura diventa proprietario di un castello (a scelta del DM dimensione, costi, servitù e annessi) e sovrano di un piccolo borgo di mille persone.
-Non può cedere il castello, né venderlo ed è obbligato a mantenerlo. Il castello è situato in un luogo a scelta del DM. Nel borgo, corrono strane voci su ciò che il castello potrebbe nascondere tra le sue sale: ogni proprietario del castello muore in circostanze misteriose una volta raggiunti i 50 anni di età...
+::: details Effets
+Le joueur qui active cette figurine devient propriétaire d'un château (taille, coût, serviteurs et dépendances au choix du DM) et dirigeant d'un petit village de mille personnes.
+Il ne peut ni donner ni vendre le château et est obligé de l'entretenir. Le château est situé dans un lieu choisi par le meneur de jeu. Dans le hameau, d'étranges rumeurs courent sur ce que le château pourrait cacher dans ses salles : chaque propriétaire du château meurt dans des circonstances mystérieuses lorsqu'il atteint l'âge de 50 ans...
 :::
 
 ![24](/images/figures/24.webp)
 
-### 24 - Scalinata (Ascendente)
+### 24 - Escalier (ascendant)
 
-La Figura 24 rappresenta una rampa di scale ornate che sembrano salire vertiginosamente verso l'alto.
+La figure 24 représente un escalier orné qui semble s'élever vertigineusement vers le haut.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura tira un dado a venti facce.
+::: details Effets
+Le joueur qui active cette figurine lance un dé à vingt faces.
 
-- 1-4: Il Giocatore sottrae alla sua classe un livello
-- 5-19: Il Giocatore aggiunge alla sua classe un livello
-- 20: il Giocatore aggiunge alla sua classe due livelli.
+- 1-4 : Le joueur soustrait un niveau à sa classe.
+- 5-19 : Le joueur ajoute un niveau à sa classe
+- 20 : Le joueur ajoute deux niveaux à sa classe.
   :::
 
 ![25](/images/figures/25.webp)
 
-### 25 - L'Occhio (Alto)
+### 25 - L'Oeil (Haut)
 
-La Figura 25 rappresenta il simbolo di un occhio con dei raggi che convergono verso l'alto. Il nome della figura è scritto in un linguaggio sconosciuto.
+La figure 25 représente le symbole d'un œil dont les rayons convergent vers le haut. Le nom de la figure est écrit dans une langue inconnue.
 
-::: details Effetti
-Il Giocatore deve superare un tiro a discrezione del DM o essere investito permanentemente con un effetto che lo rende cieco. L'effetto può essere rimosso solo con un incantesimo di alto livello. Nel caso il Giocatore superi la prova, ottiene la capacità di vedere in ogni direzione, anche attraverso gli oggetti.
+::: details Effets
+Le joueur doit réussir un jet à la discrétion du DM ou être frappé de façon permanente par un effet qui le rend aveugle. L'effet ne peut être supprimé que par un sort de haut niveau. Si le joueur réussit le test, il gagne la capacité de voir dans toutes les directions, y compris à travers les objets.
 :::
 
 ![26](/images/figures/26.webp)
 
-### 26 - Forziere
+### 26 - Poitrine
 
-La Figura 26 rappresenta un forziere di legno, con delle incisioni di natura magica sconosciuta. Il forziere è chiuso da una serratura di ferro.
+La figure 26 représente un coffre en bois, avec des gravures d'une nature magique inconnue. Le coffre est fermé par une serrure en fer.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura guadagna l'abilità di scassinare le serrature, anche se la sua classe non gli permette questa abilità. In seguito, tira un dado a venti facce.
+::: details Effets
+Le joueur qui active cette figure acquiert la capacité de crocheter les serrures, même si sa classe ne lui permet pas cette compétence. Il lance alors un dé à vingt faces.
 
-- 1-10: Il Giocatore viene trasportato in una stanza di cinquanta metri quadri, con al suo interno 3 forzieri, che in realtà sono Mimic della metà del livello del Giocatore. I Mimic attaccano il Giocatore e i suoi alleati e sono in possesso di oggetti magici.
-- 11-19: Il Giocatore viene trasportato in una stanza di quaranta metri quadri, con al suo interno 2 forzieri, che in realtà sono Mimic del livello del Giocatore. I Mimic attaccano il Giocatore e i suoi alleati e sono in possesso di oggetti magici.
-- 20: Il Giocatore viene trasportato in una stanza di trenta metri quadri, con al suo interno 1 forziere ricolmo di oggetti magici.
+- 1-10 : Le joueur est transporté dans une pièce de cinquante mètres carrés avec trois coffres à l'intérieur, qui sont en fait des Mimics de la moitié du niveau du joueur. Les Mimics attaquent le joueur et ses alliés et sont en possession d'objets magiques.
+- 11-19 : Le joueur est transporté dans une salle de 40 m² avec 2 coffres à l'intérieur, qui sont en fait des Mimics du niveau du joueur. Les Mimics attaquent le joueur et ses alliés et sont en possession d'objets magiques.
+- 20 : Le joueur est transporté dans une pièce de 30 mètres carrés, avec 1 coffre rempli d'objets magiques à l'intérieur.
   :::
 
 ![27](/images/figures/27.webp)
 
-### 27 - Monete
+### 27 - Pièces
 
-La Figura 27 rappresenta un insieme di monete di colore nero.
+La figure 27 représente un jeu de pièces de monnaie noires.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura perde tutte le monete che possiede. Nel caso ne sia sprovvisto, perde tutti gli oggetti di valore che possiede. Nel caso ne sia sprovvisto, perde il primo oggetto in ordine di valore (monetario) che possiede.
-Nel caso non abbia oggetti né beni, il Giocatore guadagna un numero di oggetti magici a discrezione dello Spirito, pari al livello del suo personaggio.
+::: details Effets
+Le joueur qui active cette figurine perd toutes les pièces qu'il possède. S'il en est dépourvu, il perd tous les objets de valeur qu'il possède. S'il n'en a pas, il perd le premier objet par ordre de valeur (monétaire) qu'il possède.
+S'il n'a pas d'objets ou de biens, le joueur gagne un nombre d'objets magiques à la discrétion de l'Esprit, égal à son niveau de personnage.
 :::
 
 ![28](/images/figures/28.webp)
 
-### 28 - Cavaliere (Nero)
+### 28 - Chevalier (noir)
 
-La Figura 28 rappresenta un cavaliere in armatura nera.
+La figure 28 représente un chevalier en armure noire.
 
-::: details Effetti
-Se il Giocatore è di allineamento malvagio, compare Xamorel, un incubo alato, cavalcabile solo dal Giocatore.
-Il destriero obbidisce solo ai comandi del Giocatore che ha estratto la Figura e permane nel piano materiale per 1d4 di giorni. Se il Giocatore è di allineamento buono, la Figura non ha effetto.
+::: details Effets
+Si le joueur est d'alignement maléfique, Xamorel, un Cauchemar ailé apparaît, que seul le joueur peut chevaucher.
+Le destrier n'obéit qu'aux ordres du joueur qui a dessiné la figurine et reste dans le plan matériel pendant 1d4 jours. Si le joueur est d'alignement bon, la figure n'a aucun effet.
 :::
 
 ![29](/images/figures/29.webp)
 
-### 29 - Freccia di fuoco
+### 29 - Flèche de feu
 
-La Figura 29 rappresenta un'arciere che scocca una freccia di fuoco. L'arciere è donna.
+La figure 29 représente un archer qui tire une flèche de feu. L'archer est une femme.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura ottiene un artefatto conosciuto come Faretra del Caos. Essa contiene un numero infinito di frecce di fuoco. Un incantesimo di alto livello può far scomparire la faretra e farla tornare nei piani di esistenza da cui proviene.
+::: details Effets
+Le joueur qui active cette figurine gagne un artefact connu sous le nom de Carquois du Chaos. Il contient un nombre infini de flèches de feu. Un sort de haut niveau peut faire disparaître le carquois et le renvoyer dans les plans d'existence d'où il vient.
 :::
 
 ![30](/images/figures/30.webp)
 
-### 30 - Deserto
+### 30 - Désert
 
-La Figura 30 rappresenta un paesaggio desertico attraversato da quattro avventurieri.
+La figure 30 représente un paysage désertique traversé par quatre aventuriers.
 
-::: details Effetti
-Tirare un dado a quattro facce.
+::: details Effets
+Lancez un dé à quatre faces.
 
-- 1: Il Giocatore perde permanentemente un punto di Intelligenza.
-- 2: Il Giocatore perde permanentemente un punto di Saggezza.
-- 3: Il Giocatore perde permanentemente un punto di Costituzione.
-- 4: Il Giocatore guadagna permanentemente un punto di Intelligenza, Saggezza e Costituzione.
-  :::
+- 1 : Le joueur perd définitivement un point d'Intelligence.
+- 2 : Le joueur perd définitivement un point de Sagesse.
+- 3 : Le joueur perd définitivement un point de Constitution.
+- 4 : Le joueur gagne définitivement un point d'Intelligence, de Sagesse et de Constitution.
+:::
 
 ![31](/images/figures/31.webp)
 
-### 31 - Torre e Rovine
+### 31 - Tour et ruines
 
-La Figura 31 rappresenta un particolare e lugubre paesaggio formato da torri e rovine.
+La figure 31 représente un paysage étrange et lugubre formé de tours et de ruines.
 
-::: details Effetti
-Il Giocatore che attiva questa Figura viene trasportato nei recessi di una prigione in una locazione a caso del mondo di gioco. Tutto il suo equipaggiamento viene portato in un'altra locazione, a scelta del DM. Il Giocatore perde la memoria e ignora il motivo per il quale si trovi in quel luogo.
-In realtà, è stata la Figura Torre e Rovine a condurlo in quel luogo e a creare le condizioni per cui sia il quel posto. La motivazione è a scelta del DM: può essere stato accusato di un crimine, o scambiato per qualcun altro, potrebbe essere una vendetta di un personaggio incontrato in un'avventura precedente, e altro ancora. Nel momento in cui il "mistero" viene risolto dal Giocatore, la Figura Torre e Rovine fa tornare il Giocatore nel luogo in cui si trovava prima di essere trasportato.
+::: details Effets
+Le joueur qui active cette figurine est transporté dans les recoins d'un donjon situé à un endroit aléatoire de l'univers de jeu. Tout son équipement est emporté dans un autre lieu, choisi par le MD. Le Joueur perd la mémoire et ne sait pas pourquoi il se trouve dans ce lieu.
+En réalité, c'est la Figure de la Tour et des Ruines qui l'a conduit à cet endroit et a créé les conditions pour qu'il s'y trouve. La motivation est laissée au choix du MJ : il peut avoir été accusé d'un crime, ou pris pour quelqu'un d'autre, il peut s'agir d'une vengeance d'un personnage qu'il a rencontré dans une aventure précédente, et bien d'autres choses encore. Dès que le "mystère" est résolu par le joueur, la Figure de la Tour et des Ruines le ramène à l'endroit où il se trouvait avant d'être transporté.
 :::
 
 ![32](/images/figures/12.webp)

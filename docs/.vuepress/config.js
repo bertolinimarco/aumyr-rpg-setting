@@ -179,7 +179,7 @@ export default {
               { text: "Créatures", link: "/fr/almanac/creatures/" },
               { text: "Items", link: "/fr/almanac/items/" },
               { text: "PNJ", link: "/fr/almanac/characters/" },
-              { text: "Les personnages", link: "/fr/almanac/figures/" },
+              { text: "Les Figures", link: "/fr/almanac/figures/" },
             ],
           },
         ],

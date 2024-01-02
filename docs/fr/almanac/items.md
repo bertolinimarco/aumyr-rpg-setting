@@ -1,73 +1,73 @@
-# Oggetti
+# Objets
 
-## Artefatti
+## Artefacts
 
-Sono oggetti unici, perduti o conservati come immensi tesori in qualche luogo remoto. Possono essere utilizzati dal Master come oggetti chiave di campagne o avventure epiche. Dato il loro grande potere, potrebbero svolgere un ruolo fondamentale nella storia e negli eventi del mondo. La loro ubicazione è sconosciuta e molti avventurieri dedicano tutta la vita alla ricerca di un grande artefatto perduto.
+Il s'agit d'objets uniques, perdus ou conservés comme d'immenses trésors dans un endroit reculé. Ils peuvent être utilisés par le Maître comme objets clés dans des campagnes ou des aventures épiques. En raison de leur grand pouvoir, ils peuvent jouer un rôle clé dans l'histoire et les événements mondiaux. Leur emplacement est inconnu et de nombreux aventuriers consacrent leur vie entière à la recherche d'un grand artefact perdu.
 
-### Asta Askari
+### Bâton d'Askari
 
-Verga/Bastone, Indistruttibile. Si tratta di una piccola asta in lega metallica intarsiata da motivi sconosciuti. Il bastone possiede due forme, una chiusa e l’altra aperta. In base alla sua grandezza assume funzioni diverse. Quando viene chiusa è lunga quaranta centimetri e può essere utilizzata in modo simile ad una torcia (si illumina ad una estremità). Aperta, diventa un’asta che può essere allungata fino a due metri, risultando utile in particolar modo quando si tratta di scalare una parete di roccia o superare altri ostacoli.
+Bâton, indestructible. Il s'agit d'une petite tige en alliage métallique incrustée de motifs inconnus. La tige a deux formes, l'une fermée et l'autre ouverte. Selon sa taille, elle remplit différentes fonctions. Fermée, elle mesure quarante centimètres de long et peut être utilisée comme une torche (elle s'allume à une extrémité). Ouverte, elle devient une perche qui peut s'allonger jusqu'à deux mètres, ce qui est particulièrement utile pour escalader une paroi rocheuse ou franchir d'autres obstacles.
 
-### Calice di Melian
+### Calice de Melian
 
-Calice di legno con bordo dorato superiore. Data la sua natura umile e semplice, è difficile distinguerlo da un comune calice per le funzioni clericali; ciò lo rende uno degli oggetti più rari e desiderati da schiere di avventurieri e devoti a Melian. Permette di creare acqua benedetta a volontà, e L’acqua se bevuta guarisce da ogni ferita o malattia. Se usata su un corpo morto lo rianima come sotto l’effetto di Rianimare Morti, purchè morto da non più di un giorno. Nelle mani di un adoratore di Melian può essere usato come reliquia sacra. Emana luce diurna in un raggio di dieci metri. Il Calice può anche essere utilizzato come focus necromantico, se opportunamente sconsacrato tramite un complesso rituale sacrilego. In questo caso, il suo potere si manifesta in senso opposto: l’acqua generata si trasforma in un veleno incolore che uccide ogni creatura che lo beve e ferisce chi lo tocca, in più il calice stesso acquista altri poteri ignoti ed oscuri.
+Calice en bois avec un bord supérieur doré. En raison de sa nature humble et simple, il est difficile de le distinguer d'un calice ordinaire pour les services cléricaux, ce qui en fait l'un des objets les plus rares et les plus recherchés par les légions d'aventuriers et de dévots de Melian. Il permet de créer de l'eau bénite à volonté, et l'eau bue guérit de n'importe quelle blessure ou maladie. Lorsqu'il est utilisé sur un cadavre, il le réanime comme s'il était sous l'effet de Réanimer les morts, à condition qu'il ne soit pas mort depuis plus d'un jour. Dans les mains d'un adorateur de Melian, il peut être utilisé comme une relique sacrée. Il émet de la lumière du jour dans un rayon de dix mètres. Le calice peut également servir de foyer nécromantique, s'il est correctement profané par un rituel sacrilège complexe. Dans ce cas, son pouvoir se manifeste en sens inverse : l'eau générée se transforme en un poison incolore qui tue toute créature qui le boit et blesse celles qui le touchent, et le calice lui-même acquiert d'autres pouvoirs inconnus et obscurs.
 
-### Cubo delle Ere
-
-::: warning
-Questa voce non è ancora completa
-:::
-
-### Dogma
-
-Scudo Torre. Uno scudo all’apparenza logoro ma intagliato con grande maestria. La parte interna è dotata di un meccanismo a catena che consente di fissarlo all’armatura o al guanto d’arme in modo agevole. La parte esterna invece è formata da un intaglio a forma di testa di drago, nonché da una serie di cerchi avvolti attorno ad esso scritti in una lingua sconosciuta. Genera campo di antimagia che protegge una persona in più oltre al portatore. Rende chi lo brandisce immune dal soffio dei draghi e da condizionamenti mentali, sonno e paura.
-
-### Frammenti dello Specchio
-
-Piccoli pezzi di vetro colorato di varie dimensioni. Si dice che siano parte di un grande specchio distrutto e disperso, dai poteri leggendari. Se uno dei frammenti viene posto a contatto con una superficie a specchio, questo diventerà invece un portale per il Piano Inverso, una dimensione parallela al Piano Materiale ma opposta. Aprire un portale verso questa dimensione è rischioso: la conoscenza del Piano Inverso ha ucciso o reso folli molti avventurieri.
-
-### Guanti della Creazione
-
-Guanti pelle sconosciuta con numerosi rinforzi in una lega metallica simile al rame. Manufatto di origine Askari, attualmente disperso e oggetto di molteplici speculazioni arcane e divine. Si pensa che sia un dispositivo per manipolare la materia del creato.
-
-### Lama della Notte Profonda
-
-Spada Lunga. Forgiata nei livelli più bassi di Gherzul e intrisa della sua energia magica. Se viene effettuato un colpo critico, il suo potere sacrilego uccide istantaneamente qualsiasi creatura purchè essa sia mortale.
-
-### Lanterna della Morte
-
-Una piccola lanterna di ottone e ferro, il cui chiarore sembra alimentato da una forma di energia piuttosto che dal fuoco. La strana luce verde della lanterna identifica oggetti, scopre porte segrete, rivela illusioni, rivela esseri invisibili o sul piano etereo. E’ tuttavia un oggetto maledetto. Ogni volta che si accende qualcuno muore. Ce la possibilità che si tratti di una persona vicina a chi la accende. Può venire usata come focus per incantesimi necromantici, aumentando la potenza degli stessi in modo considerevole.
-
-### Le Figure
-
-Vedi [Le Figure](/almanac/figures.md)
-
-### Luce Eterna
-
-Arco Lungo Composito. Anatema dei Non-Morti ed Esterni. Appare come un intricato e ricurvo bastone nodoso, pervaso di tenue energia. Al buio risplende di luce rossa. Se viene impugnato al centro, si genera un fascio di energia rossastra e sottile collegata alle due estremità del bastone, costituendo un arco ricurvo. Si possono scagliare frecce di ogni tipo, oppure se viene utilizzato senza frecce, l’arco genera una propria freccia di luce. Le frecce così generate sono infinite e si dissolvono dopo aver colpito il bersaglio.
-
-### Manto di Savas
-
-Lunga cappa color verde scuro, consacrato a Savas. Il lato interno del mantello è di un tessuto liscio e opaco simile al raso di seta. La parte esterna è fitta di scaglie e modifica la propria pigmentazione in base all’ambiente circostante, rendendo chi lo indossa difficilmente individuabile in un’ambiente selvaggio. Chi la indossa può mimetizzarsi in paesaggi naturali, diventare invisibile, cambiare forma una volta al giorno (purché non ecceda la sua taglia), comprendere e parlare tutti i linguaggi.
-
-### Mordifiamma
-
-Maglio di lega d’argento. La testa del martello può emettere una fiamma infuocata e generare luce nel raggio di venti metri. Può essere utilizzata come maglio da fabbro: qualsiasi arma forgiata o riparata con essa acquista le proprietà di un’arma magica. E’ considerato da molti fabbri il più grande tesoro della metallurgia e della avanzata Conoscenza degli Askari.
-
-### Nodo di Energia
-
-Cubo di trenta centimetri per lato, di pietra levigata simile al quarzo. Antico strumento Askari che permette di raccogliere energia elementale per immagazzinarla come fonte di energia. Tramite alcune pratiche è possibile utilizzare un Nodo di Energia per alimentare fornaci, laboratori alchemici, fonti di calore e altri impianti che richiedono energia elementale o arcana. In molti pensano che i Portali siano alimentati da questi oggetti antichi e potenti.
-
-### Seme del Mondo
+### Cube des âges
 
 ::: warning
-Questa voce non è ancora completa
+Cette entrée n'est pas encore complète
 :::
 
-### Teschio di Ossidiana
+### Dogme
 
-Teschio di ossidiana parlante, rappresenta un cranio umano leggermente allungato. Nella parte laterale del teschio sono visibili alcune iscrizioni incise con precisione nella pietra. Può essere interpellato con alcune domande su eventi futuri che riguardano chi lo usa. Le risposte sono criptiche e si possono facilmente fraintendere, ma dice sempre la verità. Può essere fatta una domanda al giorno da qualsiasi creatura in qualsiasi linguaggio, il teschio risponderà sempre, possiede una volontà neutrale e non può essere distrutto (almeno non in modo convenzionale).
+Tour de bouclier. Un bouclier qui semble usé mais qui est sculpté avec beaucoup d'habileté. La partie intérieure est dotée d'un mécanisme de chaîne qui permet de l'attacher facilement à une armure ou à un gantelet d'armes. La partie extérieure, quant à elle, consiste en une sculpture en forme de tête de dragon, ainsi qu'en une série de cercles enroulés autour d'elle et écrits dans une langue inconnue. Il génère un champ antimagique qui protège une personne supplémentaire en plus du porteur. Il immunise son porteur contre le souffle du dragon et le conditionnement mental, le sommeil et la peur.
 
-### Vesti della Conoscenza
+### Éclats de miroir
 
-Una serie di paramenti arcani di grande pregio, spesso tessuti tramite la magia e donati come onorificenza a grandi maghi o incantatori. Data la loro natura arcana possono essere indossati solo da coloro che praticano la magia. Conferiscono un bonus alla difesa, rendendo difficile colpire chi li indossa. Permettono di ignorare l’uso di componenti materiali per il lancio gli incantesimi.
+Petits morceaux de verre coloré de différentes tailles. On dit qu'ils font partie d'un grand miroir détruit et dispersé aux pouvoirs légendaires. Si l'un de ces éclats est placé en contact avec la surface d'un miroir, il devient un portail vers le Plan Inverse, une dimension parallèle au Plan Matériel mais opposée. Ouvrir un portail vers cette dimension est risqué : la connaissance du Plan Inverse a tué ou rendu fou plus d'un aventurier.
+
+### Gants de création
+
+Gants de cuir inconnus avec de nombreux renforts dans un alliage métallique semblable au cuivre. Un artefact d'origine Askari, actuellement dispersé et faisant l'objet de nombreuses spéculations arcaniques et divines. On pense qu'il s'agit d'un dispositif permettant de manipuler la matière de la création.
+
+### Lame de la nuit profonde
+
+Épée longue. Forgée dans les niveaux les plus bas de Gherzul et imprégnée de son énergie magique. En cas de coup critique, son pouvoir sacrilège tue instantanément toute créature mortelle.
+
+### Lanterne de la mort
+
+Une petite lanterne en laiton et en fer dont la lueur semble être alimentée par une forme d'énergie plutôt que par le feu. L'étrange lumière verte de la lanterne permet d'identifier des objets, de découvrir des portes secrètes, de révéler des illusions, des êtres invisibles ou du plan éthéré. Mais c'est un objet maudit. Chaque fois qu'elle est allumée, quelqu'un meurt. Il est possible qu'il s'agisse d'un proche de la personne qui l'allume. Il peut être utilisé comme foyer pour les sorts nécromantiques, ce qui augmente considérablement leur puissance.
+
+### Figures
+
+Voir [Les Figures](./figures.md)
+
+### Lumière éternelle
+
+Arc long composite. Anathème des morts-vivants et des étrangers. Apparaît sous la forme d'un bâton noueux, courbé et complexe, imprégné d'énergie ténue. Il brille en rouge dans l'obscurité. Lorsqu'il est tenu au centre, un faisceau d'énergie rougeâtre et mince est généré et relié aux deux extrémités du bâton, formant un arc incurvé. Des flèches de toutes sortes peuvent être tirées, ou si l'arc est utilisé sans flèches, il génère sa propre flèche de lumière. Les flèches ainsi générées sont infinies et se dissolvent après avoir atteint la cible.
+
+### Manteau de Savas
+
+Longue cape vert foncé, consacrée à Savas. L'intérieur de la cape est d'un tissu lisse et opaque semblable à du satin de soie. La face extérieure est couverte d'écailles et change de pigmentation en fonction de l'environnement, ce qui rend le porteur difficile à repérer dans un environnement sauvage. Le porteur peut se camoufler dans des paysages naturels, devenir invisible, changer de forme une fois par jour (tant qu'il ne dépasse pas sa taille), et comprendre et parler toutes les langues.
+
+### Flamebite
+
+Marteau en alliage d'argent. La tête du marteau peut émettre une flamme ardente et générer de la lumière dans un rayon de vingt mètres. Il peut être utilisé comme maillet de forgeron : toute arme forgée ou réparée avec lui acquiert les propriétés d'une arme magique. Il est considéré par de nombreux forgerons comme le plus grand trésor de la métallurgie et des connaissances avancées des Askari.
+
+### Nœud d'énergie
+
+Cube de trente centimètres de côté, en pierre polie semblable au quartz. Un ancien outil Askari pour collecter l'énergie élémentaire et la stocker comme source d'énergie. Grâce à certaines pratiques, il est possible d'utiliser un nœud d'énergie pour alimenter des fours, des ateliers alchimiques, des sources de chaleur et d'autres installations nécessitant de l'énergie élémentaire ou arcanique. Beaucoup pensent que les Portails sont alimentés par ces objets anciens et puissants.
+
+### Graine du monde
+
+::: warning
+Cette entrée n'est pas encore complète
+:::
+
+### Crâne d'obsidienne
+
+Crâne d'obsidienne parlant, représentant un crâne humain légèrement allongé. Sur le côté du crâne, on peut voir des inscriptions gravées avec précision dans la pierre. On peut l'approcher en lui posant des questions sur les événements futurs qui affecteront son utilisateur. Les réponses sont énigmatiques et peuvent être facilement mal comprises, mais il dit toujours la vérité. N'importe quelle créature peut lui poser une question par jour dans n'importe quelle langue, le crâne répondra toujours, il possède une volonté neutre et ne peut pas être détruit (du moins pas de manière conventionnelle).
+
+### Vêtements de la connaissance
+
+Un ensemble de vêtements arcaniques très prisés, souvent tissés par la magie et offerts en l'honneur de grands sorciers ou lanceurs de sorts. En raison de leur nature arcanique, ils ne peuvent être portés que par ceux qui pratiquent la magie. Ils confèrent un bonus à la défense, ce qui rend difficile de frapper celui qui les porte. Ils permettent d'ignorer l'utilisation de composants matériels pour lancer des sorts.
