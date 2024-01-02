@@ -16,7 +16,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
     <h3>Manual </h3>
     <h4>175 pages PDF</h4>
     <p>
-    <strong>🇮🇹 ITALIAN-ONLY</strong> &middot; Old school black and white, with a full size COLOR map. 
+    🇮🇹 Old school black and white, with a full size COLOR map. 
     </p>
     <a class="btn" href="/assets/contents/aumyr.pdf" target="_blank" rel="noopener">Download</a>
     </div>
@@ -26,7 +26,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
     <h3>World</h3>
     <h4>Interactive Atlas</h4>
     <p>
-    Search and explore Aumyr locations during while adventuring.
+    🇮🇹 🇬🇧 Search and explore Aumyr locations during while adventuring.
     </p>
     <a class="btn" href="https://atlas.aumyr.world/en/aumyr.html" target="_blank">Explore</a>
     </div>
@@ -45,7 +45,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
     <div class="card-body">
       <h3>Coming soon</h3>
       <ul style="margin-bottom:0;">
-        <li>More languages: 🇫🇷, 🇪🇸, 🇩🇪</li>
+        <li>More languages: 🇪🇸, 🇩🇪</li>
         <li>FoundryVTT (Official Module)</li>
       </ul>
     </div>

@@ -1,16 +1,3 @@
-// Autometa Init
-// const autometa_options = {
-//   site: {
-//     name: "Aumyr",
-//     twitter: "",
-//   },
-//   canonical_base: "https://www.aumyr.world",
-// };
-// // RSS Init
-// const feed_options = {
-//   canonical_base: "https://www.aumyr.world",
-// };
-
 // Theme
 import { defaultTheme } from "vuepress";
 
@@ -25,6 +12,15 @@ import { pwaPlugin } from "@vuepress/plugin-pwa";
 import { pwaPopupPlugin } from "@vuepress/plugin-pwa-popup";
 
 export default {
+  head: [
+    ["meta", { name: "theme-color", content: "#2196f3" }],
+    ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
+    [
+      "link",
+      { rel: "apple-touch-icon", href: "/assets/favicon/icon-180x180.png" },
+    ],
+    ["link", { rel: "icon", href: "/assets/favicon/icon-512x512.png" }],
+  ],
   locales: {
     "/": {
       lang: "it-IT",
@@ -38,12 +34,12 @@ export default {
       description:
         "Fantasy Setting for Roleplaying Games. Hundreds of ideas for your adventures and campaigns.",
     },
-    // "/fr/": {
-    //   lang: "fr-FR",
-    //   title: "Aumyr",
-    //   description:
-    //     "Environnement de fantasy pour jeux de rôle. Des centaines d'idées pour vos aventures et campagnes.",
-    // },
+    "/fr/": {
+      lang: "fr-FR",
+      title: "Aumyr",
+      description:
+        "Environnement de fantasy pour jeux de rôle. Des centaines d'idées pour vos aventures et campagnes.",
+    },
     // "/es/": {
     //   lang: "es-ES",
     //   title: "Aumyr",
@@ -152,31 +148,42 @@ export default {
           },
         ],
       },
-      // "/fr/": {
-      //   repoLabel: "Contribuer",
-      //   selectLanguageName: "🇫🇷 Français",
-      //   selectLanguageText: "Langue",
-      //   lastUpdated: "Dernière mise à jour",
-      //   editLinkText: "Modifier cette page sur GitHub",
-      //   navbar: [
-      //     { text: "Accueil", link: "/fr/" },
-      //     { text: "Géographie", link: "/fr/geography/" },
-      //     { text: "Société", link: "/fr/society/" },
-      //     { text: "Chronologie", link: "/fr/chronology/" },
-      //     { text: "Multivers", link: "/fr/multiverse/" },
-      //     { text: "Divinités", link: "/fr/dieties/" },
-      //     {
-      //       text: "Almanach",
-      //       children: [
-      //         { text: "Idées et Scénarios", link: "/fr/almanac/adventures/" },
-      //         { text: "Créatures", link: "/fr/almanac/creatures/" },
-      //         { text: "Objets", link: "/fr/almanac/items/" },
-      //         { text: "PNJs", link: "/fr/almanac/characters/" },
-      //         { text: "Les Figures", link: "/fr/almanac/figures/" },
-      //       ],
-      //     },
-      //   ],
-      // },
+      "/fr/": {
+        repoLabel: "Contribuer",
+        selectLanguageName: "🇫🇷 Français",
+        selectLanguageText: "Langue",
+        lastUpdated: "Dernière mise à jour",
+        editLinkText: "Modifier cette page sur GitHub",
+        notFound: [
+          "Mmmm... rien ici",
+          "Il semble qu'il n'y ait rien ici",
+          "Il n'y a rien ici",
+          "Il n'y a rien à voir ici",
+        ],
+        backToHome: "Retour à la maison",
+        navbar: [
+          {
+            text: "Le Monde",
+            children: [
+              { text: "Géographie", link: "/fr/geography/" },
+              { text: "Société", link: "/fr/society/" },
+              { text: "Chronologie", link: "/fr/chronology/" },
+              { text: "Multivers", link: "/fr/multiverse/" },
+              { text: "Dieties", link: "/fr/dieties/" },
+            ],
+          },
+          {
+            text: "Almanach",
+            children: [
+              { text: "Idées et intrigues", link: "/fr/almanac/adventures/" },
+              { text: "Créatures", link: "/fr/almanac/creatures/" },
+              { text: "Items", link: "/fr/almanac/items/" },
+              { text: "PNJ", link: "/fr/almanac/characters/" },
+              { text: "Les personnages", link: "/fr/almanac/figures/" },
+            ],
+          },
+        ],
+      },
       // "/es/": {
       //   repoLabel: "Contribuir",
       //   selectLanguageName: "🇪🇸 Español",

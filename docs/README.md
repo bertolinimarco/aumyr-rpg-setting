@@ -45,7 +45,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
     <div class="card-body">
       <h3>Coming soon</h3>
       <ul style="margin-bottom:0;">
-        <li>Più lingue: 🇫🇷, 🇪🇸, 🇩🇪</li>
+        <li>Più lingue: 🇪🇸, 🇩🇪</li>
         <li>FoundryVTT (Modulo Ufficiale)</li>
       </ul>
     </div>

@@ -1,0 +1,65 @@
+# Backgrounds
+
+Ogni personaggio ha una storia, un passato che lo ha reso in qualche modo ciò che è oggi. Ognuno ha la possibilità di fare la differenza per sé, per gli altri o per il mondo. Che tu scelga di essere una Luce di Melian, un Mietitore o un semplice esploratore, sono molte le vie che puoi intraprendere e i backgrounds che puoi utilizzare per entrare appieno nella vita e nelle vicende di Aumyr. Ecco alcuni esempi di backgrounds legati alle Organizzazioni più conosciute.
+
+## Adepto della Confraternita
+
+Un incantatore ha solitamente molte opzioni per avanzare nel campo delle arti arcane. Può svolgere una vita indipendente o unirsi a qualche avventuriero. Altri decidono di unirsi alla Confraternita, per usufruire di alcuni vantaggi. Un Adepto della Confraternita é un personaggio spesso calcolatore e intraprendente. Scalare i ranghi della più antica organizzazione mondiale é un’impresa che pochi riescono a portare a compimento definitivo. Molti di essi decidono di ritagliarsi ruoli minori o di comodità, approfittando della copertura finanziaria e sociale offerta dalla Confraternita.
+
+Una volta scelti dalla Confraternita, vengono assegnati a una regione e divisi in base alle competenze acquisite nel corso di un periodo di addestramento al Palazzo di Fivestar. Tutti gli Adepti, siano essi volontari o frutto di una selezione preventiva, godono di determinati privilegi dati dal loro rango all’interno della Confraternita. Tramite la loro influenza all’interno dell’organizzazione, possono accedere a biblioteche o collezioni private, conoscono l’ubicazione di dungeon segreti o tesori protetti, possono reperire informazioni riguardanti persone, luoghi o interi villaggi e altro ancora. Anche se vengono definiti Adepti della Confraternita, non sempre il loro destino è quello di passare la vita a lavorare per conto della Confraternita stessa. Molti di essi scelgono la via dell’avventuriero, per varie ragioni: che vogliano vagare per il mondo alla ricerca di tesori e reliquie perdute, o che semplicemente desiderino approfittare di alcuni loro contatti all’interno dell’organizzazione, la strada di ogni Adepto è misteriosa e ricca di opportunità.
+
+## Adepto della Fede Primordiale
+
+Un adepto della Fede Primordiale spesso dedica la sua intera vita al culto, seguendo particolari modi e usanze tipici del Circolo di appartenenza. Per iniziarsi, tuttavia, non ci sono restrizioni razziali o di età di alcun tipo, è sufficiente essere riconosciuti degni dall’Anziano del Circolo.
+
+Ogni Circolo induce i propri fedeli a seguire particolari principi; c’è chi conduce una vita più selvaggia e chi invece all’insegna della pace e dell’armonia, ma ogni affiliato è accomunato da un forte amore per la Natura in tutte le sue espressioni, in particolar modo verso gli aspetti riveriti dal Circolo di appartenenza. Non mancano tuttavia fedeli che hanno deciso di vivere da eremiti, spesso nomadi o guardiani di luoghi sacri. Sebbene un adepto trascorra tutta la sua vita in un determinato bioma, non è così raro che qualcuno decida di darsi all’avventura; sia questo per aiutare un gruppo di avventurieri, sia per fare da messaggeri o ambasciatori presso altri Circoli. C’è chi decide di ritornare una volta compiuta la propria missione, ma c’è anche chi nell’avventura trova qualcosa di nuovo, come un amore per il viaggio o un’adorazione per un altro aspetto della Natura. I Circoli più conosciuti dalla popolazione sono il Circolo delle Sabbie Roventi, il Circolo dell'Albero Eterno e il Circolo della Pietra Millenaria, rispettivamente collocati nel deserto, nelle foreste e nelle montagne. Girano voci anche su un ipotetico Circolo del Gelo, collocato probabilmente nelle zone più settentrionali di Aumyr.
+
+## Cacciatore dell'Occulto
+
+Si tratta di un insieme di avventurieri che ha dedicato la propria vita allo studio dei non morti. Coloro che scelgono la via del Cacciatore dell’Occulto sono spesso chierici, paladini o guerrieri. Svolgono la parte di investigatori e giustizieri, studiando per tutta la vita abitudini e caratteristiche di sette segrete, culti innominabili, orde di zombie, scheletri e altre creature maledette. Molti di loro appartengono alla Fratellanza Rossa, per via dei numerosi obiettivi in comune con questa organizzazione.
+
+Il tipico Cacciatore dell’Occulto è un avventuriero che ha giurato di scovare e distruggere tutto ciò che non dovrebbe oltrepassare il velo della vita. Durante il Disastro delle Isole dei Morti del 110 EC, migliaia di persone rimasero orfane della propria famiglia o dei propri cari, trucidati da orde di creature infernali. Molti di loro entrarono nell’organizzazione che poi diventò la Fratellanza Rossa, e altri giurarono di distruggere ogni non-morto fino alla fine della loro vita. Non è raro vedere anche molti Paladini unire al loro Voto di Vendetta la carriera di Cacciatore e avventuriero itinerante. La maggior parte dei Cacciatori dell’Occulto serve nella Fratellanza Rossa, sempre felice di avere tra i propri ranghi guerrieri specializzati e conoscitori della non-morte. Quelli che si uniscono ai Fratelli bramano di potersi avventurare, un giorno, nella famosa rovina di Gherzul, la Grande Necropoli: un dungeon immenso pieno di creature maledette. Alcuni preferiscono offrirsi come mercenari, tentando di guadagnarsi da vivere tra i villaggi e città o cercando vendetta per via di qualche amico, fratello o compagno scomparso. Altri cercano fortuna come esploratori solitari, saccheggiatori di tombe, chierici rinnegati ed eremiti. In tante taverne è possibile sentire racconti di numerosi avventurieri periti tra catacombe dimenticate, circondati nel buio da creature innominabili, ma sono anche molte le storie di eroi leggendari, veri e propri protettori e baluardi di speranza nell’oscurità della non-morte.
+
+## Esploratore di Dorne
+
+Rappresentano l’incarnazione del perfetto avventuriero: un esploratore indomito e un saggio osservatore, preparato per sopravvivere in territori estremi. Pochi di loro si dedicano ad una vita stanziale, preferendo un panorama denso di rovine e territori da esplorare. Ogni nuova rovina e ogni nuova scoperta sono per un Esploratore un momento degno di significato, mistero ed opportunità.
+
+Chiunque è in grado di compiere un viaggio verso una meta sconosciuta, ma non tutti diventano degli Esploratori. La loro passione per l’ignoto sfida ogni costrizione fisica o mentale, contribuendo a prepararli per azioni spesso sconsiderate e audaci. Guide preparate e spesso esperti a tutto campo, molti di loro si dedicano ad una vita densa di azione e pericoli, esplorando dungeon dimenticati, mappando zone remote o scoprendo nuove forme di vita animale o vegetale in qualche avamposto sperduto tra le montagne. Il loro obiettivo è spesso il gusto della conoscenza ottenuta tramite la scoperta di reperti archeologici, o tesori perduti. La curiosità che li spinge può avere varie origini che spaziano dalla pura sapienza accademica fino alla mera ricchezza materiale. Preferiscono viaggiare da soli o in gruppi ristretti. Per via del loro unico set di abilità, sono sempre i benvenuti in qualsiasi compagnia di avventurieri.
+
+## Figlio di Hardon
+
+Chiunque può diventare un Figlio di Hardon. Questi guerrieri fieri e spavaldi sono tra i combattenti più temuti di Aumyr. Molti di loro divengono Strateghi al servizio di corti e governi. Altri intraprendono la carriera di avventuriero, per trovare dietro l’angolo sfide sempre nuove e avvincenti.
+
+Divenire un membro dei Figli di Hardon viene considerato un onore per molti guerrieri. La loro disciplina permette di essere sempre pronti all’azione e tenaci in parecchie situazioni dove altri sarebbero pronti a fuggire.Nel corso della storia molti appartenenti a questa organizzazione ne hanno sfruttato il sapere tattico e strategico, radunando eserciti per cercare di conquistarsi un ruolo all’interno della gerarchia militare della Confraternita. Oggi i Figli di Hardon hanno spostato gran parte delle loro attività collettive a favore della comunità o di sé stessi. Si ricordano tanti eroi appartenenti ai Figli, così come molti Generali morti in battaglia nel corso dei secoli.
+
+## Guardiano della Frontiera
+
+In ogni luogo di frontiera alcuni eroi proteggono gli avamposti della civiltà dalle incursioni delle creature delle terre selvagge. Costoro spesso fanno parte di un’organizzazione conosciuta come Guardia del Lupo. I Guardiani della Frontiera sono guide esperte e avventurieri tenaci.
+
+Molti Guardiani sono avventurieri o protettori di un piccolo villaggio. Le loro abilità sono molto richieste nei luoghi di frontiera e in tutti quelli dove lo sguardo della Confraternita non riesce ad arrivare. Alcuni di essi sono membri della Guardia del Lupo. Fare carriera all’interno dell’organizzazione è una strada in salita ma ricca di opportunità: grandi tesori, combattimenti in villaggi all’estremo del mondo, abbattimento di grandi bestie e creature mostruose.
+
+## Luce di Melian
+
+Soltanto pochi individui nascono con il Dono della Vita, un potere innato che consente loro di curare le ferite tramite il tocco e guarire dalle malattie in modo miracoloso. Costoro formano un gruppo scelto di protettori conosciuto come Luci di Melian. Si dice che i loro sensi possano avvertire il male in ogni sua manifestazione, così come zone di energia negativa, o alterazioni del velo della non-morte.
+
+Nati con capacità divine innate, sono quasi sempre avviati verso carriere clericali. Sono individui positivi, intenti a seguire un proprio cammino di fede. Nei villaggi di frontiera sono sempre i benvenuti per via della loro empatia e capacità di guarire le ferite. Educati fin da giovani, il loro destino si snoda verso molteplici strade, una volta raggiunta l’età adulta. Alcuni decidono di insediarsi in villaggi o città. Altri svolgono la carriera di avventurieri itineranti, decisi a portare il potere del Dono a chiunque incroci la loro strada.
+
+## Maestro Costruttore
+
+Architetti esperti, sono in grado di progettare e costruire edifici, castelli o interi quartieri cittadini. La loro opera é spesso al servizio della Confraternita per lavori di costruzione e mantenimento di palazzi governativi o religiosi. Alcuni di loro divengono avventurieri, stanchi di una vita tra pergamene, legno e pietra.
+
+Anche se la maggior parte della gente pensa ai Maestri Costruttori come a un’organizzazione nanica, tutte le razze sono rappresentate in modo equilibrato all’interno dei vertici del potere. Questo porta diversi vantaggi anche per quanto riguarda la condivisione di conoscenze architettoniche o costruttive. Coloro che desiderano divenire avventurieri sono spesso grandi creativi, o studiosi in cerca di nuove idee o materiali per le loro creazioni.
+
+Spesso il desiderio più grande di un Maestro Costruttore é quello di vedere associato il proprio nome a una grande opera o a un’invenzione che faccia progredire la storia del mondo, o che scuota le fondamenta dello stesso. Non é raro che alcuni vecchi Maestri decidano di o isolarsi in qualche luogo remoto per realizzare qualcosa di unico, il frutto del lavoro di una vita, testimone eterno della loro sapienza tecnica.
+
+## Mietitore
+
+I sacerdoti di Vel-Shar si definiscono Mietitori. Rappresentano e amministrano il volere della dea sul piano materiale. Essi nascondono spesso la loro identità e la loro appartenenza al culto, per insinuarsi in ranghi politici, militari o governativi.
+
+Data la natura del loro credo, spesso intraprendono carriere diverse, ma sempre legate agli ordini del Volere di Vel-Shar. Non tutti risultano essere solo fanatici di caos e distruzione. Altri preferiscono utilizzare le loro capacità per unirsi ad un gruppo di avventurieri in cerca di tesori e scoperte. Anche se Vel-Shar pretende disciplina e devozione assoluti, a volte i Mietitori abbandonano ogni dipendenza dal culto per inseguire la propria strada personale. Ciò li porta a divenire abili ladri o assassini, abili ad infiltrarsi tra le fila di una gilda e corrompere potenti, così come a sparire in mezzo alla folla, rubare tesori e altre attività poco lecite.
+
+## Saggio di Gnosis
+
+Sono visti dalla popolazione come eroi, nel bene o nel male. Data la loro profonda visione della Conoscenza sono chiamati a svolgere il ruolo di consiglieri alla Confraternita. Non si conosce il numero esatto degli appartenenti a questo ordine esclusivo, ma il loro numero è in costante aumento, segno che ogni giorno potenti forze si muovono in segreto.
+
+Sono individui enigmatici. In alcune regionivengono adorati come veri e propri araldi divini, o Prescelti. A volte la loro natura li rende eremiti, schivi e poco propensi al contatto con altra gente. La Conoscenza offre loro molti poteri, paragonabili a quelli di potenti incantatori o grandiosi combattenti. Il loro destino segue quello degli eroi e degli eventi del mondo. C’è chi pensa che in realtà siano una casta segreta di Askari ritornati e intenzionati a modificare il tempo e gli eventi di Aumyr. Spesso invece sono solamente individui benedetti o maledetti da poteri che perfino loro a volte stentano a comprendere a fondo.
