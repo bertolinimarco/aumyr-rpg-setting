@@ -7,7 +7,7 @@ tagline: Aumyr est un cadre fantastique pour les jeux de rôle, prêt à accueil
 actions:
   - text: Commencer maintenant
     link: /fr/welcome.md
-footer: CC-BY-SA 4.0 Marco Bertolini - Images © DeviantArt, Midjourney
+footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 ---
 
 <div class="home-features">
@@ -53,5 +53,17 @@ footer: CC-BY-SA 4.0 Marco Bertolini - Images © DeviantArt, Midjourney
 </div>
 
 <div class="home-footer-text-bottom">
-  <p>Il manque quelque chose, vous voulez contribuer ? <a href="https://github.com/bertolinimarco/aumyr-rpg-setting/issues" target="_blank">Ouvrir un problème</a> ou écrire à <a href="https://discord.gg/HP9bA4Z">Discord</a></p>
+  <p>Il manque quelque chose, vous voulez contribuer? <a href="https://github.com/bertolinimarco/aumyr-rpg-setting/issues" target="_blank">Ouvrir un problème</a> ou écrire à <a href="https://discord.gg/HP9bA4Z">Discord</a></p>
+</div>
+
+<div class="home-feat-logos">
+  <!-- <a href="https://www.drivethrurpg.com/product/465964/Aumyr" target="_blank"><img src="/assets/img/logo-dtr.png" alt="DriveThruRPG.com"></a> -->
+  <a href="https://www.terradeigiochi.it/brand/346-marco-bertolini" target="_blank"><img src="/assets/img/logo-tdg.png" alt="La Terra dei Giochi"></a>
+  <a href="https://www.lulu.com/it/shop/marco-bertolini/aumyr-ambientazione-fantasy-per-giochi-di-ruolo/ebook/product-21447745.html?q=&page=1&pageSize=4" target="_blank"><img src="/assets/img/logo-lulu.png" alt="Lulu"></a>
+</div>
+
+<div class="home-feat-logos is-small">
+  <div class="title">Vous pouvez nous trouver sur</div>
+  <a href="https://www.gdrzine.com/2014/03/27/il-free-to-play-della-settimana-aumyr/" target="_blank"><img src="/assets/img/logo-gdritalia.png" alt="GDRItalia"></a>
+  <a href="https://www.deviantart.com/aumyr-it" target="_blank"><img src="/assets/img/logo-deviantart.png" alt="DeviantART"></a> 
 </div>
