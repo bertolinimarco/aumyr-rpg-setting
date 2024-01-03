@@ -1,6 +1,6 @@
 # Welcome to Aumyr
 
-Aumyr is a fantasy setting for role-playing games, born with the aim of being free, adaptable and ready to be played. It can accommodate many types of systems (d20™, Dungeons & Dragons®, Pathfinder®, Labyrinth Lord, etc...), provided they contain magic and wizards, elves, dragons, dwarves, warriors and so on. For a campaign set on Aumyr, use the basic manuals for your favorite role-playing game. No value is provided typical of some systems such as Armor Class, Skill, Salvation Shooting, CD or other features, so that it is entirely entrusted to the Master the ability to conduct the session independently.
+Aumyr is a fantasy setting for role-playing games, born with the aim of being free, adaptable and ready to be played. It can accommodate many types of systems (d20™, Dungeons & Dragons®, Pathfinder®, Labyrinth Lord, etc...), provided they contain classic fantasy tropes as magic and wizards, elves, dragons, dwarves, warriors and so on. For a campaign set on Aumyr, use the basic rules for your favorite role-playing game. No value is provided typical of some systems such as Armor Class, Skill, Saving Throws, Difficulty Class or other mechanics, so that it is entirely entrusted to the narrator the ability to conduct the session independently.
 
 ## The world is yours
 
