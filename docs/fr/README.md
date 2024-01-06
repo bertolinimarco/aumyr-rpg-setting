@@ -57,7 +57,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 </div>
 
 <div class="home-feat-logos">
-  <!-- <a href="https://www.drivethrurpg.com/product/465964/Aumyr" target="_blank"><img src="/assets/img/logo-dtr.png" alt="DriveThruRPG.com"></a> -->
+  <a href="https://www.drivethrurpg.com/product/465964/Aumyr--Ambientazione-fantasy-systemless-per-giochi-di-ruolo" target="_blank"><img src="/assets/img/logo-dtr.png" alt="DriveThruRPG.com"></a>
   <a href="https://www.terradeigiochi.it/brand/346-marco-bertolini" target="_blank"><img src="/assets/img/logo-tdg.png" alt="La Terra dei Giochi"></a>
   <a href="https://www.lulu.com/it/shop/marco-bertolini/aumyr-ambientazione-fantasy-per-giochi-di-ruolo/ebook/product-21447745.html?q=&page=1&pageSize=4" target="_blank"><img src="/assets/img/logo-lulu.png" alt="Lulu"></a>
 </div>
