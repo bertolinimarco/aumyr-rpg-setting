@@ -514,7 +514,7 @@ Le joueur et 1d6 de ses alliés sont transportés sur un plan aléatoire (au cho
 
 ![43](/images/figures/43.webp)
 
-### 43 - Foresta
+### 43 - La Forêts
 
 La figure 43 représente un détail d'un paysage typique des forêts tropicales denses du Sud.
 
