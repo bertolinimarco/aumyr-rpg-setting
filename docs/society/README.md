@@ -116,7 +116,7 @@ Anche se possiedono una base principale a Fivestar, utilizzano le taverne come p
 
 La dura selezione rende i Figli di Hardon particolarmente adatti alla cooperazione e alla difesa di un gruppo, ma anche a diventare grandi Leader o Strateghi di Guerra presso governi o corti reali. Per questo molti di loro diventano avventurieri, svolgendo servizi per il tempio locale. E’ possibile imbattersi nelle loro guarnigioni ogni volta che si visita una città o un’area particolarmente ostile, visto che molti di loro, esperti di guerra e tattica militare, sanno occuparsi della difesa di un avamposto o dell’organizzazione di basi militari permanenti.
 
-### Fratellanza Rossa
+### Fratellanza Rossa
 
 Gli avventurieri della Fratellanza Rossa sono votati alla distruzione dei non-morti. Hanno sede nel paese-fortezza di Shieldbane, da cui lanciano frequenti attacchi contro gruppi di nonmorti provenienti dalle vicine rovine di Gherzul o da altri dungeon.
 
