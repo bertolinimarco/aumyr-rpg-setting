@@ -41,13 +41,14 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
       <a class="btn" href="https://discord.gg/HP9bA4Z" target="_blank" rel="noopener">Unisciti</a>
     </div>
   </div>
-  <div class="card is-comingsoon">
+  <div class="card bg-foundryvtt">
     <div class="card-body">
-      <h3>Coming soon</h3>
-      <ul style="margin-bottom:0;">
-        <li>Più lingue: 🇪🇸, 🇩🇪</li>
-        <li>FoundryVTT (Modulo Ufficiale)</li>
-      </ul>
+      <h3>FoundryVTT</h3>
+      <h4>Module</h4>
+      <p>
+      Scarica il modulo ufficiale per FoundryVTT.
+      </p>
+      <a class="btn" href="https://foundryvtt.com/packages/foundryvtt-aumyr-it" target="_blank" rel="noopener">Download</a>
     </div>
   </div>
 </div>
