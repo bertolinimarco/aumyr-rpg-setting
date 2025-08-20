@@ -13,10 +13,10 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 <div class="home-features">
   <div class="card">
     <div class="card-body">
-      <h3>Manuel</h3>
+      <h3>Livre</h3>
       <h4>175 pages en PDF</h4>
       <p>
-      🇮🇹 Noir et blanc à l'ancienne, avec carte modulaire en COULEUR.
+      🇮🇹 Noir et blanc (à l'ancienne), avec carte modulaire en COULEUR.
       </p>
       <a class="btn" href="/assets/contents/aumyr.pdf" target="_blank" rel="noopener">Télécharger</a>
     </div>

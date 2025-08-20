@@ -13,7 +13,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 <div class="home-features">
   <div class="card">
     <div class="card-body">
-    <h3>Manual </h3>
+    <h3>Book </h3>
     <h4>175 pages PDF</h4>
     <p>
     🇮🇹 Old school black and white, with a full size COLOR map. 
@@ -26,7 +26,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
     <h3>World</h3>
     <h4>Interactive Atlas</h4>
     <p>
-    🇮🇹 🇬🇧 Search and explore Aumyr locations during while adventuring.
+    🇮🇹 🇬🇧 Search and explore Aumyr locations while adventuring.
     </p>
     <a class="btn" href="https://atlas.aumyr.world/en/aumyr.html" target="_blank">Explore</a>
     </div>
@@ -53,7 +53,7 @@ footer: CC-BY-SA 4.0 Marco Bertolini • Images © DeviantArt, Midjourney
 </div>
 
 <div class="home-footer-text-bottom">
-  <p>Something is missing, would you like to contribute? <a href="https://github.com/bertolinimarco/aumyr-rpg-setting/issues" target="_blank">Open an issue</a> or chat on <a href="https://discord.gg/HP9bA4Z">Discord</a></p>
+  <p>Something is missing or would you like to contribute? <a href="https://github.com/bertolinimarco/aumyr-rpg-setting/issues" target="_blank">Open an issue</a> or chat on <a href="https://discord.gg/HP9bA4Z">Discord</a></p>
 </div>
 
 <div class="home-feat-logos">
